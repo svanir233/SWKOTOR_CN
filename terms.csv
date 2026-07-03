@@ -1,4 +1,9 @@
 domain,source_term,zh_cn,count,status,en_reference,zh_reference,note
+star_wars,A Desert Hunt,沙漠狩猎,1,review,tlk=StrRef 32518,,KOTOR 任务标题；中文译名按项目暂定
+star_wars,A Doubting Sith,心存疑虑的西斯,1,review,tlk=StrRef 32526,,KOTOR 任务标题；中文译名按项目暂定
+star_wars,A Quest for the Star Forge,寻找星际锻炉,1,review,tlk=StrRef 32533,,KOTOR 任务标题；中文译名按项目暂定
+star_wars,A Rancor in the Sewers,下水道里的兰克兽,1,review,tlk=StrRef 32543,,KOTOR 任务标题；中文译名按项目暂定
+star_wars,A Wookiee Lost,失踪的伍基人,1,review,tlk=StrRef 32546,,KOTOR 任务标题；中文译名按项目暂定
 star_wars,A-4R,A-4R,1,review,tlk=StrRef 11119,,Czerka Corporation 资源站型号；保留型号
 star_wars,ACME Detonators,ACME 雷管,1,review,tlk=StrRef 24424,,Taris 下层城店铺/标签；ACME 保留原名
 star_wars,Ada,艾达,1,review,https://starwars.fandom.com/wiki/Ada,,Taris Black Vulkar 基地厨房奴隶；中文译名按项目暂定
@@ -14,6 +19,7 @@ star_wars,Ahto City Export Authority,阿赫托城出口管理局,2,review,tlk=St
 star_wars,Ahto City Prison,阿赫托城监狱,3,review,tlk=StrRef 17659,,Manaan 监狱设施；中文译名按项目暂定
 star_wars,Ahto East,阿赫托东区,1,review,tlk=StrRef 18533,,Manaan 区域标签；中文译名按项目暂定
 star_wars,Ahto West,阿赫托西区,3,review,tlk=StrRef 17180,,Manaan 区域标签；中文译名按项目暂定
+star_wars,Aiding Lashowe,协助拉肖维,1,review,tlk=StrRef 32555,,KOTOR 任务标题；中文译名按项目暂定
 star_wars,Air Lock Control,气闸控制,1,review,tlk=StrRef 21081,,Hrakert Rift 气闸控制标签拼写变体；中文译名按项目暂定
 star_wars,Airlock Control,气闸控制,5,review,tlk=StrRef 20678,,Hrakert Station 气闸控制面板标签；中文译名按项目暂定
 star_wars,Airlock Control Panel,气闸控制面板,2,review,tlk=StrRef 21016,,Hrakert Station 气闸控制面板标签；中文译名按项目暂定
@@ -62,6 +68,7 @@ star_wars,Assault Mark II Droid,Mark II 突击机器人,1,review,tlk=StrRef 2141
 star_wars,Assault Mark IV Droid,Mark IV 突击机器人,1,review,tlk=StrRef 21411,,KOTOR 敌人/机器人标签；原文词序变体
 star_wars,Assistant Droid,助手机器人,2,review,tlk=StrRef 20040,,Manaan Republic Embassy 对象标签；中文译名按项目暂定
 star_wars,astromech droid,宇航技工机器人,6,review,https://starwars.fandom.com/wiki/Astromech_droid,,R2-D2/T3-M4 类
+star_wars,Attack on the Endar Spire,恩达尖塔号遇袭,1,review,tlk=StrRef 32564,,KOTOR 任务标题；中文译名按项目暂定
 star_wars,authorization card,授权卡,8,review,tlk=StrRef 26512,,Black Vulkar 基地技工通行凭证；中文译名按项目暂定
 star_wars,authorization cards,授权卡,3,review,tlk=StrRef 26516,,authorization card 复数；中文译名不额外标复数
 star_wars,auto-targeting cannons,自动瞄准炮,4,review,tlk=StrRef 23931,,Taris 西斯封锁炮台称呼；中文译名按项目暂定
@@ -86,6 +93,7 @@ star_wars,Basilisk,巴西利斯克战斗机器人,7,review,https://starwars.fand
 star_wars,Basilisk war droid,巴西利斯克战斗机器人,4,review,https://starwars.fandom.com/wiki/Basilisk_war_droid/Legends,,曼达洛人载具/武器；中文译名按项目暂定
 star_wars,Bastila,巴丝蒂拉,608,review,https://starwars.fandom.com/wiki/Bastila_Shan,,角色名；全名 Bastila Shan
 star_wars,Bastila Shan,巴丝蒂拉·珊,6,review,https://starwars.fandom.com/wiki/Bastila_Shan,,队友 Bastila 的全名；中文译名按项目暂定
+star_wars,Bastila's Mother,巴丝蒂拉的母亲,1,review,tlk=StrRef 32577,,KOTOR 任务标题；中文译名按项目暂定
 star_wars,Battle Droid,战斗机器人,20,review,tlk=StrRef 15680,,KOTOR 敌人/机器人标签；中文译名按项目暂定
 star_wars,Battle Meditation,战斗冥想,69,review,https://starwars.fandom.com/wiki/Battle_meditation,,Bastila 的原力能力/剧情核心术语
 star_wars,Battle of Jaga's Cluster,贾加星团战役,9,review,tlk=StrRef 5717,,装备说明中的战役名；中文译名按项目暂定
@@ -95,6 +103,7 @@ star_wars,Belaya,贝拉娅,26,review,https://starwars.fandom.com/wiki/Belaya,,Da
 star_wars,Ben Hu'al,本·胡阿尔,1,review,tlk=StrRef 15840,,Marka Ragnos tomb 数据记录器中提到的西斯人员；中文译名按项目暂定
 star_wars,Bendak,本达克,36,review,https://starwars.fandom.com/wiki/Bendak,,Taris 决斗场角色；全名 Bendak Starkiller
 star_wars,Bendak Starkiller,本达克·弑星者,50,review,https://starwars.fandom.com/wiki/Gorse_Bendak,,Taris 决斗场冠军
+star_wars,Bendak's Bounty,本达克的赏金,1,review,tlk=StrRef 32583,,KOTOR 任务标题；中文译名按项目暂定
 star_wars,Big Z,大Z,51,review,https://starwars.fandom.com/wiki/Zaalbar,,Mission 对 Zaalbar 的昵称
 star_wars,Billan,比兰,3,review,tlk=StrRef 27148,,Anchorhead 出城门卫；中文译名按项目暂定
 star_wars,Bindo,宾多,23,review,https://starwars.fandom.com/wiki/Jolee_Bindo,,Jolee Bindo 的姓氏；中文译名按项目暂定
@@ -152,6 +161,7 @@ star_wars,Calo Nord,卡洛·诺德,24,review,https://starwars.fandom.com/wiki/Ca
 star_wars,Calrissian,卡瑞辛,4,review,https://starwars.fandom.com/wiki/Calrissian,,家族名/姓氏；中文译名按项目暂定
 star_wars,Canderous,坎德鲁斯,118,review,https://starwars.fandom.com/wiki/Canderous_Ordo,,角色名；全名 Canderous Ordo
 star_wars,Canderous Ordo,坎德鲁斯·奥多,17,review,https://starwars.fandom.com/wiki/Canderous_Ordo,,队友 Canderous 的全名
+star_wars,Captured by the Leviathan,被利维坦号俘获,1,review,tlk=StrRef 32587,,KOTOR 任务标题；中文译名按项目暂定
 star_wars,carbonite,碳凝,3,review,https://starwars.fandom.com/wiki/Carbonite,,星战材料；carbonite explosive 译“碳凝炸药”
 star_wars,Carth,卡斯,346,review,https://starwars.fandom.com/wiki/Carth_Onasi,,角色名；全名 Carth Onasi
 star_wars,Carth Onasi,卡斯·奥纳西,14,review,https://starwars.fandom.com/wiki/Carth_Onasi,,队友 Carth 的全名

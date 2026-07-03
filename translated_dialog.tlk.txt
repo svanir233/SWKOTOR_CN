@@ -34548,236 +34548,236 @@ DC15 伤害减半
 （这是一个不需要计算机破解器的关键路径选项示例。它会出现在切入界面之前。）
 32398 := 这个机器人已损坏且处于停用状态。
 32399 := 机器人启动巡逻模式，并离开去执行你编入的指令。
-32400 := You leave the droid alone for now.
-32401 := [Failure] You don't have any repair parts. You leave the droid alone for now.
-32402 := The droid is now active. It will attack any enemies that come in range.
-32403 := [Failure] You do not have enough repair parts.
-32404 := [Success] Patrol mode engaged. Once you end this session the droid will begin patrol and destroy any enemies it encounters. 
-32405 := WARNING: Once you end this session the droid's program will be locked in. You will not be able to modifiy the droid anymore.
-32406 := [Success] The droid engages its program and moves off to carry out your instructions.
-32407 := [Success] The droid's shields are now active.
-32408 := [Success] The droid is now set for maximum accuracy.
-32409 := [Success] The droid is now set for maximum firepower.
-32410 := The droid is now active. It will attack any enemies that come in range.
-32411 := The droid is actively engaged in its patrol route. You cannot reprogram it anymore.
-32412 := Leave it alone.
-32413 := Reactivate the droid. (1 repair part)
-32414 := Leave it alone.
-32415 := Engage droid in patrol mode. (<CUSTOM45> repair part(s))
-32416 := Program droid to ram force field. (<CUSTOM46> repair part(s))
-[This is an example of a plot option that the player can choose to get past a specific obstacle. This should cause the droid to be destroyed]
+32400 := 你暂时不理会这个机器人。
+32401 := [失败] 你没有任何修理零件。你暂时不理会这个机器人。
+32402 := 机器人现在已激活。它会攻击任何进入射程的敌人。
+32403 := [失败] 你的修理零件不足。
+32404 := [成功] 巡逻模式已启用。结束本次会话后，机器人将开始巡逻，并摧毁它遇到的任何敌人。
+32405 := 警告：结束本次会话后，机器人的程序将被锁定。你将无法再修改这个机器人。
+32406 := [成功] 机器人启动程序，并离开去执行你的指令。
+32407 := [成功] 机器人的护盾现已激活。
+32408 := [成功] 机器人现已设为最高精度。
+32409 := [成功] 机器人现已设为最大火力。
+32410 := 机器人现在已激活。它会攻击任何进入射程的敌人。
+32411 := 机器人正在主动执行巡逻路线。你无法再重新编程它。
+32412 := 不理会它。
+32413 := 重新激活机器人。（1 个修理零件）
+32414 := 不理会它。
+32415 := 启用机器人的巡逻模式。（<CUSTOM45> 个修理零件）
+32416 := 将机器人编程为撞击力场。（<CUSTOM46> 个修理零件）
+[这是玩家可以选择以通过特定障碍的剧情选项示例。此选项应导致机器人被摧毁]
 
-32417 := Activate droid's shields. (<CUSTOM44> repair part(s))
-32418 := Optimize droid's targeting systems. (<CUSTOM43> repair part(s))
-32419 := Optimize droid's weaponry. (<CUSTOM42> repair part(s))
-32420 := The Star Forge is under assault from the entire Republic fleet! If I don't use my Battle Meditation to turn the tide, Admiral Dodonna's capital ships will destroy the Star Forge.
-32421 := I have to stay here in the command center so that I can best use my Battle Meditation against our enemy. If I don't the Star Forge will be lost! 
-32422 := You must go to face Malak without me. Find him, kill him and reclaim the title of Dark Lord of the Sith!
-32423 := That's all for now.
-32424 := Do you know if anything can be done about all these gizka on board?
-32425 := Can you help me with my little stowaway problem?
-32426 := Tell me about it later. I want to ask something else.
-32427 := Maybe another time. I want to ask something else.
-32428 := Have you seen all these gizka on the ship?
-32429 := Can you help me with our little stowaway problem?
-32430 := Do you know if anything can be done about all these gizka?
-32431 := Do you have any advice on our little stowaway?
-32432 := Spit it out already.
-32433 := I didn't ask for your advice, nor do I need it.
-32434 := That settles that, I guess.
-32435 := Beep beep beep-oop!
-32436 := Please do excuse me, but I am required elsewhere.
-32437 := I cannot render assistance, citizen. Move along.
-32438 := We have a little stowaway problem. Can you help?
-32439 := Do you know anything about these gizka, HK?
-32440 := Have you seen all these gizka we have on board?
-32441 := We have a stowaway on the ship. Do you have any advice for me?
-32442 := I... I idolized her and the stories they told of her. She was everything that I had dreamed a Jedi could be. I still believe she was that way.
-32443 := Do you know if anything can be done about all these gizka?
-32444 := I was wondering if you could help me with our stowaway problem.
-32445 := Do you know anything about these gizka creatures?
-32446 := You got any advice on our little stowaway?
-32447 := Sorry, but we don't have time for this now.
-32448 := Weep-boop-beep-beep!
-32449 := Beep-boop.
-32450 := Beep-woop-woo.
-32451 := You don't talk much, do you?
-32452 := Just chime in if you ever have any advice.
-32453 := I want to ask you some questions.
-32454 := You don't even know what I was going to ask!
-32455 := Do you know anything about dealing with gizka?
-32456 := I have a little stowaway problem, actually.
-32457 := Rakatan Elite Warrior
-32458 := Elder Warrior
-32459 := Elder Elite Warrior
-32460 := Young Rancor
-32461 := Wookiee Warrior
-32462 := Wookiee Elite Warrior
-32463 := Rakata
-32464 := Sand People Peasant
-32465 := Clothing
-32466 := Dark Jedi Robe
-32467 := Dark Jedi Knight Robe
-32468 := Dark Jedi Master Robe
-32469 := Sensor Probe
-32470 := Verpine Demolitions Probe
-32471 := Bothan Demolitions Probe
-32472 := Parts
-32473 := Pazaak Deck
-32474 := This is a standard Pazaak deck, complete with side deck cards.
-32475 := Minor Flash Mine
-32476 := Average Flash Mine
-32477 := Deadly Flash Mine
-32478 := Minor Frag Mine
-32479 := Average Frag Mine
-32480 := Deadly Frag Mine
-32481 := Minor Plasma Mine
-32482 := Average Plasma Mine
-32483 := Deadly Plasma Mine
-32484 := Minor Gas Mine
-32485 := Average Gas Mine
-32486 := Deadly Gas Mine
-32487 := Scope
-32488 := Improved Energy Cell
-32489 := Beam Splitter
-32490 := Hair Trigger
-32491 := Armor Reinforcement
-32492 := Mesh Underlay
-32493 := Vibration Cell
-32494 := Durasteel Bonding Alloy
-32495 := Energy Projector
-32496 := Insta-kill Pistol
-32497 := The most common weapon of bravados and smugglers, the blaster pistol fires a high-energy particle beam designed for short-range combat.
-32498 := These exotic weapons are rare, and most often associated with Jedi attracted to the dark side of the Force, for whom reckless aggression is sometimes considered an asset.
-32499 := Traditionally associated with the Jedi, the lightsaber is a devastating weapon difficult to master. Properties can vary with the type of focusing crystal used in construction.
-32500 := Medium Repeating Blaster
-32501 := Crystal, Blue
-32502 := Special:
-Upgrade Item, Lightsaber
+32417 := 激活机器人的护盾。（<CUSTOM44> 个修理零件）
+32418 := 优化机器人的瞄准系统。（<CUSTOM43> 个修理零件）
+32419 := 优化机器人的武器系统。（<CUSTOM42> 个修理零件）
+32420 := 整支共和国舰队正在进攻星际锻炉！如果我不使用战斗冥想扭转战局，多唐纳上将的主力舰就会摧毁星际锻炉。
+32421 := 我必须留在指挥中心，这样才能最大限度地用战斗冥想对抗我们的敌人。否则星际锻炉就会失守！
+32422 := 你必须独自去面对马拉克。找到他，杀死他，重新夺回西斯黑暗尊主的头衔！
+32423 := 现在就这些。
+32424 := 你知道船上这些吉兹卡有什么办法处理吗？
+32425 := 你能帮我解决这个小偷渡者问题吗？
+32426 := 稍后再告诉我吧。我想问别的事。
+32427 := 也许改天吧。我想问别的事。
+32428 := 你看到船上这些吉兹卡了吗？
+32429 := 你能帮我解决我们这个小偷渡者问题吗？
+32430 := 你知道这些吉兹卡有什么办法处理吗？
+32431 := 关于我们的小偷渡者，你有什么建议吗？
+32432 := 有话快说吧。
+32433 := 我没问你的建议，也不需要。
+32434 := 那我想这事就定了。
+32435 := 哔哔哔-啵！
+32436 := 请原谅，但我在别处有职责在身。
+32437 := 我无法提供协助，公民。请继续前进。
+32438 := 我们有个小偷渡者问题。你能帮忙吗？
+32439 := 关于这些吉兹卡，你知道些什么吗，HK？
+32440 := 你看到我们船上这些吉兹卡了吗？
+32441 := 船上有个偷渡者。你有什么建议吗？
+32442 := 我……我曾经崇拜她，也崇拜那些关于她的故事。她就是我梦想中绝地应有的一切。我仍然相信她曾经就是那样。
+32443 := 你知道这些吉兹卡有什么办法处理吗？
+32444 := 我想知道你能不能帮我解决我们的偷渡者问题。
+32445 := 关于这些吉兹卡生物，你知道些什么吗？
+32446 := 对我们的小偷渡者有什么建议吗？
+32447 := 抱歉，我们现在没时间谈这个。
+32448 := 呜啵-哔哔！
+32449 := 哔-啵。
+32450 := 哔-呜-呜。
+32451 := 你话不多，是吧？
+32452 := 以后要是有什么建议，就插句话。
+32453 := 我想问你几个问题。
+32454 := 你甚至都不知道我打算问什么！
+32455 := 关于处理吉兹卡，你知道些什么吗？
+32456 := 其实，我有个小偷渡者问题。
+32457 := 拉卡塔精英战士
+32458 := 长老战士
+32459 := 长老精英战士
+32460 := 幼年兰克兽
+32461 := 伍基人战士
+32462 := 精英伍基人战士
+32463 := 拉卡塔人
+32464 := 沙人平民
+32465 := 衣物
+32466 := 黑暗绝地长袍
+32467 := 黑暗绝地武士长袍
+32468 := 黑暗绝地大师长袍
+32469 := 传感探针
+32470 := 韦尔派因爆破探针
+32471 := 波森人爆破探针
+32472 := 零件
+32473 := 帕扎克牌组
+32474 := 这是一副标准帕扎克牌组，附带副牌组卡牌。
+32475 := 初级闪光地雷
+32476 := 普通闪光地雷
+32477 := 致命闪光地雷
+32478 := 初级破片地雷
+32479 := 普通破片地雷
+32480 := 致命破片地雷
+32481 := 初级等离子地雷
+32482 := 普通等离子地雷
+32483 := 致命等离子地雷
+32484 := 初级毒气地雷
+32485 := 普通毒气地雷
+32486 := 致命毒气地雷
+32487 := 瞄准镜
+32488 := 改良能量池
+32489 := 光束分流器
+32490 := 灵敏扳机
+32491 := 护甲强化件
+32492 := 网状内衬
+32493 := 振动能量池
+32494 := 硬钢粘结合金
+32495 := 能量投射器
+32496 := 即死手枪
+32497 := 爆能手枪是鲁莽之徒和走私者最常见的武器，会发射专为短程战斗设计的高能粒子束。
+32498 := 这些异域武器十分罕见，最常与受原力黑暗面吸引的绝地联系在一起；对他们来说，鲁莽的攻击性有时也算是一种资产。
+32499 := 光剑传统上与绝地联系在一起，是一种毁灭性的武器，也很难掌握。其特性会因制造时使用的聚焦水晶类型而变化。
+32500 := 中型连发爆能枪
+32501 := 水晶，蓝色
+32502 := 特殊：
+升级物品，光剑
 
-Blade Color: Blue
+剑刃颜色：蓝色
 
-A facetted crystal used in the constructing of a lightsaber. It glows faintly with an inner blue light.
-32503 := Crystal, Yellow
-32504 := Special:
-Upgrade Item, Lightsaber
+一颗用于制造光剑的多面水晶。它微微发出内在的蓝光。
+32503 := 水晶，黄色
+32504 := 特殊：
+升级物品，光剑
 
-Blade Color: Yellow
+剑刃颜色：黄色
 
-A facetted crystal used in the constructing of a lightsaber. It glows faintly with an inner yellow light.
-32505 := Crystal, Green
-32506 := Special:
-Upgrade Item, Lightsaber
+一颗用于制造光剑的多面水晶。它微微发出内在的黄光。
+32505 := 水晶，绿色
+32506 := 特殊：
+升级物品，光剑
 
-Blade Color: Green
+剑刃颜色：绿色
 
-A facetted crystal used in the constructing of a lightsaber. It glows faintly with an inner green light.
-32507 := Crystal, Violet
-32508 := Special:
-Upgrade Item, Lightsaber
+一颗用于制造光剑的多面水晶。它微微发出内在的绿光。
+32507 := 水晶，紫色
+32508 := 特殊：
+升级物品，光剑
 
-Blade Color: Violet
+剑刃颜色：紫色
 
-A facetted crystal used in the constructing of a lightsaber. It glows faintly with an inner violet light.
-32509 := Crystal, Red
-32510 := Special:
-Upgrade Item, Lightsaber
+一颗用于制造光剑的多面水晶。它微微发出内在的紫光。
+32509 := 水晶，红色
+32510 := 特殊：
+升级物品，光剑
 
-Blade Color: Red
+剑刃颜色：红色
 
-A facetted crystal used in the constructing of a lightsaber. It glows faintly with an inner red light.
-32511 := Lightsabers can come in shorter styles, often used in the offhand during two-weapon fighting. As in larger versions, different focusing crystals can produce additional effects.
-32512 := Special:
-Upgradeable, Melee
+一颗用于制造光剑的多面水晶。它微微发出内在的红光。
+32511 := 光剑也有较短的样式，常用于双武器战斗时的副手。和较大型号一样，不同的聚焦水晶可以产生额外效果。
+32512 := 特殊：
+可升级，近战
 
-Sanasiki used this weapon to kill Nelinik, a Zabrak who assassinated the Echani High Protector with battle droids. Cortosis protects the blade against lightsaber sparring damage while energy cells disrupt droid opponents.
-32513 := Star Map
-32514 := Hostile creature limit
-32515 := Initiate Predator
+萨纳西基用这把武器杀死了内利尼克；内利尼克是一名扎布拉克人，曾用战斗机器人刺杀埃查尼最高护卫者。科托西斯能保护剑刃免受光剑切磋伤害，而能量池则会干扰机器人对手。
+32513 := 星图
+32514 := 敌对生物数量限制
+32515 := 初始化捕食者
 32516 := K_LAST_LOCATION
 32517 := wp_homebase
-32518 := A Desert Hunt
-32519 := The Twi'lek hunter Komad has tracked a krayt dragon to its lair and wants assistance drawing the creature out.
-32520 := Komad maintains that the only way to bait the krayt dragon out of its lair is to tempt it with banthas. Banthas will need to be lured into position with bantha fodder. Some of the Sand People may carry fodder, and there might also be some in the enclave. The vendor in the Anchorhead spaceport may also have some.
-32521 := Komad is dead, but he already told you how to bait the krayt dragon out of its lair. You'll have to lure banthas into position by tempting them with bantha fodder. Some of the Sand People may carry fodder, and there might also be some in the enclave. The vendor in the Anchorhead spaceport may also have some.
-32522 := As Komad said to do, you have several banthas following you, lured by the scent of fodder. You must lead them to the mouth of the krayt dragon lair.
-32523 := The hunt was successful and the krayt dragon is dead. Whatever might be hidden in the depths of its lair is now yours to claim.
-32524 := Like Komad said, you now have the bantha fodder you need to lure the banthas in the Eastern Dune Sea to the krayt dragon lair.
-32525 := The banthas are positioned at the mouth of the krayt dragon lair. The beast could emerge any time now.
-32526 := A Doubting Sith
-32527 := You have encountered a student by the name of Kel Algwinn, an unusual student at the Sith academy who confessed to you that he has strong feelings of doubt that this is the appropriate place for him to be. Such knowledge would be dangerous if it fell into the wrong hands.
-32528 := You encountered a Sith by the name of Kel Algwinn who really didn't belong in the academy... and you told him as much. While the Sith might disagree with your advice, Kel took it to heart and immediately left. Perhaps it is for the best.
-32529 := You encountered a Sith by the name of Kel Algwinn who really didn't belong in the academy... in fact, you advised him to think about joining the Jedi, instead. Kel took your advice to heart and decided to leave the Sith and think about it. Who knows? Perhaps someday you might find him amongst the ranks of the Order?
-32530 := You told Lashowe of Kel Algwinn's doubts about remaining in the Sith academy. There is little reason to believe that she would hesitate to turn such information over to Master Uthar. You will probably not be seeing Kel Algwinn again.
-32531 := Master Uthar has been informed of Kel Algwinn's doubts. He was highly impressed by your ruthlessness, and noted that Kel would be "spoken to" shortly.
-32532 := You encountered a Sith student by the name of Kel Algwinn who was full of doubts about whether or not he belonged in the academy at all. Unsurprisingly, you were easily able to goad him into a rage and kill him. No doubts there now.
-32533 := A Quest for the Star Forge
-32534 := The Jedi Council has instructed you to seek out the ancient Star Maps scattered about the galaxy in the hopes of uncovering the location of the mysterious Star Forge, as Revan and Malak did before you.
-32535 := You've discovered another ancient Star Map in the Sith Tombs of Korriban. As before, the map is incomplete. But each map you find fills in more missing pieces of the puzzle. Hopefully, once you find all the Star Maps they will give you the location of the Star Forge.
-32536 := You've discovered another ancient Star Map in the Dune Sea of Tatooine. As before, the map is incomplete. But each map you find fills in more missing pieces of the puzzle. Hopefully, once you find all the Star Maps they will give you the location of the Star Forge.
-32537 := You've discovered another ancient Star Map on the sunless surface of Kashyyyk. As before, the map is incomplete. But each map you find fills in more missing pieces of the puzzle. Hopefully, once you find all the Star Maps they will give you the location of the Star Forge.
-32538 := You've discovered another ancient Star Map beneath the oceans of Manaan. As before, the map is incomplete. But each map you find fills in more missing pieces of the puzzle. Hopefully, once you find all the Star Maps they will give you the location of the Star Forge.
-32539 := You've discovered the last of the Star Maps and now have the hyperspace coordinates that will lead you to the Star Forge and a final confrontation with Malak. You only hope you aren't too late, for Bastila's sake... and the sake of the entire galaxy.
-32540 := When approaching the Star Forge, the Ebon Hawk fell victim to a disruptor field and crashed on an uncharted planet. In order to escape this world you'll need to find a way to disable the disruptor field, as well as find the necessary parts to repair your ship.
-32541 := You have reclaimed your true identity and Bastila has sworn her allegiance to you. But there is still the matter of Malak, your old apprentice. Only when you face him and destroy him on the Star Forge will your victory be complete.
-32542 := Bastila has turned to the dark side and sworn allegiance to Darth Malak. The Republic is on its way, but if you don't get to the Star Forge and stop Bastila from using her Battle Meditation against them, the fleet is doomed. You also suspect Malak will be waiting for you there.
-32543 := A Rancor in the Sewers
-32544 := Mission has warned you of a not so small obstacle between you and the entrance to the Vulkar base: a full grown rancor. Getting by the beast won't be easy.
-32545 := You've managed to get past the rancor, proving once again that size and brute strength aren't everything.
-32546 := A Wookiee Lost
-32547 := The Wookiees are worried about a popular member of their tribe that has recently gone missing. Rorworr cannot be found. His friends Jaarak and Woorwill await him in Woorwill's home.
-32548 := You have found the corpse of the missing Wookiee Rorworr in the Shadowlands. A datapad revealing that he dealt with slavers was on the body, as well as a bowcaster bolt casing that probably belongs to whoever killed him.
-32549 := You have found the corpse of a Wookiee called Rorworr in the Shadowlands. A datapad revealing that he dealt with slavers was on the body, as well as a bowcaster bolt casing that probably belongs to whoever killed him.
-32550 := The bolt casing found on Rorworr's corpse belongs to Jaarak. Jaarak may be the one that killed Rorworr.
-32551 := Jaraak has been accused of killing Rorworr. He has offered no defense and awaits judgment from Worroznor, the Holder of the Laws.
-32552 := Jaarak has been killed for the murder of Rorworr. No defense was offered.
-32553 := Jaarak was not killed for the murder of Rorworr. Rorworr was dealing with the slavers, and was a traitor to his kind.
-32554 := The Wookiees are worried about a member of their tribe that has recently gone missing.
-32555 := Aiding Lashowe
-32556 := Yuthura has told you that of your rivals Lashowe might be a good one to approach... she might very well be easily tricked into allowing you to "help" her. Yuthura says that you must be ruthless if you were to take advantage of such a situation, and only that would impress Master Uthar.
-32557 := You have convinced Lashowe into allowing you to help her recover a relic she is aware of in the Valley of the Dark Lords: an ancient but corrupt Jedi holocron that would surely be worthy of prestige by Master Uthar. She has gone out into the valley to wait for you amongst the pillars in the center of the valley.
-32558 := You and your rival, Lashowe, have worked together to defeat a tuk'ata mother beast and recover an ancient but corrupt Jedi holocron. Lashowe was insistent on returning it to Uthar herself. Somehow you doubt that you and she will be sharing the prestige for the holocron like you planned.
-32559 := Sure enough, Lashowe has turned the corrupt Jedi holocron you worked together to recover over to Master Uthar by herself. You will receive no prestige for it.
-32560 := You and your hopeful rival, Lashowe, worked together to defeat a tuk'ata mother beast and recover an ancient but corrupt Jedi holocron. Lashowe was insistent on returning the holocron to Master Uthar by herself, however, and the two of you battled. Lashowe was killed, but you now have the holocron for yourself.
-32561 := You turned over the ancient, corrupted Jedi holocron to Master Uthar... who was not only impressed at your possession of the relic, but seemed quite pleased by the fact that you had dispatched one of your rivals, as well. You have earned a great deal of prestige today.
-32562 := You turned over the ancient, corrupted Jedi holocron to Master Uthar... and while you didn't tell him of Lashowe's exact fate, you got the impression that he didn't care overly much what happened to her. At any rate, you have earned prestige for bringing him the holocron.
-32563 := Lashowe had betrayed you by bringing the ancient, corrupted Jedi holocron to Master Uthar herself, denying you the prestige that you were supposed to share. The fact that you killed her for it seems to have impressed Master Uthar considerably... he has rewarded you with prestige for eliminating a potential rival.
-32564 := Attack on the Endar Spire
-32565 := The Endar Spire is under attack. Your cabin mate, Trask, has warned you that the Sith have boarded the ship in search of Bastila, the commander of the vessel. You and Trask have to find her before the Sith do.
-32566 := You and Carth escaped the Endar Spire on the last remaining pod, jettisoning mere moments before the doomed ship is utterly destroyed.
-32567 := The layout of the Endar Spire and other important information has been loaded into your electronic journal. You can access the map or your journal at anytime during the game to track your progress on your various quests and missions.
-32568 := You've received a message from Carth Onasi, a highly respected Republic soldier. He's ordered all hands to the bridge to protect Bastila.
-32569 := You've reached the bridge, but Bastila is nowhere to be found. She likely made her way to the starboard escape pods. If you want to get off the Endar Spire alive you should do the same.
-32570 := Bastila
-32571 := Bastila is more concerned about getting underway than in talking, at the moment. Perhaps later on, after the Jedi Council has been spoken to and you are more experienced you might wish to try talking to her again.
-32572 := You may want to try talking to Bastila again a little later. She might be more willing to talk at the next planet or once you are more experienced.
-32573 := Bastila is more intent on completing the mission right now than talking. Perhaps once you have found another of the Star Maps and have become more experienced you can try speaking to her again.
-32574 := Bastila wants to talk to you... but in privacy, away from the others. Speak to her again when you have returned to the Ebon Hawk.
-32575 := There's nothing more that needs to be said at the moment. Your relationship with Bastila is going to depend on the outcome of this mission, and perhaps once it is over with the two of you can look at what it is going to become. For now, however, the mission is more important... as is your destiny.
-32576 := There is nothing more to talk about with Bastila, at least for the time being.
-32577 := Bastila's Mother
-32578 := You encountered someone named Malare who told Bastila that her mother was looking for her. Bastila has asked that you look for her mother. Her name is Helena and Malare reported that she saw her last in the colony of Anchorhead on Tatooine.
-32579 := Bastila agreed to consider her mother's request: to locate her father's body and recover his holocron. It should be out in the Tatooine desert... likely near wherever krayt dragons exist... though Bastila did not promise that she would give her father's holocron to her mother even if she did find it.
-32580 := Bastila's father's holocron has been found out in the desert, still intact. Bastila is unsure, however, whether she intends to give it back to her mother. Part of her thinks she should keep it for herself... she and her father were close. Either way, it is probably a good idea to return to her mother at the cantina.
-32581 := Bastila and her mother have parted on good terms. Her mother insisted Bastila keep the holocron, and while she is indeed dying from an illness Bastila promised to try and help her once the mission is done. While Bastila is sad that her father is dead, she is happy that her relationship with her mother looks hopeful.
-32582 := The final meeting with Bastila's mother did not go well. Bastila and her mother argued, and Bastila ended up deciding to keep the holocron for herself. They parted on poor terms, unlikely ever to see each other again... and the weight of the encounter seems to press unhappily on Bastila's shoulders.
-32583 := Bendak's Bounty
-32584 := There is an official government bounty out on Bendak Starkiller, a famous duelist reknowned for killing dozens - if not hundreds - of people in illegal death matches. Bendak has been known to frequent the areas in the Upper Cantina near the dueling ring.
-32585 := You've located Bendak Starkiller in the Upper City cantina, but it looks like the only way you can collect his bounty is if you manage to beat him in the duel ring. Of course, you have to become the Taris duel champion before he'll come out of retirement to face you...
-32586 := Bendak Starkiller's reign of terror is over, thanks to your efforts in the duel ring. Zax, like most others on Taris, was well aware of the Starkiller's demise when you returned to collect your bounty.
-32587 := Captured by the Leviathan
-32588 := You've been captured by the Leviathan, a Sith interdictor ship commanded by Saul Karath, Carth's former mentor. Badly outnumbered and outgunned, there is little you can do to keep the Sith from taking you prisoner. Your only hope of escape rests on Mission's slender shoulders. 
-32589 := You've been captured by the Leviathan, a Sith interdictor ship commanded by Saul Karath, Carth's former mentor. Badly outnumbered and outgunned, there is little you can do to keep the Sith from taking you prisoner. Your only hope of escape lies with T3-M4.
-32590 := You've been captured by the Leviathan, a Sith interdictor ship commanded by Saul Karath, Carth's former mentor. Badly outnumbered and outgunned, there is little you can do to keep the Sith from taking you prisoner. Your only hope of escape rests on Jolee's wizened shoulders.
-32591 := You've been captured by the Leviathan, a Sith interdictor ship commanded by Saul Karath, Carth's former mentor. Badly outnumbered and outgunned, there is little you can do to keep the Sith from taking you prisoner. Your only hope of escape rests on the broad shoulders of Canderous Ordo.
-32592 := You've been captured by the Leviathan, a Sith interdictor ship commanded by Saul Karath, Carth's former mentor. Badly outnumbered and outgunned, there is little you can do to keep the Sith from taking you prisoner. Your only hope of escape rests on Juhani's graceful shoulders.
-32593 := You've been captured by the Leviathan, a Sith interdictor ship commanded by Saul Karath, Carth's former mentor. Badly outnumbered and outgunned, there is little you can do to keep the Sith from taking you prisoner. Your only hope of escape lies with HK-47.
-32594 := Now free from your cells you, Carth and Bastila have to get to the Leviathan's bridge and open the hangar doors so you can escape before Darth Malak arrives. You just hope that Carth's desire for revenge against his former mentor isn't going to complicate things.
-32595 := You've escaped the Leviathan and survived a confrontation with Darth Malak himself. But the cost of your survival is high: Bastila is now a prisoner of the Dark Lord, and you must come to grips with the shocking revelation that you are, in fact, Darth Revan - the former Lord of the Sith.
-32596 := Carth
-32597 := You can probably talk to Carth some more a little later, perhaps after you've gained some more experience.
-32598 := Carth is more interested in getting things underway at the moment than talking. Perhaps try talking to him again later, when things are more resolved and you have some more experience.
-32599 := Carth is more interested in getting the mission underway at the moment than talking. Perhaps try talking to him again later, after you've found another of the Star Maps and you have some more experience.
+32518 := 沙漠狩猎
+32519 := 提列克人猎人科马德已经追踪一头克雷特龙到它的巢穴，并希望有人帮忙把这头生物引出来。
+32520 := 科马德坚持认为，引出克雷特龙的唯一方法就是用班萨诱使它离开巢穴。你需要用班萨饲料把班萨引到指定位置。有些沙人可能带着饲料，营地里也可能有一些。锚头镇太空港的商人也可能有。
+32521 := 科马德死了，但他已经告诉过你如何把克雷特龙引出巢穴。你必须用班萨饲料把班萨引到指定位置。有些沙人可能带着饲料，营地里也可能有一些。锚头镇太空港的商人也可能有。
+32522 := 按照科马德的说法，饲料的气味已经引来了几头班萨跟着你。你必须把它们带到克雷特龙巢穴入口。
+32523 := 狩猎成功，克雷特龙已死。无论它巢穴深处藏着什么，现在都由你来取了。
+32524 := 正如科马德所说，你现在有了所需的班萨饲料，可以把东部沙丘海的班萨引到克雷特龙巢穴。
+32525 := 班萨已经就位于克雷特龙巢穴入口。那头野兽随时都可能出现。
+32526 := 心存疑虑的西斯
+32527 := 你遇到了一名叫凯尔·阿尔格温的学生。他是西斯学院里一名不同寻常的学生，向你承认自己强烈怀疑这里是否真是他该待的地方。这样的消息若落入错误的人手中，会非常危险。
+32528 := 你遇到了一名叫凯尔·阿尔格温的西斯，他其实并不属于学院……而你也直截了当地告诉了他。虽然西斯可能不会认同你的建议，但凯尔把它听进了心里，并立即离开了。也许这是最好的结果。
+32529 := 你遇到了一名叫凯尔·阿尔格温的西斯，他其实并不属于学院……事实上，你建议他改考虑加入绝地。凯尔把你的建议听进了心里，决定离开西斯并认真思考。谁知道呢？也许有一天，你会在武士团的行列中见到他？
+32530 := 你把凯尔·阿尔格温对留在西斯学院的疑虑告诉了拉肖维。几乎没有理由相信她会迟疑，不把这样的消息交给乌萨尔大师。你大概不会再见到凯尔·阿尔格温了。
+32531 := 乌萨尔大师已经得知凯尔·阿尔格温的疑虑。他对你的无情印象极深，并提到很快就会找凯尔“谈谈”。
+32532 := 你遇到了一名叫凯尔·阿尔格温的西斯学生，他对自己到底是否属于学院充满疑虑。毫不意外，你轻而易举就激怒了他，并杀死了他。现在不会再有疑虑了。
+32533 := 寻找星际锻炉
+32534 := 绝地委员会命令你寻找散落在银河各处的古代星图，希望能像先前的瑞文和马拉克一样，揭开神秘星际锻炉的位置。
+32535 := 你在卡里班星的西斯墓穴中发现了另一幅古代星图。和之前一样，这幅地图并不完整。但你找到的每一幅星图，都会补上谜题中更多缺失的部分。希望等你找到所有星图后，它们能给出星际锻炉的位置。
+32536 := 你在塔图因星的沙丘海发现了另一幅古代星图。和之前一样，这幅地图并不完整。但你找到的每一幅星图，都会补上谜题中更多缺失的部分。希望等你找到所有星图后，它们能给出星际锻炉的位置。
+32537 := 你在卡希克星不见阳光的地表上发现了另一幅古代星图。和之前一样，这幅地图并不完整。但你找到的每一幅星图，都会补上谜题中更多缺失的部分。希望等你找到所有星图后，它们能给出星际锻炉的位置。
+32538 := 你在马南海洋之下发现了另一幅古代星图。和之前一样，这幅地图并不完整。但你找到的每一幅星图，都会补上谜题中更多缺失的部分。希望等你找到所有星图后，它们能给出星际锻炉的位置。
+32539 := 你已经发现了最后一幅星图，现在掌握了通往星际锻炉的超空间坐标，也将在那里与马拉克进行最终对决。你只希望一切还不算太迟，为了巴丝蒂拉……也为了整个银河。
+32540 := 接近星际锻炉时，乌木鹰号受到干扰场影响，坠毁在一颗未测绘的星球上。为了逃离这个世界，你需要想办法停用干扰场，并找到修理飞船所需的零件。
+32541 := 你已经夺回自己的真实身份，巴丝蒂拉也宣誓效忠于你。但你的旧学徒马拉克仍然是个问题。只有当你在星际锻炉上面对他并摧毁他时，你的胜利才算完整。
+32542 := 巴丝蒂拉已经转向黑暗面，并宣誓效忠达斯·马拉克。共和国正在赶来，但如果你不能抵达星际锻炉，阻止巴丝蒂拉用战斗冥想对抗他们，舰队就注定毁灭。你也怀疑马拉克会在那里等着你。
+32543 := 下水道里的兰克兽
+32544 := 米申警告你，在你和黑火帮基地入口之间有一个不小的障碍：一头成年兰克兽。想绕过这头野兽并不容易。
+32545 := 你设法通过了兰克兽，再一次证明体型和蛮力并不代表一切。
+32546 := 失踪的伍基人
+32547 := 伍基人正担心他们部落中一名颇受欢迎的成员最近失踪。罗沃尔找不到了。他的朋友贾拉克和沃尔威尔正在沃尔威尔家中等他。
+32548 := 你在暗影之地找到了失踪伍基人罗沃尔的尸体。尸体上有一块数据板，显示他曾与奴隶贩子交易；还有一个弩枪弹壳，很可能属于杀害他的人。
+32549 := 你在暗影之地找到了一名叫罗沃尔的伍基人的尸体。尸体上有一块数据板，显示他曾与奴隶贩子交易；还有一个弩枪弹壳，很可能属于杀害他的人。
+32550 := 在罗沃尔尸体上发现的弹壳属于贾拉克。贾拉克可能就是杀死罗沃尔的人。
+32551 := 贾拉克被指控杀害罗沃尔。他没有提出任何辩护，正在等待持法者沃罗兹诺尔裁决。
+32552 := 贾拉克因谋杀罗沃尔而被处死。没有人提出辩护。
+32553 := 贾拉克没有因谋杀罗沃尔而被处死。罗沃尔曾与奴隶贩子交易，是自己族人的叛徒。
+32554 := 伍基人正担心他们部落中一名最近失踪的成员。
+32555 := 协助拉肖维
+32556 := 尤苏拉告诉你，在你的竞争对手中，拉肖维也许是个不错的接触对象……她很可能很容易被骗，让你去“帮助”她。尤苏拉说，如果你要利用这种局面，就必须无情，只有那样才会打动乌萨尔大师。
+32557 := 你已经说服拉肖维允许你帮她取回一件她知道的遗物：黑暗尊主谷中一件古老但腐化的绝地全息记录仪，肯定值得乌萨尔大师给予威望。她已经前往山谷，在谷地中央的石柱之间等你。
+32558 := 你和竞争对手拉肖维一起击败了一头图卡塔母兽，并取回一件古老但腐化的绝地全息记录仪。拉肖维坚持要亲自把它带回给乌萨尔。不知为何，你怀疑你们不会像计划中那样共享这件全息记录仪带来的威望。
+32559 := 果然，拉肖维独自把你们共同取回的腐化绝地全息记录仪交给了乌萨尔大师。你不会因此得到任何威望。
+32560 := 你和潜在竞争对手拉肖维一起击败了一头图卡塔母兽，并取回一件古老但腐化的绝地全息记录仪。不过，拉肖维坚持要独自把全息记录仪交给乌萨尔大师，于是你们两人发生战斗。拉肖维被杀，而现在全息记录仪归你了。
+32561 := 你把那件古老、腐化的绝地全息记录仪交给了乌萨尔大师……他不仅对你拥有这件遗物印象深刻，似乎也相当满意你顺手解决了一名竞争对手。你今天赢得了大量威望。
+32562 := 你把那件古老、腐化的绝地全息记录仪交给了乌萨尔大师……虽然你没有告诉他拉肖维的确切命运，但你感觉他并不太在意她发生了什么。不管怎样，你因带回全息记录仪而获得了威望。
+32563 := 拉肖维背叛了你，亲自把那件古老、腐化的绝地全息记录仪带给乌萨尔大师，夺走了你本应共享的威望。你为此杀了她，这件事似乎给乌萨尔大师留下了相当深刻的印象……他奖励了你威望，因为你消灭了一名潜在竞争对手。
+32564 := 恩达尖塔号遇袭
+32565 := 恩达尖塔号正在遭受攻击。你的舱友特拉斯克警告你，西斯已经登船，正在寻找这艘船的指挥官巴丝蒂拉。你和特拉斯克必须在西斯之前找到她。
+32566 := 你和卡斯搭乘最后一个逃生舱逃离了恩达尖塔号，就在这艘注定毁灭的飞船彻底被摧毁前一刻弹射出去。
+32567 := 恩达尖塔号的布局和其他重要信息已经载入你的电子日志。你可以在游戏中的任何时候查看地图或日志，以追踪各项任务和使命的进度。
+32568 := 你收到了一条来自卡斯·奥纳西的讯息，他是一名备受尊敬的共和国士兵。他命令所有人员前往舰桥保护巴丝蒂拉。
+32569 := 你已经到达舰桥，但巴丝蒂拉不见踪影。她很可能去了右舷逃生舱。如果你想活着离开恩达尖塔号，也该照做。
+32570 := 巴丝蒂拉
+32571 := 眼下，巴丝蒂拉比起交谈，更关心尽快出发。也许稍后，在你向绝地委员会汇报并积累更多经验之后，你可以再试着和她谈谈。
+32572 := 你也许可以稍后再试着和巴丝蒂拉交谈。到了下一个星球，或等你更有经验之后，她可能会更愿意说话。
+32573 := 现在巴丝蒂拉更专注于完成任务，而不是交谈。也许等你找到另一幅星图，并积累更多经验后，可以再试着和她谈谈。
+32574 := 巴丝蒂拉想和你谈谈……但要私下谈，避开其他人。等你回到乌木鹰号后，再和她说话。
+32575 := 眼下没有更多需要说的了。你和巴丝蒂拉的关系将取决于这次任务的结果；也许等任务结束后，你们两人可以看看它会变成什么样。但现在，任务更加重要……你的命运也是如此。
+32576 := 至少目前，和巴丝蒂拉已经没有更多可谈的了。
+32577 := 巴丝蒂拉的母亲
+32578 := 你遇到了一名叫马拉尔的人，她告诉巴丝蒂拉，她的母亲正在寻找她。巴丝蒂拉请求你帮忙寻找她的母亲。她名叫海伦娜，据马拉尔说，她最后一次见到海伦娜是在塔图因星锚头镇殖民地。
+32579 := 巴丝蒂拉同意考虑她母亲的请求：找到她父亲的遗体，并取回他的全息记录仪。它应该在塔图因星的沙漠里……很可能靠近克雷特龙出没的地方……不过巴丝蒂拉并未承诺即使找到父亲的全息记录仪，也会把它交给母亲。
+32580 := 巴丝蒂拉父亲的全息记录仪已经在沙漠中找到，仍然完好。不过，巴丝蒂拉还不确定自己是否打算把它还给母亲。她有一部分想把它留给自己……她和父亲曾经很亲近。不管怎样，回酒馆找她母亲应该是个好主意。
+32581 := 巴丝蒂拉和她母亲以良好的气氛分别。她母亲坚持让巴丝蒂拉留下全息记录仪；虽然她确实因疾病而命不久矣，巴丝蒂拉承诺任务完成后会设法帮助她。巴丝蒂拉虽为父亲去世感到悲伤，却也高兴自己与母亲的关系似乎有了希望。
+32582 := 与巴丝蒂拉母亲的最后一次会面并不顺利。巴丝蒂拉和母亲发生争吵，最终决定把全息记录仪留给自己。她们以糟糕的关系分别，很可能再也不会相见……这次相遇的重量似乎不快地压在巴丝蒂拉肩上。
+32583 := 本达克的赏金
+32584 := 政府正式悬赏本达克·弑星者；他是一名著名决斗者，以在非法死亡赛中杀死数十人，甚至数百人而闻名。本达克经常出现在上层酒馆决斗场附近区域。
+32585 := 你已经在上层城酒馆找到了本达克·弑星者，但看起来想领取他的赏金，唯一办法就是在决斗场击败他。当然，你得先成为塔里斯星决斗冠军，他才会结束退隐出来面对你……
+32586 := 多亏你在决斗场上的努力，本达克·弑星者的恐怖统治已经结束。和塔里斯星上大多数人一样，当你回来领取赏金时，扎克斯已经很清楚弑星者的死讯。
+32587 := 被利维坦号俘获
+32588 := 你被利维坦号俘获了。这是一艘西斯阻绝舰，由卡斯昔日的导师索尔·卡拉斯指挥。敌众我寡，火力也远逊于敌，你几乎无法阻止西斯把你俘虏。你唯一的逃生希望，落在米申纤细的肩上。
+32589 := 你被利维坦号俘获了。这是一艘西斯阻绝舰，由卡斯昔日的导师索尔·卡拉斯指挥。敌众我寡，火力也远逊于敌，你几乎无法阻止西斯把你俘虏。你唯一的逃生希望在 T3-M4 身上。
+32590 := 你被利维坦号俘获了。这是一艘西斯阻绝舰，由卡斯昔日的导师索尔·卡拉斯指挥。敌众我寡，火力也远逊于敌，你几乎无法阻止西斯把你俘虏。你唯一的逃生希望，落在乔利那双苍老的肩上。
+32591 := 你被利维坦号俘获了。这是一艘西斯阻绝舰，由卡斯昔日的导师索尔·卡拉斯指挥。敌众我寡，火力也远逊于敌，你几乎无法阻止西斯把你俘虏。你唯一的逃生希望，落在坎德鲁斯·奥多宽阔的肩上。
+32592 := 你被利维坦号俘获了。这是一艘西斯阻绝舰，由卡斯昔日的导师索尔·卡拉斯指挥。敌众我寡，火力也远逊于敌，你几乎无法阻止西斯把你俘虏。你唯一的逃生希望，落在茱哈妮优雅的肩上。
+32593 := 你被利维坦号俘获了。这是一艘西斯阻绝舰，由卡斯昔日的导师索尔·卡拉斯指挥。敌众我寡，火力也远逊于敌，你几乎无法阻止西斯把你俘虏。你唯一的逃生希望在 HK-47 身上。
+32594 := 你、卡斯和巴丝蒂拉现在已经离开牢房，必须赶到利维坦号舰桥，打开机库门，在达斯·马拉克抵达前逃走。你只希望卡斯想向昔日导师复仇的念头不会把事情复杂化。
+32595 := 你逃出了利维坦号，并在与达斯·马拉克本人的对峙中活了下来。但你幸存的代价很高：巴丝蒂拉现在成了黑暗尊主的俘虏，而你必须接受这个震撼的真相：你其实就是达斯·瑞文，昔日的西斯尊主。
+32596 := 卡斯
+32597 := 你大概可以稍后再多和卡斯谈谈，也许等你获得更多经验之后。
+32598 := 眼下卡斯比起谈话，更关心把事情推进起来。也许等局势更明朗、你也有了更多经验后，再试着和他谈谈。
+32599 := 眼下卡斯比起谈话，更关心推进任务。也许等你找到另一幅星图、并有了更多经验后，再试着和他谈谈。
 32600 := Carth is devastated after finding out who you truly are. Give him some time. Perhaps once the Star Maps have been found and the mission is nearer to its conclusion, you might want to try talking to him again.
 32601 := There is nothing more that remains to be said. Whatever becomes of you and Carth will have to be determined once your destiny is resolved... one way or the other.
 32602 := Carth and you have nothing more to talk about, for the moment.
