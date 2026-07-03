@@ -35013,350 +35013,350 @@ DC15 伤害减半
 32799 := 你在飞地附近再次见到了伊莉丝和 C8-42。伊莉丝因为你把机器人带回给她而欣喜若狂，并再三感谢你。
 
 C8-42 则稍微没有那么……热情。
-32800 := You met Elise in the Jedi Enclave. It turns out that not everything had ended badly after the destruction of her droid.
-She met a man named Samnt, and they appear quite interested in each other. Perhaps she can lead a normal, happy life yet.
-32801 := You fooled Elise into thinking that her droid was still out there, so she flew off after him. Maybe she'll realize what happened... in a year or two.
-32802 := Missing Selkath
-32803 := You have been approached by a Selkath named Shaelas. He claims that many young Selkath have been going missing, including his daughter Shasa. He wishes to hire you to find out what has been happening to them.
-32804 := You have been approached by a Selkath named Shaelas. He claims that many young Selkath have been going missing, including his daughter Shasa. He wishes to hire you to find out what has been happening to them.
+32800 := 你在绝地飞地见到了伊莉丝。看来她的机器人被毁之后，并不是所有事情都走向了坏结局。
+她遇到了一个叫萨姆特的男人，两人似乎对彼此都很感兴趣。也许她终究还能过上正常而幸福的生活。
+32801 := 你骗伊莉丝，让她以为自己的机器人还在外面，于是她飞走去追他了。也许一两年后她会明白到底发生了什么……
+32802 := 失踪的塞尔卡斯人
+32803 := 一个叫谢拉斯的塞尔卡斯人找到了你。他说许多年轻塞尔卡斯人接连失踪，其中包括他的女儿莎莎。他想雇你查明他们身上发生了什么。
+32804 := 一个叫谢拉斯的塞尔卡斯人找到了你。他说许多年轻塞尔卡斯人接连失踪，其中包括他的女儿莎莎。他想雇你查明他们身上发生了什么。
 
-You have discovered that the Sith have been hiring mercenaries to lure the young Selkath into their base for some questionable purpose. More answers would seem to lie inside the Sith Embassy.
-32805 := You have found the young Selkath that were missing. They have been taken by the Sith and given some training in the dark arts. It was most unfortunate that you had to kill all of them. Maybe Shaelas will understand...
-32806 := You have found the young Selkath that were missing. They have been taken by the Sith and given some training in the dark arts. You congratulated them on their good sense and they now seem to respect you.
-32807 := You have found the young Selkath that were missing. They have been taken by the Sith and given some training in the dark arts. You have tried to convince them to return to the light side, but they won't budge. It will take some sort of proof to show them how evil the Sith really are...
-32808 := You have managed to convince Shasa and the other Selkath that the Sith were only using them to gain control of Manaan. They have forsaken their dark ways and returned to the city.
-32809 := You have told Shaelas that you had to kill his daughter. He is most upset, but understands that you did what needed to be done. He is sure to report to the Ahto City authorities what the Sith are doing.
-32810 := You have told Shaelas that his daughter has gone over to the Sith. He is very distraut at this news, and is sure to report this to the Ahto City authorities.
-32811 := You have told Shaelas what had been happening to Shasa and the other Selkath youths. He has thanked you profusely. He will report the criminal activities of the Sith to the Ahto City authorities and they will decide what sort of punishment the Sith Empire will receive.
-32812 := Mission for the Republic
-32813 := You have spoken to Roland Wann, the representative of the Republic Embassy on Manaan. He says that he may have information about the Star Map, but will only tell you what he knows if you retrieve the remains of a Republic Probe droid lost recently to the Sith. The droid has sensitive data recordings of its mission outside of Ahto City and the Republic wants it back before the Sith are able to decrypt it. To do this, you will need to enter the Sith Embassy.
+你发现西斯一直在雇佣佣兵，把这些年轻塞尔卡斯人诱进他们的基地，目的相当可疑。更多答案似乎就在西斯大使馆里面。
+32805 := 你找到了那些失踪的年轻塞尔卡斯人。他们被西斯带走，并接受了一些黑暗技艺训练。很遗憾，你不得不把他们全都杀了。也许谢拉斯会理解……
+32806 := 你找到了那些失踪的年轻塞尔卡斯人。他们被西斯带走，并接受了一些黑暗技艺训练。你称赞他们很有眼光，而他们现在似乎也尊敬你。
+32807 := 你找到了那些失踪的年轻塞尔卡斯人。他们被西斯带走，并接受了一些黑暗技艺训练。你试图说服他们回到光明面，但他们不肯动摇。必须拿出某种证据，才能让他们看清西斯究竟有多邪恶……
+32808 := 你成功说服莎莎和其他塞尔卡斯人相信，西斯只是在利用他们夺取马南的控制权。他们已经抛弃黑暗道路，返回了城市。
+32809 := 你告诉谢拉斯，你不得不杀死他的女儿。他非常难过，但理解你做了必须做的事。他一定会把西斯的所作所为报告给阿赫托城当局。
+32810 := 你告诉谢拉斯，他的女儿投向了西斯。他听到这个消息后非常心烦意乱，并一定会把此事报告给阿赫托城当局。
+32811 := 你告诉谢拉斯，莎莎和其他塞尔卡斯青年身上究竟发生了什么。他再三向你道谢。他会把西斯的犯罪活动报告给阿赫托城当局，由他们决定西斯帝国会受到怎样的惩罚。
+32812 := 共和国任务
+32813 := 你已经和马南共和国大使馆的代表罗兰·万恩谈过。他说自己可能掌握星图的情报，但只有在你取回一具共和国探测机器人残骸后，才会告诉你知道的内容。那具机器人最近落入了西斯手中，里面记录着它在阿赫托城外执行任务时取得的敏感数据；共和国希望在西斯解密之前把它取回来。为此，你必须进入西斯大使馆。
 
-He has said that there are 3 ways to get into the Sith base:
+他说进入西斯基地有 3 种办法：
 
-1) You can interrogate a Sith prisoner who was found snooping around the Republic Embassy. He knows a pass code that allows him entry to the Sith base.
+1) 你可以审问一名西斯囚犯。他之前在共和国大使馆附近窥探时被抓住，知道一组能进入西斯基地的通行代码。
 
-2) You can decrypt some captured sith passcards and use them to open the door to the base.
+2) 你可以解密一些缴获的西斯通行卡，用它们打开基地大门。
 
-3) You can use the key Roland gave you and force your way into the Sith controlled hangar and fly outside Ahto City into the Embassy though the rear entrance. The hangar is located at the west end of the Ahto City Docking Bay.
+3) 你可以使用罗兰给你的钥匙，强行进入西斯控制的机库，再飞到阿赫托城外，从后门进入大使馆。机库位于阿赫托城停泊舱西端。
 
-Once you have entered the Sith base, retrieve the data module and return it to Roland.
-32814 := You managed to retrieve the encrypted data module from the Sith base. Now you need to return it to Roland Wann so he'll tell you what he may know about a Star Map on this world.
-32815 := Roland Wann, the representative of the Republic on Manaan, has told you that the Republic has made a secret base underwater near the source of kolto emissions to study and eventually synthesize kolto. They ran across some mysterious ruins that may be related to the Star Map. Unfortunately, something happened down there at the base, and all contact was lost.
+进入西斯基地后，取回数据模块并交还给罗兰。
+32814 := 你成功从西斯基地取回了加密数据模块。现在你需要把它交还给罗兰·万恩，这样他才会告诉你，他可能知道的这个世界上的星图情报。
+32815 := 马南的共和国代表罗兰·万恩告诉你，共和国在科尔托涌出源附近的水下建立了一座秘密基地，用来研究并最终合成科尔托。他们在那里发现了一些神秘遗迹，可能与星图有关。不幸的是，基地下面出了事，所有联络都中断了。
 
-Roland has given you access to a submersible to go down to the base and find out what happened. Hopefully, this will lead to one of the Star Maps as well.
-32816 := You have found out that all the Selkath and defensive systems in the station in the Hrakert Rift have gone insane. The station is overrun with mad Selkath and malfunctioning machinery. Somewhere in this base may be a clue to the Star Map.
-32817 := There are ancient ruins near the Rift that kolto is harvested from, but there is also some sort of huge firaxan shark out in the water. The two scientists you met, Kono Nolan and Sami, have given you several possible ways of defeating this beast.
+罗兰已经授权你使用潜航器，下到基地查明发生了什么。希望这也能把你引向其中一座星图。
+32816 := 你发现赫拉克特裂谷站里的塞尔卡斯人和防御系统全都失常了。站内到处都是发狂的塞尔卡斯人和故障机械。这个基地里的某处也许藏着星图的线索。
+32817 := 裂谷附近有古代遗迹，科尔托正是从那里采收的，但水中还有某种巨大的费拉克萨鲨。你遇到的两位科学家科诺·诺兰和萨米提出了几种可能击败这头巨兽的方法。
 
-Kono says that you should poison it, and has given you a cannister of some sort of blister agent they developed to use against the sharks. By putting it in the harvesting machine and venting it, it will spread through the water and kill the beast which drove the station insane.
+科诺说你应该毒死它，并给了你一个罐子，里面装着他们研发来对付鲨鱼的某种起疱剂。把它放进采收机并排放出去后，药剂会在水中扩散，杀死那头让站点陷入疯狂的巨兽。
 
-Sami thinks that this toxin may contaminate the water or environment. She says that if you cause the machinery to reupture and explode, the beast may go back to its slumber. She says that you need to get the pressure of the harvesting machine's fuel tanks to exactly 4 million sangen. At this pressure the fuel will be extremely unstable and explode.
-32818 := You fed the toxin into the machine and killed the giant firaxan shark. Unfortunately, it has had some effect on the kolto and it has now turned black. Hopefully it's only temporary...
+萨米认为这种毒素可能会污染水体或环境。她说，如果你让机械破裂并爆炸，那头巨兽也许会回去继续沉睡。她说你必须把采收机燃料罐的压力精确调到 400 万 sangen。在这个压力下，燃料会变得极不稳定并发生爆炸。
+32818 := 你把毒素注入机器，杀死了那头巨大的费拉克萨鲨。不幸的是，这对科尔托造成了一些影响，现在科尔托变黑了。希望这只是暂时的……
 
-You found one of the Star Maps in the ruins it had been guarding.
-32819 := You overloaded the fuel tanks for the kolto harvesting machinery and caused it to explode. With the machine gone, the giant firaxan shark lost interest and returned to wherever it had laired.
+你在它守护的遗迹中找到了一座星图。
+32819 := 你让科尔托采收机械的燃料罐过载并爆炸。机器消失后，那头巨大的费拉克萨鲨失去了兴趣，回到了它栖居的地方。
 
-You found one of the Star Maps in the ruins it had been guarding.
-32820 := You told Roland Wann about the giant firaxan shark, the kolto, and what happened at the Hrakert station. He is glad that you managed to save the machinery through your novel use of the toxin. Hopefully now they can send a proper rescue team down to the station and things will get back to normal. Except maybe for the kolto...
+你在它守护的遗迹中找到了一座星图。
+32820 := 你把那头巨大的费拉克萨鲨、科尔托，以及赫拉克特站发生的事告诉了罗兰·万恩。他很高兴你用毒素这种新奇办法保住了机械。希望他们现在能派出合适的救援队下到站点，让一切恢复正常。也许科尔托除外……
 
-At least you managed to get the Star Map.
-32821 := You told Roland Wann about the giant firaxan shark, the kolto, and what happened at the Hrakert station. He is glad that the situation has been resolved, but most distressed that you resorted to blowing up the machinery to do it. Hopefully now, though, the Republic will repair their base and things will get back to normal.
+至少你拿到了星图。
+32821 := 你把那头巨大的费拉克萨鲨、科尔托，以及赫拉克特站发生的事告诉了罗兰·万恩。他很高兴局势已经解决，但对你用炸毁机械的办法处理此事感到非常苦恼。不过，希望共和国现在会修复他们的基地，让一切恢复正常。
 
-At least you managed to get the Star Map.
-32822 := Mission's Brother
-32823 := You've run into Lena, an old girlfriend of Mission's brother, Griff. Lena informed Mission that it was Griff's idea to leave her behind on Taris when they left. she also mentioned that Griff was on Tatooine, working on the Czerka corp mines. Understandably, Mission is eager to speak with him.
-32824 := According to the Czerka rep on Tatooine, Griff was captured during a Sand People raid on one of the mining camps. Whether he is still alive is anyone's guess.
-32825 := Mission's brother is free from the clutches of the Sand People, thanks to you. Griff is eager to meet up with his sister again, though what will happen during the reunion remains to be seen.
-32826 := You found Griff alive and well and being held prisoner in the Sand People enclave. But his reunion with his long-lost sister was far from a tear filled event. Mission feels Griff deserted her back on Taris. Even so, the humane thing to do would be to set him free if the opportunity presents itself.
-32827 := Griff and Mission have been reunited, though Mission is still resentful about Griff deserting her on Taris. Before he left, Griff suggested you stop by the Czerka supply shop on Tatooine to speak with him about a potential job.
-32828 := Griff wants you to bring him a tach gland so he can brew up some Tarisian ale to sell to a 'business associate'. He's promised you a healthy reward if you come through for him.
-32829 := Griff rushed off to brew up a batch of Tarisian ale to deliver to his business connection. However, the credits he promised you haven't materialized yet. He did say you could meet him later in the Czerka supply shop on Tatooine to collect the debt.
-32830 := Due to his own incompetence, Griff's Tarisian ale deal has turned sour. True to form, he's decided he'd rather disappear than face the wrath of his contact at the Exchange. You get the feeling both he and the credits he promised you are gone for good.
-32831 := Murdered Settler
-32832 := You have been approached by a Jedi, Bolook, who requires your assistance in resolving a complicated crime he has encountered. He hopes your understanding of human nature can clarify the contradictory statements of the witnesses at the scene.
-32833 := You have been approached by a Jedi, Bolook, who requires your assistance in resolving a complicated crime he has encountered. Apparently two men, Handon Guld and Rickard Lusoff, were at the scene of the murder of another man, Calder Nettick. Bolook does not understand the contradictory nature of their stories, and has asked for your assistance.
+至少你拿到了星图。
+32822 := 米申的哥哥
+32823 := 你遇到了莉娜，她是米申的哥哥格里夫的前女友。莉娜告诉米申，当初他们离开塔里斯星时，把她丢下其实是格里夫的主意。她还提到格里夫正在塔图因星，在泽卡公司的矿场工作。可以理解，米申急着想和他谈谈。
+32824 := 根据塔图因星的泽卡代表所说，格里夫在一次沙人袭击矿业营地时被抓走了。他是否还活着，谁也说不准。
+32825 := 多亏了你，米申的哥哥已经脱离沙人的掌控。格里夫急着想和妹妹重逢，不过这场重逢会怎样发展还有待观察。
+32826 := 你发现格里夫还活得好好的，只是被囚禁在沙人营地里。但他和久别妹妹的重逢远不是一场催人泪下的场面。米申觉得格里夫当年在塔里斯星抛弃了她。即便如此，只要机会出现，放他自由才算人道。
+32827 := 格里夫和米申已经重逢，尽管米申仍然怨恨格里夫在塔里斯星抛弃了她。离开前，格里夫建议你去塔图因星的泽卡补给店找他，谈一份可能的工作。
+32828 := 格里夫希望你给他带一枚塔奇腺体，好让他酿造一些塔里斯麦酒，卖给一位“生意伙伴”。如果你帮他办成，他承诺会给你一笔丰厚报酬。
+32829 := 格里夫匆匆赶去酿造一批塔里斯麦酒，准备交给他的生意关系。不过，他承诺给你的信用点还没有兑现。他确实说过，你之后可以在塔图因星的泽卡补给店见他，收取这笔欠账。
+32830 := 由于格里夫自己的无能，他的塔里斯麦酒交易已经变了味。和往常一样，他决定宁愿消失，也不愿面对交易所联系人发怒。你有种感觉，他和他答应给你的信用点都已经永远消失了。
+32831 := 被谋杀的定居者
+32832 := 一名叫博卢克的绝地找到了你，需要你协助解决他遇到的一桩复杂案件。他希望你对人性的理解能澄清现场目击者之间相互矛盾的证词。
+32833 := 一名叫博卢克的绝地找到了你，需要你协助解决他遇到的一桩复杂案件。显然，汉登·古尔德和里卡德·卢索夫这两个人在另一名男子考尔德·耐蒂克被谋杀时都在现场。博卢克不明白他们的说法为何彼此矛盾，于是请求你协助。
 
-The conclusions you have reached so far:
+你目前得出的结论如下：
 
-1) Handon claimed he came upon the body after hearing the shot. Rickard said he was staring into the sun, but must have been lying because of the cloud cover earlier.
-32834 := You have been approached by a Jedi, Bolook, who requires your assistance in resolving a complicated crime he has encountered. Apparently two men, Handon Guld and Rickard Lusoff, were at the scene of the murder of another man, Calder Nettick. Bolook does not understand the contradictory nature of their stories, and has asked for your assistance.
+1) 汉登声称自己听到枪声后才发现尸体。里卡德说自己当时正盯着太阳看，但他一定在撒谎，因为早些时候有云层遮挡。
+32834 := 一名叫博卢克的绝地找到了你，需要你协助解决他遇到的一桩复杂案件。显然，汉登·古尔德和里卡德·卢索夫这两个人在另一名男子考尔德·耐蒂克被谋杀时都在现场。博卢克不明白他们的说法为何彼此矛盾，于是请求你协助。
 
-The conclusions you have reached so far:
+你目前得出的结论如下：
 
-1) Handon claimed he came upon the body after hearing the shot. Rickard said he was staring into the sun, but must have been lying because of the cloud cover earlier.
+1) 汉登声称自己听到枪声后才发现尸体。里卡德说自己当时正盯着太阳看，但他一定在撒谎，因为早些时候有云层遮挡。
 
-2) Handon said he was just out running, but is probably lying because all settlers should carry weapons out on the plains and Handon had none. Rickard said he was out hunting iriaz.
-32835 := You have been approached by a Jedi, Bolook, who requires your assistance in resolving a complicated crime he has encountered. Apparently two men, Handon Guld and Rickard Lusoff, were at the scene of the murder of another man, Calder Nettick. Bolook does not understand the contradictory nature of their stories, and has asked for your assistance.
+2) 汉登说自己只是出来跑步，但他很可能在撒谎，因为所有定居者在平原上都应该携带武器，而汉登没有。里卡德说自己出来猎捕伊里亚兹。
+32835 := 一名叫博卢克的绝地找到了你，需要你协助解决他遇到的一桩复杂案件。显然，汉登·古尔德和里卡德·卢索夫这两个人在另一名男子考尔德·耐蒂克被谋杀时都在现场。博卢克不明白他们的说法为何彼此矛盾，于是请求你协助。
 
-The conclusions you have reached so far:
+你目前得出的结论如下：
 
-1) Handon claimed he came upon the body after hearing the shot. Rickard said he was staring into the sun, but must have been lying because of the cloud cover earlier.
+1) 汉登声称自己听到枪声后才发现尸体。里卡德说自己当时正盯着太阳看，但他一定在撒谎，因为早些时候有云层遮挡。
 
-2) Handon said he was just out running, but is probably lying because all settlers should carry weapons out on the plains and Handon had none. Rickard said he was out hunting iriaz.
+2) 汉登说自己只是出来跑步，但他很可能在撒谎，因为所有定居者在平原上都应该携带武器，而汉登没有。里卡德说自己出来猎捕伊里亚兹。
 
-3) Handon lied and said that he had no personal knowledge of Calder, but he had rented a speeder with him several times. Rickard said that he was a business partner of Calder's.
-32836 := You have been approached by a Jedi, Bolook, who requires your assistance in resolving a complicated crime he has encountered. Apparently two men, Handon Guld and Rickard Lusoff, were at the scene of the murder of another man, Calder Nettick. Bolook does not understand the contradictory nature of their stories, and has asked for your assistance.
+3) 汉登撒谎说自己和考尔德没有私人交情，但他曾多次和考尔德一起租用飞梭。里卡德说自己是考尔德的生意伙伴。
+32836 := 一名叫博卢克的绝地找到了你，需要你协助解决他遇到的一桩复杂案件。显然，汉登·古尔德和里卡德·卢索夫这两个人在另一名男子考尔德·耐蒂克被谋杀时都在现场。博卢克不明白他们的说法为何彼此矛盾，于是请求你协助。
 
-The conclusions you have reached so far:
+你目前得出的结论如下：
 
-1) Handon claimed he came upon the body after hearing the shot. Rickard said he was staring into the sun, but must have been lying because of the cloud cover earlier.
-
-2) Handon said he was just out running, but is probably lying because all settlers should carry weapons out on the plains and Handon had none. Rickard said he was out hunting iriaz.
-
-3) Handon lied and said that he had no personal knowledge of Calder, but he had rented a speeder with him several times. Rickard said that he was a business partner of Calder's.
-
-4) Handon had not reported his blaster stolen, and then it turned up at the scene of the crime. Rickard confirmed our records in that it was not Calder's.
-32837 := You have been approached by a Jedi, Bolook, who requires your assistance in resolving a complicated crime he has encountered. Apparently two men, Handon Guld and Rickard Lusoff, were at the scene of the murder of another man, Calder Nettick. Bolook does not understand the contradictory nature of their stories, and has asked for your assistance.
-
-The conclusions you have reached so far:
-
-1) Handon claimed he came upon the body after hearing the shot. Rickard said he was staring into the sun, but must have been lying because of the cloud cover earlier.
-
-2) Handon said he was just out running, but is probably lying because all settlers should carry weapons out on the plains and Handon had none. Rickard said he was out hunting iriaz.
-
-3) Handon lied and said that he had no personal knowledge of Calder, but he had rented a speeder with him several times. Rickard said that he was a business partner of Calder's.
-
-4) Handon had not reported his blaster stolen, and then it turned up at the scene of the crime. Rickard confirmed our records in that it was not Calder's.
-
-5) The blood on the blaster wasn't Calder's. On closer examination, it was determined that Handon had been shot.
-
-32838 := You solved the case, sort of. You rightfully concluded that Handon was the one who actually killed Calder, but you failed to realize that Rickard was also planning Calder's murder. Unfortunately, Rickard was able to get away while you were accusing Handon. Hopefully he can be recaptured.
-32839 := You solved the case, sort of. You rightfully concluded that Rickard was at the scene to kill Calder, but you failed to realize that it was Handon who actually did the deed. Unfortunately, Handon escaped while you were accusing Rickard. Hopefully he can be recaptured.
-32840 := You've successfully solved the crime by realizing that both men were guilty. Although it was Handon who actually killed Calder, Rickard would have killed him had he arrived a little sooner. The two suspects have both been taken into custody, and Bolook is certain to tell the Jedi Council of your brilliant deductive skills.
-32841 := Pazaak Rules
-32842 := Basics: The object of the game is to have your face up cards total higher than your opponent's hand without exceeding a total of 20. If a player's total is greater than 20 at the end of a turn (a 'BUST'), the opponent wins the set. A player must win 3 sets to win the match and collect the wager.
-
-Equipment: Pazaak is played with a 40 card main deck made up of 4 of each card numbered 1 through 10, and a side deck of up to 10 cards with values ranging from -6 through +6. 
-
-Rules of Play:
-1. Each player draws 4 random cards from their side deck to form their HAND. These cards are available to the player for all the sets of the match. Each hand card can only be played once per match.  
-2. The first player draws a card from the main deck and plays it face up to begin their turn.  
-3. After drawing a card, a player has the option of playing one of the cards from their hand.  Playing a card from the hand is optional.
-4. Only one hand card can be played each turn. REMEMBER: A player's 4 card hand must last through all sets of the match.
-5. The player now has the option to STAND or to END TURN. A player who stands cannot draw again or play any more cards from their hand during the set. When one player stands, the opponent can continue to take turns until they either stand or bust. 
-6. If a player chooses to end turn they will automatically draw another card at the beginning of their next turn. After one player chooses to stand or end turn, the opponent draws a card to begin their next turn. 
-7. Players continue to alternate turns until both players choose to stand, or until one player ends a turn with a total greater than 20 (a 'bust'). 
-REMEMBER:  You only lose if you are over 20 at the end of your turn. A player can draw a card from the main deck that puts them over 20, then play a negative card from the 'hand' that brings the total back under 20.    
-8. In the case of tie, another set must be played.  No new cards from the side decks are drawn.
-9. A player can never have more than nine cards in play during one set.  (This includes cards from the hand as well as cards dealt from the deck.) Once you have nine cards in play you automatically stand.
-10. A +/- card played from the side deck must be declared as a positive or negative when played. Once played it cannot be changed.
-11. The first player to win 3 sets wins the match and the wager.
-32843 := Rakghoul Serum
-32844 := Zelka at the Upper City medical center is eager to acquire a sample of the rakghoul serum used by the Sith Undercity patrols. 
-32845 := Zelka at the Upper City medical center is eager to acquire a sample of the rakghoul serum used by the Sith Undercity patrols. However, Gurney, Zelka's assistant, mentioned that it might be more profitable if you deliver the serum to Zax in the bounty office in the Lower City cantina.
-32846 := You've delivered the rakghoul serum to Zelka. He plans to mass produce it so that it will always be available in his store at a very affordable price for anyone who needs it.
-32847 := You've delivered the rakghoul serum to Zax, who will forward it on to Davik so the crime lord can mass produce it and sell it for a substantial profit to those who are sick and desperate enough to pay anything. No doubt Zelka will stock the serum at his store, but the cost will likely be outrageous.
-32848 := Rapid Transit System
-32849 := STAR WARS Knights of the Old Republic has a rapid transit system to allow you to move quickly through the game. You can access the rapid transit system through your MAP screen.
-
-On the map screen you will see a button that says 'Return to Hideout'. In non-action areas you can use this button to instantly transport you back to the apartment complex where your base is located. In some action areas this button will be disabled.
-
-While in the apartment complex the button on the Map screen will read 'Transit Back'. When pressed you will be transported back to the location where you last used the Return to Hideout function.
-
-Remember: If you leave the area around your hideout, the 'Transit Back' button will switch back to 'Return to Hideout' and you will have to manually walk back to your previous location. 
-
-You should try using the Return to Hideout and Transit Back buttons now, just to see how they work.
-32850 := STAR WARS Knights of the Old Republic has a rapid transit system to allow you to move quickly through the game. You can access the rapid transit system through your MAP screen.
-
-On the map screen you will see a button that says 'Return to Hideout'. In non-action areas you can use this button to instantly transport you back to the apartment complex where your base is located. In some action areas this button will be disabled.
-
-While in the apartment complex the button on the Map screen will read 'Transit Back'. When pressed you will be transported back to the location where you last used the Return to Hideout function.
-
-Remember: If you leave the area around your hideout, the 'Transit Back' button will switch back to 'Return to Hideout' and you will have to manually walk back to your previous location. 
-32851 := Renegade Sith
-32852 := You have been told about some renegade Sith students who disobeyed a direct order given by Master Uthar to execute civilians. It is known that they have not left Korriban and are probably in hiding. Anyone who could eliminate them would likely gain favor with Master Uthar for the deed.
-32853 := Having killed the renegade Sith students who were hiding out in the shyrack caverns, you have informed Master Uthar of the deed. He was suitably impressed, bringing you closer to the final test for apprenticeship.
-32854 := Even though you had freed the renegade Sith students from the shyrack caverns, you were also able to lie to Master Uthar and inform him that his problem was taken care of. Technically it's true... they *are* gone. Either way, you've earned prestige amongst the Sith for the deed.
-32855 := You have encountered a group of renegade Sith students trapped within the shyrack caverns. They are trying to get to the surface to escape the planet, but their route is currently blocked by some type of creature. Getting rid of the creature would enable them to escape, but killing them would earn you prestige.
-32856 := You have successfully killed a small group of renegade Sith students that were holed up in shyrack caverns outside of the academy. Reporting this deed to Master Uthar would certainly earn his favor.
-32857 := With the creature in the shyrack caverns killed, the renegade Sith students were able to escape to the surface and escape from Korriban.
-32858 := Republic Hiring Mercenaries
-32859 := The Selkath Nilko is suspicious about the Republic hiring mercenaries. He claims to be a friend of the Republic and is merely seeking to find out if something is wrong. He says he will reward you if you find out why they've been hiring to many lately.
-32860 := You told Nilko about the Republic facility in the Hrakert Rift. He thanked you and said he would try to cover for the Republic's actions. It seems that some Selkath, at least, are definitely on the Republic's side.
-32861 := Rickard's Story
-32862 := Rickard Lusoff claimed that he had been out hunting iriaz shortly before the murder. He claimed that he saw one near the bridge from his location in the rocks to the south and fired. Unfortunately he was partially blinded by the sun. When he came to where it had fallen, he found Handon Guld standing over Calder Nettic's body.
-
-Rickard and Calder were business partner's in a sub-orbital shipping concern. Rickard claims that business had been going well for them, and that he doesn't know why anyone would want to kill him.
-32863 := Rickard Lusoff claimed that he had been out hunting iriaz shortly before the murder. He claimed that he saw one near the bridge from his location in the rocks to the south and fired. Unfortunately he was partially blinded by the sun. When he came to where it had fallen, he found Handon Guld standing over Calder Nettic's body.
-
-Rickard and Calder were business partner's in a sub-orbital shipping concern. Rickard claims that business had been going well for them, and that he doesn't know why anyone would want to kill him.
-
-Rickard didn't recognize the blaster that was found near the body, but says that it definitely wasn't Calder's.
-32864 := Rogue Droid
-32865 := You have been told about a rogue Sith droid that has escaped from the labs and holed itself up in one of the valley's tombs. The Sith have not yet decided to go into the tomb to remove it by force... leaving it to some enterprising Sith hopefuls to take that job upon themselves.
-32866 := You encountered a rogue Sith assassin droid within one of the valley's tombs. You were able to deactivate its assassination protocols, for which the droid was grateful. While it left the planet, you're not positive that the act is one that would gain you favor with Master Uthar.
-32867 := You encountered a rogue Sith assassin droid within one of the valley's tombs and in the end you were forced to destroy it along with its other droid minions, an act that will surely gain you favor with Master Uthar.
-32868 := You have informed Master Uthar of your destruction of the rogue assassin droid in the tombs, an act which impressed him greatly and brought you one step closer to your final test.
-32869 := Even though you did not destroy the rogue assassin droid in the tombs, you did get rid of Master Uthar's problem... a lie which he was willing to swallow and give you prestige for. You are now one step closer towards reaching the final test.
-32870 := Rukil's Apprentice
-32871 := Rukil of the Outcast village has asked you to discover the fate of his missing apprentice, a young woman named Malya. She never returned from a mission Rukil sent her on some time ago, though he refuses to tell you what she was searching for when she left the village.
-32872 := You've given Rukil the journal of his missing apprentice, confirming what the old man suspected: she perished while searching for the mythical Promised Land.
-32873 := Sand People
-32874 := Czerka Corporation has given you permission to enter the Dune Sea on the condition that you stop the Sand People from raiding their mining interests. They want the Sand People chieftain's gaffi stick as proof. 
-32875 := The leader of a group of Czerka employees near a damaged sandcrawler said there was a Sand People enclave in the south of the Dune Sea. The Sand People have many captured Czerka weapons, so he suggested you sneak in somehow.
-32876 := The leader of a group of Czerka employees near a damaged sandcrawler said there was a Sand People enclave in the south of the Dune Sea. The Sand People have many captured Czerka weapons, including several stolen turrets, so he suggested you sneak in somehow.
-32877 := You have acquired Sand People robes. They should allow you to pass yourself off as a Sand People warrior, at least from a distance. They may make entering the Sand People enclave a little easier. All of the non-droid members of your party would have to be wearing the robes for the disguise to work. Since you don't have robes big enough to fit Zaalbar, his presence would certainly give you away.
-32878 := Your Sand People robes are no good at short range, but seem to be an effective disguise at a distance. Make sure all the non-droid members of your group are wearing the robes when you approach the enclave. Since you don't have robes large enough to fit Zaalbar, the Wookiee would surely give you away.
-32879 := You made it inside the Sand People enclave, having walked past the turrets outside. You'll have to make sure to clear the place out or they will activate the turrets to kill you when you leave.
-32880 := You have killed the Sand People chieftain. Find his personal gaffi stick and take it to the Czerka office in Anchorhead.
-32881 := You successfully made it into the Sand People enclave, momentarily surprising the guards inside. HK-47 has taken the opportunity to confuse them, communicating in their own dialect. It may allow you to find a peaceful solution to the conflict with Czerka Corporation.
-32882 := You have been brought before the Sand People chieftain. He will order the attacks against Czerka Corporation to be scaled back if you bring him moisture vaporators from the Czerka office in Anchorhead. You will not be allowed back inside the enclave until you have the vaporators.
-32883 := The Czerka have made it clear they are not interested in a peaceful solution to the Sand People attacks. They want you to kill them all.
-32884 := You have purchased two moisture vaporators from the Czerka office. Take them to the Sand People chieftain in the enclave. 
-32885 := The Sand People chieftain was surprised that you returned with the vaporators. He will reduce the frequency of attacks against the Czerka, and has given you his gaffi stick as a symbol of the agreement. Take the gaffi to the Czerka office in Anchorhead.
-32886 := The short-lived peace with the Sand People has failed. You'll have to kill the lot of them.
-32887 := You brought the Sand People chieftain's gaffi to the Czerka office, fulfilling your agreement with them.
-32888 := Czerka Corporation has offered to allow you to leave Anchorhead and enter the Dune Sea if you help stop the Sand People from attacking their interests. There is no other way to get permission to enter the Dune Sea.
-32889 := You have broken the short-lived peace with the Sand People and will have to acquire the chieftain's gaffi through brute force.
-32890 := You have acquired the Sand People chieftain's gaffi stick. Return it to the Czerka office in Anchorhead as proof that you have killed the Sand People in this enclave.
-32891 := Sandral-Matale Feud
-32892 := Ahlan Matale has approached the Jedi Council and demanded action. He believes that the head of the rival Sandral family, Nurik Sandral, has kidnapped his son. The Jedi Council has decreed that you may investigate the disappearance so long as it does not detract from your main quest.
-32893 := You have spoken to Ahlan Matale and he is very adamant about his belief that the Sandrals to the south are behind the disappearance of his son Shen.
-32894 := You have spoken to Nurik Sandral and his daughter Rahasia. Nurik denies any involvement in Shen's disappearance, but Rahasia tells another story. She says that her father has captured Shen because he believes that Ahlan has his own son, Casus. Shen is being held in the Sandral estate, and Rahasia has given you a key to the rear entrance so that you may help him escape.
-32895 := Shen says that he will not leave the estate so long as Rahasia stays behind. He fears for what her father may do to her once his escape has been discovered. He claims to love her.
-32896 := Rahasia has agreed to meet you and Shen outside the estate. Now all that remains is to get him out of here...
-32897 := Shen and Rahasia met outside the Sandral estate, but were ambushed by Ahlan Matale. Shortly thereafter, Nurik Sandral showed up as well. You managed to convince both fathers that this match was for the best and Shen and Rahasia are allowed to stay together now. They thanked you profusely and walked off with their families.
-32898 := You have spoken to Nurik Sandral and his daughter Rahasia. Nurik denies any involvement in Shen's disappearance. His daughter Rahasia came and tried to speak to you, but you must have said something wrong and now she's sulking.
-32899 := Shen and Rahasia met outside the Sandral estate, but were ambushed by Ahlan Matale. Shortly thereafter, Nurik Sandral showed up as well. Unable to reconcile them with their families, Shen and Rahasia fled to the Jedi Enclave where they can live their lives away from their families' poisonous influence.
-32900 := Shen and Rahasia met outside the Sandral estate, but were ambushed by Ahlan Matale. Shortly thereafter, Nurik Sandral showed up as well. It seems that their match was not all they had thought it to be, and Shen and Rahasia were separated in the end. Shen went home with his father and it doesn't seem like they'll be getting back together again. A most unsatisying outcome, but expected.
-32901 := Shen and Rahasia met outside the Sandral estate, but were ambushed by Ahlan Matale. Shortly thereafter, Nurik Sandral showed up as well. It seems that their match was not all they had thought it to be, and Shen and Rahasia were separated in the end. Shen went home with his father after he realized that he had been foolish to love Rahasia. It does not seem like he will ever return to her, and both fathers are pleased.
-32902 := Shen and Rahasia met outside the Sandral estate, but were ambushed by Ahlan Matale. Shortly thereafter, Nurik Sandral showed up as well. In time, the history books may print your part in what followed, but as far as the Council is concerned, both families were uncontrollable and the bloodbath that followed was entirely unavoidable. Tragic, really...
-32903 := Selven's Bounty
-32904 := There is an official government bounty out on a woman named Selven. She is a known assassin, and there are no leads as to where she may be hiding now.
-32905 := Where others have failed you have once again found success in managing to kill the assassin Selven for Zax.
-32906 := Signing Nico
-32907 := Motta the Hutt wants you to help him bully the young racer Nico into a very restrictive racing contract.
-32908 := A young racer named Nico is being bullied into a bad contract with the Hutt running the races on Tatooine.
-32909 := Nico won't listen to what you have to say about Motta's contract until you have proven you are as good a racer as he is, and his times are presumably as fast as the Tatooine offical track record.
-32910 := You have convinced Nico that he should sign Motta's contract. He was resigned to his fate. Time to collect your fee from Motta.
-32911 := You have convinced Motta to give Nico a better contract that will benefit both of them in the long term. Nico will want to express his thanks to you.
-32912 := Motta has rewarded you for helping sign Nico to a very restrictive contract.
-32913 := Nico has expressed his thanks for securing him a better deal with Motta.
-32914 := Star Map: Kashyyyk
-32915 := People seem to know nothing about a possible Star Map on Kashyyyk, though much of the planet is unexplored due to the dangers of the Shadowlands. Firsthand exploration may be the only option.
-32916 := Wookiee chieftain Chuundar has asked that you descend into the Shadowlands and perform a task for him. This will allow you to also search for the Star Map.
-32917 := A repulsor field blocks the passage into the Lower Shadowlands. You will have to find someone who knows how to pass it that is also willing to help you.
-32918 := The reclusive Jolee Bindo has offered to remove barriers from your path if you do a task for him and then give him passage off of Kashyyyk. It may be the only way to access the Lower Shadowlands.
-32919 := Having the reclusive Jolee Bindo in your group will allow you to access the Lower Shadowlands.
-32920 := There is a strange computer in the Lower Shadowlands, northwest of Freyyr, that may hold a clue as to where the Star Map may be found.
-32921 := You have acquired the Star Map from the ancient computer on Kashyyyk.
-32922 := Star Map: Korriban
-32923 := You have heard mention that the Sith are performing excavations on the surface of Korriban in a place they call the "Valley of the Dark Lords". This valley contains ancient ruins and seems to be the most likely location to find the Star Map, though how one might reach it is unknown.
-32924 := It seems that only the Sith of the local monastery have access to the ruins on the surface. If you are going to reach them and search for the Star Map it will have to be through the monastery.
-32925 := You have heard that there are ancient ruins of unknown origin located on the surface of Korriban. This would be a likely place to start looking for the Star Map, so finding out more about these ruins is a good idea.
-32926 := The Star Map on Korriban lies in the tomb of Naga Sadow within the Valley of the Dark Lords. The tomb, however, can only be entered by Master Uthar of the academy. He will take you there for your final test once you succeed in gaining enough prestige... doing so may be your only chance at reaching the Star Map.
-32927 := You have found the Star Map from the Tomb of Naga Sadow on Korriban.
-32928 := Star Map: Tatooine
-32929 := If anyone would know about odd or ancient things on Tatooine, it would have to be the indigenous species. Jawas are hard to understand, however, and Sand People attack everything they see.
-32930 := Iziz claims that he knows where the Star Map is. He will trade this information for help in rescuing his tribe from the Sand People.
-32931 := The Sand People chieftain claims that there is something like the Star Map in the Eastern Dune Sea, though it is in a cavern now housing a feared krayt dragon.
-32932 := There is a krayt dragon in a cavern in the Eastern Dune Sea. The beast will have to be dealt with before any search for the Star Map can be made.
-32933 := You have found a map to the Eastern Dune Sea, an area far from civilization. If the Star Map is on Tatooine, it would likely be in a distant, little explored area such as this.
-32934 := Iziz has thanked you for helping his people, and now says that the Star Map may be located in a cavern in the Eastern Dune Sea. He warns that the excavation he is speaking of is now the lair of a feared krayt dragon.
-32935 := You have acquired the Star Map from the lair of the krayt dragon on Tatooine.
-32936 := The krayt dragon has been killed. Whatever might be hidden in the depths of its lair is now yours to claim.
-32937 := Strange Stowaway
-32938 := You have encountered a young girl on board the Ebon Hawk... obviously a stowaway. The language she speaks, while sounding like Mandalorian, translates into pure gibberish. She may know the language, but she certainly doesn't know how to use it. And yet it seems to be the only language she knows. It might be possible to try talking to her... but dumping her on the planet is also a possibility.
-32939 := Problem solved, the easy way: the odd stowaway has been ordered off your ship. It isn't really your problem, after all, is it?
-32940 := After considerable effort, you have managed to communicate with the young stowaway... whose name appears to be Sasha... and learned what she was doing aboard the ship. Apparently she was once held by the Mandalorians, long enough to learn their speech but nothing else, and she escaped from them long enough to stow away on the Ebon Hawk and hide. Her original home seems to be Dantooine. Perhaps someone there could help her?
-32941 := A Twi'lek who claims to be working for a Dantooine citizen is looking for a young human girl named Sasha... who is likely the same stowaway as the one aboard the Ebon Hawk. He won't come aboard to verify that fact, however. If you are going to coax her off the ship in order to turn her over to the Twi'lek, you're going to have to find some way to communicate with her. It's either that or order her off and wish him well.
-32942 := Sasha has been handed over to the Lur Arka, and hopefully is now on her way back to her family. Problem solved. With luck, this will mean less messes in the food stores unless Zaalbar has another one of his late-night cravings.
-32943 := Sunry Murder Trial
-32944 := You have been approached by Elora, wife of Jolee's friend Sunry. She has begged you to bring Jolee to her so that she may speak to him.
-32945 := Elora has told Jolee that her husband has been imprisoned for the murder of a Sith woman. Elora is adamant that her husband is not responsible and has begged you and Jolee to help her prove his innocence. She says that you can talk to the judges in the court to help get him released.
-32946 := You have spoken to the judges in the court and they have consented to appoint you Arbiter in this case. As Arbiter you will defend your client to the best of your ability before the judges.
-
-They have given you the following information as well:
-
-Sunry was seen leaving the scene of the murder after a blaster shot was heard. Sunry has noticeable, crippling injuries from his past experience as a war hero against the Sith, so it was definitely him. This is testified to by the proprietor of the hotel where this occurred, Ignus.
-
-In the room that he had rented, a Sith woman, Elassa, was found dead, clutching a Republic war medal in her hand.
-
-There were two witnesses besides the hotel owner. One is Gluupor, a Rodian who was staying in the next room. The other is Firith Me, a gambler who was also staying nearby. Their stories seem to corroborate Ignus'.
-32947 := As Arbiter you must defend Sunry to the best of your ability. However, you have found a data recording that clearly shows Sunry killing the Sith woman Elassa. Can you continue your role of Arbiter impartially, knowing that you client has committed such a crime?
-32948 := You have presented the data recording of Sunry killing Elassa to the court and they have summarily found Sunry guilty as charged. Due to the nature of the crime, the death sentence has been decreed. Justice has been served.
-32949 := You have failed in your efforts to prove Sunry's innocence. The court has found him guilty as charged. Due to the tensions between the Sith and the Republic at the present time, though, they have decided to waive the death penalty and merely sentence him to life imprisonment. Justice has been served, after a fashion.
-32950 := You have managed to convince the Selkath court that Sunry is innocent of his crime. Sunry and Elora both thanked you profusely. They say they'll be heading off-world as soon as possible to get somewhere more peaceful.
-32951 := You have managed to convince the Selkath court that Sunry is innocent of his crime. Sunry and Elora both thanked you profusely. They say they'll be heading off-world as soon as possible to get somewhere more peaceful.
-
-In addition, you proved that the Sith were guilty of trying to frame Sunry. The Ahto City authorities have imposed additional sanction on the Sith in the form of subsidies towards kolto purchases. This should make things easier in the future.
-32952 := Sunry's Story
-32953 := Sunry claims that he's been set up by someone to take the fall for Elassa's murder. He claims that he was secretly trying to turn her into a double agent for the Republic and that the Sith most likely killed her as a result of that.
-32954 := Sunry has admitted that he was having an affair with Elassa, but that he was going there to end it. He said he truly loved and never would have harmed her.
-32955 := Confronted with the evidence of the recording of him killing Elassa, Sunry admitted to his crime. He refuses to confess to the court, however. He says he will not betray the Republic or harm it because of what happened.
-32956 := Tach Poaching
-32957 := Poachers in the Shadowlands have made an offer. They want you to help harvest tach, small creatures that possess a gland that can be used as a stimulant.
-32958 := The poachers Jolee wants removed have made an offer. They want you to help harvest tach, small creatures that possess a gland that can be used as a stimulant. It is doubtful Jolee would approve.
-32959 := You have decided to harvest tach for a group of Czerka poachers in the Shadowlands.
-32960 := The poachers have been removed from the Shadowlands. Jolee will join with you now.
-32961 := Tanis Trapped
-32962 := Tanis, a wraid hunter, is stuck in the desert, the victim of a trap laid by his estranged wife. His four droids have surrounded him, and unless someone repairs them, they will explode when he moves.
-32963 := Three more of Tanis' droids need to be repaired before he can safely move.
-32964 := Three of Tanis' droids need to be repaired before he can safely move. One has already self-destructed.
-32965 := Two more of Tanis' droids need to be repaired before he can safely move.
-32966 := Two more of Tanis' droids need to be repaired before he can safely move. One has already self-destructed.
-32967 := One more of Tanis' droids needs to be repaired before he can safely move.
-32968 := One more of Tanis' droids needs to be repaired before he can safely move. One has already self-destructed.
-32969 := Tanis has been rescued from the trap laid by his estranged wife.
-32970 := Tanis has been killed in the trap set by his estranged wife.
-32971 := Taris: Planetary Information
-32972 := Taris is a sharply divided world. The rich live in the Upper City, while the Lower City is run by swoop gangs. The lowest levels of Taris are overrun by terrible monsters called rakghouls. To make matters worse, the Sith have seized control and imposed a planet-wide quarantine.
-32973 := Taris has been reduced to a desolate wasteland of rubble and permacrete dust. No doubt a few citizens survived the Sith assault on the planet, though any survivors are likely to seek shelter in the regions beneath the surface, making it virtually impossible to locate them.
-32974 := Tatooine Swoop Racing
-32975 := You have signed up for the swoop races on Tatooine. Motta the Hutt runs the races and will keep track of your times.
-32976 := You have won the first tier of races on Tatooine.
-32977 := You have won the second tier of races on Tatooine.
-32978 := You are now champion of the swoop track on Tatooine, having won all three official time tiers.
-32979 := The Code of the Sith
-32980 := Yuthura has instructed you on the Code of the Sith. Master Uthar already stated that the first hopeful to come to him with full knowledge of the Code could gain prestige. If you take it to him, make sure you remember it well.
-32981 := You did not learn the Code of the Sith well enough to impress Master Uthar. You will have to find other ways to gain prestige.
-32982 := You were successful in demonstrating to Master Uthar your knowledge of the Code of the Sith. He was impressed, and you have gained prestige, though you will no doubt have to do much more than this to prove your final worth.
-32983 := The Double-Cross
-32984 := Yuthura Ban has chosen you to be part of her plot to overthrow Master Uthar and take over the academy... and she didn't give you much choice in the matter. Yuthura will help you gain enough prestige to be worthy of the final test at the tomb of Naga Sadow, and there she expects you to help her kill Master Uthar.
-32985 := Yuthura has given you a small device which she says will secretly poison Master Uthar. It must be placed within his bed inside his chambers, for which she has given you a passcard to enter. Regardless of whether or not you do as she wishes, Master Uthar should not be told about your relaying of his plan... no doubt he would not look upon you kindly.
-32986 := You have placed Yuthura's device in Master Uthar's bed, meaning he should be poisoned in time for the final test at the tomb of Naga Sadow. This should make him much easier to defeat there. Hopefully Master Uthar does not find out about your involvement in the scheme before that time comes.
-32987 := The Double-Double-Cross
-32988 := Master Uthar has co-opted you into his own plan to turn the tables around on Yuthura. He has given you a datapad with instructions to have Yuthura poisoned in time for the final test. You must locate Adrenas in the exit to the Valley of the Dark Lords and give the datapad to him.
-32989 := You have turned over Master Uthar's datapad to Yuthura, effectively eliminating any possibility of her being poisoned. It would probably not be a good idea to reveal this particular detail to Master Uthar.
-32990 := Master Uthar's datapad has been turned over to Adrenas. This means that when (and if) you go to the final test at the tomb of Naga Sadow, Yuthura will be poisoned and weak enough to be easily defeated.
-32991 := You have informed Yuthura about the poison that Master Uthar intends to use on her, ultimately nullifying the effect his plot will have. It would probably not be a good idea to reveal this particular detail to Master Uthar.
-32992 := The Droid's Story
-32993 := The information retrieval droid has given you the following information (stored in your datapad):
-
-Analysis of the body indicates that the time of death was within the last 3 hours.
-
-There was a reported connection between Calder and Handon in the form of several speeder rentals recently.
-
-Rickard was involved in a public disturbance involving Calder in which he accused Calder of cheating him out of money.
-
-There have been numerous kath hound attacks recently and a general warning went out to all settlers that they should carry weapons with them at all times when out on the plains.
-32994 := The information retrieval droid has given you the following information (stored in your datapad):
-
-Analysis of the body indicates that the time of death was within the last 3 hours.
-
-There was a reported connection between Calder and Handon in the form of several speeder rentals recently.
-
-Rickard was involved in a public disturbance involving Calder in which he accused Calder of cheating him out of money.
-
-There have been numerous kath hound attacks recently and a general warning went out to all settlers that they should carry weapons with them at all times when out on the plains.
-
-There is no record of Handon's blaster being reported stolen.
-32995 := The information retrieval droid has given you the following information (stored in your datapad):
-
-Analysis of the body indicates that the time of death was within the last 3 hours.
-
-There was a reported connection between Calder and Handon in the form of several speeder rentals recently.
-
-Rickard was involved in a public disturbance involving Calder in which he accused Calder of cheating him out of money.
-
-There have been numerous kath hound attacks recently and a general warning went out to all settlers that they should carry weapons with them at all times when out on the plains.
-
-There is no record of Handon's blaster being reported stolen.
-
-Analysis of the blood sample found on the weapon discovered at the scene of the crime has revealed that the blood is not Calder's.
-32996 := The Duel Ring
-32997 := You've agreed to join the Taris dueling circuit. The non-lethal duels seem quite popular with the spectators, and you sense the chance for substantial profit. Whenever you want a duel, all you have to do is speak to Ajuur.
-32998 := You've claimed your first victory in the dueling ring by defeating Deadeye Duncan. Unfortunately, Duncan's lack of ability is legendary, so hardly anyone is impressed by your victory.
-32999 := Gerlon Two-fingers has fallen before you in battle, gaining you some measure of respect among afficionados of the sport, though you are still ranked far below the top ranked duelists.
+1) 汉登声称自己听到枪声后才发现尸体。里卡德说自己当时正盯着太阳看，但他一定在撒谎，因为早些时候有云层遮挡。
+
+2) 汉登说自己只是出来跑步，但他很可能在撒谎，因为所有定居者在平原上都应该携带武器，而汉登没有。里卡德说自己出来猎捕伊里亚兹。
+
+3) 汉登撒谎说自己和考尔德没有私人交情，但他曾多次和考尔德一起租用飞梭。里卡德说自己是考尔德的生意伙伴。
+
+4) 汉登没有报告自己的爆能枪失窃，而那把枪后来出现在犯罪现场。里卡德确认了我们的记录，即它不是考尔德的。
+32837 := 一名叫博卢克的绝地找到了你，需要你协助解决他遇到的一桩复杂案件。显然，汉登·古尔德和里卡德·卢索夫这两个人在另一名男子考尔德·耐蒂克被谋杀时都在现场。博卢克不明白他们的说法为何彼此矛盾，于是请求你协助。
+
+你目前得出的结论如下：
+
+1) 汉登声称自己听到枪声后才发现尸体。里卡德说自己当时正盯着太阳看，但他一定在撒谎，因为早些时候有云层遮挡。
+
+2) 汉登说自己只是出来跑步，但他很可能在撒谎，因为所有定居者在平原上都应该携带武器，而汉登没有。里卡德说自己出来猎捕伊里亚兹。
+
+3) 汉登撒谎说自己和考尔德没有私人交情，但他曾多次和考尔德一起租用飞梭。里卡德说自己是考尔德的生意伙伴。
+
+4) 汉登没有报告自己的爆能枪失窃，而那把枪后来出现在犯罪现场。里卡德确认了我们的记录，即它不是考尔德的。
+
+5) 爆能枪上的血不是考尔德的。进一步检查后确认，汉登曾被射伤。
+
+32838 := 你算是解决了案件。你正确推断出汉登才是真正杀死考尔德的人，却没有意识到里卡德也计划谋杀考尔德。不幸的是，你指控汉登时，里卡德趁机逃走了。希望他能被重新抓获。
+32839 := 你算是解决了案件。你正确推断出里卡德当时到现场是为了杀死考尔德，却没有意识到真正动手的是汉登。不幸的是，你指控里卡德时，汉登逃走了。希望他能被重新抓获。
+32840 := 你成功解决了案件，意识到两人都有罪。虽然真正杀死考尔德的是汉登，但如果里卡德早到一步，他也会杀死考尔德。两名嫌疑人都已被拘押，博卢克一定会把你出色的推理能力告知绝地委员会。
+32841 := 帕扎克牌规则
+32842 := 基础：游戏目标是在不超过总点数 20 的前提下，让你场上明牌的总点数高于对手手牌。如果一名玩家在回合结束时总点数大于 20（即“爆牌”），对手赢得本局。玩家必须赢下 3 局才能赢得比赛并收取赌注。
+
+装备：帕扎克牌使用一副 40 张的主牌组，包含点数 1 到 10 的每种牌各 4 张；另有最多 10 张副牌组，点数范围从 -6 到 +6。
+
+游戏规则：
+1. 每名玩家从自己的副牌组中随机抽取 4 张牌组成手牌。这些牌可在整场比赛的所有局中使用。每张手牌在每场比赛中只能打出一次。
+2. 先手玩家从主牌组抽一张牌并明放，开始自己的回合。
+3. 抽牌后，玩家可以选择从手牌中打出一张牌。打出手牌不是强制的。
+4. 每回合只能打出一张手牌。记住：玩家的 4 张手牌必须撑完整场比赛的所有局。
+5. 玩家现在可以选择停牌或结束回合。选择停牌的玩家在本局中不能再抽牌，也不能再打出任何手牌。当一名玩家停牌后，对手可以继续进行回合，直到自己也停牌或爆牌。
+6. 如果玩家选择结束回合，他们会在下一回合开始时自动再抽一张牌。一名玩家选择停牌或结束回合后，对手抽一张牌，开始自己的下一回合。
+7. 玩家继续轮流行动，直到双方都选择停牌，或一名玩家在回合结束时总点数大于 20（即“爆牌”）。
+记住：只有在你的回合结束时超过 20 点，你才会输。玩家可以从主牌组抽到一张让总点数超过 20 的牌，然后从“手牌”中打出一张负数牌，把总点数拉回 20 以下。
+8. 如果打平，就必须再进行一局。不会从副牌组抽取新的牌。
+9. 一名玩家在一局中场上永远不能超过九张牌。（这包括手牌打出的牌以及从牌组发出的牌。）一旦场上有九张牌，你就会自动停牌。
+10. 从副牌组打出的 +/- 牌在打出时必须声明为正数或负数。一旦打出，就不能更改。
+11. 第一位赢下 3 局的玩家赢得比赛和赌注。
+32843 := 拉克食尸鬼血清
+32844 := 上层城医疗中心的泽尔卡急切希望获得一份西斯地下城巡逻队使用的拉克食尸鬼血清样本。
+32845 := 上层城医疗中心的泽尔卡急切希望获得一份西斯地下城巡逻队使用的拉克食尸鬼血清样本。不过，泽尔卡的助手格尼提到，如果你把血清交给下层城酒吧赏金办公室的扎克斯，也许会更有利可图。
+32846 := 你已经把拉克食尸鬼血清交给了泽尔卡。他打算批量生产这种血清，这样任何需要它的人都能随时在他的店里以非常实惠的价格买到。
+32847 := 你已经把拉克食尸鬼血清交给了扎克斯，他会把血清转交给戴维克，让这位犯罪头目批量生产血清，再以高额利润卖给那些患病又绝望、愿意不惜一切代价购买的人。泽尔卡毫无疑问会在自己的店里备货，但价格很可能高得离谱。
+32848 := 快速传送系统
+32849 := 《星球大战：旧共和国武士》提供快速传送系统，让你可以更快地在游戏中移动。你可以通过地图界面使用快速传送系统。
+
+在地图界面上，你会看到一个写着“返回藏身处”的按钮。在非动作区域，你可以使用这个按钮立刻传送回基地所在的公寓楼。在某些动作区域，这个按钮会被禁用。
+
+位于公寓楼内时，地图界面上的按钮会显示为“传送返回”。按下后，你会被传送回上次使用“返回藏身处”功能的位置。
+
+记住：如果你离开藏身处周边区域，“传送返回”按钮会切换回“返回藏身处”，你就必须自己走回之前的位置。
+
+你现在应该试试“返回藏身处”和“传送返回”按钮，看看它们如何运作。
+32850 := 《星球大战：旧共和国武士》提供快速传送系统，让你可以更快地在游戏中移动。你可以通过地图界面使用快速传送系统。
+
+在地图界面上，你会看到一个写着“返回藏身处”的按钮。在非动作区域，你可以使用这个按钮立刻传送回基地所在的公寓楼。在某些动作区域，这个按钮会被禁用。
+
+位于公寓楼内时，地图界面上的按钮会显示为“传送返回”。按下后，你会被传送回上次使用“返回藏身处”功能的位置。
+
+记住：如果你离开藏身处周边区域，“传送返回”按钮会切换回“返回藏身处”，你就必须自己走回之前的位置。
+32851 := 叛变西斯
+32852 := 有人告诉你，一些叛变的西斯学生违抗了乌萨尔大师处决平民的直接命令。已知他们尚未离开卡里班星，很可能正躲藏起来。任何能消灭他们的人，都可能凭此事赢得乌萨尔大师的青睐。
+32853 := 你杀死了躲在夏拉克洞窟中的叛变西斯学生，并把这件事告知乌萨尔大师。他对此相当满意，让你离学徒最终试炼又近了一步。
+32854 := 虽然你把那些叛变西斯学生从夏拉克洞窟中放走了，但你还是成功向乌萨尔大师撒谎，告诉他问题已经解决。严格来说这是真的……他们确实已经不在了。无论如何，你都凭此事在西斯中赢得了威望。
+32855 := 你遇到一群被困在夏拉克洞窟中的叛变西斯学生。他们正试图到达地表逃离这颗星球，但路线目前被某种生物挡住了。除掉那只生物会让他们得以逃走，但杀死他们则会让你获得威望。
+32856 := 你成功杀死了一小群躲在学院外夏拉克洞窟里的叛变西斯学生。把这件事报告给乌萨尔大师，肯定能赢得他的青睐。
+32857 := 夏拉克洞窟中的那只生物被杀后，叛变西斯学生得以到达地表，并逃离了卡里班星。
+32858 := 共和国雇佣佣兵
+32859 := 塞尔卡斯人尼尔科怀疑共和国正在雇佣佣兵。他自称是共和国的朋友，只是想查明是否出了什么问题。他说，如果你查出共和国最近为什么雇了这么多人，他会给你报酬。
+32860 := 你把赫拉克特裂谷中的共和国设施告诉了尼尔科。他感谢了你，并说自己会设法替共和国的行动遮掩。看来至少有些塞尔卡斯人确实站在共和国一边。
+32861 := 里卡德的说法
+32862 := 里卡德·卢索夫声称，在谋杀发生前不久，他外出猎捕伊里亚兹。他说自己从南方岩石中的位置看见桥边有一只，于是开了枪。不幸的是，他被阳光晃得一时看不清。当他来到猎物倒下的地方时，发现汉登·古尔德正站在考尔德·耐蒂克的尸体旁。
+
+里卡德和考尔德是一家亚轨道货运公司的生意伙伴。里卡德声称他们的生意一直做得不错，不知道为什么会有人想杀他。
+32863 := 里卡德·卢索夫声称，在谋杀发生前不久，他外出猎捕伊里亚兹。他说自己从南方岩石中的位置看见桥边有一只，于是开了枪。不幸的是，他被阳光晃得一时看不清。当他来到猎物倒下的地方时，发现汉登·古尔德正站在考尔德·耐蒂克的尸体旁。
+
+里卡德和考尔德是一家亚轨道货运公司的生意伙伴。里卡德声称他们的生意一直做得不错，不知道为什么会有人想杀他。
+
+里卡德不认识尸体附近发现的那把爆能枪，但他说那肯定不是考尔德的。
+32864 := 叛逃机器人
+32865 := 有人告诉你，一台叛逃的西斯机器人从实验室逃了出来，把自己藏在山谷的一座古墓里。西斯尚未决定是否进入古墓强行清除它……这就留给了一些有进取心的西斯候选者，让他们自行接下这项工作。
+32866 := 你在山谷的一座古墓中遭遇了一台叛逃的西斯刺客机器人。你成功停用了它的暗杀协议，机器人对此心怀感激。虽然它离开了这颗星球，但你并不确定这件事能否让你赢得乌萨尔大师的青睐。
+32867 := 你在山谷的一座古墓中遭遇了一台叛逃的西斯刺客机器人，最后你被迫将它和它的其他机器人爪牙一并摧毁。这一举动肯定能让你赢得乌萨尔大师的青睐。
+32868 := 你已经把自己摧毁古墓中叛逃刺客机器人的事告知乌萨尔大师，这一举动让他印象深刻，也让你离最终试炼又近了一步。
+32869 := 虽然你没有摧毁古墓中的叛逃刺客机器人，但你确实替乌萨尔大师解决了问题……而这个谎言他也愿意相信，并因此赐予你威望。你现在距离最终试炼又近了一步。
+32870 := 鲁基尔的学徒
+32871 := 流放者村的鲁基尔请求你查明他失踪学徒的命运，那是一名叫玛莉娅的年轻女子。很久以前，鲁基尔派她去执行一项任务，她再也没有回来，不过他拒绝告诉你她离开村子时究竟在寻找什么。
+32872 := 你把鲁基尔失踪学徒的日志交给了他，证实了这位老人一直怀疑的事：她在寻找传说中的应许之地时死去了。
+32873 := 沙人
+32874 := 泽卡公司允许你进入沙丘海，条件是你必须阻止沙人袭击他们的采矿利益。他们要沙人酋长的加菲杖作为证明。
+32875 := 一群泽卡员工的领队在一辆损坏的沙漠爬行车附近说，沙丘海南部有一处沙人营地。沙人有许多缴获的泽卡武器，所以他建议你设法潜入。
+32876 := 一群泽卡员工的领队在一辆损坏的沙漠爬行车附近说，沙丘海南部有一处沙人营地。沙人有许多缴获的泽卡武器，其中还包括几座偷来的炮塔，所以他建议你设法潜入。
+32877 := 你获得了沙人长袍。至少从远处看，它们应该能让你冒充沙人战士。它们也许会让进入沙人营地变得容易一些。你队伍中所有非机器人成员都必须穿上长袍，伪装才能奏效。由于你没有足够大的长袍能让扎尔巴穿上，他的出现肯定会暴露你。
+32878 := 你的沙人长袍在近距离下没什么用，但从远处看似乎是有效的伪装。接近营地时，确保你队伍中所有非机器人成员都穿着长袍。由于你没有足够大的长袍能让扎尔巴穿上，这名伍基人的存在肯定会暴露你。
+32879 := 你从外面的炮塔旁走过，成功进入了沙人营地。你必须确保清空这里，否则他们会在你离开时启动炮塔杀死你。
+32880 := 你已经杀死了沙人酋长。找到他的个人加菲杖，并把它带到锚头镇的泽卡办公室。
+32881 := 你成功进入了沙人营地，暂时让里面的守卫措手不及。HK-47 借机迷惑了他们，用他们自己的方言进行交流。这也许能让你找到和平解决泽卡公司冲突的办法。
+32882 := 你被带到了沙人酋长面前。如果你从锚头镇的泽卡办公室给他带来湿气蒸发器，他会下令减少对泽卡公司的袭击。在你拿到蒸发器之前，你不会被允许回到营地里。
+32883 := 泽卡公司已经明确表示，他们对和平解决沙人袭击毫无兴趣。他们要你把沙人全杀了。
+32884 := 你已经从泽卡办公室购买了两台湿气蒸发器。把它们带给营地里的沙人酋长。
+32885 := 沙人酋长对你带着蒸发器回来感到惊讶。他会降低对泽卡的袭击频率，并把他的加菲杖交给你，作为协议的象征。把加菲杖带到锚头镇的泽卡办公室。
+32886 := 与沙人之间短暂的和平已经失败。你必须把他们全杀了。
+32887 := 你把沙人酋长的加菲杖带到了泽卡办公室，履行了与他们的协议。
+32888 := 泽卡公司提出，只要你帮助阻止沙人袭击他们的利益，他们就允许你离开锚头镇并进入沙丘海。没有其他办法能获得进入沙丘海的许可。
+32889 := 你打破了与沙人之间短暂的和平，现在必须通过武力夺取酋长加菲杖。
+32890 := 你获得了沙人酋长的加菲杖。把它带回锚头镇的泽卡办公室，作为你杀死这个营地中沙人的证明。
+32891 := 桑德拉尔-马塔勒世仇
+32892 := 阿兰·马塔勒找到绝地委员会并要求采取行动。他认为敌对的桑德拉尔家族首领努里克·桑德拉尔绑架了他的儿子。绝地委员会裁定，只要不妨碍你的主要任务，你可以调查这起失踪案。
+32893 := 你已经和阿兰·马塔勒谈过，他非常坚持自己的看法，认为南方的桑德拉尔家就是他儿子申失踪的幕后黑手。
+32894 := 你已经和努里克·桑德拉尔及其女儿拉哈西亚谈过。努里克否认与申的失踪有任何关系，但拉哈西亚说出了另一种说法。她说她父亲抓住了申，因为他认为阿兰抓走了他自己的儿子卡苏斯。申被关押在桑德拉尔庄园，而拉哈西亚给了你一把后门钥匙，好让你帮他逃脱。
+32895 := 申说，只要拉哈西亚留在庄园里，他就不会离开。他担心自己的逃跑被发现后，她的父亲会对她做些什么。他声称自己爱她。
+32896 := 拉哈西亚已经同意在庄园外与你和申会合。现在剩下的只有把他带出这里……
+32897 := 申和拉哈西亚在桑德拉尔庄园外会合，却遭到阿兰·马塔勒伏击。没过多久，努里克·桑德拉尔也出现了。你成功说服两位父亲相信这桩姻缘是最好的结果，现在申和拉哈西亚被允许继续在一起。他们再三向你道谢，然后和各自的家人一起离开。
+32898 := 你已经和努里克·桑德拉尔及其女儿拉哈西亚谈过。努里克否认与申的失踪有任何关系。他的女儿拉哈西亚曾过来试图和你谈话，但你一定说错了什么，现在她正在生闷气。
+32899 := 申和拉哈西亚在桑德拉尔庄园外会合，却遭到阿兰·马塔勒伏击。没过多久，努里克·桑德拉尔也出现了。由于无法让他们与家人和解，申和拉哈西亚逃往绝地飞地，在那里他们可以远离各自家族的恶毒影响，过自己的生活。
+32900 := 申和拉哈西亚在桑德拉尔庄园外会合，却遭到阿兰·马塔勒伏击。没过多久，努里克·桑德拉尔也出现了。看来他们的结合并不像他们以为的那样美好，申和拉哈西亚最终分开了。申和父亲一起回了家，看起来他们不会再复合了。一个极不令人满意但意料之中的结果。
+32901 := 申和拉哈西亚在桑德拉尔庄园外会合，却遭到阿兰·马塔勒伏击。没过多久，努里克·桑德拉尔也出现了。看来他们的结合并不像他们以为的那样美好，申和拉哈西亚最终分开了。申意识到自己爱上拉哈西亚有多愚蠢，于是和父亲一起回了家。看起来他永远不会再回到她身边，而两位父亲都很满意。
+32902 := 申和拉哈西亚在桑德拉尔庄园外会合，却遭到阿兰·马塔勒伏击。没过多久，努里克·桑德拉尔也出现了。将来历史书也许会记下你在随后事件中的作用，但就委员会而言，两个家族都已失控，随后的流血惨剧完全不可避免。真是悲剧……
+32903 := 塞尔文的赏金
+32904 := 政府正式悬赏一名叫塞尔文的女子。她是一名知名刺客，而现在没有任何关于她藏身地点的线索。
+32905 := 别人失败之处，你再次获得了成功，设法替扎克斯杀死了刺客塞尔文。
+32906 := 签下尼科
+32907 := 赫特人莫塔想让你帮他胁迫年轻赛车手尼科签下一份限制极多的赛车合同。
+32908 := 一名叫尼科的年轻赛车手正被塔图因星赛事的赫特人经营者胁迫，要他签下一份糟糕的合同。
+32909 := 在你证明自己和他一样是优秀赛车手之前，尼科不会听你谈莫塔合同的事；而他的成绩大概和塔图因官方赛道纪录一样快。
+32910 := 你已经说服尼科签下莫塔的合同。他接受了自己的命运。该向莫塔收取你的费用了。
+32911 := 你已经说服莫塔给尼科一份更好的合同，从长远来看，这会让双方都受益。尼科会想向你表达谢意。
+32912 := 莫塔已经因为你帮助他让尼科签下限制极多的合同而奖励了你。
+32913 := 尼科已经感谢你为他争取到和莫塔之间更好的交易。
+32914 := 星图：卡希克星
+32915 := 人们似乎对卡希克星上可能存在的星图一无所知，不过由于暗影之地危险重重，这颗星球的大部分区域都尚未探索。亲自探索也许是唯一选择。
+32916 := 伍基人酋长丘恩达要求你下到暗影之地，为他完成一项任务。这样你也能顺便寻找星图。
+32917 := 一道反重力场挡住了通往下层暗影之地的道路。你必须找到一个知道如何通过它、同时也愿意帮助你的人。
+32918 := 隐居的乔利·宾多提出，如果你为他完成一项任务，并带他离开卡希克星，他就会清除你路上的障碍。这也许是进入下层暗影之地的唯一办法。
+32919 := 队伍中有隐居的乔利·宾多，会让你能够进入下层暗影之地。
+32920 := 下层暗影之地中有一台奇怪的计算机，位于弗雷尔西北方，也许藏有星图位置的线索。
+32921 := 你已经从卡希克星上的古代计算机中获得了星图。
+32922 := 星图：卡里班星
+32923 := 你听说西斯正在卡里班星地表一个他们称为“黑暗尊主谷”的地方进行挖掘。这座山谷中有古代遗迹，似乎是最可能找到星图的地点，不过如何到达那里仍不得而知。
+32924 := 看来只有当地修道院的西斯才能进入地表遗迹。如果你要到达遗迹并寻找星图，就必须通过那座修道院。
+32925 := 你听说卡里班星地表有一些来源未知的古代遗迹。这里很可能是开始寻找星图的地点，因此进一步了解这些遗迹是个好主意。
+32926 := 卡里班星上的星图位于黑暗尊主谷内纳迦·萨多的古墓中。然而，只有学院的乌萨尔大师能够进入那座古墓。只要你成功获得足够威望，他就会带你去那里参加最终试炼……这样做也许是你接近星图的唯一机会。
+32927 := 你已经在卡里班星上纳迦·萨多的古墓中找到了星图。
+32928 := 星图：塔图因星
+32929 := 如果有人了解塔图因星上奇异或古老的事物，那一定是当地原住物种。不过，贾瓦人很难理解，而沙人会攻击他们看到的一切。
+32930 := 伊齐兹声称自己知道星图在哪里。他愿意用这条情报交换你的帮助，让你从沙人手中救出他的部族。
+32931 := 沙人酋长声称东部沙丘海中有类似星图的东西，不过它位于一个洞穴里，而那里现在住着一头令人畏惧的克雷特龙。
+32932 := 东部沙丘海的一处洞穴里有一头克雷特龙。必须先处理掉这头巨兽，才能开始寻找星图。
+32933 := 你找到了一张通往东部沙丘海的地图，那里远离文明。如果星图在塔图因星上，它很可能就位于这种遥远而少有人探索的区域。
+32934 := 伊齐兹感谢你帮助他的人民，并说星图可能位于东部沙丘海的一处洞穴中。他警告说，他提到的那处挖掘地点现在是一头令人畏惧的克雷特龙的巢穴。
+32935 := 你已经从塔图因星上克雷特龙的巢穴中获得了星图。
+32936 := 克雷特龙已经被杀。它巢穴深处不管藏着什么，现在都归你了。
+32937 := 奇怪的偷渡者
+32938 := 你在乌木鹰号上遇到了一名年轻女孩……显然是个偷渡者。她说的语言听起来像曼达洛人语，但翻译出来全是胡言乱语。她也许懂这门语言，但肯定不知道该怎么用。然而这似乎又是她唯一会说的语言。也许可以试着和她交谈……不过，把她丢在星球上也是一种选择。
+32939 := 问题已经用简单办法解决了：那个奇怪的偷渡者已经被命令离开你的飞船。说到底，这其实不是你的问题，对吧？
+32940 := 经过相当大的努力，你成功和那个年轻偷渡者沟通了……她的名字似乎是萨莎……并弄清了她为什么会在船上。显然，她曾被曼达洛人囚禁过很长时间，长到足以学会他们的语言，却没学到别的东西；她后来从他们手中逃脱，趁机偷渡到乌木鹰号上躲藏。她原本的家似乎在丹图因星。也许那里有人能帮她？
+32941 := 一名提列克人自称为一名丹图因星公民工作，正在寻找一名叫萨莎的人类小女孩……她很可能就是乌木鹰号上的那个偷渡者。不过，他不会登船确认这一点。如果你想哄她下船，把她交给这名提列克人，就必须想办法和她沟通。不然就只能命令她下船，然后祝他好运。
+32942 := 萨莎已经被交给卢尔·阿卡，希望她现在正回到家人身边。问题解决了。运气好的话，食物储藏间里的烂摊子会少一些，除非扎尔巴又来一次深夜嘴馋。
+32943 := 森里谋杀案审判
+32944 := 埃洛拉找到了你，她是乔利的朋友森里的妻子。她恳求你把乔利带到她身边，好让她和他说话。
+32945 := 埃洛拉告诉乔利，她的丈夫因谋杀一名西斯女子而被监禁。埃洛拉坚称丈夫没有责任，并恳求你和乔利帮助她证明他的清白。她说你可以和法庭上的法官交谈，帮助他获释。
+32946 := 你已经和法庭上的法官谈过，他们同意任命你为此案的仲裁员。作为仲裁员，你将在法官面前尽己所能为你的委托人辩护。
+
+他们还向你提供了以下信息：
+
+有人听到爆能枪枪声后，看见森里离开谋杀现场。森里过去是抗击西斯的战争英雄，身上有明显的严重伤残，所以那一定是他。案发旅馆的老板伊格纳斯为此作证。
+
+在他租下的房间里，一名叫埃拉莎的西斯女子被发现死亡，手中攥着一枚共和国战功勋章。
+
+除旅馆老板外，还有两名目击者。一个是格卢波，一名住在隔壁房间的罗迪亚人。另一个是菲里思·米，一名同样住在附近的赌徒。他们的说法似乎能印证伊格纳斯的证词。
+32947 := 作为仲裁员，你必须尽己所能为森里辩护。然而，你找到了一段数据记录，清楚显示森里杀死了西斯女子埃拉莎。既然知道你的委托人犯下了这样的罪行，你还能公正地继续担任仲裁员吗？
+32948 := 你已经把森里杀死埃拉莎的数据记录提交给法庭，法庭迅速认定森里被指控的罪名成立。鉴于罪行性质，死刑已经宣判。正义得到了伸张。
+32949 := 你没能证明森里的清白。法庭认定他被指控的罪名成立。不过，由于当前西斯与共和国之间关系紧张，他们决定免除死刑，只判处他终身监禁。某种意义上，正义得到了伸张。
+32950 := 你成功说服塞尔卡斯法院相信森里无罪。森里和埃洛拉都再三向你道谢。他们说会尽快离开这个世界，去更和平的地方。
+32951 := 你成功说服塞尔卡斯法院相信森里无罪。森里和埃洛拉都再三向你道谢。他们说会尽快离开这个世界，去更和平的地方。
+
+此外，你还证明西斯试图陷害森里。阿赫托城当局已经对西斯追加制裁，要求他们以科尔托采购补贴的形式承担代价。这应该会让未来的局面轻松一些。
+32952 := 森里的说法
+32953 := 森里声称有人陷害他，让他为埃拉莎的谋杀案顶罪。他声称自己其实是在秘密尝试把她变成共和国的双重间谍，而西斯很可能因此杀了她。
+32954 := 森里承认自己和埃拉莎有染，但他说自己去那里是为了结束这段关系。他说自己真正爱的是妻子，绝不会伤害埃拉莎。
+32955 := 面对他杀死埃拉莎的记录证据，森里承认了自己的罪行。然而，他拒绝向法庭认罪。他说自己不会因为发生的事背叛共和国，或伤害共和国。
+32956 := 偷猎塔奇
+32957 := 暗影之地中的偷猎者提出了一个条件。他们想让你帮忙猎取塔奇，这些小生物体内有一种腺体，可用作兴奋剂。
+32958 := 乔利想赶走的偷猎者提出了一个条件。他们想让你帮忙猎取塔奇，这些小生物体内有一种腺体，可用作兴奋剂。乔利大概不会赞成。
+32959 := 你决定为暗影之地中的一群泽卡偷猎者猎取塔奇。
+32960 := 偷猎者已经被赶出暗影之地。乔利现在会加入你。
+32961 := 塔尼斯受困
+32962 := 塔尼斯是一名莱德兽猎人，受困在沙漠中，中了他关系疏远的妻子设下的陷阱。他的四台机器人围住了他，除非有人修好它们，否则他一移动它们就会爆炸。
+32963 := 还需要修好塔尼斯的三台机器人，他才能安全移动。
+32964 := 还需要修好塔尼斯的三台机器人，他才能安全移动。已有一台自毁。
+32965 := 还需要修好塔尼斯的两台机器人，他才能安全移动。
+32966 := 还需要修好塔尼斯的两台机器人，他才能安全移动。已有一台自毁。
+32967 := 还需要修好塔尼斯的一台机器人，他才能安全移动。
+32968 := 还需要修好塔尼斯的一台机器人，他才能安全移动。已有一台自毁。
+32969 := 塔尼斯已经从关系疏远的妻子设下的陷阱中获救。
+32970 := 塔尼斯已经死在关系疏远的妻子设下的陷阱中。
+32971 := 塔里斯星：行星信息
+32972 := 塔里斯星是一个严重割裂的世界。富人住在上层城，而下层城由飞梭帮派控制。塔里斯星的最底层被名为拉克食尸鬼的可怕怪物占据。更糟的是，西斯已经夺取控制权，并实施了全球隔离。
+32973 := 塔里斯星已经化为一片荒凉的废土，只剩瓦砾和永久混凝土粉尘。毫无疑问，有少数市民在西斯对这颗星球的袭击中幸存下来，但任何幸存者都很可能会躲进地下区域，几乎不可能找到他们。
+32974 := 塔图因飞梭赛
+32975 := 你已经报名参加塔图因星的飞梭赛。赫特人莫塔负责举办这些比赛，并会记录你的成绩。
+32976 := 你已经赢下塔图因星第一等级的比赛。
+32977 := 你已经赢下塔图因星第二等级的比赛。
+32978 := 你已经赢下全部三个官方计时等级，现在是塔图因星飞梭赛道的冠军。
+32979 := 西斯准则
+32980 := 尤苏拉已经向你讲解了西斯准则。乌萨尔大师早已说明，第一个带着完整准则知识来到他面前的候选者可以获得威望。如果你要把准则背给他听，务必记牢。
+32981 := 你没能把西斯准则学到足以打动乌萨尔大师的程度。你必须寻找其他办法来获得威望。
+32982 := 你成功向乌萨尔大师展示了自己对西斯准则的了解。他对此印象深刻，你也获得了威望，不过毫无疑问，你还必须做更多事才能证明自己最终的价值。
+32983 := 双重背叛
+32984 := 尤苏拉·班选中你参与她推翻乌萨尔大师并接管学院的阴谋……而且她在这件事上并没有给你多少选择。尤苏拉会帮助你获得足够威望，让你有资格参加纳迦·萨多古墓中的最终试炼，而她希望你在那里帮助她杀死乌萨尔大师。
+32985 := 尤苏拉给了你一个小装置，她说它会秘密让乌萨尔大师中毒。你必须把它放在他寝室里的床上，为此她给了你一张通行卡。无论你是否照她的意思去做，都不该告诉乌萨尔大师你泄露了这一计划……他无疑不会对你有好脸色。
+32986 := 你已经把尤苏拉的装置放在乌萨尔大师的床上，这意味着他应该会在纳迦·萨多古墓的最终试炼前及时中毒。这样他在那里就会容易击败得多。希望乌萨尔大师不会在那之前发现你参与了这个阴谋。
+32987 := 连环双重背叛
+32988 := 乌萨尔大师已经把你拉入自己的计划，准备反过来算计尤苏拉。他给了你一块数据板，上面写着让尤苏拉在最终试炼前及时中毒的指示。你必须在黑暗尊主谷出口找到阿德雷纳斯，并把数据板交给他。
+32989 := 你已经把乌萨尔大师的数据板交给尤苏拉，实际上消除了她中毒的任何可能。把这个特别的细节告诉乌萨尔大师大概不是个好主意。
+32990 := 乌萨尔大师的数据板已经交给阿德雷纳斯。这意味着当你（如果你真的）前往纳迦·萨多古墓参加最终试炼时，尤苏拉会中毒并变得足够虚弱，很容易被击败。
+32991 := 你已经把乌萨尔大师打算对尤苏拉下毒的事告诉了她，最终抵消了他阴谋的效果。把这个特别的细节告诉乌萨尔大师大概不是个好主意。
+32992 := 机器人的说法
+32993 := 信息检索机器人向你提供了以下信息（已存入你的数据板）：
+
+尸体分析显示，死亡时间在过去 3 小时内。
+
+记录显示，考尔德和汉登最近有过关联，形式是多次租用飞梭。
+
+里卡德曾卷入一起涉及考尔德的公共骚乱，当时他指控考尔德骗走了他的钱。
+
+最近发生了多起卡斯猎犬袭击事件，并已向所有定居者发布一般警告：外出到平原时应始终随身携带武器。
+32994 := 信息检索机器人向你提供了以下信息（已存入你的数据板）：
+
+尸体分析显示，死亡时间在过去 3 小时内。
+
+记录显示，考尔德和汉登最近有过关联，形式是多次租用飞梭。
+
+里卡德曾卷入一起涉及考尔德的公共骚乱，当时他指控考尔德骗走了他的钱。
+
+最近发生了多起卡斯猎犬袭击事件，并已向所有定居者发布一般警告：外出到平原时应始终随身携带武器。
+
+没有汉登报告爆能枪失窃的记录。
+32995 := 信息检索机器人向你提供了以下信息（已存入你的数据板）：
+
+尸体分析显示，死亡时间在过去 3 小时内。
+
+记录显示，考尔德和汉登最近有过关联，形式是多次租用飞梭。
+
+里卡德曾卷入一起涉及考尔德的公共骚乱，当时他指控考尔德骗走了他的钱。
+
+最近发生了多起卡斯猎犬袭击事件，并已向所有定居者发布一般警告：外出到平原时应始终随身携带武器。
+
+没有汉登报告爆能枪失窃的记录。
+
+对犯罪现场发现武器上的血样进行分析后显示，那不是考尔德的血。
+32996 := 决斗场
+32997 := 你已经同意加入塔里斯星决斗圈。非致命决斗似乎很受观众欢迎，而你也感觉到这里有机会赚取可观利润。只要你想决斗，和阿朱尔说一声就行。
+32998 := 你击败死眼邓肯，在决斗场中赢得了第一场胜利。不幸的是，邓肯的无能十分出名，所以几乎没人对你的胜利印象深刻。
+32999 := 格尔隆·双指已经在战斗中败给你，让你在这项运动的爱好者中获得了一定尊重，不过你的排名仍远低于顶尖决斗者。
 33000 := With your victory over Ice people are beginning to notice your accomplishments in the ring. If you continue to climb the ranks a championship match is inevitable. 
 33001 := By defeating Marl, you've solidly staked your claim among the duel ring's elite. In fact, only one fighter stands between you and the title of duel champion... the crazed Rodian, Twitch.
 33002 := Like all the others, Twitch was no match for you in the duel ring. The title of duel champion is yours, by right and by might.
