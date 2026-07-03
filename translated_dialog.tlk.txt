@@ -34778,241 +34778,241 @@ DC15 伤害减半
 32597 := 你大概可以稍后再多和卡斯谈谈，也许等你获得更多经验之后。
 32598 := 眼下卡斯比起谈话，更关心把事情推进起来。也许等局势更明朗、你也有了更多经验后，再试着和他谈谈。
 32599 := 眼下卡斯比起谈话，更关心推进任务。也许等你找到另一幅星图、并有了更多经验后，再试着和他谈谈。
-32600 := Carth is devastated after finding out who you truly are. Give him some time. Perhaps once the Star Maps have been found and the mission is nearer to its conclusion, you might want to try talking to him again.
-32601 := There is nothing more that remains to be said. Whatever becomes of you and Carth will have to be determined once your destiny is resolved... one way or the other.
-32602 := Carth and you have nothing more to talk about, for the moment.
-32603 := Chieftain in Need
-32604 := The Wookiee chieftain Chuundar has taken his brother Zaalbar from you and demands that you kill a mad Wookiee in the Shadowlands. Gorwooken waits for you further down the Great Walkway, and will show you how to descend into the lower forest.
-32605 := Chuundar is not so beloved as he would have you believe. People doubt him, but there is no one to take his place. Chuundar still holds Zaalbar, however, and waits for you to do as you were told and kill the deranged Wookiee in the Shadowlands.
-32606 := A Czerka repulsor field blocks passage into the Lower Shadowlands. You will have to find someone that is willing to help you pass it before you can continue the search for the mad Wookiee Chuundar would have you kill.
-32607 := A Czerka repulsor field blocks passage into the Lower Shadowlands, halting your search for the mad Wookiee Chuundar would have you kill. Jolee Bindo said he would remove barriers from your path if you first helped him.
-32608 := Jolee Bindo has helped you pass the Czerka repulsor field so you can continue your search for the supposedly mad Wookiee that Chuundar wants killed.
-32609 := You have encountered the Wookiee that Chuundar sent you to kill. He seems almost feral, and will have to be subdued before he will respond to reason.
-32610 := Freyyr is not the maddened creature Chuundar suggested he was. You have decided to hear him out.
-32611 := Now that it has been recovered, Bacca's blade can be returned to Freyyr so he can raise allies against Chuundar.
-32612 := You have killed the Wookiee Freyyr as Chieftain Chuundar asked. Return to him for your reward.
-32613 := Freyyr has returned to regain leadership of Rwookrrorro, and you have helped Zaalbar decide to join with his father against Chuundar.
-32614 := Freyyr has returned to regain leadership of Rwookrrorro, but you have prodded Zaalbar to side with his brother Chuundar against their father.
-32615 := Chuundar was very appreciative that you killed Freyyr, his and Zaalbar's father. Zaalbar, too, has decided it was for the best, adopting his brother's darker view of the future.
-32616 := Chuundar was very appreciative that you killed Freyyr, his and Zaalbar's father. With your urging, Zaalbar too has decided it was for the best, adopting his brother's darker view of the future.
-32617 := Freyyr was very grateful that you helped him regain his place as chieftain. He will see that his people are restored to glory and that Zaalbar is no longer an outcast.. 
-32618 := You have returned Bacca's blade to Freyyr. He has gone to rally support and will meet you back in Chuundar's throne room. He's counting on your support.
-32619 := You have set the bait in place, recreating the ritual that should lure out the Great Beast, just as Freyyr said.
-32620 := Freyyr, Zaalbar's father, has asked that you find Bacca's blade. It was lost in the "Great Beast's" hide during a ritual hunt. Recreating the hunt may draw the creature out. The ritual area is south of Freyyr. A suitably large creature will be needed for bait.
-32621 := Freyyr, Zaalbar's father, has asked that you find Bacca's blade. It was lost in the "Great Beast's" hide during a ritual hunt. You have found the body of a large viper kinrath that may serve as bait in a recreation of the hunt. The ritual area is south of Freyyr.
-32622 := You have recovered the blade of a very ornate looking weapon. This would likely be very important to the right Wookiee.
-32623 := You have tied the viper corpse to the vine, just as was probably done by years of Wookiees before you. What purpose this ritual has, you don't know.
-32624 := Freyyr, Zaalbar's father, has asked that you find Bacca's blade. It was lost in the "Great Beast's" hide during a ritual hunt. He does not know it yet, but you already found the blade on your own.
-32625 := Dead Settler
-32626 := You have found the body of Casus Sandral. The journal you found on the body tells that he was an amateur archaeologist who was investigating strange ruins across Dantooine. By the wounds on his body, it would seem that he was mauled to death by kath hounds.
-32627 := You have given Casus' journal to his father, Nurik. This may help ease the pain of his loss.
-32628 := Desert Ambush
-32629 := You have been ambushed in the desert by Gamorrean hunters. They will want payment of some kind to allow you to leave.
-32630 := The Gamorrean ambush has ended in violence.
-32631 := You managed to appease the Gamorreans that ambushed you, and they left without violence.
-32632 := You successfully intimidated the Gamorreans who ambushed you. They fled into the desert.
-32633 := Dia's Bounty
-32634 := Dia has explained to you that she attacked Holdan in self-defense when he began making drunken advances. In retaliation, he ordered a bounty to be placed on her head.
-32635 := Holdan has agreed to remove the bounty from Dia's head in exchange for enough credits to soothe his stinging pride.
-32636 := Not surprisingly, Dia was very excited to discover that the bounty on her head has been lifted. Thanks to you, she no longer has to fear retribution from Holdan for merely defending herself.
-32637 := A waitress named Dia has had an illegal bounty placed on her by Holdan, one of Davik's men. Apparently she attacked him in the cantina, and Holdan retaliated by putting a price on her head.
-32638 := Thanks to your intervention, Holdan has withdrawn the bounty from Dia's head. Now the only thing left is to tell Dia herself the good news.
-32639 := Droid For Sale
-32640 := Yuka Laka claims to have a unique droid for sale, one that can apparenly even translate the dialect of the Sand People, and that is also combat ready. HK-47 is what it is called.
-32641 := You have spoken to HK-47, a droid eager to be purchased from Yuka Laka in Anchorhead. It is a translator and an effective combatant.
-32642 := You have purchased HK-47 from Yuka Laka in Anchorhead. It is apparently able to translate the Sand People dialect as well as handle itself well in combat, if it is to be believed. It is very reluctant to speak of itself.
-32643 := Elora, Sunry's Wife
-32644 := Elora professes Sunry's innocence. She claims that this is some sort of frame-up by someone who wants to get revenge on him. Sunry was an old war hero against the Sith, so they might harbor him ill...
-32645 := Elora professes Sunry's innocence. She claims that this is some sort of frame-up by someone who wants to get revenge on him. Sunry was an old war hero against the Sith, so they might harbor him ill...
+32600 := 卡斯在得知你的真实身份后大受打击。给他一点时间。也许等星图都被找到、任务更接近尾声时，你可以再试着和他谈谈。
+32601 := 已经没有更多可说的了。你和卡斯最终会变成什么样，必须等你的命运尘埃落定后才能决定……无论结果如何。
+32602 := 目前，你和卡斯没有更多可谈的了。
+32603 := 危难中的酋长
+32604 := 伍基人酋长丘恩达从你身边带走了他的兄弟扎尔巴，并要求你杀死暗影之地里一个发疯的伍基人。戈伍肯在大步道更深处等你，会告诉你如何下到下层森林。
+32605 := 丘恩达并不像他希望你相信的那样受人爱戴。人们怀疑他，却没有人能取代他的位置。不过丘恩达仍然扣押着扎尔巴，等着你按吩咐去杀死暗影之地中那个疯狂的伍基人。
+32606 := 泽卡的反重力场封住了通往下层暗影之地的道路。你必须找到愿意帮你通过的人，才能继续寻找丘恩达要你杀死的那个疯狂伍基人。
+32607 := 泽卡的反重力场封住了通往下层暗影之地的道路，阻止你继续寻找丘恩达要你杀死的疯狂伍基人。乔利·宾多说，如果你先帮他，他就会清除你路上的障碍。
+32608 := 乔利·宾多已经帮你通过泽卡反重力场，让你得以继续寻找丘恩达想杀死的那个据称发疯的伍基人。
+32609 := 你遇到了丘恩达派你来杀的伍基人。他看起来几乎像野兽一样，必须先制服他，他才会听从理性。
+32610 := 弗雷尔并不是丘恩达所说的发疯生物。你决定听他说完。
+32611 := 既然巴卡之刃已经找回，就可以把它交还给弗雷尔，让他召集盟友对抗丘恩达。
+32612 := 你按照丘恩达酋长的要求杀死了伍基人弗雷尔。回去找他领取奖励。
+32613 := 弗雷尔已经回来重夺鲁克罗罗的领导权，而你帮助扎尔巴决定和父亲一起对抗丘恩达。
+32614 := 弗雷尔已经回来重夺鲁克罗罗的领导权，但你怂恿扎尔巴站到兄弟丘恩达一边，反对他们的父亲。
+32615 := 丘恩达非常感激你杀死了弗雷尔，也就是他和扎尔巴的父亲。扎尔巴也决定这是最好的结果，接受了兄弟对未来更阴暗的看法。
+32616 := 丘恩达非常感激你杀死了弗雷尔，也就是他和扎尔巴的父亲。在你的敦促下，扎尔巴也决定这是最好的结果，接受了兄弟对未来更阴暗的看法。
+32617 := 弗雷尔非常感激你帮助他重获酋长之位。他会确保自己的族人恢复荣光，也会让扎尔巴不再是流放者。
+32618 := 你已经把巴卡之刃交还给弗雷尔。他去召集支持者了，并会在丘恩达的王座厅与你会合。他指望你的支持。
+32619 := 你已经把诱饵放好，重现了弗雷尔所说那个应能引出巨兽的仪式。
+32620 := 扎尔巴的父亲弗雷尔请求你寻找巴卡之刃。它在一次仪式狩猎中遗失在“巨兽”的皮肉里。重现那次狩猎也许能把这头生物引出来。仪式地点在弗雷尔南边。需要一头体型足够大的生物作为诱饵。
+32621 := 扎尔巴的父亲弗雷尔请求你寻找巴卡之刃。它在一次仪式狩猎中遗失在“巨兽”的皮肉里。你已经找到一具大型毒蛇金拉斯的尸体，也许可以在重现狩猎时作为诱饵。仪式地点在弗雷尔南边。
+32622 := 你取回了一把外观非常华丽的武器剑刃。对合适的伍基人来说，这很可能极其重要。
+32623 := 你把毒蛇尸体绑在藤蔓上，就像你之前许多年的伍基人大概也曾做过的那样。你不知道这个仪式有什么用途。
+32624 := 扎尔巴的父亲弗雷尔请求你寻找巴卡之刃。它在一次仪式狩猎中遗失在“巨兽”的皮肉里。他还不知道，但你已经独自找到了那把剑刃。
+32625 := 死去的定居者
+32626 := 你找到了卡苏斯·桑德拉尔的尸体。你从尸体上找到的日志显示，他是一名业余考古学家，正在调查丹图因星各处的奇异遗迹。从他身上的伤口来看，他似乎是被卡斯猎犬撕咬致死。
+32627 := 你把卡苏斯的日志交给了他的父亲努里克。这也许能稍稍缓解他的丧子之痛。
+32628 := 沙漠伏击
+32629 := 你在沙漠中遭到加莫人猎手伏击。他们会索要某种报酬才肯让你离开。
+32630 := 加莫人的伏击以暴力收场。
+32631 := 你设法安抚了伏击你的加莫人，他们没有动武便离开了。
+32632 := 你成功恐吓了伏击你的加莫人。他们逃进了沙漠。
+32633 := 迪娅的赏金
+32634 := 迪娅向你解释说，霍尔丹酒后开始对她动手动脚，她为了自卫才攻击了他。作为报复，他下令悬赏她的人头。
+32635 := 霍尔丹同意撤销对迪娅的赏金，条件是得到足够信用点来抚慰他受伤的自尊。
+32636 := 迪娅得知自己头上的赏金已被撤销后，不出所料地非常激动。多亏了你，她不再需要因为仅仅保护自己而害怕霍尔丹报复。
+32637 := 一名叫迪娅的女侍被戴维克手下霍尔丹非法悬赏。显然，她在酒馆里攻击了他，而霍尔丹以悬赏她的人头作为报复。
+32638 := 多亏你的介入，霍尔丹已经撤销了对迪娅的赏金。现在唯一剩下的事，就是亲自把这个好消息告诉迪娅。
+32639 := 待售机器人
+32640 := 尤卡·拉卡声称有一台独特的机器人出售，据说它甚至能翻译沙人方言，而且也已准备好投入战斗。它叫 HK-47。
+32641 := 你已经和 HK-47 交谈过了。这台机器人渴望被人从锚头镇的尤卡·拉卡那里买走。它既是翻译，也是有效的战斗人员。
+32642 := 你已经从锚头镇的尤卡·拉卡那里购买了 HK-47。如果它说的可信，它显然能翻译沙人方言，也能在战斗中照顾好自己。它非常不愿谈论自己。
+32643 := 森里的妻子埃洛拉
+32644 := 埃洛拉坚称森里无罪。她声称这是某个想向他复仇的人设下的陷害。森里曾是对抗西斯的老战争英雄，所以西斯可能对他怀恨在心……
+32645 := 埃洛拉坚称森里无罪。她声称这是某个想向他复仇的人设下的陷害。森里曾是对抗西斯的老战争英雄，所以西斯可能对他怀恨在心……
 
-Under pressure Elora confessed that Sunry had been having an affair with the Sith woman Elassa, but that he had been going there to end the affair.
-32646 := Elora professes Sunry's innocence. She claims that this is some sort of frame-up by someone who wants to get revenge on him. Sunry was an old war hero against the Sith, so they might harbor him ill...
+在压力之下，埃洛拉承认森里曾与西斯女人埃拉莎有染，但他说自己去那里是为了结束这段关系。
+32646 := 埃洛拉坚称森里无罪。她声称这是某个想向他复仇的人设下的陷害。森里曾是对抗西斯的老战争英雄，所以西斯可能对他怀恨在心……
 
-You have heard rumors that Sunry may have been cheating on his wife... Perhaps you should ask Elora about this.
-32647 := Enter the Sith Academy
-32648 := In order to get inside the Sith academy in Dreshdae, you will have to be approved by one of the Sith as a worthy "hopeful". The one who does the deciding is a Twi'lek by the name of Yuthura Ban, apparently.
-32649 := In order to get inside the Sith academy in Dreshdae, you will have to be approved by one of the Sith as a worthy "hopeful". The one who does the deciding of which hopefuls make it is a Twi'lek Sith Master by the name of Yuthura Ban. She can reportedly be sometimes found in colony's cantina.
-32650 := You have spoken to the Sith Master Yuthura Ban, but she is not yet convinced that you are worthy to allow into the academy. She did mention that if one of the other Sith accepted you and gave you a medallion she might change her mind.
-32651 := You have convinced Yuthura Ban to accept you into the Sith academy on Korriban. She will take you inside to meet the academy's Master as soon as you are ready.
-32652 := You have acquired one of the Sith medallions. Presenting this to the Sith Master Yuthura Ban might prove that you are worthy of entering the Sith academy here on Korriban.
-32653 := You have heard that when a Sith accepts a hopeful as worthy they are given a medallion... which must then be presented to Yuthura Ban, the Sith Master who decides which hopefuls enter the academy. She can be found in the colony's cantina.
-32654 := You have acquired one of the Sith medallions. Presenting this to the Sith Master Yuthura Ban might prove that you are worthy of entering the Sith academy here on Korriban. She can be found in the colony's cantina.
-32655 := Escaping Taris
-32656 := Bastila has been found, but you still have no way to escape Taris. Not only do you need the departure codes to get pass the Sith blockade surrounding Taris, you also need to find a ship. You're probably going to need help from one of the locals to get off the planet.
-32657 := Canderous Ordo, a Mandalorian mercenary working for Davik will help you get off the planet if you break into the Sith military base and recover the planetary departure codes. A T3 droid could get you past the security doors, but it'll take more than that to deal with the Sith troopers inside.
-32658 := With the departure codes you recovered from the Sith base and a fast ship you should be able to escape Taris. Canderous Ordo claims he can get access to the Ebon Hawk, Davik Kang's flagship so you can all get off the planet. The only question is whether you can trust him or not...
-32659 := As promised, Canderous got you inside Davik's estate. The Taris crime lord gave you a tour of his facilities, including the hangar where the Ebon Hawk is stored. All you have to do now is find the codes to disable the Hawk's security systems. 
-32660 := You've managed to escape Taris just in time, though there was nothing you could do to stop the Sith from razing the entire surface of the planet. The casualties are likely to climb well into the millions; further evidence of Malak's ruthlessness and just one more reminder of why the Sith must be stopped.
-32661 := Fair Trade
-32662 := The Jawas are in need of someone to help rescue members of their tribe. Speak with their leader Iziz, by the gates out of Anchorhead.
-32663 := Iziz has asked that you help rescue members of his tribe from the Sand People enclave. He will reward you well for any help given.
-32664 := Iziz says he knows where the Star Map is, and will trade you the information for help rescuing his tribe members from the Sand People enclave.
-32665 := The Jawas held captive in the Sand People enclave were very glad for your help, and have promised that their leader Iziz will reward you when you return to the gates inside Anchorehead.
-32666 := You have found some captive Jawas within the Sand People enclave, but releasing them without the cheiftain's permission could be a bad idea.
-32667 := The Sand People chieftain has given you permission to release the Jawas they currently hold captive.
-32668 := Iziz was very grateful for your help in rescuing his tribe members from the Sand People enclave.
-32669 := Iziz gave you some information about the Star Map. He said it may be in the Eastern Dune Sea, in a cavern currently occupied by a krayt dragon.
-32670 := Finding Dustil
-32671 := You ran into an old friend of Carth's... who stunned Carth with the news that he had seen Carth's son, Dustil. The only hitch seems to be that Dustil has joined the Sith. He is a student at the Sith academy on Korriban. Carth has urged you to go there at the earliest opportunity.
-32672 := Carth's son has been found, but the reunion was not exactly what he'd hoped. Dustil does not believe anything Carth has to say on the true nature of his new "family". Carth is desperate to find some kind of proof in the academy that the Sith are evil and bring it to Dustil to open his eyes.
-32673 := Carth's son has been found, but the reunion was not exactly what he'd hoped. Dustil does not believe anything Carth has to say on the true nature of his new "family". You have found a datapad belonging to the master of the academy which Carth believes will be proof of the Sith's true nature. He wants to return to Dustil as soon as possible with it.
-32674 := Dustil's eyes have been opened to the true nature of the Sith. He has determined that he will stay on Korriban and try to both save some of his friends as well as unearth more information. While it's obvious that not everything is patched up between the two of them, they did agree to meet again after events calm and try to make up for some lost time.
-32675 := Carth's son was found. Dustil was an angry young man... a Sith in training who blamed Carth for abandoning him and his mother to their fate. Carth tried to argue his case, but Dustil simply grew angrier and eventually attacked. Carth blames you now for Dustil's death, saying that you could have done something to help.
-32676 := Firith Me the Pazaak Player
-32677 := Firith was staying at the hotel when the murder occurred. He claims he saw nothing and that that's all you'll get out of him.
-32678 := Firith told you he once brushed up against Elassa and her cloak fell open to reveal that she was carrying a lightsaber - the mark of a Jedi! It would seem that Elassa may have been a Dark Jedi allied with the Sith.
-32679 := Gluupor the Rodian
-32680 := Gluupor was staying in one of the rooms of the hotel when the murder took place. He says that he had nothing to do with the crime, ESPECIALLY not with anything in Elassa's room.
-32681 := Gluupor confessed that the Sith made him plant the medal as evidence against Sunry after the murder occurred. It would seem that the Sith are indeed trying to point blame at Sunry.
-32682 := Handon's Story
-32683 := Handon Guld claimed that he was out running as part of his constitutional - due to an aversion to speeders - when he heard a shot and came upon the body. He says that Rickard Lusoff came out of the rocks to the south of the bridge holding a gun. He was the one who reported the murder.
+你听到传闻，说森里可能背叛了妻子……也许你应该就此询问埃洛拉。
+32647 := 进入西斯学院
+32648 := 要进入德雷什戴的西斯学院，你必须被一名西斯认可为有资格的“准学员”。显然，负责作出决定的是一名叫尤苏拉·班的提列克人。
+32649 := 要进入德雷什戴的西斯学院，你必须被一名西斯认可为有资格的“准学员”。负责决定哪些准学员能入学的，是一名叫尤苏拉·班的提列克人西斯大师。据说有时能在殖民地酒馆找到她。
+32650 := 你已经和西斯大师尤苏拉·班谈过，但她还不相信你值得被允许进入学院。她确实提到过，如果其他西斯之一接受你并给你一枚徽章，她也许会改变主意。
+32651 := 你已经说服尤苏拉·班接受你进入卡里班星的西斯学院。只要你准备好，她就会带你进去见学院的大师。
+32652 := 你已经获得一枚西斯徽章。把它交给西斯大师尤苏拉·班，也许能证明你值得进入卡里班星上的西斯学院。
+32653 := 你听说，当一名西斯认可某个准学员有资格时，会给他一枚徽章……然后必须把它交给尤苏拉·班，也就是决定哪些准学员能进入学院的西斯大师。可以在殖民地酒馆找到她。
+32654 := 你已经获得一枚西斯徽章。把它交给西斯大师尤苏拉·班，也许能证明你值得进入卡里班星上的西斯学院。可以在殖民地酒馆找到她。
+32655 := 逃离塔里斯星
+32656 := 巴丝蒂拉已经找到了，但你仍然没有办法逃离塔里斯星。你不仅需要离港代码来通过包围塔里斯星的西斯封锁，还需要找到一艘船。你大概得找当地人帮忙，才能离开这颗星球。
+32657 := 坎德鲁斯·奥多是为戴维克工作的曼达洛人雇佣兵。如果你闯入西斯军事基地，取回行星离港代码，他就会帮助你离开这颗星球。T3 机器人可以带你通过安保门，但要对付里面的西斯士兵，光靠这个还不够。
+32658 := 有了你从西斯基地取回的离港代码，再加上一艘快船，你应该就能逃离塔里斯星。坎德鲁斯·奥多声称自己能让你们接近乌木鹰号，也就是戴维克·康的旗舰，好让你们全部离开这颗星球。唯一的问题是，你能不能信任他……
+32659 := 坎德鲁斯按照承诺带你进入了戴维克的庄园。这位塔里斯星犯罪头目带你参观了他的设施，包括停放乌木鹰号的机库。你现在要做的，就是找到能停用乌木鹰号安保系统的代码。
+32660 := 你设法及时逃离了塔里斯星，尽管你无力阻止西斯夷平这颗星球的整个表面。伤亡人数很可能攀升到数百万；这进一步证明了马拉克的无情，也再次提醒你为何必须阻止西斯。
+32661 := 公平交易
+32662 := 贾瓦人需要有人帮助营救他们的族人。去锚头镇出口大门旁和他们的首领伊齐兹谈谈。
+32663 := 伊齐兹请求你帮助从沙人营地救出他的族人。他会为任何帮助给予丰厚奖励。
+32664 := 伊齐兹说他知道星图在哪里，并愿意用这条情报交换你帮助从沙人营地救出他的族人。
+32665 := 被关在沙人营地里的贾瓦人非常感激你的帮助，并承诺等你回到锚头镇城门内时，他们的首领伊齐兹会奖励你。
+32666 := 你在沙人营地里找到了一些被俘的贾瓦人，但未经酋长允许就释放他们可能不是个好主意。
+32667 := 沙人酋长已经准许你释放他们目前关押的贾瓦人。
+32668 := 伊齐兹非常感激你帮助救出他的族人，让他们脱离沙人营地。
+32669 := 伊齐兹给了你一些关于星图的情报。他说星图可能在东部沙丘海，位于一个目前被克雷特龙占据的洞穴里。
+32670 := 寻找达斯蒂尔
+32671 := 你遇到了一位卡斯的老朋友……他告诉卡斯自己见过卡斯的儿子达斯蒂尔，让卡斯大为震惊。唯一的问题似乎是，达斯蒂尔已经加入西斯。他是卡里班星西斯学院的一名学生。卡斯催促你尽早前往那里。
+32672 := 卡斯的儿子已经找到，但这次重逢并不完全符合他的期待。达斯蒂尔不相信卡斯关于自己新“家族”真实本质的任何说法。卡斯急切地想在学院里找到某种能证明西斯邪恶的证据，并把它带给达斯蒂尔，让他看清事实。
+32673 := 卡斯的儿子已经找到，但这次重逢并不完全符合他的期待。达斯蒂尔不相信卡斯关于自己新“家族”真实本质的任何说法。你找到了一块属于学院大师的数据板，卡斯相信它能证明西斯的真实本质。他想尽快带着它回去见达斯蒂尔。
+32674 := 达斯蒂尔已经看清西斯的真实本质。他决定留在卡里班星，尝试拯救一些朋友，同时发掘更多情报。虽然他们两人之间显然并非一切都已弥合，但他们确实同意在事态平息后再次见面，试着弥补一些失去的时间。
+32675 := 卡斯的儿子找到了。达斯蒂尔是个愤怒的年轻人……一个受训中的西斯，责怪卡斯抛下他和母亲，让他们自生自灭。卡斯试图为自己辩解，但达斯蒂尔只是越来越愤怒，最终发动攻击。卡斯现在把达斯蒂尔的死归咎于你，说你本可以做些什么来帮忙。
+32676 := 帕扎克牌手菲里思·米
+32677 := 谋杀发生时，菲里思住在旅馆里。他声称自己什么都没看见，而这就是你能从他那里得到的全部。
+32678 := 菲里思告诉你，他曾经和埃拉莎擦肩而过，她的斗篷敞开，露出她携带着一把光剑，那是绝地的标志！看来埃拉莎可能是一名与西斯结盟的黑暗绝地。
+32679 := 罗迪亚人格卢波
+32680 := 谋杀发生时，格卢波住在旅馆的一个房间里。他说自己与这起罪行毫无关系，尤其与埃拉莎房间里的任何东西都没有关系。
+32681 := 格卢波承认，谋杀发生后，是西斯让他把那枚勋章放在那里，作为不利于森里的证据。看来西斯确实试图把罪责推到森里身上。
+32682 := 汉登的说法
+32683 := 汉登·古尔德声称自己当时因为讨厌飞车，正外出进行例行健身跑步；他听到一声枪响后赶到尸体旁。他说里卡德·卢索夫从桥南边的岩石后走出来，手里拿着枪。报案的人就是他。
 
-He says that he had very limited knowledge of Calder, but he had recently found out that his wife had been cheating on him with Calder.
-32684 := Handon Guld claimed that he was out running as part of his constitutional - due to an aversion to speeders - when he heard a shot and came upon the body. He says that Rickard Lusoff came out of the rocks to the south of the bridge holding a gun. He was the one who reported the murder.
+他说自己对考尔德了解非常有限，但最近发现妻子一直在和考尔德私通。
+32684 := 汉登·古尔德声称自己当时因为讨厌飞车，正外出进行例行健身跑步；他听到一声枪响后赶到尸体旁。他说里卡德·卢索夫从桥南边的岩石后走出来，手里拿着枪。报案的人就是他。
 
-He says that he had very limited knowledge of Calder, but he had recently found out that his wife had been cheating on him with Calder.
+他说自己对考尔德了解非常有限，但最近发现妻子一直在和考尔德私通。
 
-Handon has identified the blaster found near the body as his, which had been stolen from him a while ago.
-32685 := Hidden Hunters
-32686 := This note from a dying Wookiee in the Shadowlands says that his hunting party was attacked by outsiders using camouflage. They were different from the Czerka, and only attacked when his group put their weapons away, obviously wanting weak prey.
-32687 := The injured Wookiee Grrrwahrr's hunting party was attacked by camouflaged outsiders. He would reward you for killing the leader of the group. They found bodies a short way southwest, and then further south once past the west branch of the path. He said look where the bodies of his fellows are. The outsiders only appeared once Grrrwahrr's group had put their weapons away, obviously wanting their prey as weak as possible. Disarming may be the only way to flush them out.
-32688 := A group of Mandalorians is preying on creatures in the Shadowlands. A datapad mentioned "blending fields" powered by swoops. This undoubtedly provides some form of camouflage.
-32689 := You have killed the leader of the Mandalorians hunting in the Shadowlands.
-32690 := You have killed the leader of the Mandalorians hunting in the Shadowlands. The injured Wookiee Grrrwahrr will be pleased his fallen comrades have been avenged.
-32691 := Grrrwahrr rewarded you for avenging the fallen members of his hunting party.
-32692 := A group of Mandalorians is in the Shadowlands training new recruits and attacking unarmed creatures. They also have camouflage generators on their swoops to further sway odds in their favor.
+汉登已经认出尸体附近发现的爆能枪是他的，那把枪不久前从他那里被偷走。
+32685 := 隐匿猎手
+32686 := 这张来自暗影之地一名垂死伍基人的便条写道，他的狩猎队遭到使用伪装的外来者袭击。他们不同于泽卡，而且只在他的队伍收起武器后才发动攻击，显然想要虚弱的猎物。
+32687 := 受伤伍基人格鲁瓦尔的狩猎队遭到伪装外来者袭击。如果你杀死那群人的首领，他会奖励你。他们先在西南方向不远处发现尸体，然后穿过道路西侧岔路后又在更南边发现尸体。他说要去找同伴尸体所在之处。外来者只有在格鲁瓦尔的队伍收起武器后才现身，显然想让猎物尽可能虚弱。解除武装也许是逼他们现身的唯一办法。
+32688 := 一群曼达洛人正在暗影之地猎杀生物。一块数据板提到由飞梭供能的“伪装场”。这无疑提供了某种形式的伪装。
+32689 := 你已经杀死了在暗影之地狩猎的曼达洛人首领。
+32690 := 你已经杀死了在暗影之地狩猎的曼达洛人首领。受伤的伍基人格鲁瓦尔会很高兴他的阵亡同伴得到了复仇。
+32691 := 格鲁瓦尔因为你替他的狩猎队阵亡成员复仇而奖励了你。
+32692 := 一群曼达洛人正在暗影之地训练新兵，并攻击手无寸铁的生物。他们的飞梭上还装有伪装发生器，进一步让胜算偏向他们。
 32693 := HK-47
-32694 := The deeper functions of HK-47's memory core require some sort of stimulus in order to restore themselves, and HK-47 thinks it is unwise to tamper with this, but other parts of the core might be restored. It would simply take someone of sufficient technical skill in order to do so.
-32695 := Successful tampering with HK-47's memory core has recovered the droid's memory of his most recent owner. The dissolution of the owner's company and auctioning of its assets must be how HK-47 ended up in the droid shop on Tatooine. How the droid got to the executive, however, is unknown.
-32696 := Memories of HK-47's owner prior to the corporate executive have been recovered. The death of that owner shut HK-47 down... and eventually his wife unwittingly sold the droid to the executive. How the senator acquired HK-47 is unknown.
-32697 := It appears that prior to the senator, HK-47 was owned by a feared gangster on Sleheyron known as Bochaba the Hutt. After Bochaba died, another gangster apparently sold the droid to the senator. HK-47 wasn't built on Sleheyron, however, so how he came into the Hutt's possession is unknown.
-32698 := Prior to the Hutt, it appears that HK-47 was owned by a Mandalorian soldier. This is the last of HK-47's retrievable memories, however, and it seems the chain is still not complete... HK-47 had been on an assassination mission in Mandalorian space when he was damaged, but does not know who had originally sent him. Unless the stimuli to restore his deeper core is discovered, the details may never be known.
-32699 := It seems the mystery of HK-47 has finally been solved. The person who sent the droid on his original assassination mission was... you. HK-47 was a Sith assassination droid and the personal bodyguard of Darth Revan. Against all odds, HK-47 returned to his master without even knowing it.
-32700 := Honest Debt
-32701 := The merchant Eli Gand is holding Matton Dasol as an indentured servant. Matton's crew apparently left Kashyyyk under cover of night to avoid paying a repair dept to Eli. Standard business practice, it seems.
-32702 := The scrambled memory of the malfunctioning droid found in the Shadowlands reveals the violent last moments of its companions. Someone named Eli ambushed the group, and the victims also mentioned an absent comrade named Matton. Some sort of disputed debt may have sparked the incident. If it could be salvaged from the droid, this recording might be of interest to someone.
-32703 := The scrambled memory of the malfunctioning droid found in the Shadowlands reveals the violent last moments of its companions. They were ambushed, but identified their attacker as Eli, the merchant you met on docking ring. It appears he has not told the truth about these creditors that supposedly skipped-out on paying him. If it could be salvaged from the droid, Matton would likely be very interested in this recording.
-32704 := Matton was interested in the malfunctioning droid in the Shadowlands, but Eli said it was just rumor and put a stop to the conversation. Some sort of salvaged physical evidence would be needed to press the matter further.
-32705 := Matton was outraged that Eli would be so devious, and has reacted with understandable violence.
-32706 := Matton was grateful that the truth about what happened to his crew was revealed and that Eli was exposed as a thief and a murderer. He'll try to put this treachery behind him.
-32707 := Matton was grateful that Eli was exposed as a thief and a murderer. Because of your prodding, Matton will make sure that he is never so weak again. This incident has certainly tainted him.
-32708 := The newfound courage of the Wookiees has put a premature end to whatever business Matton and Eli had between them.
-32709 := Ignus the Hotel Owner
-32710 := Ignus is the proprietor of the hotel that the murder of Elassa occurred at. He told you that he heard the blaster shot go off, then saw Sunry hobbling away from the scene of the crime.
-32711 := You have managed to persuade Ignus, the hotel owner, to tell the court that he saw Sunry leaving before the shot went off.
-32712 := Infected Outcasts
-32713 := Several of the Outcasts have been infected with the rakghoul disease. They have been placed in quarantine away from the others so that when they transform into rakghouls they won't ravage the rest of the village.
-32714 := A number of the infected Outcasts have already transformed into rakghouls, it's too late for them. But there are others who could be saved if someone were to administer the rakghoul serum to counteract their disease.
-32715 := You have cured the infected Outcasts of the rakghoul disease, and they have been welcomed back into the village.
-32716 := Inside the Vulkar Base
-32717 := You're inside the Vulkar base, but you still have to locate the prototype accelerator. It's probably stored somewhere off the main level, under heavy guard.
-32718 := The prototype accelerator is stored in the basement, but the only way down is through a security elevator in the back of the Vulkar base. You'll need a pass card to use the elevator, unless you can disable the security cannons protecting it.
-32719 := You've successfully shut down the thermal security system protecting the elevator to the garage level of the Vulkar base. Now all you have to do is go down there and find the prototype accelerator... and deal with any angry Vulkars you might meet along the way.
-32720 := You've found the prototype accelerator and, not surprisingly, it was under heavy guard by a Twi'lek named Kandon Ark, Brejik's right-hand man.
-32721 := You've reactivated the heating system in the Vulkar base. The rapid increase in temperature is sure to play havoc with any sensitive, thermal based security equipment.
-32722 := Investigate Ruins
-32723 := The Jedi Council has ordered you to investigate some strange ruins on Dantooine. It would seem that this is one of the places Revan and Malak visited when they were on the planet, and it may hold some key to their fall.
-32724 := You have encountered an ancient droid in these ruins, which purports to be a remanent of a vast, ancient, galaxy-spanning civilization. What happened to this civilizations of 'Builders' and what else lies deeper in the ruins you do not know.
+32694 := HK-47 记忆核心的深层功能需要某种刺激才能恢复，而 HK-47 认为干涉这部分并不明智；不过，核心的其他部分也许可以恢复。只需要具备足够技术技能的人来操作即可。
+32695 := 成功干涉 HK-47 的记忆核心后，恢复了这台机器人对最近一任主人的记忆。那名主人的公司解体，资产被拍卖，这一定就是 HK-47 最终落入塔图因星机器人商店的原因。不过，这台机器人是如何来到那名企业主管手中的，仍然未知。
+32696 := HK-47 在那名企业主管之前的主人的记忆已经恢复。那位主人的死亡让 HK-47 关闭……最后，他的妻子在不知情的情况下把机器人卖给了那名主管。参议员又是如何获得 HK-47 的，仍然未知。
+32697 := 看来在参议员之前，HK-47 属于斯莱赫伦一名令人畏惧的黑帮分子，名叫赫特人博查巴。博查巴死后，另一名黑帮分子显然把机器人卖给了那名参议员。不过，HK-47 并不是在斯莱赫伦制造的，所以它是如何落入赫特人手中的仍然未知。
+32698 := 在赫特人之前，HK-47 似乎属于一名曼达洛人士兵。不过，这是 HK-47 能取回的最后一段记忆，而这条链似乎仍不完整……HK-47 在曼达洛空间执行暗杀任务时受损，但不知道最初是谁派出了它。除非找到能恢复更深层核心的刺激，否则细节也许永远无法得知。
+32699 := 看来 HK-47 的谜团终于解开了。派这台机器人执行最初暗杀任务的人是……你。HK-47 是一台西斯暗杀机器人，也是达斯·瑞文的私人保镖。几乎不可能地，HK-47 在毫不知情的情况下回到了主人身边。
+32700 := 诚实债务
+32701 := 商人伊莱·甘德把马顿·达索尔当作契约仆役扣留。马顿的船员显然趁夜离开卡希克星，以逃避向伊莱支付一笔维修债务。看来这是标准商业惯例。
+32702 := 在暗影之地发现的故障机器人，其混乱记忆揭示了同伴们最后时刻的暴力遭遇。一个名叫伊莱的人伏击了这群人，受害者还提到一名不在场的同伴，名叫马顿。某种有争议的债务可能引发了此事。如果能从机器人中抢救出来，这段记录也许会让某些人感兴趣。
+32703 := 在暗影之地发现的故障机器人，其混乱记忆揭示了同伴们最后时刻的暴力遭遇。他们遭到伏击，但认出攻击者就是伊莱，也就是你在停泊环见过的商人。看来他并没有如实说明那些所谓欠钱跑路的债权人。如果能从机器人中抢救出来，马顿很可能会对这段记录非常感兴趣。
+32704 := 马顿对暗影之地的故障机器人很感兴趣，但伊莱说那只是传闻，并终止了谈话。需要某种抢救出来的实物证据，才能进一步追究此事。
+32705 := 马顿对伊莱如此阴险感到愤怒，并以可以理解的暴力作出反应。
+32706 := 马顿很感激真相被揭露，知道自己的船员究竟遭遇了什么，也知道伊莱是个小偷和杀人犯。他会试着把这场背叛抛在身后。
+32707 := 马顿很感激伊莱被揭露为小偷和杀人犯。由于你的推动，马顿会确保自己再也不会如此软弱。这件事无疑已经玷污了他。
+32708 := 伍基人新获得的勇气，让马顿和伊莱之间的任何生意都提前终结了。
+32709 := 酒店老板伊格纳斯
+32710 := 伊格纳斯是埃拉莎被谋杀那家旅馆的老板。他告诉你，他听到爆能枪开火声，随后看见森里一瘸一拐地离开犯罪现场。
+32711 := 你设法说服旅馆老板伊格纳斯向法庭表示，他看到森里是在枪响前离开的。
+32712 := 受感染的流放者
+32713 := 有几名流放者感染了拉克食尸鬼疫病。他们已被隔离在远离其他人的地方，这样当他们变成拉克食尸鬼时，就不会蹂躏村庄其余居民。
+32714 := 一些受感染的流放者已经变成拉克食尸鬼，对他们来说已经太迟了。但还有其他人可以拯救，只要有人给他们使用拉克食尸鬼血清来抵消疫病。
+32715 := 你已经治好了受感染流放者的拉克食尸鬼疫病，他们也被欢迎回到村庄。
+32716 := 火神帮基地内部
+32717 := 你已经进入火神帮基地，但还必须找到原型加速器。它很可能存放在主层之外的某处，并受到严密看守。
+32718 := 原型加速器存放在地下室，但唯一通往下方的路，是火神帮基地后方的一部安保电梯。你需要一张通行卡才能使用电梯，除非你能停用保护它的安保炮。
+32719 := 你已经成功关闭了保护通往火神帮基地车库层电梯的高温安保系统。现在你只需要下去找到原型加速器……并对付沿途可能遇到的任何愤怒火神帮成员。
+32720 := 你找到了原型加速器，不出所料，它由一名叫坎登·阿克的提列克人严密看守；他是布雷吉克的副手。
+32721 := 你已经重新激活火神帮基地的供暖系统。温度的快速上升肯定会严重干扰任何敏感的热感应安保设备。
+32722 := 调查遗迹
+32723 := 绝地委员会命令你调查丹图因星上的一些奇异遗迹。看来这里是瑞文和马拉克在这颗星球上曾到访过的地方之一，也许藏着他们堕落的某个关键。
+32724 := 你在这些遗迹中遇到了一台古代机器人，它自称是一个庞大、古老、横跨银河文明的遗存。这个“建造者”文明发生了什么，遗迹深处还隐藏着什么，你都不知道。
 
-You have also found the fate of the Jedi who had been sent to investigate earlier. It would seem he had been slain...
-32725 := You have solved the puzzles of the ancient Builder computers and were able to open the doors deeper in the ruins. In the chamber beyond you found an ancient Star Map with several locations marked on it.
+你还发现了此前被派来调查的那名绝地的命运。看来他已被杀害……
+32725 := 你解开了古代建造者计算机的谜题，并得以打开通往遗迹更深处的门。在后方的房间中，你发现了一幅古代星图，上面标记着数个地点。
 
-Bastila believes that Revan and Malak followed this map and it led them to the 'Star Forge' which somehow affected them. You should return to the Council and tell them of your findings.
-32726 := Jagi's Challenge
-32727 := Canderous was approached by a man who had fought under him a long time ago. A man named Jagi.
+巴丝蒂拉相信瑞文和马拉克曾追随这幅地图，而它把他们带向了“星际锻炉”，那东西以某种方式影响了他们。你应该返回委员会，告知他们你的发现。
+32726 := 贾吉的挑战
+32727 := 一个很久以前曾在坎德鲁斯麾下作战的人找上了坎德鲁斯。此人名叫贾吉。
 
-Jagi claims that Canderous had abandoned and betrayed his own men and seeks vengeance. He has called Canderous to duel with him in the Dune Seas of Tatooine or be forever outcast in the eyes of his fellow Mandalorians. Canderous seems eager to meet this challenge.
-32728 := Canderous and Jagi fought in the Dune Sea. Jagi was expecting that you would accompany Canderous, so he had brought friends of his own.
+贾吉声称坎德鲁斯抛弃并背叛了自己的部下，因此寻求复仇。他要求坎德鲁斯在塔图因星的沙丘海与他决斗，否则就永远在曼达洛同胞眼中沦为流放者。坎德鲁斯似乎很想面对这项挑战。
+32728 := 坎德鲁斯和贾吉在沙丘海交战。贾吉预料你会陪同坎德鲁斯，所以也带来了自己的朋友。
 
-In the end you were able to defeat them, and Jagi was slain. Canderous was oddly affected by this.
-32729 := Jagi didn't have to fight Canderous, and you tried to persuade him not to. The Mandalorian sense of honor, however, would not let him live having done what he has.
+最终你击败了他们，贾吉被杀。坎德鲁斯对此受到了奇怪的触动。
+32729 := 贾吉本不必和坎德鲁斯战斗，你也试图说服他别这么做。然而曼达洛人的荣誉感不允许他在做过那些事后继续活下去。
 
-Jagi took his own life in the Dune Sea. This has deeply affected Canderous.
-32730 := Jedi Trials
-32731 := The Jedi Council on Dantooine has decided to train you in the ways of the ancient Jedi Order. After much initial training, your first task will be to learn the precepts of the Jedi Code. This code is the path by which all Jedi should lead their lives.
-32732 := Having completed the first trial, your second task to become a Jedi is to speak to Master Dorak and determine what sort of path within the Order you wish to follow.
-32733 := Having completed the first trial, your second task to become a Jedi is to speak to Master Dorak and determine what sort of path within the Order you wish to follow.
+贾吉在沙丘海结束了自己的生命。这件事深深影响了坎德鲁斯。
+32730 := 绝地试炼
+32731 := 丹图因星的绝地委员会决定训练你走上古代绝地武士团之道。经过大量初步训练后，你的第一项任务将是学习绝地准则的箴言。这套准则是所有绝地都应遵循的人生道路。
+32732 := 完成第一项试炼后，你成为绝地的第二项任务，是去和多拉克大师交谈，确定你希望在武士团中遵循哪一种道路。
+32733 := 完成第一项试炼后，你成为绝地的第二项任务，是去和多拉克大师交谈，确定你希望在武士团中遵循哪一种道路。
 
-You have received your lightsaber crystal and become a Jedi Guardian. You must return to Master Zhar and complete your training.
-32734 := Having completed the first trial, your second task to become a Jedi is to speak to Master Dorak and determine what sort of path within the Order you wish to follow.
+你已经获得光剑水晶，并成为一名绝地守护者。你必须回去找扎尔大师，完成你的训练。
+32734 := 完成第一项试炼后，你成为绝地的第二项任务，是去和多拉克大师交谈，确定你希望在武士团中遵循哪一种道路。
 
-You have received your lightsaber crystal and become a Jedi Sentinel. You must return to Master Zhar and complete your training.
-32735 := Having completed the first trial, your second task to become a Jedi is to speak to Master Dorak and determine what sort of path within the Order you wish to follow.
+你已经获得光剑水晶，并成为一名绝地哨兵。你必须回去找扎尔大师，完成你的训练。
+32735 := 完成第一项试炼后，你成为绝地的第二项任务，是去和多拉克大师交谈，确定你希望在武士团中遵循哪一种道路。
 
-You have received your lightsaber crystal and become a Jedi Consular. You must return to Master Zhar and complete your training.
-32736 := You must cleanse a meditation grove to the southeast of the dark taint that has been infesting it. The exact nature of the cause of the taint has not been made clear.
-32737 := The young Cathar apprentice Juhani is the source of the dark taint permeating the meditation grove. She has fallen to the dark side... although, perhaps not as completely as she believes.
-To remove the taint and complete the final trial, you must convince her to release dark feelings... or destroy her and remove the taint forever.
-32738 := You have slain the fallen Jedi Padawan Juhani, and removed the dark taint from the meditation grove.
-32739 := You have redeemed the fallen Jedi Padawan Juhani, and removed the dark taint from the meditation grove.
-32740 := Juhani has been accepted back into the Enclave while the Council debates her case. It seems that redemption can come even to those who have fallen so far.
-32741 := You have completed the final stages of your training and have been accepted into the Jedi Order as a Padawan.
-32742 := Jolee Bindo
-32743 := You and Jolee have talked a little about his past. You may continue the conversation with him in the future, perhaps once you have gained some more experience.
-32744 := You prodded Jolee in an effort to find out why he decided to come with you. In the end, he did mention his 'adventuring days'. Perhaps you could ask him about them later, once you gain more experience.
-32745 := You got Jolee to talk a little about his adventuring days... and during his tale he mentioned the fact that he had a wife. He didn't want to talk about her, but you might be able to ask him about it later once you gained more experience.
-32746 := Jolee talked a little bit about his wife and why he didn't agree with the Jedi credo that love should be forbidden. He spoke of the Jedi with a great deal of bitterness, in fact. You might be able to ask him about it later, once you gained more experience.
-32747 := You successfully got Jolee to talk about the Jedi, and he told a tale about how they are often less than perfect. He might talk some more if you ask later, once you've gained more experience.
-32748 := Jolee talked about the Sith and mentioned that he had been involved in the Sith War involving the infamous Dark Jedi, Exar Kun. It was obviously an unpleasant memory for him, however, and he told you to ask him about it later when you gained more experience.
-32749 := You successfully convinced Jolee to talk about the Sith War, how his wife turned to the dark side... and how he ultimately abandoned the order for not holding him as responsible for her actions as he held himself. You might be able to ask him more about his past a little later, once you have gained more experience.
-32750 := You asked Jolee a little about his time on Kashyyyk. You can ask him more about it later, once you've gained more experience.
-32751 := You've dragged more out of Jolee about his past than he probably intended... and he has no more tales to tell you, for now. Perhaps once your mission is complete and your destiny finally realized you can talk more.
-32752 := For some reason, Jolee isn't about to talk to you anymore. He will accompany you on your mission, but his thoughts and his story are his own.
-32753 := Jolee's Request
-32754 := Jolee has offered to join with you and help "remove barriers from your path", but he first wants you to remove a group of Czerka poachers from the Shadowlands, northeast of his camp.
-32755 := You have decided to harvest tach for a group of Czerka poachers in the Shadowlands, the same group that Jolee wants removed. It is likely he won't be pleased.
-32756 := Jolee has offered to join with you and help "remove barriers from your path", but he first wants you to remove the Czerka poachers from the Shadowlands northeast of his camp. He was not pleased that you had agreed to help them hunt.
-32757 := You have removed the poachers as Jolee requested. He will now show you how to go deeper into the Shadowlands.
-32758 := Largo's Bounty
-32759 := A merchant named Largo owes a large sum of money to Davik Kang. Because he is unable to pay the debt, Largo has gone into hiding. In response, Davik has put an illegal bounty on his head.
-32760 := Out of the goodness of your heart, you've given Largo the money to pay Davik back, likely saving the poor man's life.
-32761 := You returned to Zax to collect the posted bounty for Largo's death. The hapless merchant's fate will serve as a grim reminder of what happens to people who borrow money from Davik Kang and can't pay it back.
-32762 := Manaan Swoop Races
-32763 := Swoop races on Manaan are open to anyone willing to pay the 100 credit racing fee. There are three rounds of races to compete in.
-32764 := You have spoken to Queedle, an amateur racer on Manaan. He needs money to upgrade his swoop so he can compete with the professional racers.
-32765 := You have given Queedle some credits to upgrade his swoop. Once he has had some time to upgrade his bike, he will be able to compete against the professional racers.
-32766 := Queedle has won the swoop races on Manaan, becoming Sector Champion. He has surprised everyone, and greatly increased the level of competition.
-32767 := You have beaten the first round of races on Manaan.
-32768 := You have beaten the second round of races on Manaan.
-32769 := The current champion of the Manaan races has told you that you should give up racing. He has promised a violent reward for anyone that beats his time.
-32770 := You have beaten the third round of races on Manaan, and become Sector Champion.
-32771 := You beat his first round time, so Queedle has decided to quit racing. Whether it was time or money, he thinks he just doesn't have what it takes to compete with the professionals.
-32772 := The race organizer on Manaan says that current Sector Champion Hukta Jax wants to speak with you before you do another official race.
-32773 := Mandalorian Raiders
-32774 := You have heard that bands of Mandalorian raiders have been harassing the settlers on Dantooine.
-32775 := Jon has told you of the attacks by the raiders that killed his daughter. He has begged you to find them and destroy them. If they are destroyed, then they won't bother the settlers anymore... but it could be dangerous.
-32776 := You have encountered some of the Mandalorian raiders plaguing Dantooine and slain them. They did not seem as organized or as powerful as you had been led to believe. Perhaps you have not yet met their most powerful members...
-32777 := You have met and slain the Mandalorian leader, Sherruk. He liked to collect lightsabers, and surely would have taken yours, and your head, had you not slain him.
+你已经获得光剑水晶，并成为一名绝地领事。你必须回去找扎尔大师，完成你的训练。
+32736 := 你必须净化东南方冥想林地中盘踞的黑暗污秽。造成这股污秽的确切原因尚不明确。
+32737 := 年轻的凯瑟学徒茱哈妮，是弥漫冥想林地的黑暗污秽之源。她已经堕入黑暗面……不过，也许并不像她自己相信的那样彻底。
+要清除污秽并完成最终试炼，你必须说服她放下黑暗情感……或者摧毁她，永远清除污秽。
+32738 := 你杀死了堕落的绝地学徒茱哈妮，并清除了冥想林地中的黑暗污秽。
+32739 := 你救赎了堕落的绝地学徒茱哈妮，并清除了冥想林地中的黑暗污秽。
+32740 := 在委员会讨论茱哈妮的案子期间，她已被接纳回绝地飞地。看来即使是堕落至如此地步的人，也仍可能得到救赎。
+32741 := 你已经完成训练的最后阶段，并被接纳为绝地武士团的一名绝地学徒。
+32742 := 乔利·宾多
+32743 := 你和乔利稍微谈了谈他的过去。也许等你获得更多经验后，今后可以继续和他谈这件事。
+32744 := 你追问乔利，试图弄清他为什么决定和你同行。最后，他确实提到了自己的“冒险岁月”。也许等你获得更多经验后，可以稍后再问他相关事情。
+32745 := 你让乔利稍微谈了谈自己的冒险岁月……在他的故事中，他提到自己曾有一位妻子。他不愿谈她，但等你获得更多经验后，也许可以稍后再问他这件事。
+32746 := 乔利稍微谈到了自己的妻子，也谈到他为什么不同意绝地认为爱情应被禁止的信条。事实上，他谈起绝地时带着很深的苦涩。也许等你获得更多经验后，可以稍后再问他这件事。
+32747 := 你成功让乔利谈起绝地，他讲了一个他们也常常并不完美的故事。等你获得更多经验后，如果稍后再问，他也许还会继续讲。
+32748 := 乔利谈到了西斯，并提到自己曾卷入那场牵涉臭名昭著的黑暗绝地埃克萨·库恩的西斯战争。不过那显然是一段令他不快的记忆，他让你等获得更多经验后再问他。
+32749 := 你成功说服乔利谈起西斯战争，谈起他的妻子如何转向黑暗面……以及他最终为何离开武士团，因为他们不像他自己那样认为他该为妻子的行为负责。也许等你获得更多经验后，可以稍后再多问问他的过去。
+32750 := 你稍微问了乔利在卡希克星上的时光。等你获得更多经验后，可以稍后再问他更多。
+32751 := 你从乔利那里拖出了比他原本打算更多的过去……而现在，他暂时没有更多故事可讲了。也许等你的任务完成、你的命运终于实现后，你们可以谈得更多。
+32752 := 出于某种原因，乔利不打算再和你说话了。他会陪你完成任务，但他的想法和故事都属于他自己。
+32753 := 乔利的请求
+32754 := 乔利提出加入你，并帮助“清除你路上的障碍”，但他首先希望你清除一群泽卡偷猎者。他们在暗影之地，位于他的营地东北方。
+32755 := 你决定替暗影之地的一群泽卡偷猎者猎捕塔奇，而这正是乔利想清除的那群人。他很可能不会高兴。
+32756 := 乔利提出加入你，并帮助“清除你路上的障碍”，但他首先希望你清除位于他营地东北方、暗影之地中的泽卡偷猎者。得知你同意帮他们狩猎后，他很不高兴。
+32757 := 你已经按照乔利的要求清除了偷猎者。他现在会告诉你如何深入暗影之地。
+32758 := 拉戈的赏金
+32759 := 一名叫拉戈的商人欠戴维克·康一大笔钱。由于无力偿还债务，拉戈已经躲藏起来。作为回应，戴维克非法悬赏他的人头。
+32760 := 出于善心，你给了拉戈偿还戴维克的钱，很可能救了这个可怜人的命。
+32761 := 你回到扎克斯那里，领取为拉戈之死张贴的赏金。这个倒霉商人的命运将成为严酷提醒，告诉人们向戴维克·康借钱却还不起会有什么下场。
+32762 := 马南飞梭赛
+32763 := 马南的飞梭赛向任何愿意支付 100 信用点参赛费的人开放。比赛共有三轮。
+32764 := 你已经和奎德尔谈过，他是马南的一名业余赛车手。他需要钱来升级自己的飞梭，好和职业赛车手竞争。
+32765 := 你给了奎德尔一些信用点来升级他的飞梭。等他有时间升级好车后，就能与职业赛车手竞争。
+32766 := 奎德尔赢得了马南飞梭赛，成为区段冠军。他让所有人都大吃一惊，也大幅提升了竞争水平。
+32767 := 你已经赢下马南比赛的第一轮。
+32768 := 你已经赢下马南比赛的第二轮。
+32769 := 马南赛事的现任冠军告诉你，你应该放弃比赛。他承诺，任何超过他成绩的人都会得到暴力的奖励。
+32770 := 你已经赢下马南比赛的第三轮，并成为区段冠军。
+32771 := 你超过了他的第一轮成绩，所以奎德尔决定退出赛车。不管是时间还是金钱问题，他觉得自己就是没有与职业选手竞争的能力。
+32772 := 马南的赛事组织者说，现任区段冠军胡克塔·贾克斯想在你进行另一场正式比赛前和你谈谈。
+32773 := 曼达洛人袭击者
+32774 := 你听说一群群曼达洛人袭击者一直在骚扰丹图因星上的定居者。
+32775 := 乔恩告诉你，袭击者的攻击害死了他的女儿。他恳求你找到并消灭他们。如果他们被消灭，就不会再打扰定居者了……但这可能很危险。
+32776 := 你遇到了一些困扰丹图因星的曼达洛人袭击者，并杀死了他们。他们似乎并不像你之前听说的那样组织严密、力量强大。也许你还没有遇到他们最强大的成员……
+32777 := 你遇到并杀死了曼达洛人的首领谢鲁克。他喜欢收集光剑，如果你没有杀死他，他肯定也会拿走你的光剑和你的头。
 
-Jon would surely like to hear of this, and should reward you as well.
-32778 := Jon has thanked you for slaying the leader of the Mandalorian raiders. Perhaps now the settlers can live their lives without fear.
-32779 := Matrik's Bounty
-32780 := Davik Kang has put out an illegal bounty on a former associate named Matrik who turned state's evidence against Davik and the Exchange.
-32781 := Matrik thinks he can escape his bounty by faking his own death. He's asked you to bring him a permacrete detonator. He plans to set off an explosion in his apartment in the hope that Davik will believe he perished in the blast.
-32782 := Matrik's apartment is nothing but a pile of charred rubble, and Matrik himself has vanished into the wind. If the plan works and people really do believe Matrik is dead, then you can probably still collect his bounty from Zax.
-32783 := Zax gladly paid you the bounty on Matrik's head, so it seems the plan to fake Matrik's death was a success.
-32784 := By completing the bounty on Matrik's head, you further strengthened Davik's hold on the hearts and minds of the people on Taris. Thanks to you, it will be a long, long time before anyone ever dares to testify against the Exchange again.
-32785 := Middleman
-32786 := A distraught woman outside Fazza's hunting lodge needs someone to buy a wraid plate from her.
-32787 := You have paid the woman outside Fazza's lodge for the wraid plate. She was very grateful.
-32788 := You have paid the woman outside Fazza's lodge for the wraid plate, offering more than she was asking. She was extremely grateful for your kindness.
-32789 := You have paid the woman outside Fazza's lodge for the wraid plate, offering half what she was asking. She was unimpressed, but had no other choice.
-32790 := You have convinced the woman outside Fazza's to give you the wraid plate so you can sell it for her and bring her back the money.
-32791 := You have made it clear to the woman outside Fazza's that you will not be paying her for the wraid plate she entrusted to you. There was nothing she could do about it.
-32792 := You have taken the wraid plate from the woman outside Fazza's. She could do nothing to stop you.
-32793 := Missing Companion
-32794 := You have met Elise Montagne, who has lost her... companion. Her droid companion.
+乔恩肯定想听到这件事，也应该会给你奖励。
+32778 := 乔恩感谢你杀死了曼达洛人袭击者的首领。也许现在定居者终于能无惧地生活了。
+32779 := 马特里克的赏金
+32780 := 戴维克·康非法悬赏一名前同伙马特里克；他曾作为污点证人，指证戴维克和交易所。
+32781 := 马特里克认为自己可以通过假死逃脱赏金。他请求你给他带一个永久混凝土雷管。他计划在自己的公寓里引爆，希望戴维克相信他死在了爆炸中。
+32782 := 马特里克的公寓只剩下一堆烧焦的瓦砾，而马特里克本人也消失得无影无踪。如果计划奏效，人们真的相信马特里克已经死了，那你大概仍然可以从扎克斯那里领取他的赏金。
+32783 := 扎克斯痛快地付给你马特里克的人头赏金，因此假造马特里克死亡的计划看来成功了。
+32784 := 通过完成马特里克的人头赏金，你进一步加强了戴维克对塔里斯星人心的掌控。多亏了你，很长很长一段时间里，都不会再有人敢出庭指证交易所。
+32785 := 中间人
+32786 := 法扎狩猎会所外有一名心烦意乱的女人，需要有人从她手里买下一块莱德兽甲片。
+32787 := 你向法扎会所外的女人支付了莱德兽甲片的钱。她非常感激。
+32788 := 你向法扎会所外的女人支付了莱德兽甲片的钱，给出的价钱高于她的要价。她非常感激你的善意。
+32789 := 你向法扎会所外的女人支付了莱德兽甲片的钱，给出的价钱只有她要价的一半。她并不满意，但也别无选择。
+32790 := 你说服法扎会所外的女人把莱德兽甲片交给你，这样你就能替她卖掉，再把钱带回来给她。
+32791 := 你已经明确告诉法扎会所外的女人，你不会为她托付给你的莱德兽甲片付钱。她对此无能为力。
+32792 := 你从法扎会所外的女人那里拿走了莱德兽甲片。她无法阻止你。
+32793 := 失踪的伴侣
+32794 := 你遇到了伊莉丝·蒙塔涅，她失去了她的……伴侣。她的机器人伴侣。
 
-It is all that she has left of her late husband, and she wishes you to find him. He was apparently kidnapped from her home, and she has been searching for him ever since. She misses him VERY much.
-32795 := The droid that fled from Elise, C8-42, ran away because he feared his mistress was spending too much time focused on him, and not enough on other living beings. He wished you to destroy him to force her to live a real life. You obliged him.
-32796 := The droid that fled from Elise, C8-42, ran away because he feared his mistress was spending too much time focused on him, and not enough on other living beings. He wished you to destroy him to force her to live a real life. You could not and convinced him to return to her.
-32797 := The droid that fled from Elise, C8-42, ran away because he feared his mistress was spending too much time focused on him, and not enough on other living beings. He wished you to destroy him to force her to live a real life. You decided it would be much more fun to destroy him, and convince Elise that he had got away.
-32798 := You told Elise that her droid had been destroyed. She was devastated.
+那是她已故丈夫留给她的一切，她希望你找到他。他显然是从她家中被绑架的，从那以后她一直在寻找他。她非常非常想念他。
+32795 := 从伊莉丝身边逃走的机器人 C8-42 之所以逃跑，是因为他害怕自己的女主人把太多时间放在他身上，而不够关注其他活物。他希望你摧毁他，迫使她过上真正的生活。你满足了他的愿望。
+32796 := 从伊莉丝身边逃走的机器人 C8-42 之所以逃跑，是因为他害怕自己的女主人把太多时间放在他身上，而不够关注其他活物。他希望你摧毁他，迫使她过上真正的生活。你做不到，并说服他回到她身边。
+32797 := 从伊莉丝身边逃走的机器人 C8-42 之所以逃跑，是因为他害怕自己的女主人把太多时间放在他身上，而不够关注其他活物。他希望你摧毁他，迫使她过上真正的生活。你觉得摧毁他，然后说服伊莉丝相信他逃走了，会有趣得多。
+32798 := 你告诉伊莉丝，她的机器人已经被摧毁。她悲痛欲绝。
 
-She ran off towards the Jedi Enclave.
-32799 := You met Elise and C8-42 back near the Enclave. Elise was overjoyed that you returned her droid to her, and thanked you profusely.
+她朝绝地飞地跑走了。
+32799 := 你在飞地附近再次见到了伊莉丝和 C8-42。伊莉丝因为你把机器人带回给她而欣喜若狂，并再三感谢你。
 
-C8-42 was a little less... enthusiastic.
+C8-42 则稍微没有那么……热情。
 32800 := You met Elise in the Jedi Enclave. It turns out that not everything had ended badly after the destruction of her droid.
 She met a man named Samnt, and they appear quite interested in each other. Perhaps she can lead a normal, happy life yet.
 32801 := You fooled Elise into thinking that her droid was still out there, so she flew off after him. Maybe she'll realize what happened... in a year or two.
