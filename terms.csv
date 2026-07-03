@@ -178,6 +178,7 @@ star_wars,Cinnagaran,辛纳加,1,review,https://starwars.fandom.com/wiki/Cinnaga
 star_wars,Clan Ordo,奥多氏族,2,review,https://starwars.fandom.com/wiki/Clan_Ordo,,曼达洛氏族名
 star_wars,Code of the Jedi,绝地准则,2,review,https://starwars.fandom.com/wiki/Jedi_Code,,绝地信条/准则；中文译名按项目暂定
 star_wars,Code of the Sith,西斯准则,12,review,https://starwars.fandom.com/wiki/Code_of_the_Sith,,西斯信条/准则；中文译名按项目暂定
+star_wars,Cold Serum,寒冷血清,2,review,tlk=StrRef 31200,,KOTOR 物品标签；中文译名按项目暂定
 star_wars,Commander Dern,德恩指挥官,1,review,tlk=StrRef 12336,,Czerka poachers 指挥官；中文译名按项目暂定
 star_wars,Commander Grann,格兰指挥官,1,review,tlk=StrRef 20418,,Manaan Sith Embassy 安保指挥官；中文译名按项目暂定
 star_wars,Concussion Grenade,冲击手雷,1,review,https://starwars.fandom.com/wiki/Concussion_grenade,,星战爆炸物；中文译名按项目暂定
@@ -705,6 +706,7 @@ star_wars,Padawan,绝地学徒,99,review,https://starwars.fandom.com/wiki/Padawa
 star_wars,Patrol Droid,巡逻机器人,9,review,tlk=StrRef 20648,,Hrakert Station 巡逻机器人标签；中文译名按项目暂定
 star_wars,pazaak,帕扎克牌,2,confirmed,https://starwars.fandom.com/wiki/Pazaak,https://starwars.fandom.com/zh/wiki/%E5%B8%95%E6%89%8E%E5%85%8B%E7%89%8C/%E4%BC%A0%E8%AF%B4,卡牌游戏名小写写法
 star_wars,Pazaak,帕扎克牌,170,confirmed,https://starwars.fandom.com/wiki/Pazaak,https://starwars.fandom.com/zh/wiki/%E5%B8%95%E6%89%8E%E5%85%8B%E7%89%8C/%E4%BC%A0%E8%AF%B4,卡牌游戏名
+star_wars,Pazaak Side Deck,帕扎克牌副牌组,1,review,tlk=StrRef 32343,,KOTOR 帕扎克牌 UI 容器；side deck 泛称按上下文
 star_wars,Pazaak Weekly,帕扎克牌周刊,1,review,tlk=StrRef 19403,,KOTOR 帕扎克牌赛事刊物；中文译名按项目暂定
 star_wars,People of Sand,沙之民,8,review,tlk=StrRef 30106,,Jawa 对 Sand People 的字面称呼；与普通 Sand People 语境区分
 star_wars,permacrete detonator,永久混凝土雷管,8,review,https://starwars.fandom.com/wiki/Permacrete_detonator,,Taris 下层城 Matrik 假死支线道具；中文译名按项目暂定
@@ -808,6 +810,7 @@ star_wars,Rukil's Apprentice,鲁基尔的学徒,3,review,tlk=StrRef 25698,,Taris
 star_wars,Rusted Assassin Droid,生锈的暗杀机器人,1,review,tlk=StrRef 31188,,Temple/Star Forge 内部机器人敌人标签；中文译名按项目暂定
 star_wars,Rwookrrorro,鲁克罗罗,17,review,https://starwars.fandom.com/wiki/Rwookrrorro,,Kashyyyk 伍基人村落；中文译名按项目暂定
 star_wars,Saber Crystal,光剑水晶,22,review,https://starwars.fandom.com/wiki/Lightsaber_crystal/Legends,,KOTOR 物品名；Wookieepedia 条目名为 Lightsaber crystal
+star_wars,Sabre Crystal,光剑水晶,2,review,tlk=StrRef 32230,,KOTOR 英式拼写变体；按 Saber Crystal 统一译名
 star_wars,Sacred Grove,圣林,3,review,tlk=StrRef 9692,,Dantooine 地图目的地标签；中文译名按项目暂定
 star_wars,Sakul Ondondanax,萨库尔·翁东达纳克斯,1,review,tlk=StrRef 19087,,Taris 飞梭区段冠军；中文译名按项目暂定
 star_wars,Sami,萨米,8,review,tlk=StrRef 20831,,Hrakert Rift 项目科学家；中文译名按项目暂定
