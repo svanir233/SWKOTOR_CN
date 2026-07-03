@@ -35357,237 +35357,237 @@ C8-42 则稍微没有那么……热情。
 32997 := 你已经同意加入塔里斯星决斗圈。非致命决斗似乎很受观众欢迎，而你也感觉到这里有机会赚取可观利润。只要你想决斗，和阿朱尔说一声就行。
 32998 := 你击败死眼邓肯，在决斗场中赢得了第一场胜利。不幸的是，邓肯的无能十分出名，所以几乎没人对你的胜利印象深刻。
 32999 := 格尔隆·双指已经在战斗中败给你，让你在这项运动的爱好者中获得了一定尊重，不过你的排名仍远低于顶尖决斗者。
-33000 := With your victory over Ice people are beginning to notice your accomplishments in the ring. If you continue to climb the ranks a championship match is inevitable. 
-33001 := By defeating Marl, you've solidly staked your claim among the duel ring's elite. In fact, only one fighter stands between you and the title of duel champion... the crazed Rodian, Twitch.
-33002 := Like all the others, Twitch was no match for you in the duel ring. The title of duel champion is yours, by right and by might.
-33003 := You are the reigning duel champion on Taris, but only by facing the legendary Bendak Starkiller in a death match can you prove yourself the greatest duelist of all time... unless you end up a smoking corpse in the middle of the ring.
-33004 := Bendak Starkiller will face you in an illegal death match. The death match will take Ajuur some time to prepare, giving ample opportunity for news of Bendak's return to spread quickly among the people of Taris. But when the battle is over, it's you the people will be talking about... you hope.
-33005 := Bendak is dead, both in the ring and in the minds of the people. Now it is you they talk about: the Mysterious Stranger, the greatest duelist in the history of Taris.
-33006 := The Final Confrontation
-33007 := With an escort of Jedi snub fighters, you were able to penetrate the Sith defenses and land the Ebon Hawk on the Star Forge itself. Now you have to find and stop Bastila from using her Battle Meditation so the Republic capital ships can attack the Star Forge.
-33008 := You tricked an escort of Jedi snub fighters into helping you penetrate the Sith defenses and land the Ebon Hawk on the Star Forge itself. Now you must find and defeat Malak to reclaim the mantle of Sith Master.
-33009 := You've saved Bastila from the dark side, and she is now using her Battle Meditation against the Sith fleet.  But you know that the Sith threat will never truly be over unless you find and destroy Malak himself.
-33010 := You were unable to save Bastila from the dark side, and in the end you had no choice but to kill her so that the Republic capital ships have a chance to destroy the Star Forge. But you know that the Sith threat will never truly be over unless you find and destroy Malak himself.
-33011 := Bastila is using her Battle Meditation to wipe the Republic fleet from the face of the galaxy with a single, glorious victory. This means you will face Malak alone, a final meeting of Master and Apprentice to determine who will be the Dark Lord of the Sith... and ruler of the entire galaxy!
-33012 := Malak has come to a violent end, the eventual fate of all who follow the dark side. The Sith fleet is in ruins and the Star Forge itself is all but destroyed; a lifeless hunk of metal tumbling from orbit. You have to get out of here before the space station plunges into the burning heart of this system's sun.
-33013 := You have slain Malak and once again rule unchallenged as Lord of the Sith. With the bulk of their fleet smashed, it is only a matter of time until the Republic - and the entire galaxy - is forced to bow down before you!
-33014 := The Hermit in the Hills
-33015 := You have been told about a mad hermit who can be found in the hills surrounding the Valley of the Dark Lords. Apparently he preys upon unsuspecting academy students, his victims never being seen again. How much of this story is true is unknown, but dealing with the problem might be worthy of prestige.
-33016 := You have been told about the "mad hermit" in the hills surrounding the Valley of the Dark Lords. Apparently this hermit is the former master of the academy, Jorak Uln, who was forced into his exile by Master Uthar. The man is mad and a menace to the academy, and dealing with him might be worthy of prestige.
-33017 := You encountered Jorak Uln in his lair deep within one of the valley's tombs. He tested you for Sith "purity" and found you suitable enough to release along with a gift: an ancient Sith tablet that included his own translations and musings, certainly something that would earn you prestige with Master Uthar.
-33018 := You encountered Jorak Uln in his lair deep within one of the valley's tombs. He tested you for Sith "purity" and you were able to escape his strange tortures and kill him. Reporting his death might be worthy of prestige... but so might bringing to Master Uthar the ancient Sith tablet Jorak mentioned.
-33019 := The ancient Sith tablet that included Jorak Uln's own musings has been turned over to Master Uthar, impressing him greatly and bringing you one step closer to your final test.
-33020 := The Mandalorian Weapons Cache
-33021 := A Sith "information extractor" has been having difficulty getting the location of a secret weapons cache out of a Mandalorian prisoner. He has invited you to try: all you need to do is use the console to inject truth serum. The right amount will make him confess. Too much, however, and the prisoner will go into shock.
-33022 := You managed to extract the location of a weapons cache from a Mandalorian prisoner, but the Sith who allowed you to perform the procedure has run off to take credit for the extraction, himself. Perhaps if you make it to Master Uthar first you can gain the prestige, instead.
-33023 := You managed to extract the location of a weapons cache from a Mandalorian prisoner... and had to fight the Sith who was present to prevent him from taking credit for himself. Telling Master Uthar of the cache's location is certain to impress him.
-33024 := You managed to save a Mandalorian prisoner by rendering him catatonic... his body will be presumed dead and will be dumped, allowing him to escape upon his recovery. He gratefully told you the location of his cache. It is unreachable by you, but its location could be given to Master Uthar in exchange for prestige.
-33025 := The location of the Mandalorian prisoner's weapons cache has been turned over to Master Uthar. He says that the cache is no longer of particular interest, but was impressed at your ability to gain the information regardless. You are one step closer towards taking your final test.
-33026 := You attempted to extract the location of a weapons cache from a Mandalorian prisoner within the academy, but ended up injecting too much truth serum too fast. This resulted in the prisoner going into shock, which makes him quite useless.
-33027 := The Promised Land
-33028 := Rukil has offered to tell you the history of the Outcasts who dwell in the Undercity. It seems to have something to do with a prophecy and 'the Promised Land', whatever that may be. You can't help but wonder if the old man is suffering from some type of dementia.
-33029 := Rukil believes that with his apprentice's journal and the journals of his father and grandfather he could piece together the clues and discover the location of the promised land. He's asked you to bring the journals to him. 
-33030 := The shopkeeper Igear wants you to bring him the missing journals of those who died searching for the Promised Land so he can destroy them. He's also offered to pay you for the journals, something Rukil can't do.
-33031 := You've given the journals to Igear, forever condemning Rukil and the other Outcasts to their current grim and hopeless existence. But at least you made a nice profit on the deal.
-33032 := The Outcasts have left in a mass exodus, going to seek out the fabled paradise of the Promised Land. The journey will be difficult, but by recovering the journals you've given the Outcasts something they haven't had in a long, long time: hope.
-33033 := The Search for Bastila
-33034 := You are stranded on Taris, a planet under Sith control. Now you and Carth Onasi must find  Bastila - the only person capable of stopping the Sith from conquering the entire galaxy. You should probably begin by investigating reports of escape pods that crashed into the Undercity.
-33035 := Your efforts to search for Bastila in the lower regions of Taris have hit a snag. The Sith guard at the elevator down to the Lower City won't let you past without a Sith uniform or the proper authorization papers.
-33036 := Your Sith disguise has fooled the guard at the Upper City elevator, giving you access to the Lower City. Hopefully it will be just as easy to gain access to the Undercity so you can search for signs of Bastila's crashed escape pod.
-33037 := The Sith guard in the Lower City refuses to let you into the Undercity without the proper authorization. You'll have to get your hands on some type of pass or papers if you want to explore the Undercity for signs of Bastila's escape pod.
-33038 := Gadon Thek, leader of the Hidden Bek swoop gang, will help you get Bastila back if you recover a prototype swoop accelerator stolen by the rival Black Vulkars. He suggested you look for Mission Vao in the Undercity or the sewers to help get you in.
-33039 := Mission has agreed to help you sneak into the Black Vulkar base to recover the stolen swoop accelerator. But first, she wants you rescue her Wookiee friend, Zaalbar, from the Gamorrean slavers in the sewers.
-33040 := You've saved Zaalbar from the Gamorrean slavers, prompting the Wookiee to swear a life debt to you. And, as promised, Mission has agreed to get you into the Vulkar base. Once inside, you can steal the swoop accelerator and return it to Gadon Thek.
-33041 := Kandon Ark, one of the Black Vulkars, has given you a counter to Gadon Thek's offer. He claims that if you kill the Hidden Bek leader, then Brejik and the Black Vulkars will sponsor your entry into the swoop race where Bastila is being offered up as part of the champion's prize.
+33000 := 击败冰女后，人们开始注意到你在决斗场中的成就。如果你继续提升排名，冠军赛将不可避免。
+33001 := 击败马尔后，你已经稳稳跻身决斗场精英之列。事实上，只有一名战士挡在你和决斗冠军头衔之间……那就是疯狂的罗迪亚人特维奇。
+33002 := 和其他所有人一样，特维奇也不是你在决斗场上的对手。决斗冠军的头衔归你所有，既凭实力，也合规矩。
+33003 := 你是塔里斯星现任决斗冠军，但只有在死亡竞赛中面对传奇人物本达克·弑星者，你才能证明自己是有史以来最伟大的决斗者……除非你最后变成决斗场中央一具冒烟的尸体。
+33004 := 本达克·弑星者会在一场非法死亡竞赛中面对你。阿朱尔需要一些时间准备死亡竞赛，这也给了本达克归来的消息充足机会，在塔里斯星民众之间迅速传播。但战斗结束后，人们谈论的会是你……你希望如此。
+33005 := 本达克已经死了，不只是在决斗场里，也是在民众心中。现在他们谈论的是你：神秘陌生人，塔里斯星历史上最伟大的决斗者。
+33006 := 最终对决
+33007 := 在绝地小型战斗机护航下，你得以突破西斯防御，把乌木鹰号降落在星际锻炉本身。现在你必须找到并阻止巴丝蒂拉使用战斗冥想，这样共和国主力舰才能攻击星际锻炉。
+33008 := 你骗来一支绝地小型战斗机护航队，帮助你突破西斯防御，把乌木鹰号降落在星际锻炉本身。现在你必须找到并击败马拉克，重新夺回西斯大师的头衔。
+33009 := 你已经把巴丝蒂拉从黑暗面中拯救出来，现在她正用自己的战斗冥想对抗西斯舰队。但你知道，除非找到并摧毁马拉克本人，否则西斯威胁永远不会真正结束。
+33010 := 你没能把巴丝蒂拉从黑暗面中拯救出来，最后别无选择，只能杀死她，让共和国主力舰有机会摧毁星际锻炉。但你知道，除非找到并摧毁马拉克本人，否则西斯威胁永远不会真正结束。
+33011 := 巴丝蒂拉正用她的战斗冥想，以一场辉煌胜利将共和国舰队从银河系中抹去。这意味着你将独自面对马拉克，师徒之间的最后会面将决定谁会成为西斯黑暗尊主……以及整个银河系的统治者！
+33012 := 马拉克迎来了暴力的结局，这是所有追随黑暗面之人的最终命运。西斯舰队化为废墟，星际锻炉本身也几乎被摧毁；一块没有生命的金属残骸正在脱离轨道翻滚。你必须在这座空间站坠入本星系太阳燃烧的核心之前离开这里。
+33013 := 你杀死了马拉克，并再次以西斯尊主身份统治，且无人敢挑战。随着他们舰队主力被粉碎，共和国，以及整个银河系，被迫在你面前俯首只是时间问题！
+33014 := 山中的隐士
+33015 := 有人告诉你，在黑暗尊主谷周围的山丘中可以找到一名疯狂隐士。显然，他会袭击毫无防备的学院学生，他的受害者从此再也没有出现。这故事有多少是真的尚不得而知，但解决这个问题也许足以换取威望。
+33016 := 有人告诉你黑暗尊主谷周围山丘中的“疯狂隐士”。显然，这名隐士就是学院前任大师乔拉克·乌尔恩，他被乌萨尔大师逼迫流放。这个人已经疯了，而且是学院的威胁，处理掉他也许足以换取威望。
+33017 := 你在山谷一座古墓深处的巢穴里遇到了乔拉克·乌尔恩。他测试了你的西斯“纯净度”，并认为你足够合格，于是放你离开，还给了你一件礼物：一块古代西斯石板，其中包含他自己的译文和思考。这东西肯定能让你从乌萨尔大师那里赢得威望。
+33018 := 你在山谷一座古墓深处的巢穴里遇到了乔拉克·乌尔恩。他测试了你的西斯“纯净度”，而你成功逃过他奇怪的折磨并杀死了他。报告他的死也许足以换取威望……但把乔拉克提到的古代西斯石板带给乌萨尔大师也一样可能有用。
+33019 := 那块包含乔拉克·乌尔恩个人思考的古代西斯石板已经交给乌萨尔大师，让他大为赞赏，也让你离最终试炼又近了一步。
+33020 := 曼达洛武器藏匿处
+33021 := 一名西斯“信息榨取者”一直无法从一名曼达洛人囚犯口中问出秘密武器藏匿处的位置。他邀请你试试：你只需要用控制台注入真言血清。剂量合适就能让他招供。不过，剂量太多会让囚犯休克。
+33022 := 你成功从一名曼达洛人囚犯口中套出了武器藏匿处的位置，但允许你进行这一程序的西斯已经跑去亲自邀功。也许如果你先到乌萨尔大师那里，就能改由你获得威望。
+33023 := 你成功从一名曼达洛人囚犯口中套出了武器藏匿处的位置……并不得不与在场的西斯战斗，阻止他独自抢功。把藏匿处的位置告诉乌萨尔大师，肯定会让他印象深刻。
+33024 := 你成功救下了一名曼达洛人囚犯，让他陷入木僵状态……他的身体会被当成尸体丢弃，而他恢复后就能逃走。他感激地告诉了你藏匿处的位置。你无法到达那里，但可以把位置交给乌萨尔大师换取威望。
+33025 := 曼达洛人囚犯的武器藏匿处位置已经交给乌萨尔大师。他说那个藏匿处已经不再特别有价值，但仍对你获取情报的能力印象深刻。你距离参加最终试炼又近了一步。
+33026 := 你试图在学院内从一名曼达洛人囚犯口中套出武器藏匿处的位置，但最后过快注入了过量真言血清。这导致囚犯休克，让他变得相当没用。
+33027 := 应许之地
+33028 := 鲁基尔提出要告诉你居住在地下城的流放者历史。那似乎和一个预言以及“应许之地”有关，不管那到底是什么。你不禁怀疑这位老人是不是患上了某种痴呆。
+33029 := 鲁基尔相信，只要有他学徒的日志，以及他父亲和祖父的日志，他就能拼凑出线索，发现应许之地的位置。他请你把这些日志带给他。
+33030 := 店主伊吉尔想让你把那些在寻找应许之地时死去的人留下的失踪日志带给他，好让他摧毁它们。他还提出会付钱给你买这些日志，而鲁基尔做不到这一点。
+33031 := 你把日志交给了伊吉尔，让鲁基尔和其他流放者永远被困在他们当前阴郁而绝望的生活中。不过至少你从这笔交易中赚了一大笔。
+33032 := 流放者已经集体离开，前去寻找传说中的应许之地乐园。这趟旅程会很艰难，但通过找回这些日志，你给了流放者们一件很久很久都不曾拥有的东西：希望。
+33033 := 寻找巴丝蒂拉
+33034 := 你被困在塔里斯星上，这颗星球由西斯控制。现在你和卡斯·奥纳西必须找到巴丝蒂拉，她是唯一能够阻止西斯征服整个银河系的人。你也许应该先调查那些坠入地下城的逃生舱报告。
+33035 := 你在塔里斯星下层区域寻找巴丝蒂拉的努力遇到了阻碍。通往下层城的电梯处有一名西斯卫兵，如果没有西斯制服或适当的授权文件，他不会让你通过。
+33036 := 你的西斯伪装骗过了上层城电梯处的卫兵，让你得以进入下层城。希望进入地下城也会同样容易，这样你就能寻找巴丝蒂拉坠毁逃生舱的迹象。
+33037 := 下层城的西斯卫兵拒绝让你在没有适当授权的情况下进入地下城。如果你想探索地下城，寻找巴丝蒂拉逃生舱的迹象，就必须弄到某种通行证或文件。
+33038 := 隐秘贝克飞梭帮的首领加登·塞克会帮助你救回巴丝蒂拉，前提是你取回被敌对黑火神帮偷走的原型飞梭加速器。他建议你在地下城或下水道里寻找米申·沃，请她帮你进去。
+33039 := 米申同意帮你潜入黑火神帮基地，取回被偷走的飞梭加速器。但首先，她希望你从下水道中的加莫人奴隶贩子手里救出她的伍基人朋友扎尔巴。
+33040 := 你已经从加莫人奴隶贩子手中救出了扎尔巴，促使这名伍基人向你宣誓生命债。而且，正如承诺的那样，米申已经同意带你进入火神帮基地。进去之后，你就能偷走飞梭加速器，并把它交还给加登·塞克。
+33041 := 黑火神帮成员坎登·阿克向你提出了一个与加登·塞克相对的提议。他声称，如果你杀死隐秘贝克帮首领，布雷吉克和黑火神帮就会赞助你参加飞梭赛，而巴丝蒂拉正是冠军奖品的一部分。
 
-You now have two choices: kill Gadon and return to the Vulkar base, or take the swoop accelerator back to the Hidden Beks.
-33042 := Gadon has entered you as a rider in the swoop race. If you can post the fastest time, you'll win the champion's prize - including Bastila. The Beks are allowing you to ride a bike equipped with the prototype accelerator, giving you a better chance to win the race... if you survive.
-33043 := The Black Vulkars have entered you as a rider in the swoop race. If you can post the fastest time, you'll win the champion's prize - including Bastila. The Vulkars are allowing you to ride a bike equipped with the prototype accelerator, giving you a better chance to win the race... if you survive.
-33044 := By winning the swoop race, you've managed to secure Bastila's freedom from the Black Vulkars. But neither Bastila nor you will be safe until you find a way to escape the planet. It's obvious your work on Taris is far from done.
-33045 := You've met Mission Vao, a young Twi'lek who can get you inside the Black Vulkar base to recover the stolen swoop accelerator. But Mission refuses to help you unless you help rescue her Wookiee friend, Zaalbar, from the Gamorrean slavers in the sewers.
-33046 := You've learned that Bastila has been captured by the Black Vulkar swoop gang. However, finding a way into their base to try and rescue her isn't going to be easy.
-33047 := The Sword of Ajunta Pall
-33048 := You have encountered none other than the restless and regret-filled spirit of the ancient Sith Lord, Ajunta Pall, within his tomb. He has entreated you to find out which of the three swords buried in his sarcophagus is actually his... and to place it on the statue within this chamber. He has left you with this clue: "I am that which grips the heart in fright, hearkens night and silences the light."
-33049 := Having selected the wrong sword to place in the statue, the spirit of the Sith Lord, Ajunta Pall, went berserk and attacked you. The battle is over, and while you weren't able to select the correct sword initially it's possible one of the remaining swords *is* his blade... and would possibly suffice as a relic that would impress Master Uthar.
-33050 := You were able to select the blade that once belonged to the Sith Lord Ajunta Pall, and his spirit was grateful that the weapon would at last leave his side. The weapon is certainly an impressive one... but it might also serve as a relic that would impress Master Uthar.
-33051 := You encountered Shaardan on the way out of Ajunta Pall's tomb and surrendered the spirit's blade to him. It probably wasn't worth fighting over, anyhow.
-33052 := On the way out of Ajunta Pall's tomb, you encountered one of your rivals: Shaardan. The Sith hopeful was actually dumb enough to take one of the spirit's false blades without closer examination. As for the real blade, that can probably be turned into Master Uthar, as well, unless you wish to keep it.
-33053 := The dark sword of the Sith Lord Ajunta Pall has been turned over to Master Uthar, bringing you one step closer to obtaining enough prestige to move on to the final test.
-33054 := The Trouble With Gizka
-33055 := The fates seem to be conspiring against you. The disorganized port authorities on Tatooine appear to have shipped a delivery of gizka to the Ebon Hawk's hold... and there doesn't appear to be any way to give them back! The dockworker mentioned that some of the gizka "escaped", which certainly doesn't sound good...
-33056 := You have managed to convince a Selkath on Manaan to take the gizka off your hands, though it was not easy. Hopefully the Selkath take *all* of the little beasts.
-33057 := The infected gizka should soon rid the Ebon Hawk of its unwanted visitors, though you might want to keep a few doses of poison handy to deal with any pesky survivors.
-33058 := The Way of the Sith
-33059 := You have managed to enter the Sith academy as a hopeful vying with several others to become the one who will be finally admitted as a full Sith. In order to do so, you must prove your worth to Master Uthar Wynn by gaining prestige. More information can be gained by speaking to your instructor, Yuthura.
-33060 := You have managed to gain some prestige, impressing Master Uthar, but it is not yet enough for him to declare you the victor in your contest with the others. Speak to Yuthura or continue to look around the academy and the Valley of the Dark Lords to find ways to curry favor with Master Uthar.
-33061 := Master Uthar has been impressed enough to declare you worthy of taking the final test at the tomb of Naga Sadow. He has given you one night to rest up and prepare. When you are ready, return to him and he will bring you to the tomb.
-33062 := Master Uthar and Yuthura Ban have brought you to the tomb of Naga Sadow... and there is no way out of the tomb until the test is complete. You will have to find the Star Map deep within the tomb: when you find it, you will also locate a ceremonial lightsaber. Return to Master Uthar with it.
-33063 := Your final test within the tomb is over, and both Master Uthar and Yuthura are dead. You are unsure just how long it will be before anyone within the academy will realize that they are dead. Regardless, it may be a good idea to leave while you have the chance.
-33064 := Your final test within the tomb is over, and Yuthura is dead. You spared Master Uthar, who has returned to the academy after telling you that your destiny leads elsewhere. If you wish to return to the academy and take up your studies as a full Sith in the future, Master Uthar says that you will be welcomed.
-33065 := Your final test within the tomb is over, and Master Uthar is dead. Yuthura turned on you, but you defeated her and spared her life. She has returned to the academy to take over its leadership after telling you that your destiny leads elsewhere. If you wish to return to the academy in the future, Yuthura said that you would be welcomed.
-33066 := Your final test within the tomb is over, and Master Uthar is dead. Yuthura turned on you, but you defeated her and spared her life. She decided to leave the Sith and at least speak to the Jedi that once had trained her. For the moment, the academy will not know that Master Uthar has been killed, so it may be a good time to leave Korriban while you can.
-33067 := Threat from Xor
-33068 := Juhani ran into a being named Xor, who bears her race a special grudge. He was a member of the fleet that attacked and destroyed her homeworld, Cathar, but was crippled during that fight. He has since tried to take out his pain on all Cathar he can find.
+你现在有两个选择：杀死加登并返回火神帮基地，或者把飞梭加速器带回隐秘贝克帮。
+33042 := 加登已经让你作为骑手参加飞梭赛。如果你能跑出最快成绩，就会赢得冠军奖品，其中包括巴丝蒂拉。贝克帮允许你驾驶一辆装有原型加速器的飞梭摩托，让你有更好的机会赢得比赛……前提是你能活下来。
+33043 := 黑火神帮已经让你作为骑手参加飞梭赛。如果你能跑出最快成绩，就会赢得冠军奖品，其中包括巴丝蒂拉。火神帮允许你驾驶一辆装有原型加速器的飞梭摩托，让你有更好的机会赢得比赛……前提是你能活下来。
+33044 := 通过赢得飞梭赛，你成功让巴丝蒂拉摆脱了黑火神帮的控制。但在你找到逃离这颗星球的方法之前，巴丝蒂拉和你都不会安全。很明显，你在塔里斯星上的工作远没有结束。
+33045 := 你见到了米申·沃，一名年轻的提列克人，她能带你进入黑火神帮基地，取回被偷走的飞梭加速器。但除非你帮忙从下水道中的加莫人奴隶贩子手里救出她的伍基人朋友扎尔巴，否则米申拒绝帮你。
+33046 := 你得知巴丝蒂拉已经被黑火神飞梭帮抓走。不过，要想进入他们的基地并设法救她，并不容易。
+33047 := 阿君塔·帕尔之剑
+33048 := 你在阿君塔·帕尔的古墓中遇到的不是别人，正是这位古代西斯尊主躁动不安、充满悔恨的灵魂。他恳求你找出埋在他石棺里的三把剑中哪一把才真正属于他……并把它放到这个墓室中的雕像上。他给你留下了这条线索：“我是攫住心灵使其恐惧之物，我呼唤黑夜，令光明沉寂。”
+33049 := 你选错了剑并把它放在雕像上，西斯尊主阿君塔·帕尔的灵魂随即发狂并攻击了你。战斗已经结束，虽然你最初没能选对剑，但剩下的剑中可能有一把正是他的剑……而且也许足以作为一件能打动乌萨尔大师的遗物。
+33050 := 你成功选出了曾属于西斯尊主阿君塔·帕尔的剑，他的灵魂对这件武器终于能离开自己身边心怀感激。这把武器确实令人印象深刻……但它也可能作为一件遗物，打动乌萨尔大师。
+33051 := 你在离开阿君塔·帕尔古墓的路上遇到了沙尔丹，并把灵魂的剑交给了他。反正大概也不值得为它打一场。
+33052 := 离开阿君塔·帕尔古墓的路上，你遇到了一名竞争对手：沙尔丹。这个西斯候选者竟然蠢到没有仔细检查，就拿走了灵魂的假剑之一。至于真正的剑，如果你不想自己留着，大概也可以交给乌萨尔大师。
+33053 := 西斯尊主阿君塔·帕尔的黑暗之剑已经交给乌萨尔大师，让你离获得足够威望、进入最终试炼又近了一步。
+33054 := 吉兹卡之患
+33055 := 命运似乎联合起来和你作对。塔图因星上混乱的港务当局似乎把一批吉兹卡运进了乌木鹰号货舱……而且似乎没有任何办法把它们退回去！码头工人提到有些吉兹卡“逃出来了”，这听起来当然不妙……
+33056 := 你设法说服了马南的一名塞尔卡斯人，让他从你手里接收这些吉兹卡，虽然这并不容易。希望那名塞尔卡斯人会带走所有这些小怪物。
+33057 := 受感染的吉兹卡应该很快就能让乌木鹰号摆脱这些不速之客，不过你也许最好留几剂毒药在手边，好处理任何麻烦的幸存者。
+33058 := 西斯之道
+33059 := 你成功以候选者身份进入西斯学院，与其他几人竞争，争取成为最终被接纳为正式西斯的人。为此，你必须通过获得威望，向乌萨尔·温大师证明自己的价值。与导师尤苏拉交谈可以获得更多信息。
+33060 := 你设法获得了一些威望，打动了乌萨尔大师，但还不足以让他宣布你在与其他人的竞争中获胜。和尤苏拉谈谈，或者继续在学院和黑暗尊主谷四处寻找讨好乌萨尔大师的方法。
+33061 := 乌萨尔大师已经对你印象足够深刻，宣布你有资格参加纳迦·萨多古墓中的最终试炼。他给你一晚时间休息和准备。准备好后，回去找他，他会带你前往古墓。
+33062 := 乌萨尔大师和尤苏拉·班已经把你带到纳迦·萨多的古墓……在试炼完成之前，古墓没有出口。你必须在古墓深处找到星图：当你找到它时，也会找到一把礼仪光剑。带着它回到乌萨尔大师那里。
+33063 := 你在古墓中的最终试炼已经结束，乌萨尔大师和尤苏拉都死了。你不确定学院里的人要过多久才会意识到他们已经死了。无论如何，趁现在还有机会离开，也许是个好主意。
+33064 := 你在古墓中的最终试炼已经结束，尤苏拉死了。你放过了乌萨尔大师，他在告诉你你的命运通向别处后，已经返回学院。如果你将来想回到学院，以正式西斯身份继续学习，乌萨尔大师说你会受到欢迎。
+33065 := 你在古墓中的最终试炼已经结束，乌萨尔大师死了。尤苏拉背叛了你，但你击败她并饶了她一命。她告诉你你的命运通向别处后，已经回到学院接管领导权。如果你将来想回到学院，尤苏拉说你会受到欢迎。
+33066 := 你在古墓中的最终试炼已经结束，乌萨尔大师死了。尤苏拉背叛了你，但你击败她并饶了她一命。她决定离开西斯，至少去和曾经训练过她的绝地谈谈。目前学院还不知道乌萨尔大师已被杀死，所以现在也许正是趁机离开卡里班星的好时候。
+33067 := 佐尔的威胁
+33068 := 茱哈妮遇到了一个名叫佐尔的存在，他对她的种族怀有特殊仇恨。他曾是那支攻击并摧毁她母星凯瑟的舰队成员，但在那场战斗中致残。此后，他一直试图把痛苦发泄到自己能找到的所有凯瑟人身上。
 
-When Juhani had been sold into slavery for her parents' debt, Xor was the one who tried to purchase her. Revan's army stopped him that time, but he has not forgotten her.
+当茱哈妮因为父母的债务被卖为奴隶时，佐尔正是试图买下她的人。那一次瑞文的军队阻止了他，但他没有忘记她。
 
-He has sworn to get his revenge upon her and her people, and you don't know when or where he'll strike next. Juhani, though, lusts for his blood.
-33069 := Xor attacked you unexpectedly, but you were able to defeat him. In his dying moments, he tried to lure Juhani to the dark side, to give in to her anger and hate and strike him down. She resisted the temptation, and he died an ignoble death.
-33070 := Xor attacked you unexpectedly, but you were able to defeat him. In his dying moments, he tried to lure Juhani to the dark side, to give in to her anger and hate and strike him down. She could not resist and finished him once and for all, taking revenge for both herself, her people, and her homeworld.
-33071 := Trapped on a Nameless World
-33072 := You've crashed on a small, uncharted planet. In order to escape, you'll need to find some new stabilizers to repair the Ebon Hawk and you'll have to find some way to disable the disruptor field that caused you to crash in the first place.
-33073 := The One, leader of a Rakata tribe, has made a deal with you. He has agreed to help you enter the Temple if you slaughter another Rakatan tribe known as the Elders. He wants you to go to their compound near the Temple and bring back an ancient tome in exchange for his help.
-33074 := You've learned that an ancient ritual is the only way to get into the Temple. The details of the ritual are recorded in an ancient tome held by the Elder's Keeper of History. But the ritual will only work if it is performed by the Rakata, so you can't do this alone.
-33075 := The One is dead, allowing you to search the salvage of the Black Rakata for the parts you need to repair the Ebon Hawk. Also, the Red Rakata have agreed to help you enter the Temple so you can shut down the disruptor field that caused your ship to crash on this nameless planet. However, they refuse to allow any of your companions to come with you.
-33076 := The One has agreed to help you enter the Temple of the Ancients. However, he refuses to perform the ritual unless you go in alone. None of your companion's can come with you.
-33077 := Despite the wishes of the Rakata, Jolee has come with you into the ancient Rakata temple. Together you should be able to find a way to disable the disruptor field and get off this planet.
-33078 := Despite the wishes of the Rakata, Jolee and Juhani have come with you into the ancient Rakata temple. Together you should be able to find a way to disable the disruptor field and get off this planet.
-33079 := Bastila has fallen to the dark side and sworn allegiance to Darth Malak. She fled to the Star Forge, where she will use her battle meditation to destroy the Republic fleet unless you find a way to get onto the Star Forge and stop her.
-33080 := You have reclaimed your true identity as Lord of the Sith, and Bastila has sworn allegiance to you. The Jedi with you, however, would not bow before you and had to die. Now you must travel to the Star Forge for a final confrontation with your apprentice, Darth Malak.
-33081 := Unfinished Business
-33082 := You have encountered an alien by the name of Lurze who mentions that there is a container on board the Ebon Hawk filled with spice that Davik had agreed to bring him. You have agreed to return to Lurze with the spice, and he has provided you with the security code: "Red-47".
-33083 := You encountered an alien by the name of Lurze who wanted some spice that was apparently put on the ship by Davik in order to be smuggled to him. You have refused to get involved, however, and Lurze left you alone... although he did comment that his employers might not be happy about this.
-33084 := You found the spice on board the Ebon Hawk that Lurze told you about, but upon refusing to give it to him he attacked you rather than let you walk away with it. With Lurze gone, there's no way to find out anything about Davik's "arrangement" or whether this is the last you'll hear on the subject from Lurze's employers.
-33085 := You turned over a shipment of spice that Davik had left on board the Ebon Hawk to an alien named Lurze. Lurze offered you further employment, but you refused to get involved any further and so he left you alone.
-33086 := Upon turning over the spice to Lurze, he offered you further employment: take a strange box to Motta the Hutt at the swoop track on Tatooine. However, Lurze warned you *not* to open the box... though he was not clear on why or what might be inside.
-33087 := The mysterious box has been turned over to Motta the Hutt, who paid you for your trouble without much comment. Whatever Motta intends to do with the box will likely remain a mystery, however.
-33088 := You managed to escape from the prison world inside the box, but it was a narrow thing. Apparently Lurze was correct that opening the box was a bad thing. If you still intend to deliver it to Motta the Hutt, he can be found in at the swoop track on Tatooine.
-33089 := Worthy of History
-33090 := You have asked to hear the history of the Sand People, but the chieftain has said that you must first prove your worth as a warrior. Bring him a dragon pearl and he will consider it.
-33091 := The Sand People have been angered. There is no way you will gain their trust now.
-33092 := You have brought a dragon pearl to the Sand People chieftain. He will now allow you to speak with the storyteller, the keeper of their oral history.
-33093 := All party members are now available.
-33094 := There are 6 Jawas hiding in this room, can you see them all?
-33095 := Welcome to the combat test range. I am capable of spawning creatures into the next room in order to test the different kinds of combat. What creature do you wish to spawn?
-33096 := What creature should I add?
-33097 := Wraid
-33098 := Kinrath
-33099 := Kath Hound
-33100 := Sith with Double Lightsaber
-33101 := Sith with dual Lightsabers
-33102 := Sith with single Lightsaber
-33103 := Sith Trooper with Rifle
-33104 := Sith Trooper with double pistols
-33105 := Sith Trooper with pistol
-33106 := Sith Trooper with cannon
-33107 := Sith Trooper with 2 swords.
-33108 := Tuskan with gaffi stick
-33109 := Mandalorian with vibroblade
-33110 := Wookiee with warblade
-33111 := Gamorrean with axe
-33112 := I wish to leave
-33113 := SYSTEM LOADING...
-COMPLETE
-ENTER ENTER COMMAND
-33114 := EXITING SYSTEM...
-33115 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-33116 := SYSTEM OVERRIDE ACCEPTED
-ENTER COMMAND
-33117 := [FAILURE] ACCESS DENIED!
-COMPUTER SLICE FAILED
-SPIKES REJECTED
+他发誓要向她和她的人民复仇，而你不知道他下一次会在何时何地出手。不过，茱哈妮一心想要他的命。
+33069 := 佐尔出乎意料地袭击了你，但你成功击败了他。在临死之际，他试图引诱茱哈妮投向黑暗面，让她屈服于愤怒与仇恨，并亲手击倒他。她抵住了诱惑，而他不光彩地死去。
+33070 := 佐尔出乎意料地袭击了你，但你成功击败了他。在临死之际，他试图引诱茱哈妮投向黑暗面，让她屈服于愤怒与仇恨，并亲手击倒他。她没能抵抗诱惑，彻底了结了他，为自己、自己的人民和自己的母星复仇。
+33071 := 困于无名世界
+33072 := 你坠毁在一颗小型未知星球上。要逃离这里，你需要找到一些新的稳定器来修理乌木鹰号，还必须设法停用一开始导致你坠毁的干扰场。
+33073 := 拉卡塔部落首领唯一者和你达成了交易。如果你屠杀另一个被称为长老的拉卡塔部落，他就同意帮助你进入神庙。他要你前往他们位于神庙附近的大院，带回一部古卷，以此换取他的帮助。
+33074 := 你得知进入神庙的唯一办法是一场古代仪式。仪式细节记载在长老历史守护者保管的一部古卷中。但这场仪式只有由拉卡塔人执行才会生效，所以你不能独自完成。
+33075 := 唯一者已经死去，让你得以搜查黑拉卡塔的残骸，寻找修理乌木鹰号所需的零件。此外，红拉卡塔已经同意帮助你进入神庙，好让你关闭导致飞船坠毁在这颗无名星球上的干扰场。然而，他们拒绝让你的任何同伴与你同行。
+33076 := 唯一者已经同意帮助你进入古代神庙。然而，除非你独自进入，否则他拒绝执行仪式。你的同伴都不能和你一起去。
+33077 := 尽管拉卡塔人不愿意，乔利还是和你一起进入了古代拉卡塔神庙。你们两人应该能一起找到停用干扰场并离开这颗星球的方法。
+33078 := 尽管拉卡塔人不愿意，乔利和茱哈妮还是和你一起进入了古代拉卡塔神庙。你们三人应该能一起找到停用干扰场并离开这颗星球的方法。
+33079 := 巴丝蒂拉已经堕入黑暗面，并宣誓效忠达斯·马拉克。她逃往星际锻炉；除非你找到办法登上星际锻炉并阻止她，否则她会在那里使用战斗冥想摧毁共和国舰队。
+33080 := 你已经重新取回西斯尊主的真实身份，巴丝蒂拉也已宣誓效忠于你。然而，与你同行的绝地不愿向你俯首，所以他们必须死。现在你必须前往星际锻炉，与你的学徒达斯·马拉克进行最终对决。
+33081 := 未竟之事
+33082 := 你遇到一个名叫勒兹的外星人，他提到乌木鹰号上有一个装满香料的容器，那是戴维克答应带给他的。你已经同意带着香料回来找勒兹，而他给了你安保代码：“Red-47”。
+33083 := 你遇到一个名叫勒兹的外星人，他想要一些香料，那显然是戴维克放上飞船，准备用来走私给他的。不过你拒绝卷入其中，于是勒兹没有再纠缠你……虽然他也说过，他的雇主可能不会对此满意。
+33084 := 你找到了勒兹告诉你的乌木鹰号上的香料，但在你拒绝交给他后，他攻击了你，不肯让你带着香料离开。勒兹已死，你再也无法查明戴维克的“安排”是什么，也不知道这是不是你最后一次听到勒兹雇主的事。
+33085 := 你把戴维克留在乌木鹰号上的一批香料交给了名叫勒兹的外星人。勒兹向你提供了进一步的工作，但你拒绝继续卷入其中，所以他没有再纠缠你。
+33086 := 把香料交给勒兹后，他向你提供了进一步的工作：把一个奇怪盒子带给塔图因星飞梭赛道上的赫特人莫塔。不过，勒兹警告你绝对不要打开盒子……虽然他没有说清为什么，也没有说里面可能有什么。
+33087 := 神秘盒子已经交给赫特人莫塔，他没多说什么就为你的麻烦付了钱。不过，莫塔打算用这个盒子做什么，很可能会一直是个谜。
+33088 := 你设法从盒子里的监狱世界逃了出来，但过程险之又险。显然，勒兹说得没错，打开盒子不是好事。如果你仍打算把盒子交给赫特人莫塔，可以在塔图因星的飞梭赛道找到他。
+33089 := 值得载入历史
+33090 := 你要求聆听沙人的历史，但酋长说你必须先证明自己作为战士的价值。给他带来一颗龙珠，他就会考虑。
+33091 := 沙人已经被激怒。你现在不可能再赢得他们的信任。
+33092 := 你已经把一颗龙珠带给沙人酋长。他现在会允许你和说史者交谈，也就是他们口述历史的保管者。
+33093 := 所有队伍成员现在都可用了。
+33094 := 这个房间里藏着 6 个贾瓦人，你能把他们全都找出来吗？
+33095 := 欢迎来到战斗测试场。我可以在隔壁房间生成生物，以测试不同类型的战斗。你想生成什么生物？
+33096 := 我应该添加什么生物？
+33097 := 莱德兽
+33098 := 金拉斯
+33099 := 卡斯猎犬
+33100 := 持双刃光剑的西斯
+33101 := 双持光剑的西斯
+33102 := 持单把光剑的西斯
+33103 := 持步枪的西斯士兵
+33104 := 持双手枪的西斯士兵
+33105 := 持手枪的西斯士兵
+33106 := 持火炮的西斯士兵
+33107 := 持 2 把剑的西斯士兵。
+33108 := 持加菲杖的塔斯肯人
+33109 := 持震动刀的曼达洛人
+33110 := 持伍基战刃的伍基人
+33111 := 持斧头的加莫人
+33112 := 我想离开
+33113 := 系统加载中……
+完成
+输入命令
+33114 := 正在退出系统……
+33115 := [失败] 访问被拒绝
+计算机破解器不足
+输入命令
+33116 := 系统覆盖已接受
+输入命令
+33117 := [失败] 访问被拒绝！
+计算机切入失败
+计算机破解器被拒绝
 
-33118 := [SUCCESS] SENTRY DROID REPROGRAMMING COMPLETE
-AUTO-TARGETTING ENGAGED
-ENTER COMMAND
-33119 := [SUCCESS] SENTRY DROIDS DEACTIVATED
-ENTER COMMAND
-33120 := [SUCCESS] SENTRY TURRETS DEACTIVATED
-ENTER COMMAND
-33121 := [SUCCESS] GAS VENTED
-SWITCHING TO SECURITY CAMERA
-EXITING SYSTEM
-33122 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-33123 := [SUCCESS] SECURITY DOOR LOCKS OVERRIDDEN
-ACCESS GRANTED
-ENTER COMMAND
-33124 := CELLS UNLOCKED
-ENTER ENTER COMMAND
-33125 := Log out.
-33126 := Slice the computer. (1 spike)
-(This enables the player to access all the slice abilities of the computer)
-33127 := Log out.
-33128 := [Computer] Activate Nanotech assassin in Darth Malak's head. (50 spikes)
-(This is an example of a fake choice. The player can never succeed at this.)
-33129 := [Computer] Reprogram sentry droids to target everything. (<CUSTOM34> spikes)
-33130 := [Computer] Deactivate sentry droids. (<CUSTOM33> spikes)
-33131 := [Computer] Deactivate sentry guns. (<CUSTOM33> spikes)
-33132 := [Computer] Vent gas into room OR overload conduit. (<CUSTOM32> spikes) (Choose one of these options.)
-33133 := [Computer] Open all security doors. (<CUSTOM31> spikes)
-(This will not open plot doors)
-33134 := Unlock holding cells. 
-(This is an example of a critical path option that doesn't require computer spikes. It shows up before the slice screen.)
-33135 := Want some XP
-33136 := I want to leave
-33137 := I want 5000 XP
-33138 := I want 3000 XP
-33139 := I want 1000 XP
-33140 := Thank for doing stuff
-33141 := Here you go, some nice fat XP.
-33142 := You are welcome.
-33143 := This droid is damaged and inactive.
-33144 := You leave the droid alone for now.
-33145 := [Failure] You don't have any repair parts. You leave the droid alone for now.
-33146 := The droid is now active. It will attack any enemies that come in range.
-33147 := [Failure] You do not have enough repair parts.
-33148 := Once set to patrol mode the droid will be locked into its program. You won't be able to modify it anymore.
-33149 := [Success] The droid begins its patrol route. It will attack any enemies it comes across.
-33150 := [Success] The droid engages its program and moves off to carry out your instructions.
-33151 := [Success] The droid's shields are now active.
-33152 := [Success] The droid is now set for maximum accuracy.
-33153 := [Success] The droid is now set for maximum firepower.
-33154 := The droid is now active. It will attack any enemies that come in range.
-33155 := The droid is busy carrying out the program you entered earlier. You cannot reprogram it again.
-33156 := Leave it alone.
-33157 := Reactivate the droid. (1 repair part)
-33158 := Leave it alone.
-33159 := Engage droid in patrol mode. (<CUSTOM45> repair part(s))
-33160 := Activate patrol mode. (<CUSTOM45> repair part(s))
-33161 := Program droid to ram force field. (<CUSTOM46> repair part(s))
-[This is an example of a plot option that the player can choose to get past a specific obstacle. This should cause the droid to be destroyed]
+33118 := [成功] 哨戒机器人重编程完成
+自动瞄准已启用
+输入命令
+33119 := [成功] 哨戒机器人已停用
+输入命令
+33120 := [成功] 哨戒炮塔已停用
+输入命令
+33121 := [成功] 气体已排放
+正在切换至安保摄像头
+正在退出系统
+33122 := [失败] 访问被拒绝
+计算机破解器不足
+输入命令
+33123 := [成功] 安保门锁已覆盖
+访问已授权
+输入命令
+33124 := 牢房已解锁
+输入命令
+33125 := 登出。
+33126 := 切入计算机。（1 个计算机破解器）
+（这会允许玩家访问该计算机的所有切入能力）
+33127 := 登出。
+33128 := [计算机] 启动达斯·马拉克头部的纳米技术刺客。（50 个计算机破解器）
+（这是一个假选项示例。玩家永远无法成功选择它。）
+33129 := [计算机] 重编程哨戒机器人，使其以一切目标为敌。（<CUSTOM34> 个计算机破解器）
+33130 := [计算机] 停用哨戒机器人。（<CUSTOM33> 个计算机破解器）
+33131 := [计算机] 停用哨戒炮。（<CUSTOM33> 个计算机破解器）
+33132 := [计算机] 向房间排放气体或过载导管。（<CUSTOM32> 个计算机破解器）（从这些选项中选择一个。）
+33133 := [计算机] 打开所有安保门。（<CUSTOM31> 个计算机破解器）
+（这不会打开剧情门）
+33134 := 解锁拘押牢房。
+（这是一个不需要计算机破解器的关键路径选项示例。它会在切入界面之前出现。）
+33135 := 想要一些经验值
+33136 := 我想离开
+33137 := 我想要 5000 经验值
+33138 := 我想要 3000 经验值
+33139 := 我想要 1000 经验值
+33140 := 谢谢你做了这些事
+33141 := 给你，一大笔经验值。
+33142 := 不客气。
+33143 := 这个机器人已损坏且未激活。
+33144 := 你暂时不管这个机器人。
+33145 := [失败] 你没有任何修理零件。你暂时不管这个机器人。
+33146 := 这个机器人现在已激活。它会攻击任何进入射程的敌人。
+33147 := [失败] 你的修理零件不足。
+33148 := 一旦设为巡逻模式，机器人就会锁定到该程序中。你将无法再修改它。
+33149 := [成功] 机器人开始巡逻路线。它会攻击遇到的任何敌人。
+33150 := [成功] 机器人启动程序并离开，去执行你的指令。
+33151 := [成功] 机器人的护盾现在已激活。
+33152 := [成功] 机器人现在已设为最高精准度。
+33153 := [成功] 机器人现在已设为最大火力。
+33154 := 这个机器人现在已激活。它会攻击任何进入射程的敌人。
+33155 := 机器人正忙着执行你之前输入的程序。你不能再次重编程它。
+33156 := 不管它。
+33157 := 重新激活机器人。（1 个修理零件）
+33158 := 不管它。
+33159 := 让机器人进入巡逻模式。（<CUSTOM45> 个修理零件）
+33160 := 激活巡逻模式。（<CUSTOM45> 个修理零件）
+33161 := 编程机器人撞击力场。（<CUSTOM46> 个修理零件）
+[这是一个剧情选项示例，玩家可以选择它来通过特定障碍。此操作应该会导致机器人被摧毁]
 
-33162 := Activate droid's shields. (<CUSTOM44> repair part(s))
-33163 := Optimize droid's targeting systems. (<CUSTOM43> repair part(s))
-33164 := Optimize droid's weaponry. (<CUSTOM42> repair part(s))
-33165 := To Transition Test
-33166 := To make a single NPC switch position initiate conversation.
-33167 := I am allowing you to test weapon conversation stuff
-33168 := Its no trouble
-33169 := This concludes the conversation.
-33170 := Thank you I appreciate that.
-33171 := You are two kind
-33172 := Stealth 00
-33173 := Stealth 04
-33174 := Stealth 08
-33175 := Stealth 12
-33176 := Stealth 16
-33177 := Stealth 20
-33178 := Com01 - Gamorrean
-33179 := Com02 - Wookiee
-33180 := Com03 - Mandalorian
-33181 := Com04 - Tuskan
-33182 := Com05 - Sith Trooper
-33183 := Com06 - Cannon
-33184 := Com07 - Pistol
-33185 := Com08 - Double Pistols
-33186 := Com09 - Rifle
-33187 := Com10 - Single Saber
-33188 := Com11 - Dual Saber
-33189 := Com12 - Double Saber
-33190 := Com13 - Kath Hound
-33191 := Com14 - Kinrath
-33192 := Com15 - Wraid
-33193 := CR 12
-33194 := Awareness 00
-33195 := Awareness 02
-33196 := Sith Trooper: Rifle
-33197 := Awareness 06
-33198 := Awareness 08
-33199 := Awareness 10
+33162 := 激活机器人护盾。（<CUSTOM44> 个修理零件）
+33163 := 优化机器人瞄准系统。（<CUSTOM43> 个修理零件）
+33164 := 优化机器人武器。（<CUSTOM42> 个修理零件）
+33165 := 前往过渡测试
+33166 := 要让单个非玩家角色切换位置，请发起对话。
+33167 := 我允许你测试武器对话内容
+33168 := 这不麻烦
+33169 := 对话到此结束。
+33170 := 谢谢你，我很感激。
+33171 := 你太好了
+33172 := 潜行 00
+33173 := 潜行 04
+33174 := 潜行 08
+33175 := 潜行 12
+33176 := 潜行 16
+33177 := 潜行 20
+33178 := 战斗01 - 加莫人
+33179 := 战斗02 - 伍基人
+33180 := 战斗03 - 曼达洛人
+33181 := 战斗04 - 塔斯肯人
+33182 := 战斗05 - 西斯士兵
+33183 := 战斗06 - 火炮
+33184 := 战斗07 - 手枪
+33185 := 战斗08 - 双手枪
+33186 := 战斗09 - 步枪
+33187 := 战斗10 - 单光剑
+33188 := 战斗11 - 双持光剑
+33189 := 战斗12 - 双刃光剑
+33190 := 战斗13 - 卡斯猎犬
+33191 := 战斗14 - 金拉斯
+33192 := 战斗15 - 莱德兽
+33193 := 挑战等级 12
+33194 := 察觉 00
+33195 := 察觉 02
+33196 := 西斯士兵：步枪
+33197 := 察觉 06
+33198 := 察觉 08
+33199 := 察觉 10
 33200 := Awareness 12
 33201 := Awareness 14
 33202 := Awareness 16
