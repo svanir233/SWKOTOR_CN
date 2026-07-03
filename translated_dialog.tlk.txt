@@ -33495,763 +33495,763 @@ K-X12d：系统正在恢复正常。
 31597 := 很好。就像我之前说的，反正我更喜欢行动，不喜欢空谈。
 31598 := 好吧，好吧。你还真是该死地执着，知道吗？
 31599 := 我们会谈的……但以后再谈。现在我只想出发。
-31600 := Alright, alright. You must be the most damned persistent woman I've ever met.
-31601 := If I was, you wouldn't have to ask. So don't worry about it.
-31602 := I don't get testy. I get angry. And if I was angry, you wouldn't have to ask me if I was, let me assure you.
-31603 := No, I was just joking, though you do seem to be full of questions. It's rather refreshing, to be honest.
-31604 := Oh. Well, if it's an interrogation you wanted, why didn't you say so?
-31605 := No. No, I don't have a problem with it, really. Go ahead and interrogate me.
-31606 := I'm all ears, beautiful.
-31607 := Maybe I'm just avoiding your questions. Is this really necessary?
-31608 := Which? The fact that I'm all ears or the beautiful part?
-31609 := Not really. Just a habit. You have something you'd rather I call you by?
-31610 := Heh heh. A little bit touchy, are we? Is there something else you'd prefer I called you?
-31611 := I might consider it. What are you going to call me, in exchange?
-31612 := I like the first part of that. I'm a bit more partial to "the most handsome pilot in the galaxy". What do you think?
-31613 := Well, then, I guess "gorgeous" will have to do until then, won't it?
-31614 := Kidding aside, I bet you're not about to give up on those questions of yours. Are they really necessary?
-31615 := Don't get yourself in a twist over it, gorgeous. I didn't mean anything by it.
-31616 := All business today, eh? Are these questions really necessary?
-31617 := Oh, for crying out -- fine. If it'll make you feel better, you call me something. Go ahead, come on, I can take it.
-31618 := Is that it? You can do better than that!
-31619 := Ouch. Heh heh heh. That *is* better. Well, I bet "beautiful" doesn't sound so bad in comparison now, does it?
-31620 := Guilty as charged. I'll bet you still have those questions in mind, though. Are they really necessary?
-31621 := Stubborn as ever. Okay, you got me. I bet you have your heart set on those questions. Are they really necessary?
-31622 := What? Are you afraid you'll hurt my feelings? Come on, spit it out. You can do it.
-31623 := Is there something else you'd prefer I called you?
-31624 := You're the one who wanted to know more about me. Well this is it, this is what I am.
-31625 := I know that. I'm not angry at you... don't think that. I must not be making much sense.
-31626 := You probably mean well with your questions. I'm just not accustomed to talking about my past very much. At all, actually.
-31627 := I know. Don't worry about it. I just... must not be making much sense.
-31628 := I just can't believe he's dead. I... you should have stopped him! You should have done something to prevent this!
-31629 := Oh, don't give me that innocent look! You can talk a Hutt out of his credits, you could have found a way... you could have saved him!
-31630 := He was my son!!
-31631 := I... I wish we hadn't come. I wish I'd never found him.
-31632 := No. If it did, I would never have met you.
-31633 := No, I did fail him. And so did you. I wish I'd never met you.
-31634 := I'm sorry, too. And I'm sorry I ever met you.
-31635 := I... no, I didn't mean that. Please... maybe it would be better if we continued with the mission. I want to... take my mind off this.
-31636 := Saving the galaxy is what's important now. My son... I can mourn my son later. When we're done. So... let's just go.
-31637 := Is it? You seem just fine at pulling off the near-impossible... when you want to.
-31638 := Why didn't you want to? You knew how important finding Dustil was to me! You... you've helped others, why not him? Why not me?
-31639 := All the blame? No. Part of the blame, though... part of the blame is yours. The rest is mine.
-31640 := You could have. But... you're only partly to blame. I'm to blame for all the rest.
-31641 := I can't help but wonder if part of you didn't enjoy this. I thought we might be friends, but with you... heh, who can tell?
-31642 := No, I see that. I don't know what I was expecting, telling you all I did. The blame is mostly mine for this, anyway.
-31643 := Is it? I find it hard to tell which side you're on, sometimes. Still... not all the blame is yours. Most of it is mine.
-31644 := I don't understand.
-31645 := It doesn't take Jedi powers to read a man, believe me.
-31646 := Well, your mouth keeps opening. That's a sign, I think.
-31647 := Oh. So there's something between you and Bastila.
-31648 := So I'm crazy now, am I?
-31649 := I've seen the way you look at her.
-31650 := So someone would be crazy to like Bastila? I'll have to tell her that.
-31651 := You love the attention. Admit it.
-31652 := Good idea. I'll go get one.
-31653 := Oh, I think there's things I can do that a blaster can't.
-31654 := I could leave you alone with one, if you prefer.
-31655 := Don't like it, huh? What are you going to do about it?
-31656 := Bring it on, flyboy. I bet I take you down.
-31657 := Sure, sure. You're all talk, Carth.
-31658 := I can. Do you need to talk?
-31659 := You've been keeping something to yourself?
-31660 := It means a lot to me, Carth. Thank you.
-31661 := If you were any more obvious, your eyes would fall out of your head.
-31662 := Relax, Carth, I'm teasing you.
-31663 := I'd still like to know what you see that interests you.
-31664 := Hah! I'd like to see you try!
-31665 := Is that a promise?
-31666 := Not for a monkey-lizard, no. Not bad at all.
-31667 := I'm blind, now, am I?
-31668 := Oh, I get it. You think I'm stupid, right?
-31669 := I mean that's a damn poor excuse for an apology.
-31670 := I do, if that's alright with you.
-31671 := What happened after that?
-31672 := I don't know. Maybe you should work for it, a bit.
-31673 := No need to start sweating, Carth. I was only teasing.
-31674 := I have my uses. Let's go.
-31675 := I knew there was a reason we kept you.
-31676 := I know. I'm very charming, I'm told.
-31677 := Don't you want me to accept your apology?
-31678 := Just a little kiss. How about it?
-31679 := I was only joking, Carth, relax.
-31680 := No kiss, then?
-31681 := Just make sure you don't need to make any more apologies. Deal?
-31682 := Blow away the bad guy. Save the damsel in distress. The usual.
-31683 := Yes, here I am. And I'm not going anywhere.
-31684 := I have more of a purpose here than you do, flyboy.
-31685 := Same could be said for you.
-31686 := Why don't you ask Bastila?
-31687 := You were born out of the loop.
-31688 := Better than a Gamorrean's mother.
-31689 := The things you say!
-31690 := That name sounds familiar.
-31691 := How could you have not seen through that?
-31692 := I'd do the same thing in your shoes.
-31693 := That's terrible. I feel awful for you.
-31694 := I'm not going to repeat myself, Carth, You owe me.
-31695 := You're damn right it does.
-31696 := Do we have another problem, now?
-31697 := Well, I wouldn't want you to feel harassed. Have it your way.
-31698 := What exactly is it about me that frustrates you?
-31699 := Alright, then, I'll leave you alone if that's what you want.
-31700 := And you say I'm frustrating to deal with.
-31701 := Really? It's hard to tell.
-31702 := *I'm* frustrating? Look who's talking!
-31703 := Never mind. I'll leave you alone, since I'm so frustrating.
-31704 := You don't know? Typical male.
-31705 := Oh, that's rich. Where have you been?
-31706 := I can make you talk, Carth. Trust me.
-31707 := I'd like to know now if we have a problem.
-31708 := We didn't finish our conversation last time.
-31709 := I want to talk about these issues you seem to have with me.
-31710 := No, I do take it personally!
-31711 := I wouldn't want to live like that.
-31712 := Pretty pithy advice, I see.
-31713 := Ahhh... so you don't trust yourself, is that it?
-31714 := You sure you don't want to talk about it?
-31715 := So leave. Be on your own, it's obviously what you want.
-31716 := I don't need someone around who doesn't trust me.
-31717 := Don't tell me to calm down, you ignorant bantha!
-31718 := We'll just see whose head explodes, you ungrateful monkey-lizard!
-31719 := Drooling Bomarr cast-off!
-31720 := Gamorrean pig-man!
-31721 := Don't patronize me.
-31722 := Well, you had it coming.
-31723 := Not really. This is still serious.
-31724 := Maybe a little.
-31725 := Answer the damn questions, already.
-31726 := Don't be such a child. It's just a few questions.
-31727 := Excellent. Soon all your secrets will be mine!
-31728 := You do know we're on the same side, right?
-31729 := Are you always this suspicious?
-31730 := Yes, let's do that.
-31731 := You haven't heard the last from me on this.
-31732 := I consider this important.
-31733 := Are you getting angry again?
-31734 := Are you getting testy again?
-31735 := This isn't an interrogation. I never said that.
-31736 := I just would like to know you better.
-31737 := Not if you have a problem with it.
-31738 := Why do I get the impression that you're not serious?
-31739 := I like the sound of that.
-31740 := The beautiful part. Keep calling me that.
-31741 := Carth, are you flirting with me?
-31742 := Keep addressing me like that and you might lose an ear or two.
-31743 := How about 'gorgeous'? I like that better.
-31744 := How about "handsome thug"?
-31745 := I'll think about it.
-31746 := I think I'm going to be ill.
-31747 := Don't hold your breath.
-31748 := I'd prefer you didn't call me anything. It's demeaning.
-31749 := How about my name?
-31750 := Forget it. Let's get back to my questions.
-31751 := Now that one I like. Call me that from now on.
-31752 := That's no good, either.
-31753 := There you go again!
-31754 := How about "pushy thug"?
-31755 := How about "sexist worm"?
-31756 := Sexless marsh-toad!
-31757 := Brainless, lice-ridden bantha!
-31758 := Lobotomized Gamorrean!
-31759 := Ha ha! You are such a pain, you know that?
-31760 := Maybe not, but I still don't want you calling me that.
-31761 := What? Don't be ridiculous.
-31762 := 'Beautiful'? Isn't that a little inappropriate?
-31763 := You're right. I should have tried.
-31764 := Don't try blaming me for your problems, Carth.
-31765 := Me? Why am I suddenly at fault?
-31766 := He was a Sith, Carth, remember?
-31767 := Wishing won't help matters, will it?
-31768 := You didn't fail him, Carth. You did your best.
-31769 := I'm sorry for your loss, Carth.
-31770 := That seems a lot to expect from me.
-31771 := Stop trying to put all the blame on me.
-31772 := I'm sorry, Carth. I wish I could have stopped this.
-31773 := We're not friends, Carth.
-31774 := You think I enjoyed it? That's pretty low.
-31775 := I was an experienced Padawan, surely... but not yet ready to be a full Jedi and certainly not ready to train another. Especially not one so old as my wife.
-31776 := Not to mention that I had remained a Padawan throughout the war. A formality, perhaps, but with the trial it had to be decided if I was worthy to become a Jedi at all.
-31777 := They said I had learned wisdom the hard way. For all I had done during the war, they wished to raise me to full Jedi status at long last.
-31778 := Nope. Never was. Technically I never rose above the rank of Padawan, for various reasons. Does that surprise you?
-31779 := No I didn't. I may never have become a Jedi technically, but I'm an old Padawan with a lifetime of experience. That applies both to the Force as well as topics like love.
-31780 := In my case, becoming a Jedi would have been a formality. I doubt the order and I would have gotten along well, considering my opinions on things such as love.
-31781 := Heh. I suppose I'm not prone to live my life like most of the Jedi Masters do, that's true. My opinions on love are no different.
-31782 := Not even a Jedi? You mean not any more, right?
-31783 := Yes. You lied to me.
-31784 := You seem to have all the abilities of a Jedi...
-31785 := Not the way you describe your past, no.
-31786 := Yes, of course. I would never jeopardize our mission. However, if we get the opportunity I would like to visit Tatooine.
-31787 := Bastila's right. We don't have time for this.
-31788 := We're on an important mission here, Bastila.
-31789 := Don't be rude, Bastila.
-31790 := Never mind.
-31791 := Wookiee Warrior
-31792 := Wookiee Elite Warrior
-31793 := Swoop Gang
-31794 := Attribute Bonus: Strength +6
-Duration: 120 secs
+31600 := 好吧，好吧。你肯定是我见过最该死地执着的女人。
+31601 := 如果我是，你就不用问了。所以别担心。
+31602 := 我不会闹情绪。我会生气。而如果我真的生气了，你根本不用问我是不是生气，我向你保证。
+31603 := 不，我只是开个玩笑，虽然你的问题确实多得很。说实话，这倒挺让人耳目一新。
+31604 := 哦。好吧，如果你想要的是审问，为什么不早说？
+31605 := 不。不，我真的没意见。来吧，审问我。
+31606 := 我洗耳恭听，美人。
+31607 := 也许我只是在躲你的问题。这真的有必要吗？
+31608 := 哪个？洗耳恭听这一点，还是美人那部分？
+31609 := 其实没有。只是习惯。你有别的更希望我用来称呼你的名字吗？
+31610 := 嘿嘿。有点敏感啊，是不是？你更希望我用别的什么称呼你？
+31611 := 我也许可以考虑。作为交换，你打算怎么称呼我？
+31612 := 我喜欢前半部分。不过我更偏爱“银河系最英俊的飞行员”。你觉得怎么样？
+31613 := 好吧，那我想在那之前，“漂亮姑娘”就只好凑合用了，不是吗？
+31614 := 玩笑先放一边，我敢说你不会放弃那些问题。它们真的有必要吗？
+31615 := 别因为这个别扭了，漂亮姑娘。我没别的意思。
+31616 := 今天全是公事啊，嗯？这些问题真的有必要吗？
+31617 := 哦，看在老天——好吧。如果这能让你好受些，你也叫我点什么。来吧，来，我受得住。
+31618 := 就这个？你能说得更狠一点！
+31619 := 哎哟。嘿嘿嘿。这个*好多了*。好吧，我敢说这么一比，“美人”现在听起来没那么糟了，对吧？
+31620 := 罪名成立。不过我敢说你脑子里还是惦记着那些问题。它们真的有必要吗？
+31621 := 一如既往地固执。好吧，我服了。我敢说你是一心要问那些问题。它们真的有必要吗？
+31622 := 什么？你怕伤到我的感情？来吧，说出来。你做得到。
+31623 := 你更希望我用别的什么称呼你？
+31624 := 是你想多了解我。好吧，这就是答案，这就是我。
+31625 := 我知道。我没有生你的气……别那么想。我一定是说得很没条理。
+31626 := 你问这些问题大概是出于好意。我只是很不习惯谈自己的过去。其实是完全不习惯。
+31627 := 我知道。别放在心上。我只是……一定是说得很没条理。
+31628 := 我就是不敢相信他死了。我……你本该阻止他的！你本该做点什么防止这一切发生！
+31629 := 哦，别拿那种无辜表情看我！你能把一个赫特人的信用点都说没了，你本可以找到办法……你本可以救他的！
+31630 := 他是我儿子！！
+31631 := 我……我真希望我们没有来。我真希望我从没找到他。
+31632 := 不。如果那样，我就永远不会遇见你。
+31633 := 不，我的确辜负了他。而你也是。我真希望我从没遇见过你。
+31634 := 我也很抱歉。而且我很抱歉自己曾经遇见过你。
+31635 := 我……不，我不是那个意思。拜托……也许我们继续执行任务会比较好。我想……把这件事从脑子里挪开。
+31636 := 现在重要的是拯救银河系。我的儿子……我可以以后再哀悼我的儿子。等我们结束之后。所以……我们走吧。
+31637 := 是吗？看起来只要你愿意，你就很擅长做到几乎不可能的事。
+31638 := 你为什么不愿意？你知道找到达斯蒂尔对我有多重要！你……你帮过别人，为什么不帮他？为什么不帮我？
+31639 := 全部责任？不。不过一部分责任……一部分责任在你。剩下的在我。
+31640 := 你本可以做到。但……你只负一部分责任。其余全部都怪我。
+31641 := 我忍不住怀疑，你心里是不是有一部分还享受这一切。我以为我们也许能成为朋友，可和你在一起……嘿，谁知道呢？
+31642 := 不，我看得出来。我也不知道自己当初把那些事都告诉你时，到底在期待什么。不管怎样，这件事主要还是我的错。
+31643 := 是吗？有时候我很难判断你到底站在哪一边。不过……责任并不全在你。大部分在我。
+31644 := 我不明白。
+31645 := 读懂一个男人不需要绝地能力，相信我。
+31646 := 嗯，你的嘴一直在张开。我想这就是个迹象。
+31647 := 哦。所以你和巴丝蒂拉之间有些什么。
+31648 := 所以我现在疯了，是吗？
+31649 := 我见过你看她的眼神。
+31650 := 所以喜欢巴丝蒂拉的人就是疯子？我得去告诉她这句话。
+31651 := 你喜欢这种关注。承认吧。
+31652 := 好主意。我去拿一个。
+31653 := 哦，我觉得有些事是爆能枪做不到、而我能做到的。
+31654 := 如果你愿意，我可以让你和一把爆能枪单独待着。
+31655 := 不喜欢，是吧？那你打算怎么办？
+31656 := 来吧，飞行小子。我敢说我能把你放倒。
+31657 := 好，好。你就会嘴上说，卡斯。
+31658 := 我可以。你需要谈谈吗？
+31659 := 你一直有什么事藏在心里？
+31660 := 这对我意义很大，卡斯。谢谢你。
+31661 := 你要是再明显一点，眼珠子就要从脑袋里掉出来了。
+31662 := 放轻松，卡斯，我在逗你。
+31663 := 我还是想知道，你到底看到了什么让你感兴趣。
+31664 := 哈！我倒想看看你试试！
+31665 := 这是个承诺吗？
+31666 := 对猴蜥来说不算，不。其实还不错。
+31667 := 我现在成瞎子了，是吗？
+31668 := 哦，我懂了。你觉得我蠢，对吧？
+31669 := 我的意思是，这真是个该死地蹩脚的道歉理由。
+31670 := 如果你不介意，我确实想。
+31671 := 那之后发生了什么？
+31672 := 我不知道。也许你该稍微努力争取一下。
+31673 := 不用开始冒汗，卡斯。我只是逗你。
+31674 := 我也有我的用处。走吧。
+31675 := 我就知道我们留下你是有原因的。
+31676 := 我知道。听说我很有魅力。
+31677 := 你不想让我接受你的道歉吗？
+31678 := 就一个小小的吻。怎么样？
+31679 := 我只是开玩笑，卡斯，放松点。
+31680 := 那就不吻了？
+31681 := 只要确保你以后别再需要道歉。成交？
+31682 := 轰掉坏人，拯救遇险少女。老一套。
+31683 := 是，我就在这里。而且我哪儿也不去。
+31684 := 我在这里的目标比你更明确，飞行小子。
+31685 := 这话也可以拿来说你。
+31686 := 你为什么不去问巴丝蒂拉？
+31687 := 你天生就不在圈子里。
+31688 := 比加莫人的母亲强。
+31689 := 你说的话真是！
+31690 := 那名字听起来很耳熟。
+31691 := 你怎么会没看穿那一点？
+31692 := 换成我在你的处境里，也会这么做。
+31693 := 那太糟了。我真为你难过。
+31694 := 我不会重复自己，卡斯。你欠我的。
+31695 := 你说得该死地没错。
+31696 := 现在我们又有别的问题了吗？
+31697 := 好吧，我可不想让你觉得被骚扰了。随你吧。
+31698 := 我到底哪一点让你这么挫败？
+31699 := 好吧，那如果这是你想要的，我就不打扰你了。
+31700 := 你还说我难打交道。
+31701 := 真的吗？很难看出来。
+31702 := *我*让人挫败？你也好意思说！
+31703 := 算了。既然我这么让人挫败，我就不打扰你了。
+31704 := 你不知道？典型男人。
+31705 := 哦，这话可真有意思。你之前去哪儿了？
+31706 := 我能让你开口，卡斯。相信我。
+31707 := 我想现在就知道我们之间是不是有问题。
+31708 := 我们上次的谈话还没说完。
+31709 := 我想谈谈你似乎对我抱有的那些问题。
+31710 := 不，我就是往心里去了！
+31711 := 我可不想那样活着。
+31712 := 这建议还挺精炼，我看出来了。
+31713 := 啊……所以你是不信任自己，是这样吗？
+31714 := 你确定你不想谈谈？
+31715 := 那就走吧。自己一个人去，这显然就是你想要的。
+31716 := 我身边不需要一个不信任我的人。
+31717 := 别叫我冷静，你这个无知的班萨！
+31718 := 我们倒要看看谁的脑袋会爆开，你这个忘恩负义的猴蜥！
+31719 := 流口水的博马尔弃物！
+31720 := 加莫猪人！
+31721 := 别摆出高高在上的样子。
+31722 := 好吧，这是你自找的。
+31723 := 不完全是。这件事还是很严肃。
+31724 := 也许有一点。
+31725 := 快回答这些该死的问题。
+31726 := 别像个孩子一样。只是几个问题。
+31727 := 太好了。很快你所有秘密都将属于我！
+31728 := 你知道我们站在同一边，对吧？
+31729 := 你总是这么多疑吗？
+31730 := 是的，我们就那么做。
+31731 := 这件事我还没跟你完。
+31732 := 我认为这很重要。
+31733 := 你又开始生气了？
+31734 := 你又开始闹情绪了？
+31735 := 这不是审问。我从没那么说。
+31736 := 我只是想更了解你。
+31737 := 如果你对此有意见，那就不用。
+31738 := 为什么我总觉得你不是认真的？
+31739 := 我喜欢这听起来的感觉。
+31740 := 美人那部分。继续那么叫我。
+31741 := 卡斯，你是在跟我调情吗？
+31742 := 继续那样称呼我，你可能会少一只耳朵，或者两只。
+31743 := “漂亮姑娘”怎么样？我更喜欢那个。
+31744 := “英俊的恶棍”怎么样？
+31745 := 我会考虑的。
+31746 := 我觉得我要吐了。
+31747 := 别抱太大希望。
+31748 := 我宁愿你什么都别叫我。那很贬低人。
+31749 := 叫我的名字怎么样？
+31750 := 算了。回到我的问题吧。
+31751 := 现在这个我喜欢。从现在开始就这么叫我。
+31752 := 那个也不好。
+31753 := 你又来了！
+31754 := “强势恶棍”怎么样？
+31755 := “性别歧视虫”怎么样？
+31756 := 无性沼泽蟾蜍！
+31757 := 没脑子、满身虱子的班萨！
+31758 := 被切过脑叶的加莫人！
+31759 := 哈哈！你真是个麻烦人物，知道吗？
+31760 := 也许不是，但我还是不想让你那么叫我。
+31761 := 什么？别荒唐了。
+31762 := “美人”？那不是有点不合适吗？
+31763 := 你说得对。我本该试试。
+31764 := 别想把你的问题怪到我头上，卡斯。
+31765 := 我？为什么突然成了我的错？
+31766 := 他是西斯，卡斯，记得吗？
+31767 := 光许愿也解决不了问题，对吧？
+31768 := 你没有辜负他，卡斯。你已经尽力了。
+31769 := 为你的损失我很遗憾，卡斯。
+31770 := 这对我来说要求太高了。
+31771 := 别再想把所有责任都推到我身上。
+31772 := 对不起，卡斯。我真希望我能阻止这一切。
+31773 := 我们不是朋友，卡斯。
+31774 := 你觉得我享受这一切？这话也太下作了。
+31775 := 我当然是个有经验的绝地学徒……但还没准备好成为完整的绝地，更没准备好训练另一个人。尤其是像我妻子那样年纪已经不小的人。
+31776 := 更不用说，在整场战争期间我都一直还是绝地学徒。也许只是个形式，但在试炼中，他们必须决定我到底配不配成为绝地。
+31777 := 他们说我是用艰难的方式学会了智慧。看在我战争期间所做的一切份上，他们终于希望把我提升为完整的绝地。
+31778 := 不。根本不是。严格说来，出于各种原因，我从未升到绝地学徒以上的阶级。这让你惊讶吗？
+31779 := 不，我没有。严格说来，我也许从未成为绝地，但我是个有一生经验的老绝地学徒。这既适用于原力，也适用于爱这类话题。
+31780 := 对我来说，成为绝地本来只是个形式。考虑到我对爱情这类事情的看法，我怀疑我和绝地组织会相处得很好。
+31781 := 嘿。我想我的确不太会像大多数绝地大师那样生活，这倒是真的。我对爱情的看法也不例外。
+31782 := 连绝地都不是？你是说不再是了，对吧？
+31783 := 是的。你骗了我。
+31784 := 你看起来拥有绝地的一切能力……
+31785 := 按你描述自己过去的方式来说，不是。
+31786 := 是的，当然。我绝不会危及我们的任务。不过，如果有机会，我想去一趟塔图因星。
+31787 := 巴丝蒂拉说得对。我们没时间管这个。
+31788 := 我们在执行一项重要任务，巴丝蒂拉。
+31789 := 别这么无礼，巴丝蒂拉。
+31790 := 算了。
+31791 := 伍基人战士
+31792 := 精英伍基人战士
+31793 := 飞梭帮
+31794 := 属性加值：力量 +6
+持续时间：120 秒
 
-More effective than the basic model, this stim uses a risky cocktail of chemicals to boost the strength of the user. Stim bonuses that affect the same statistic do not stack.
-31795 := Attribute Bonus: Dexterity +6
-Speed: Movement +30%
-Duration: 120 secs
+比基础型号更有效，这种兴奋剂使用一组风险较高的化学混合物来提升使用者的力量。影响同一数据的兴奋剂加值不会叠加。
+31795 := 属性加值：敏捷 +6
+速度：移动 +30%
+持续时间：120 秒
 
-This model of alacrity stim uses a very powerful mixture of chemicals to produce an incredible increase in the dexterity of the user. Stim bonuses that affect the same statistic do not stack.
-31796 := Attribute Bonus: Constitution +6
-Duration: 120 secs
+这款敏捷兴奋剂使用一种非常强效的化学混合物，使使用者的敏捷获得惊人提升。影响同一数据的兴奋剂加值不会叠加。
+31796 := 属性加值：体质 +6
+持续时间：120 秒
 
-Steeling the user against pain, this stim provides a very large boost in constitution. Stim bonuses that affect the same statistic do not stack.
-31797 := This device improves the wearer's reflexes by triggering prolonged bursts of adrenaline. It is thought to be perfectly safe, with only a few instances of uncontrolled muscle spasms.
-31798 := This Republic unit improves on the basic Stealth Mode field by dampening all sound that the user might make. Opponents must make an Awareness check versus user Stealth skill +2 or remain unaware of them. The user must have paid points into the Stealth skill to gain the use of Stealth Mode. Combat disrupts the field, but mundane tasks do not.
-31799 := This sophisticated Eriadu Stealth Mode unit expertly camouflages the user. Opponents must make an Awareness check versus user Stealth skill +6 or remain unaware of them. The user must have paid points into the Stealth skill to gain the use of Stealth Mode. Combat disrupts the field, but mundane tasks do not.
-31800 := Bonus: Vitality max +16pts
-Attack: +2
-Damage: +2
-Duration: 120 secs
+这种兴奋剂能让使用者抵御疼痛，并大幅提升体质。影响同一数据的兴奋剂加值不会叠加。
+31797 := 这种装置会触发持续的肾上腺素爆发，从而提升佩戴者的反应能力。人们认为它完全安全，只出现过少数无法控制的肌肉痉挛案例。
+31798 := 这个共和国装置通过抑制使用者可能发出的所有声音，改进了基础潜行模式场。对手必须进行察觉检定，对抗使用者潜行技能 +2，否则仍不会察觉他们。使用者必须已向潜行技能投入点数，才能使用潜行模式。战斗会扰乱场，但日常任务不会。
+31799 := 这个精密的埃里亚杜潜行模式装置能熟练伪装使用者。对手必须进行察觉检定，对抗使用者潜行技能 +6，否则仍不会察觉他们。使用者必须已向潜行技能投入点数，才能使用潜行模式。战斗会扰乱场，但日常任务不会。
+31800 := 加值：活力上限 +16 点
+攻击：+2
+伤害：+2
+持续时间：120 秒
 
-This stim removes all distractions, allowing the user to focus purely on the battle. The user is almost oblivious to damage suffered. Stim bonuses that affect the same statistic do not stack.
-31801 := Bonus: Vitality max +25pts
-Attack: +3
-Damage: +3
-Duration: 120 secs
+这种兴奋剂会移除所有干扰，让使用者能纯粹专注于战斗。使用者几乎会对受到的伤害毫无察觉。影响同一数据的兴奋剂加值不会叠加。
+31801 := 加值：活力上限 +25 点
+攻击：+3
+伤害：+3
+持续时间：120 秒
 
-This stimulant produces a chemical cocktail that sends a boost of adrenaline through the body, focusing the mind and bolstering the user's tolerance for damage. Stim bonuses that affect the same statistic do not stack.
-31802 := Included are an improved assortment of tools and parts needed for a droid to repair itself after being damaged in combat. This kit can't be used by living beings. Advanced kits repair 25 vitality points + INT modifier + (2 x user's skill in Repair).
-31803 := This kit contains all the necessary parts for a droid to repair itself after being damaged in combat, including electrical regulators designed to isolate malfunctions. This kit can't be used by living beings. Construction kits repair 35 vitality points + INT modifier + (3 x user's skill in Repair).
-31804 := This unit misdirects opponents by creating 5 holo-projections of the user. A successful attack on one of the projections disrupts energy flow and causes that image to fail.
-31805 := This item uses microbursts of counter-current energy to calm unsteady nerves, increasing accuracy in the handling of volatile materials. The user must have basic knowledge of Demolitions (paid points into the skill) to benefit from this item.
-31806 := These gauntlets are quite stiff, minimizing actions that might interfere with the manipulation of volatile materials. The user must have basic knowledge of Demolitions (paid points into the skill) to benefit from this item.
-31807 := Tensor-mesh stiffens the forearm for steady handling of volatile materials. The insect-like Verpine don't personally use these items, claiming they merely mimic their own exoskeletons. The user must have basic knowledge of Demolitions (paid points into the skill) to benefit from this item.
-31808 := This implant micromanages the cardiovascular system, effectively increasing the user's constitution faster and further than hard work and exercise might.
-31809 := This implant boosts the regular energy impulses of the nervous system, sharpening the performance of dexterous action. Inactive users may suffer the odd lingering twitch.
-31810 := This implant stimulates the brain, effectively increasing the user's capacity for intelligent thought, all at a price cheaper than a trip to the libraries of Coruscant.
-31811 := This implant releases synthetic versions of the natural stimulants produced by the body, temporarily boosting the user's stamina.
-31812 := This implant does use relatively experimental nano-technology to speed healing, but relies more on coagulants and solid doses of pain relievers. If you feel better, you are better.
-31813 := This ocular implant greatly increases visual acuity, allowing the user to better track enemy movement in combat. General awareness will improve as well.
-31814 := This implant regulates the nervous system, preventing loss of consciousness due to sudden impact or sensory overload.
-31815 := This implant bolsters the immune system, prompting it to react immediately aggressively toward any virus or bacterium that might have otherwise resulted in a debilitating sickness.
-31816 := This implant stimulates cardiovascular performance well beyond the user's norm. The Bavakar Medical Research Labs are at the forefront of developmental cybernetics.
-31817 := Stimulants and energy bursts allow this implant to boost a user's reflexes well beyond normal. The Bavakar Medical Research Labs are at the forefront of developmental cybernetics.
-31818 := This implant controls a cocktail of synthetic nutrients, encouraging quick thought in the user. The Bavakar Medical Research Labs are at the forefront of developmental cybernetics.
-31819 := This implant maintains an ever-circulating stream of antitoxins in the user, increasing relevant antidotes for specific poisons introduced. Side effects include dry mouth.
-31820 := Restricted:
-not useable by Wookiees
+这种兴奋剂会产生一组化学混合物，将肾上腺素的激增送遍全身，使心神集中，并增强使用者承受伤害的能力。影响同一数据的兴奋剂加值不会叠加。
+31802 := 其中包含改良版工具和零件组合，可供机器人在战斗受损后自行修理。这个工具包不能由活体生物使用。高级工具包可修复 25 点活力 + INT 调整值 +（2 x 使用者的修理技能）。
+31803 := 这个工具包包含机器人在战斗受损后自行修理所需的全部零件，其中包括用于隔离故障的电气调节器。这个工具包不能由活体生物使用。建造工具包可修复 35 点活力 + INT 调整值 +（3 x 使用者的修理技能）。
+31804 := 这个单元会制造使用者的 5 个全息投影来误导对手。对其中一个投影的成功攻击会扰乱能量流，使该影像失效。
+31805 := 这件物品利用反向电流能量的微爆发来稳定紧张的神经，提高处理挥发性材料时的准确性。使用者必须具备爆破的基础知识（已向该技能投入点数），才能从此物品受益。
+31806 := 这些护手相当僵硬，可尽量减少可能干扰挥发性材料操作的动作。使用者必须具备爆破的基础知识（已向该技能投入点数），才能从此物品受益。
+31807 := 张量网会固定前臂，便于稳定处理挥发性材料。昆虫般的韦尔派因人自己并不使用这些物品，声称它们只是模仿自己的外骨骼。使用者必须具备爆破的基础知识（已向该技能投入点数），才能从此物品受益。
+31808 := 这种植入体会微观管理心血管系统，实际上能比艰苦训练和锻炼更快、更大幅地提升使用者的体质。
+31809 := 这种植入体会增强神经系统的常规能量脉冲，使灵巧动作的表现更加敏锐。不活动的使用者可能偶尔会出现挥之不去的抽搐。
+31810 := 这种植入体会刺激大脑，有效提升使用者进行智能思考的能力，而且费用比去一趟科洛桑图书馆还便宜。
+31811 := 这种植入体会释放人体自然产生的兴奋剂的合成版本，暂时提升使用者的耐力。
+31812 := 这种植入体确实使用了相对实验性的纳米技术来加速治疗，但更多依赖凝血剂和大剂量止痛药。只要你感觉好些了，你就是好些了。
+31813 := 这种眼部植入体能大幅提高视觉敏锐度，使使用者在战斗中更好地追踪敌人行动。整体察觉能力也会随之提升。
+31814 := 这种植入体会调节神经系统，防止因突然冲击或感官过载而失去意识。
+31815 := 这种植入体会强化免疫系统，促使其立即对任何本可能导致虚弱疾病的病毒或细菌做出强烈反应。
+31816 := 这种植入体会将心血管表现刺激到远超使用者常态的水平。巴瓦卡医学研究实验室处于发展性义体科技的最前沿。
+31817 := 兴奋剂和能量爆发能让这种植入体把使用者的反射提升到远超常态的水平。巴瓦卡医学研究实验室处于发展性义体科技的最前沿。
+31818 := 这种植入体会控制一组合成营养物混合物，鼓励使用者快速思考。巴瓦卡医学研究实验室处于发展性义体科技的最前沿。
+31819 := 这种植入体会在使用者体内维持一股不断循环的抗毒素流，在特定毒素进入时增强相关解毒剂。副作用包括口干。
+31820 := 限制：
+伍基人不可使用
 
-These are invaluable tools that increase visual acuity by analyzing light on several frequencies above those of normal sight.
-31821 := Restricted:
-not useable by Wookiees
+这些是极有价值的工具，会通过分析高于正常视觉范围的数种光频率来提升视觉敏锐度。
+31821 := 限制：
+伍基人不可使用
 
-A built-in micro tracking processor means a user wearing these goggles can detect almost any movement.
-31822 := Restricted:
-not useable by Wookiees
+内置微型追踪处理器意味着佩戴这些护目镜的使用者几乎能侦测到任何移动。
+31822 := 限制：
+伍基人不可使用
 
-Bothans treat information like any other resource, and invest a great deal in devices that help collect it. These Bothan visors are considered to be among the best in the galaxy.
-31823 := Restricted:
-not useable by Wookiees
+波森人把情报视作和其他资源一样重要，并在帮助收集情报的装置上投入大量资金。这些波森护目镜被认为跻身银河系最佳之列。
+31823 := 限制：
+伍基人不可使用
 
-The Verpine only manufacture this product for export, having no need of it themselves. They have highly evolved sight, a quality they smugly say the visors mimic but do not exceed.
-31824 := Restricted:
-not useable by Wookiees
+韦尔派因人只为出口制造这种产品，因为他们自己并不需要。他们拥有高度进化的视觉，还得意地说这些护目镜只是模仿他们的视觉，却没有超越。
+31824 := 限制：
+伍基人不可使用
 
-Bothans place great importance on the tools of the information trade. They would consider these items to be of average quality, though their standards are exceptionally high.
-31825 := Restricted:
-not useable by Wookiees
+波森人极其重视情报行业的工具。他们会认为这些物品质量一般，尽管他们的标准异常之高。
+31825 := 限制：
+伍基人不可使用
 
-With this item, Durkish Corporation abandoned visual detection in favor of aural, citing that most creatures breathe, and even camouflage fields can't blend the sound of that away.
-31826 := Restricted:
-not useable by Wookiees
+有了这件物品，德尔基什公司放弃了视觉侦测，转而采用听觉侦测，理由是大多数生物都会呼吸，而就连伪装场也无法把那种声音混掉。
+31826 := 限制：
+伍基人不可使用
 
-In a fine balancing act, this unit amplifies the faint sounds of moving creatures, while filtering out louder background noise that might otherwise deafen the user.
-31827 := This kit contains an array of hypospray injectors filled with a broad chemical mix that quickly overwhelms viral or bacterial infections, effectively curing most known diseases.
-31828 := These rods are used to record audio logs. They are popular among researchers and politicians.
-31829 := Damage: None
-Secondary:
-Entangle for 15sec
-Area of Effect: 4m
-Range: Long
+在精细的平衡中，这个单元会放大移动生物发出的微弱声音，同时过滤掉较大的背景噪声，否则那些噪声可能会震聋使用者。
+31827 := 这个工具包包含一组低压注射器，内部装有广谱化学混合物，可迅速压倒病毒或细菌感染，有效治愈大多数已知疾病。
+31828 := 这些记录棒用于录制音频日志。它们在研究人员和政治人物中很受欢迎。
+31829 := 伤害：无
+次要效果：
+纠缠 15 秒
+效果范围：4米
+射程：远
 
-These grenades cover the target area in a gooey bio-adhesive that traps anyone caught within the effect. It quickly degrades, allowing allies to soon pass unhindered.
-31830 := Created initially by Gungis X Weapons, blaster carbine rifles have become very popular in recent years, helped by falling prices due to competition from other companies.
-31831 := This is a modification on the blaster carbine rarely seen outside of Sith-controlled space.
-31832 := This blaster rifle variant is one of many fine weapons produced by the factories of Cinnagar in their continued militarizing after the Great Hyperspace War a thousand years ago.
-31833 := The Zabrak mercenary Jurgan Kalta commissioned this rifle, a weapon he liked to think of as "amusingly destructive."
-31834 := Special:
-Upgradeable, Ranged
+这些手雷会用黏稠的生物黏着剂覆盖目标区域，困住任何陷入效果的人。它会迅速降解，让盟友很快就能不受阻碍地通过。
+31830 := 爆能卡宾步枪最初由冈吉斯 X 武器公司制造，近年来已经非常流行，其他公司的竞争使价格下降，也助推了这种趋势。
+31831 := 这是爆能卡宾枪的改装型，在西斯控制的空间之外很少见到。
+31832 := 这种爆能步枪变体是辛纳加工厂生产的众多精良武器之一；一千年前的超空间大战后，辛纳加持续军事化，这些武器便由此诞生。
+31833 := 扎布拉克佣兵尤尔甘·卡尔塔定制了这支步枪，一件他乐于称作“有趣地毁灭性”的武器。
+31834 := 特殊：
+可升级，远程
 
-This was the weapon of mercenary Jamoh Hogra, and was supposed to protect him against the many enemies he earned in his lifetime. Hogra's skill didn't match its potential, however.
-31835 := The most common ranged weapon in the galaxy is the basic blaster pistol, firing a bolt of intense coherent light powered by a replaceable power pack.
-31836 := The Mandalorian Blaster is a slightly more powerful version of the basic pistol common throughout the galaxy.
-31837 := This is a versatile blaster variant, possibly of ancient Arkanian origin. The Arkanians are very proud that such early efforts continue to be prized among collectors and soldiers.
-31838 := This blaster is the staple of the Zabrak mercenary, known for deadly accuracy and exceptional damage.
-31839 := Special:
-Upgradeable, Ranged
+这是佣兵贾莫·霍格拉的武器，本该保护他免受一生中招来的许多敌人伤害。不过，霍格拉的技艺并不匹配它的潜力。
+31835 := 银河系最常见的远程武器是基础爆能手枪，它发射由可替换能量包供能的强烈相干光束。
+31836 := 曼达洛爆能枪是银河系常见基础手枪的稍强版本。
+31837 := 这是一种多用途爆能枪变体，可能源自古代阿卡尼亚。阿卡尼亚人非常自豪，因为如此早期的尝试仍然受到收藏家和士兵珍视。
+31838 := 这种爆能枪是扎布拉克佣兵的标配，以致命精准和出色伤害闻名。
+31839 := 特殊：
+可升级，远程
 
-This blaster belonged to Bendak Starkiller, a duelist legendary on Taris. It is a highly adaptable weapon, and is definitely of better quality than any standard issue pistol.
-31840 := More powerful than the commonly available pistol, the blaster rifle is favored by soldiers throughout the galaxy. Civilian ownership of these weapons is not generally encouraged.
-31841 := Despite its effectiveness, these modified blaster rifles are not often employed by the Sith. They prefer to engage their enemies up close and personal.
-31842 := These weapons are almost overpowered for their size, but the Mandalorians prefer them that way. They do not make a habit of being subtle in their war making.
-31843 := These weapons are almost beginning to cross the line to light artillery. Armor is generally ineffective against such a weapon, unless it is of the highest quality.
-31844 := Special:
-Upgradeable, Ranged
+这把爆能枪曾属于本达克·弑星者，一位塔里斯星上的传奇决斗者。它是一件高度适应性的武器，品质也绝对优于任何标准配发手枪。
+31840 := 爆能步枪比常见手枪更强大，受到银河系各地士兵青睐。一般并不鼓励平民拥有这类武器。
+31841 := 尽管效果不俗，西斯并不常使用这些改装爆能步枪。他们更喜欢近距离、面对面地交战。
+31842 := 这些武器相对于尺寸来说几乎强得过头，但曼达洛人就喜欢这样。他们在战争中从不习惯含蓄。
+31843 := 这些武器几乎已经开始跨过轻型火炮的界线。护甲通常难以抵挡这样的武器，除非品质达到最高水准。
+31844 := 特殊：
+可升级，远程
 
-Jurgan Kalta wanted to make a big noise in the galaxy. If it was the screams of his enemies, all the better. This weapon was his favorite because it shared his adaptability.
-31845 := The bowcaster is an invention of the Wookiees of Kashyyyk. Also called a laser crossbow, it actually uses a magnetic accelerator to hurl an explosive energy quarrel at its target.
-31846 := Damage: Cold, 20pts
-Secondary:
-Paralyzation for 6sec
-Area of Effect: 4m
-Range: Long
-Save:
-DC15 for half damage, negates paralyzation
+尤尔甘·卡尔塔想在银河系闹出大动静。如果那动静是敌人的惨叫，那就更好。这件武器是他的最爱，因为它和他一样适应性很强。
+31845 := 弩枪是卡希克星伍基人的发明。它也被称为激光弩，但实际上使用磁力加速器，将爆炸性能量弩矢射向目标。
+31846 := 伤害：寒冷，20 点
+次要效果：
+麻痹 6 秒
+效果范围：4米
+射程：远
+豁免：
+DC15 减半伤害，并抵消麻痹
 
-A CryoBan grenade releases a supercooled liquid that freezes on contact, causing intense pain and damage to victims caught in the effect.
-31847 := Echani Firedancers use the double bladed Ritual Brand in a dodging and slicing pattern so graceful it looks more like a dance than combat.
-31848 := Twisted by the dark side, the Krath favored weapons of fearsome appearance requiring brute strength to wield, and the blades of this weapon are certainly effective, if not elegant.
-31849 := Held by the Dark Jedi even before he fell to the dark side, this may be one of the few truly personal items owned by Ajunta Pall, and remains as thoroughly corrupted as he.
-31850 := These pistols are illegal in many planetary systems, being regarded as too powerful a weapon to be owned by civilians. Disruptors reduce solid matter to its constituent molecules. Unlike typical blasters, disruptors ignore most types of personal energy shields.
-31851 := A weapon similar to this energy-propelled slug-thrower belonged to Jigger Wraith, a bounty hunter who plagued the Republic years ago. Thirty-seven Mandalorians were executed for being him until sightings declined. As a type of disruptor, this weapon ignores most personal energy shields.
-31852 := This disruptor is even more destructive than its pistol counterpart, and is outlawed on just as many worlds. Disruptors reduce solid matter to its constituent molecules. Painfully. Unlike typical blasters, disruptors ignore most types of personal energy shields.
-31853 := Zabrak always command respect, especially with the aid of weapons that are even more damaging than already-outlawed standard disruptors. Unlike typical blasters, disruptors ignore most types of personal energy shields.
-31854 := Damage: Heat, 36pts
-Area of Effect: 4m
-Range: Long
-Save:
-DC15 for half damage
+冷冻手雷会释放一种超冷液体，接触后立即冻结，对陷入效果的受害者造成剧痛和伤害。
+31847 := 埃查尼火舞者会以闪避和切割的套路使用双刃仪式烙刃，其动作优雅得看起来更像舞蹈而非战斗。
+31848 := 被黑暗面扭曲的克拉斯人偏爱外观可怖、需要蛮力挥舞的武器，而这件武器的剑刃当然有效，尽管并不优雅。
+31849 := 这件物品甚至在那名黑暗绝地堕入黑暗面之前就由他持有，可能是阿君塔·帕尔为数不多真正私人的物品之一，而且仍然和他一样被彻底腐化。
+31850 := 这些手枪在许多星系都属非法，因为它们被认为过于强大，不该由平民拥有。裂解枪会把固态物质还原为构成它的分子。与典型爆能枪不同，裂解枪会无视大多数个人能量护盾。
+31851 := 一件类似这种能量推进投射武器的枪械曾属于吉格·雷斯，一个多年前祸害共和国的赏金猎人。在目击报告减少之前，三十七名曼达洛人曾因被误认为是他而遭处决。作为一种裂解枪，这件武器会无视大多数个人能量护盾。
+31852 := 这把裂解枪甚至比对应的手枪更具破坏力，并且在同样多的世界上被列为非法。裂解枪会把固态物质还原为构成它的分子。过程很痛苦。与典型爆能枪不同，裂解枪会无视大多数个人能量护盾。
+31853 := 扎布拉克人总能赢得尊重，尤其当他们还借助比已经违法的标准裂解枪更具杀伤力的武器时。与典型爆能枪不同，裂解枪会无视大多数个人能量护盾。
+31854 := 伤害：高温，36 点
+效果范围：4米
+射程：远
+豁免：
+DC15 减半伤害
 
-These grenades release a quick burst of an incendiary agent that ignites immediately, damaging all enemies within the area of effect.
-31856 := Damage: Piercing, 20pts
-Area of Effect: 4 meters
-Range: Long
-Save :
-DC15 for half damage
+这些手雷会迅速释放出一股立即点燃的燃烧剂爆发，对效果范围内的所有敌人造成伤害。
+31856 := 伤害：穿刺，20 点
+效果范围：4 米
+射程：远
+豁免：
+DC15 减半伤害
 
-Fragmentation grenades are very basic. They explode when thrown, showering the enemy in shrapnel. It's not elegant, but it's definitely effective.
-31857 := Sometimes called a "sleeper," the hold out blaster is the preferred method of temporarily incapacitating an enemy.
-31858 := An unconscious opponent is a quiet opponent. This weapon is a Bothan favorite, designed to "create opportunities."
-31859 := These weapons are designed to incapacitate so death may be quick or lingered upon as desired. Droids are simply dispatched, as cruelty is best rationed among the living.
-31860 := For serious espionage, this is the weapon of choice. Simple ownership can get you arrested in some systems, or invited to dine with royalty, depending on what it helped you learn.
-31861 := This weapon again increases the firepower available to the foot soldier or mercenary, but it is not for the lightly armored who wish to be quick on their feet.
-31862 := With this weapon, the Mandalorians again demonstrate a complete lack of subtlety. The only thing better than a big blaster, apparently, is one that shoots faster.
-31863 := These resemble regular blasters in the same way Quoorian marshsuckers resemble mosquitoes. Sure, they both do damage, but the former definitely has the edge in kill-potential.
-31864 := Arkanian designs of this kind predated mass acceptance of heavier pistols, but 2000 years later they are still superior performers.
-31865 := The Zabrak killed many pirates who were attempting to seize shipments of these weapons and then sold them on the black market anyway. It's not a matter of where they end up, but of who gets paid.
-31866 := Mandalorians boast that a shot from one of these pistols can take a starship out of commission. It's an obvious exaggeration, but for safety's sake, most listeners just smile and nod.
-31867 := Special:
-Upgradeable, Ranged
+破片手雷十分基础。它们在投出后爆炸，把敌人淹没在弹片中。它并不优雅，但绝对有效。
+31857 := 制式小型爆能枪有时被称作“睡眠者”，是暂时使敌人失去行动能力的首选方式。
+31858 := 失去意识的对手就是安静的对手。这件武器是波森人的最爱，设计目的是“创造机会”。
+31859 := 这些武器旨在让目标失去行动能力，使死亡可以按需要迅速降临或缓慢拖延。机器人会被简单处置，因为残酷最好只限量用在活物身上。
+31860 := 对于严肃的间谍工作来说，这是首选武器。单纯拥有它，在某些星系会让你被逮捕；在另一些地方则会让你受邀与王族共进晚餐，这取决于它帮你知道了什么。
+31861 := 这件武器再次提升了步兵或佣兵可用的火力，但它不适合那些想要行动敏捷的轻甲人员。
+31862 := 借助这件武器，曼达洛人再次展现了完全缺乏含蓄的一面。显然，比大爆能枪更好的东西，就是射得更快的大爆能枪。
+31863 := 这些武器像普通爆能枪的程度，就像库奥里亚沼吸虫像蚊子的程度。当然，二者都会造成伤害，但前者在杀伤潜力上绝对更胜一筹。
+31864 := 这类阿卡尼亚设计早于重型手枪被大众接受的时代，但 2000 年后，它们的表现仍然更为优异。
+31865 := 扎布拉克人杀死了许多企图劫夺这些武器运输的海盗，然后还是把武器卖到了黑市上。问题不在于它们最终流向哪里，而在于谁能拿到钱。
+31866 := 曼达洛人吹嘘说，这类手枪的一枪就能让一艘星际飞船停摆。这显然夸张了，但为了安全起见，大多数听众只是微笑点头。
+31867 := 特殊：
+可升级，远程
 
-Cassus Fett was rarely seen without this adaptable blaster. Famous for killing the captain of a flagship Republic frigate at the Battle of Jaga's Cluster, he is presumed dead.
-31868 := Unlike a typical blaster, this weapon fires a stream of energy very damaging to electrical systems, causing havoc on the internal components of droids.
-31869 := Demonstrating this weapon, the insect-like Verpine destroyed legions of droids, doing nothing to quell the public's suspicions of what testing their stun guns must have been like.
-31870 := Damage: Ion, 15pts
-(45pts vs. droids)
-Area of Effect: 4m
-Range: Long
-Save:
-DC15 for half damage
+卡瑟斯·费特几乎从不离开这把适应性强的爆能枪。他因在贾加星团战役中杀死共和国护卫舰旗舰舰长而闻名，目前推定已经死亡。
+31868 := 不同于典型爆能枪，这件武器会发射一道对电气系统极具破坏力的能量流，在机器人的内部组件中造成混乱。
+31869 := 在展示这种武器时，昆虫般的韦尔派因人摧毁了成群机器人，这完全没有平息公众对他们测试震慑枪时情形的怀疑。
+31870 := 伤害：离子，15 点
+（对机器人 45 点）
+效果范围：4米
+射程：远
+豁免：
+DC15 减半伤害
 
-These grenades emit an extremely strong burst of energy devastating to any droids or personal shields caught in the effect.
-31871 := Any well-stocked militia usually has stores of ion rifles in reserve. They aren't much use against the living, but if the enemy has battle droids these weapons become essential.
-31872 := Droids can be difficult obstacles for a spy, but these weapons take all the guesswork out of dealing with them while doing nominal damage against organics as well.
-31873 := While they may have borrowed liberally from designs the Bothans initiated, the Verpine say you can't argue with results. These weapons are simply devastating against droids.
-31874 := Traditionally associated with the Jedi, the lightsaber is a devastating weapon difficult to master. Properties can vary with the type of focusing crystal used in construction.
-31875 := Twisted by the dark side, the Krath tempered swords with the power of the Force perhaps even before lightsabers became the weapon of the Jedi, both dark and light.
-31876 := The mere presence of Dark Lord Naga Sadow would come to imbue his personal weapons with the taint he carried, poisoned as his spirit was.
-31877 := Damage: Special
+这些手雷会释放极强的能量爆发，对任何陷入效果的机器人或个人护盾造成毁灭性打击。
+31871 := 任何库存充足的民兵通常都会储备离子步枪。它们对活物没多大用处，但如果敌人拥有战斗机器人，这些武器就会变得必不可少。
+31872 := 机器人可能是间谍难以处理的障碍，但这些武器让对付它们不再需要猜测，同时也能对有机体造成名义上的伤害。
+31873 := 尽管他们也许大量借鉴了波森人开创的设计，韦尔派因人会说结果足以说明一切。这些武器对机器人简直具有毁灭性。
+31874 := 光剑传统上与绝地联系在一起，是一种难以掌握的毁灭性武器。其性质会随构造中使用的聚焦水晶类型而变化。
+31875 := 被黑暗面扭曲的克拉斯人，也许甚至在光剑成为绝地武器之前，就已经用原力之力淬炼剑刃，无论是黑暗绝地还是光明绝地皆然。
+31876 := 黑暗尊主纳迦·萨多仅仅现身，就足以让他的个人武器沾染上他携带的污秽，正如他的灵魂早已中毒。
+31877 := 伤害：特殊
 
-Secondary:
-Poison, 4 pts every 3 sec
-Duration: 30sec
-Area of Effect: 4m
-Range: Long
-Save:
-DC25 for no effect
+次要效果：
+中毒，每 3 秒 4 点
+持续时间：30 秒
+效果范围：4米
+射程：远
+豁免：
+DC25 无效果
 
-This grenade unleashes a blast of poison gas that affects the nervous system, lingering in the air to ensure that the effect is not escaped easily.
-31878 := The Massassi were a proud race altered by the Sith millennia ago, and subsequently exterminated along with Exar Kun. This weapon was the symbol of a proven warrior.
-31879 := This may have belonged to a Sand People warrior famous among his kind for killing a young Jedi, but the one tribe that kept the oral history of this event was wiped out long ago.
-31880 := This weapon allows the user to fire more quickly than usual, increasing his chances of survival without drastically changing the amount of equipment he would normally carry.
-31881 := The blaster cannon is a favorite among captains wealthy enough to hire experienced, dangerous crews and who might need a way to take them out quick if things go bad.
-31882 := During the reign of Naga Sadow the Massassi were transformed into foot soldiers for the Sith. This was their traditional weapon, altered, as they were, to serve the dark side.
-31883 := Attributed to Empress Teta, this blade speaks of her background as a warrior and her willingness to be on the frontline of the Great Hyperspace War a thousand years ago.
-31884 := Damage: Sonic, 20pts
-Secondary:
--6 Dexterity for 30 seconds
-Area of Effect: 4m
-Range: Long
-Save:
-DC15 for half damage,
-negates dexterity penalty
+这枚手雷会释放一阵影响神经系统的毒气，并在空气中滞留，确保目标不易逃离效果。
+31878 := 马萨西曾是一个骄傲的种族，数千年前被西斯改变，后来又与埃克萨·库恩一同遭到灭绝。这件武器曾是一名久经考验的战士的象征。
+31879 := 这件武器也许曾属于一名在族人中因杀死年轻绝地而闻名的沙人战士，但唯一保留这段事件口述历史的部落很久以前就被消灭了。
+31880 := 这件武器允许使用者比平常更快开火，在不大幅改变通常携带装备数量的情况下，提高生存几率。
+31881 := 爆能炮受到有钱雇用经验丰富且危险船员的船长青睐；如果事情变糟，他们可能也需要一种快速解决这些船员的办法。
+31882 := 纳迦·萨多统治时期，马萨西被改造成西斯的步兵。这是他们的传统武器，也和他们一样被改造来服务黑暗面。
+31883 := 据称属于泰塔女皇，这柄剑体现了她作为战士的背景，以及她愿意在一千年前的超空间大战中亲临前线的意志。
+31884 := 伤害：音波，20 点
+次要效果：
+敏捷 -6，持续 30 秒
+效果范围：4米
+射程：远
+豁免：
+DC15 减半伤害，
+抵消敏捷减值
 
-These grenades explode loudly, but the majority of their effect is delivered in disorienting frequencies the ear can barely perceive, even as it is damaged.
-31885 := Sometimes referred to as "squealers", these weapons deliver a high-frequency jolt to the senses that can damage and potentially disorient an opponent.
-31886 := This is an improvement over the standard sonic pistol design that must seem doubly shrill to the large ears of the Bothans.
-31887 := More powerful than the pistol, the sonic rifle fires a blast of sound that causes a great deal of sensory overload in addition to damage, disorienting the victim.
-31888 := This was conceived as a "last resort" weapon should espionage fail and a quick retreat be called for. It is effective, but the Bothans would prefer that it not be needed.
-31889 := The Arkanians pioneered many non-lethal weapons that could disorient opponents, but most were retrofitted to be superior damage dealers as well because the initial demand for them was so low.
-31890 := A useful tool for espionage, this weapon is more effective than the standard stun baton, but is still available on most worlds. High-density discharge cells make this item unwieldy and unusable in the off-hand.
-31891 := A very effective device used by Bothan elite. Some systems consider simple possession of one as grounds for execution as a spy. High-density discharge cells make this item unwieldy and unusable in the off-hand.
-31892 := Special:
-Upgradeable, Melee
+这些手雷爆炸时声音巨大，但大部分效果来自令人迷失方向的频率，即使耳朵正在受损也几乎无法感知。
+31885 := 这些武器有时被称为“尖叫者”，会向感官传递高频冲击，既能造成伤害，也可能使对手迷失方向。
+31886 := 这是对标准音波手枪设计的改进，对大耳朵的波森人来说，它听起来必定加倍尖锐。
+31887 := 音波步枪比手枪更强大，会发射一阵声音爆发，在造成伤害之外还引发大量感官过载，使受害者迷失方向。
+31888 := 这件武器的构想是间谍行动失败、需要快速撤退时的“最后手段”。它很有效，但波森人宁愿它永远派不上用场。
+31889 := 阿卡尼亚人开创了许多能让对手迷失方向的非致命武器，但由于最初需求太低，其中大多数后来都被改装成更出色的伤害输出武器。
+31890 := 作为间谍工具，这件武器很有用，比标准震慑警棍更有效，但在大多数世界仍可获得。高密度放电电池让这件物品笨重，且无法在副手使用。
+31891 := 这是波森精英使用的高效装置。某些星系认为，单纯持有一件就足以作为间谍罪处决。高密度放电电池让这件物品笨重，且无法在副手使用。
+31892 := 特殊：
+可升级，近战
 
-Weighted to fit a Rakatan grip, this item is most like a stun baton. It seems more adaptable than one of Republic issue, though similar high-density cells make it unwieldy and unusable with weapons in the off-hand.
-31893 := Damage: None
-Secondary: Stun for 9sec
-Area of Effect: 4m
-Range: Long
-Save:
-DC15 for no effect
+这件物品按拉卡塔握持方式加重，最像一根震慑警棍。它似乎比共和国制式警棍更具适应性，不过类似的高密度电池让它笨重，并且无法与副手武器同时使用。
+31893 := 伤害：无
+次要效果：震慑 9 秒
+效果范围：4米
+射程：远
+豁免：
+DC15 无效果
 
-This type of grenade explodes in a concussive wave of force that disrupts the senses of both organic and inorganic targets in the area of effect.
-31894 := Damage: Energy, 60pts
-Secondary: Knockdown
-Area of Effect: 4m
-Range: Long
-Save:
-DC15 for half damage
+这种手雷会以冲击力波爆炸，扰乱效果范围内有机与无机目标的感官。
+31894 := 伤害：能量，60 点
+次要效果：击倒
+效果范围：4米
+射程：远
+豁免：
+DC15 减半伤害
 
-This Republic device contains a baradium compound that produces a small fusion energy explosion of great force. Civilian possession of these items is outlawed almost everywhere.
-31895 := Ultrasonic vibrations make this double-bladed sword exceptionally deadly. A rare Echani cortosis weave protects it against lightsaber sparring damage, ensuring effectiveness even against Jedi and Sith. The double-bladed sword is capable of inflicting more damage - but is also less precise - than the single-bladed variant.
-31896 := Though most favor lightsabers, some Sith prefer the more visceral feel of metal cutting flesh. These blades are usually impregnated with rare cortosis to protect against lightsaber sparring damage.
-31897 := Excess energy from the generator in this vibrosword is conducted directly through the blades. Also possessing a rare lightsaber-deflecting cortosis weave, this weapon is a deadly Echani masterpiece.
-31898 := Special:
-Upgradeable, Melee
+这种共和国装置含有一种巴拉迪姆化合物，可产生威力强大的小型聚变能量爆炸。几乎所有地方都禁止平民持有这类物品。
+31895 := 超声波振动让这把双刃剑异常致命。稀有的埃查尼科托西斯编织物可保护它免受光剑对练伤害，确保即使面对绝地和西斯也有效。双刃剑能造成更多伤害，但精准度也低于单刃变体。
+31896 := 尽管多数西斯偏爱光剑，也有些西斯更喜欢金属切割血肉的本能触感。这些剑刃通常浸入稀有科托西斯，以防护光剑对练伤害。
+31897 := 这把振动剑中来自发生器的多余能量会直接通过剑刃传导。它还拥有稀有的光剑偏转科托西斯编织物，是一件致命的埃查尼杰作。
+31898 := 特殊：
+可升级，近战
 
-Yusanis was the most famous of Echani warriors, fighting against oppression and villainy until encountering Darth Revan. Discovering that Revan had killed an Echani senator, Yusanis attempted to tell authorities but fell to the powers of the Sith Lord despite his own impressive abilities and the cortosis weave inherent in all Echani vibroblades.
-31899 := Small size makes this a good off hand weapon. Echani vibroblades use a rare cortosis weave to prevent lightsaber sparring damage, allowing traditional swordplay to continue in the time of Jedi and Sith.
-31900 := Twisted by the dark side, this Krath weapon is as deadly as a modern vibroblade. It was meant for assassination, and a cortosis weave that prevents lightsaber sparring damage ensured that even Jedi must respect it.
-31901 := These blades are typically used in the off hand. In addition to a cortosis weave that deflects lightsaber sparring damage, some Echani vibroblades are supercooled to keep them in alignment, giving them an icy sting.
-31902 := Special:
-Upgradeable, Melee
+尤萨尼斯是最著名的埃查尼战士，在遇到达斯·瑞文之前一直对抗压迫与邪恶。发现瑞文杀死了一名埃查尼参议员后，尤萨尼斯试图向当局报告，但尽管他能力出众，且所有埃查尼振动刃都天生带有科托西斯编织物，他仍败给了西斯尊主的力量。
+31899 := 小巧尺寸使它成为不错的副手武器。埃查尼振动刃使用稀有科托西斯编织物来防止光剑对练伤害，使传统剑术在绝地与西斯的时代仍能延续。
+31900 := 被黑暗面扭曲的这件克拉斯武器，和现代振动刃一样致命。它本就是为暗杀而造，防止光剑对练伤害的科托西斯编织物确保即使绝地也必须尊重它。
+31901 := 这些剑刃通常用于副手。除了能偏转光剑对练伤害的科托西斯编织物外，有些埃查尼振动刃还会被超冷处理以保持校准，带来冰冷刺痛。
+31902 := 特殊：
+可升级，近战
 
-Sanasiki used this weapon to kill Nelinik, a Zabrak who assassinated the Echani High Protector with battle droids. Cortosis protects the blade against lightsaber sparring damage while energy cells disrupt droid opponents.
-31903 := This was a weapon of distinction in the time of the Krath. Protected against lightsaber sparring damage, Sith would grant these cortosis-laced blades to only the most loyal underlings.
-31904 := Traced to the Bladeborn, a Sith offshoot dedicated to sword mastery, these cortosis-laced weapons were given to "masterblades" who survived no less than ten lightsaber-wielding warriors in combat.
-31905 := These swords were crafted to honor Raskta Fenni, the best Echani duelist of her time. Many were sold, but imperfections in the difficult lightsaber-deflecting cortosis weave caused few to survive.
-31906 := Special:
-Upgradeable, Melee
+萨纳西基曾用这件武器杀死内利尼克，后者是一名用战斗机器人暗杀埃查尼至高保护者的扎布拉克人。科托西斯能保护剑刃免受光剑对练伤害，而能量电池会干扰机器人对手。
+31903 := 这是克拉斯时代的一件卓越武器。由于能防护光剑对练伤害，西斯只会把这些嵌有科托西斯的剑刃赐给最忠诚的下属。
+31904 := 这些嵌有科托西斯的武器可追溯到剑裔，一个专精剑术的西斯分支，并会赐给在战斗中至少从十名持光剑战士手下存活的“剑刃大师”。
+31905 := 这些剑是为了纪念拉斯克塔·芬尼而打造，她是那个时代最优秀的埃查尼决斗者。其中许多曾被售出，但难以制作的光剑偏转科托西斯编织物存在瑕疵，导致存世者寥寥无几。
+31906 := 特殊：
+可升级，近战
 
-The great Bacca was hunting the Shadowlands ages ago when an alien ship crashed through the forest. He saw that first contact as a warning of the destruction outsiders could bring. Made from the debris, this sword is a reminder for his people that trust must be given cautiously, and only to those who have earned it.
-31907 := Wookiee Warblade
-31908 := Dantooine - War Droid Encounter
-31909 := Dantooine - Assault Droid Encounter
-31910 := Assault Droid Encounter
-31911 := Assassin Droid Encounter
-31912 := Endar's Spire - Sith Encounter
-31913 := Endar's Spire - War Droid Encounter
-31914 := Gamorrean Encounter
-31915 := Kashyyyk - Lesser Kinrath Encounter
-31916 := Kashyyyk - Greater Kinrath Encounter
-31917 := Kashyyyk - Bull Katarn Encounter
-31918 := Kataarn Encounter
-31919 := Kath Hound Encounter
-31920 := Kinrath Encounter
-31921 := Korriban - Shyrack Encounter
-31922 := Korriban - Gizka Encounter
-31923 := Korriban - Tuk'ata Encounter
-31924 := Korriban - Dark Jedi Encounter
-31925 := Korriban, Leviathan, Unknown World - Assault Droid Mark IV Encounter
-31926 := Korriban, Leviathan - Sith Trooper Encounter
-31927 := Korriban - Assault Droid Mark I Encounter
-31928 := Korriban - Wraid Encounter
-31929 := Leviathan - Dark Jedi Encounter
-31930 := Leviathan - Assassin Droid Encounter
-31931 := Manaan - Sith Trooper Encounter
-31932 := Manaan - Dark Jedi Apprentice Encounter
-31933 := Manaan - War Droid Encounter
-31934 := Manaan - Sentry Droid Encounter
-31935 := Mandalorian Encounter
-31936 := Rakghoul Encounter
-31937 := Selkath Encounter
-31938 := Star Forge - Assault Droid Encounter
-31939 := Rabid Tach Encounter
-31940 := Taris - Black Vulkar Gang Encounter
-31941 := Taris - Hidden Bek Gang Encounter
-31942 := Taris - Sith Trooper Encounter
-31943 := Taris - War Droid Encounter
-31944 := Taris - Mandalorian Encounter
-31945 := Taris - Davik's Gamorrean Encounter
-31946 := Taris - Sentry Droid Encounter
-31947 := Taris - Assault Droid Encounter
-31948 := Taris - Sith, Dark Jedi Encounter
-31949 := Tatooine - Krayt Dragon Encounter
-31950 := Sand People Encounter
-31951 := Unknown World - Rakatan Encounter
-31952 := Unknown World - Black Rakatan Encounter
-31953 := Unknown World - Red Rakatan Encounter
-31954 := Unknown World - Rancor Encounter
-31955 := Unknown World - Sith Trooper Encounter
-31956 := Unknown World, Star Forge - Dark Jedi Encounter
-31957 := Unknown World, Star Forge - Advanced Assassin Droid Encounter
-31958 := Veerkal Encounter
-31959 := Wookiee Encounter
+很久以前，伟大的巴卡正在暗影之地狩猎时，一艘外星飞船穿过森林坠毁。他把那次首次接触视作外来者可能带来毁灭的警告。这把剑由残骸制成，是给他的族人的提醒：信任必须谨慎给予，而且只能给那些已经赢得信任的人。
+31907 := 伍基战刃
+31908 := 丹图因 - 战斗机器人遭遇
+31909 := 丹图因 - 突击机器人遭遇
+31910 := 突击机器人遭遇
+31911 := 暗杀机器人遭遇
+31912 := 恩达尖塔号 - 西斯遭遇
+31913 := 恩达尖塔号 - 战斗机器人遭遇
+31914 := 加莫人遭遇
+31915 := 卡希克 - 小型金拉斯遭遇
+31916 := 卡希克 - 大型金拉斯遭遇
+31917 := 卡希克 - 公卡塔恩遭遇
+31918 := 卡塔恩遭遇
+31919 := 卡斯猎犬遭遇
+31920 := 金拉斯遭遇
+31921 := 卡里班 - 夏拉克遭遇
+31922 := 卡里班 - 吉兹卡遭遇
+31923 := 卡里班 - 图卡塔遭遇
+31924 := 卡里班 - 黑暗绝地遭遇
+31925 := 卡里班、利维坦号、未知世界 - Mark IV 突击机器人遭遇
+31926 := 卡里班、利维坦号 - 西斯士兵遭遇
+31927 := 卡里班 - 突击机器人 Mark I 遭遇
+31928 := 卡里班 - 莱德兽遭遇
+31929 := 利维坦号 - 黑暗绝地遭遇
+31930 := 利维坦号 - 暗杀机器人遭遇
+31931 := 马南 - 西斯士兵遭遇
+31932 := 马南 - 黑暗绝地学徒遭遇
+31933 := 马南 - 战斗机器人遭遇
+31934 := 马南 - 哨戒机器人遭遇
+31935 := 曼达洛人遭遇
+31936 := 拉克食尸鬼遭遇
+31937 := 塞尔卡斯人遭遇
+31938 := 星际锻炉 - 突击机器人遭遇
+31939 := 狂暴塔奇遭遇
+31940 := 塔里斯 - 黑火神帮遭遇
+31941 := 塔里斯 - 隐秘贝克帮遭遇
+31942 := 塔里斯 - 西斯士兵遭遇
+31943 := 塔里斯 - 战斗机器人遭遇
+31944 := 塔里斯 - 曼达洛人遭遇
+31945 := 塔里斯 - 戴维克的加莫人遭遇
+31946 := 塔里斯 - 哨戒机器人遭遇
+31947 := 塔里斯 - 突击机器人遭遇
+31948 := 塔里斯 - 西斯、黑暗绝地遭遇
+31949 := 塔图因 - 克雷特龙遭遇
+31950 := 沙人遭遇
+31951 := 未知世界 - 拉卡塔人遭遇
+31952 := 未知世界 - 黑拉卡塔遭遇
+31953 := 未知世界 - 红拉卡塔遭遇
+31954 := 未知世界 - 兰克兽遭遇
+31955 := 未知世界 - 西斯士兵遭遇
+31956 := 未知世界、星际锻炉 - 黑暗绝地遭遇
+31957 := 未知世界、星际锻炉 - 高级暗杀机器人遭遇
+31958 := 维卡尔遭遇
+31959 := 伍基人遭遇
 31960 := C8-42
-31961 := Shari
+31961 := 莎丽
 31962 := dan13_wp_exit
 31963 := POST_dan14_c8692
-31964 := There was a blood sample on the weapon that had been sent back for analysis just before you arrived. Perhaps you could inquire with the information droid about it.
-31965 := [You have acquired a lightsaber crystal.]
-31966 := placeholder crystal
+31964 := 在你到达前不久，武器上的血液样本已被送回分析。也许你可以向信息机器人询问此事。
+31965 := [你获得了一颗光剑水晶。]
+31966 := 占位水晶
 31967 := dan_kinrath02
 31968 := dan_kinrath01
 31969 := dan15_wp_nemobody
 31970 := POST_dan15_corpse
-31971 := Sandral Sentry
-31972 := Sandral Droids
-31973 := Rahasia in her room
+31971 := 桑德拉尔哨兵
+31972 := 桑德拉尔机器人
+31973 := 拉哈西亚在她的房间里
 31974 := WP_02_01
 31975 := WP_02_02
 31976 := WP_02_03
-31977 := Careful, the conduits in this corridor are unstable.
-31978 := You're wounded! You better use a medkit to heal yourself before we go any farther.
+31977 := 小心，这条走廊里的导管不稳定。
+31978 := 你受伤了！我们再往前走之前，你最好用一个医疗包治疗自己。
 31979 := end_wp_pchurt02
 31980 := end_wp_pchurt01
 31981 := end_wp_flame01
-31982 := Komad Spawn
-31983 := Why should being what I am compel me to entertain others with tales of the 'good old days' huh?
-31984 := Dern Trigger
-31985 := Grrrwahrr Trigger
-31986 := [The door to Dreshdae will not open until the port authority has been paid his docking fee.]
-31987 := [This door is only open to members of the Sith Academy.]
-31988 := Oh, lovely. It's Father. Figures that you'd show up after all this time. How did you manage to get inside the academy?
-31989 := Maybe it doesn't matter. Or maybe Master Uthar would be interested in knowing just what kind of company he has present here?
-31990 := Just why are you here, Father? Not for me, I hope. Couldn't you have gotten yourself blown up on some ship and spared us this reunion?
-31991 := Haha. And I'm supposed to believe that my self-righteous father has fallen into the habit of accompanying Sith in their training? I doubt that.
-31992 := Cute. I wonder how interested Master Uthar would be to know just who he has in his web. Unless you've switched sides, Father? But I doubt that.
-31993 := I... guess it does.
-31994 := I'm proud of you, Dustil. You aren't hanging onto a lie after you see it for what it is. Not everyone could do that.
-31995 := I'll go back to Telos when this is over. You can find me there. Goodbye... father.
-31996 := Goodbye, son. Good luck.
-31997 := Does it matter? We're here.
-31998 := Same way you did, I bet. I'm training to become a Sith.
-31999 := Through the front doors.
-32000 := Just activate the console... it gives you a variety of options for serum dosage. The right amount applied at the right rate should do it.
-32001 := The door remains closed.
-32002 := [Success] The door opens.
-32003 := [Failure] The door remains closed.
-32004 := Leave door alone.
-32005 := Use security skills to open the door.
-32006 := [Failure] N-n-never! Y-your... mind... tricks... d-do not...
-32007 := [Failure] N-never! Y-your... mind tricks... do not work!
-32008 := We could learn much about the history of the ancient Sith... why they were on Korriban and why they left.
-32009 := This datapad appears to contain numerous entries of notes made by Master Uthar of the Sith Academy. Most prominent of the recent entries is the following:
+31982 := 科马德生成
+31983 := 我是什么样的人，为什么就非得让我用“过去的好日子”那种故事来娱乐别人，嗯？
+31984 := 德恩触发器
+31985 := 格鲁瓦尔触发器
+31986 := [在向港务局支付停靠费之前，通往德雷什戴的门不会开启。]
+31987 := [这扇门只向西斯学院成员开放。]
+31988 := 哦，真好。是父亲啊。这么久之后你果然还是出现了。你到底怎么进到学院里面的？
+31989 := 也许这不重要。又或者，乌萨尔大师会很有兴趣知道他这里现在有怎样的同伴？
+31990 := 你到底为什么来这里，父亲？希望不是为了我。你就不能在哪艘飞船上把自己炸掉，免得我们重逢吗？
+31991 := 哈哈。我难道该相信，我那自以为正义的父亲现在养成了陪西斯受训的习惯？我很怀疑。
+31992 := 真可爱。我很想知道乌萨尔大师会多有兴趣知道自己的网里到底有谁。除非你已经改换阵营了，父亲？但我很怀疑。
+31993 := 我……想也是。
+31994 := 我为你骄傲，达斯蒂尔。你看清谎言之后没有继续抓着它不放。不是每个人都能做到这一点。
+31995 := 这一切结束后，我会回泰洛斯。你可以在那里找到我。再见……父亲。
+31996 := 再见，儿子。祝你好运。
+31997 := 这重要吗？我们已经在这里了。
+31998 := 我敢说，和你一样的方式。我正在受训成为西斯。
+31999 := 走正门进来的。
+32000 := 只要启动控制台……它会给你多种血清剂量选项。按正确速度施加正确剂量应该就行。
+32001 := 门仍然关闭。
+32002 := [成功] 门打开了。
+32003 := [失败] 门仍然关闭。
+32004 := 别管这扇门。
+32005 := 使用安保技能打开这扇门。
+32006 := [失败] 绝、绝不！你、你的……心灵……把戏……不、不……
+32007 := [失败] 绝不！你、你的……心灵把戏……不起作用！
+32008 := 我们可以了解许多古代西斯的历史……他们为什么来到卡里班星，又为什么离开。
+32009 := 这个数据板似乎包含许多西斯学院乌萨尔大师所写的笔记条目。最近条目中最醒目的是以下内容：
 
-"The pupil known as Dustil has shown remarkable progress. His talent with the Force is great. The same, however, cannot be said for the human female that he arrived with, Selene.
-She has little talent. Moreover, Dustil holds a great degree of affection for her. This is a weakness in the boy and has been slowing down his training.
-Orders were sent this morning to have the girl removed from the academy and terminated. I will tell Dustil that she was killed in the valley. He will forget her soon enough, I think... he is too promising to lose at this juncture."
-32010 := Torture Victim
-32011 := Locker Waypoint
-32012 := Victim Waypoint
-32013 := The Jedi are fools; they do not believe in executing prisoners. Originally I assumed you had died in the battle. Imagine my surprise when I found out you were still alive, Revan.
-32014 := You knew I would one day challenge you for supremacy, but you underestimated me. I acted sooner than you expected and seized the Sith throne with a single brilliant stroke!
-32015 := You must have seen flashes of your old life in your dreams, Revan; memories bubbling up to the surface? Surely you must remember the battle in which you were captured?
-32016 := Bastila, is this true?
-32017 := Duncan initiates
+“名为达斯蒂尔的学员表现出显著进步。他在原力方面的天赋很高。然而，和他一同抵达的那名人类女性塞琳却不能如此评价。
+她几乎没有天赋。此外，达斯蒂尔对她抱有很深的感情。这是这个男孩的弱点，并且一直拖慢他的训练。
+今天早上已经下令将那女孩从学院移走并处决。我会告诉达斯蒂尔，她是在山谷中被杀的。我想他很快就会忘记她……他太有前途，不能在这个关头失去。”
+32010 := 折磨受害者
+32011 := 储物柜路点
+32012 := 受害者路点
+32013 := 绝地都是蠢货；他们不相信应该处决囚犯。一开始我以为你已经死在战斗中了。想象一下，当我发现你还活着时有多惊讶吧，瑞文。
+32014 := 你知道有一天我会挑战你的霸权，但你低估了我。我比你预料中更早行动，以一次精彩绝伦的打击夺取了西斯王座！
+32015 := 你一定在梦中看见过旧日人生的片段，瑞文；那些记忆浮上表面？你当然还记得那场你被俘的战斗吧？
+32016 := 巴丝蒂拉，这是真的吗？
+32017 := 邓肯开始
 32018 := exit_dan26_duncan
 32019 := POST_dan26_duncan
 32020 := dead_beast
-32021 := Bastila End Waypoint
-32022 := You don't have to explain it to me.
-32023 := Beep, boop, beep.
+32021 := 巴丝蒂拉结束路点
+32022 := 你不用向我解释。
+32023 := 哔，啵，哔。
 32024 := tar02_goto02aca
 32025 := tar02_partyset1
 32026 := tar02_partyset2
 32027 := tar02_partytoggle
 32028 := tar02_swoopapt
-32029 := Well, I'm not going to drop the price on that model. At 50 credits it's already a bargain. If you can't afford it, you can't afford it.
-32030 := I don't have 50 credits.
-32031 := Incomplete Droid
-32032 := Beep, boop, beep.
-32033 := Shop Droid
-32034 := Metal Box
-32035 := You know the language of my people? That is rare among your species; I am impressed.
-32036 := Slave
+32029 := 好吧，我不会给那个型号降价。50 信用点已经是便宜货了。你付不起，就是付不起。
+32030 := 我没有 50 信用点。
+32031 := 未完成机器人
+32032 := 哔，啵，哔。
+32033 := 商店机器人
+32034 := 金属箱
+32035 := 你懂我族人的语言？在你们物种中这很罕见；我很佩服。
+32036 := 奴隶
 32037 := tar10_bartlk
-32038 := I want to find out what my mother wanted. We need to find her.
-32039 := We should try to find her. I doubt she wants to be kept waiting.
-32040 := That messenger said my mother is on Tatooine somewhere. We should ask about her.
-32041 := My mother was supposed to be here somewhere. Ask if they have seen her.
-32042 := Ask whether they have seen my mother.
-32043 := Have you seen a woman that may resemble me somewhat? She is my mother.
-32044 := Tat17aa Exit
-32045 := It doesn't matter, dear. Don't you worry about me.
-32046 := Here. Take these 500 credits. It's all I have. Go to Coruscant and find a doctor. I'll meet you there after... after what I have to do.
-32047 := But I already told you there's nothing that can --
-32048 := Please, take it. I... want to see you again. When we can talk.
-32049 := Yet you let your husband go on these dangerous expeditions.
-32050 := Treasure hunting is a dangerous occupation.
-32051 := We're not soldiers. They still kill us, and then take our weapons off our corpses. They even had the Jawas disable the turrets and set them around their enclave.
-32052 := They use whatever they scavenge. They seem to hate our technology, but they love to turn it against us. That goes for blasters and turrets too, I guess.
-32053 := It's not like you need to be a genius to operate them. They probably don't even bother with special settings. They just watch for people approaching and switch them on.
-32054 := The Sand People are using turrets?
-32055 := [A vast expanse of desert stretches before you, with no markers or any indications of life. It would be a deathtrap for anyone wandering aimlessly.]
-32056 := [The Eastern Dune Sea continues to a barren horizon, but there are signs that people have passed this way. The occasional stone appears to be marking a path, but the logic of how they are placed is indecipherable to an outsider.]
-32057 := Krayt Area Speaker
-32058 := Krayt Dragon Transition
-32059 := Star Map Spawn
-32060 := Tat18ad Exit
-32061 := Storyteller Spawn
-32062 := Remaining Feats
-32063 := Taris Door 6
-32064 := Taris Door 7
-32065 := Sith Door 4
-32066 := Hammerhead Door 1
-32067 := Taris Door 8
-32068 := Prerequisites:
-Mandalorian
+32038 := 我想弄清楚我母亲想要什么。我们需要找到她。
+32039 := 我们应该试着找到她。我怀疑她不想一直等下去。
+32040 := 那个信使说我母亲在塔图因星某处。我们应该打听她的消息。
+32041 := 我母亲本该就在这里某处。问问他们有没有见过她。
+32042 := 问问他们有没有见过我母亲。
+32043 := 你有没有见过一个和我有些相像的女人？她是我母亲。
+32044 := Tat17aa 出口
+32045 := 没关系，亲爱的。别为我担心。
+32046 := 给。拿着这 500 信用点。这是我全部的钱。去科洛桑找个医生。等我……等我做完必须做的事后，我会去那里见你。
+32047 := 但我已经告诉过你，根本没有什么能——
+32048 := 求你了，拿着。我……想再见到你。等我们能够谈谈的时候。
+32049 := 可你还是让你丈夫去进行这些危险的探险。
+32050 := 寻宝是个危险行当。
+32051 := 我们不是士兵。他们照样杀我们，然后从我们的尸体上取走武器。他们甚至让贾瓦人停用了炮塔，再把炮塔设置在他们的营地周围。
+32052 := 他们会利用任何搜刮来的东西。他们似乎憎恨我们的技术，但又喜欢把它反过来对付我们。我想爆能枪和炮塔也是一样。
+32053 := 操作那些东西又不需要天才。他们大概连特殊设置都懒得动，只是盯着有没有人靠近，然后把它们打开。
+32054 := 沙人在使用炮塔？
+32055 := [一片辽阔沙漠在你面前延展，没有标记，也没有任何生命迹象。对任何漫无目的游荡的人来说，这里都会是死亡陷阱。]
+32056 := [东部沙丘海继续延伸到荒芜的地平线，但这里有人经过的迹象。偶尔出现的石块似乎在标记道路，但它们摆放方式的逻辑对外来者来说无法理解。]
+32057 := 克雷特区域播音器
+32058 := 克雷特龙过渡
+32059 := 星图生成
+32060 := Tat18ad 出口
+32061 := 说史者生成
+32062 := 剩余专长
+32063 := 塔里斯门 6
+32064 := 塔里斯门 7
+32065 := 西斯门 4
+32066 := 锤头门 1
+32067 := 塔里斯门 8
+32068 := 先决条件：
+曼达洛人
 
-Due to the rigorous training and conditioning he received as a Mandalorian soldier, Canderous has the ability to consciously direct his body to reduce the effects of combat damage. While conscious, he constantly regenerates one vitality point every six seconds.
-32069 := Unique Ability: Bastila
+由于作为曼达洛人士兵接受过严格训练和调理，坎德鲁斯有能力有意识地引导自己的身体，降低战斗伤害的影响。只要保持意识清醒，他就会每六秒持续再生 1 点活力。
+32069 := 独特能力：巴丝蒂拉
 
-Body Fuel is an activated ability that lasts for 30 seconds. During this time Bastila regenerates all of her Force points every round (3 seconds). However, whenever she uses a Force Power, she takes Vitality damage equal to the Force Point cost of the power.
-32070 := Prerequisites:
-Cathar
+身体燃料是一种激活能力，持续 30 秒。在此期间，巴丝蒂拉每轮（3 秒）都会再生所有原力点数。然而，每当她使用原力能力时，就会受到等同于该能力原力点数消耗的活力伤害。
+32070 := 先决条件：
+凯瑟人
 
-Camouflage hides Juhani in the same manner that a scoundrel hides using the Stealth ability. She remains camouflaged for 60 seconds or until she attacks or uses another Force Power on an enemy.
-32071 := EXITING SYSTEM...
-32072 := Prerequisites:
-Cathar
+伪装会让茱哈妮以和无赖使用潜行能力相同的方式隐藏起来。她会保持伪装 60 秒，或直到她攻击敌人或对敌人使用另一项原力能力。
+32071 := 正在退出系统……
+32072 := 先决条件：
+凯瑟人
 
-This ability allows Juhani to determine if living hostile creatures are in the area. Using this ability will allow her to determine how close and how big enemies are.
-32073 := Unique Ability: Jolee 
+此能力允许茱哈妮判断区域内是否存在活着的敌对生物。使用此能力后，她可以判断敌人距离多近以及体型多大。
+32073 := 独特能力：乔利
 
-Psychic Static is an activated ability. It lasts for 6 seconds per level. For its duration, all enemies in the area of effect (8-meter radius around Jolee) come under a confusion effect. There is a 20% chance that the creature acts normally, a 40% chance that the creature attacks its nearest ally and a 40% chance that the creature does nothing.
-32074 := Prerequisites:
-Wookiee
+心灵静滞是一种激活能力。它每等级持续 6 秒。持续期间，效果范围内（乔利周围 8 米半径）的所有敌人都会受到困惑效果。生物有 20% 几率正常行动，40% 几率攻击最近的盟友，40% 几率什么都不做。
+32074 := 先决条件：
+伍基人
 
-When Zaalbar flies into a rage he gains +4 to his Strength and Constitution. He also gains a +2 bonus on Fortitude and Will saves and has a -4 penalty to his Defense rating. This effect lasts for 60 seconds.
-32075 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-32076 := Universal Power
-Prerequisites:
-Character Level 9
+当扎尔巴陷入狂怒时，他获得力量和体质 +4。他还获得强韧和意志豁免 +2 加值，并承受防御值 -4 减值。此效果持续 60 秒。
+32075 := [失败] 访问被拒绝
+破解器不足
+输入命令
+32076 := 通用能力
+先决条件：
+角色等级 9
 
-This power allows the Jedi to shield the entire party in the Force, granting immunity to poisons and disease and absorbing the first 15 points of damage from sonic, fire, cold and electrical attacks directed at them. Damage over and above the first 15 points is suffered as normal. This effect lasts for 120 seconds.
-32077 := Proficiency All
-32079 := Battle Meditation
-32080 := Unique Ability: Bastila
+此能力允许绝地用原力保护整个队伍，使其免疫毒素和疾病，并吸收针对他们的音波、火焰、寒冷和电击攻击造成的前 15 点伤害。超过前 15 点的伤害照常承受。此效果持续 120 秒。
+32077 := 全部熟练项
+32079 := 战斗冥想
+32080 := 独特能力：巴丝蒂拉
 
-This rare ability allows Bastila to coordinate large fleets or armies during wartime, influencing base emotion and morale on a grand scale. It can have a dramatic effect on the tide of a battle, but is not applicable to small-scale combat.
-32081 := Boy
-32082 := boy
-32083 := Girl
-32084 := girl
-32085 := He
-32086 := he
-32087 := She
-32088 := she
-32089 := Him
-32090 := him
-32091 := Her
-32092 := her
-32093 := His
-32094 := his
-32095 := Hers
-32096 := hers
-32097 := Male
-32098 := male
-32099 := Female
-32100 := female
-32101 := Man
-32102 := man
-32103 := Woman
-32104 := woman
-32105 := Sir
-32106 := sir
-32107 := Madam
-32108 := madam
-32109 := A skillful rogue that gets by on stealth and guile.
-32110 := An explorer most at home on the fringes of space.
-32111 := A battle-ready fighter with no equal in combat.
-32112 := Modifier
-32113 := River of Acid
-32114 := Invisible Barrier
-32115 := Malak's Dead Jedi
-32116 := Pillar
-32117 := Falling Roof M39aa
-32118 := Sith Sarcophagus
-32119 := Trap Device
-32120 := Trash Compacting Ceiling
-32121 := Action
-32122 := Leader
-32123 := Sith Door 5
-32124 := Taris Door 9
-32125 := [A crystal is found in the remains of the egg.]
-32127 := Star Forge Door 1
-32128 := [The chamber beyond this door is filled with water.]
-32129 := Bonus
-32130 := Sell
-32132 := Buy
-32133 := Select Store List
-32134 := Select Inventory List
-32136 := Energy Shield
-32137 := Sith Energy Shield
-32138 := Arkanian Energy Shield
-32139 := Echani Shield
-32140 := Mandalorian Melee Shield
-32141 := Mandalorian Power Shield
-32142 := Echani Dueling Shield
-32143 := Yusanis' Dueling Shield
-32144 := Proto-type Verpine Energy Shield
-32145 := Cloaking Device
-32146 := Prerequisites:
-Level 4 Scout
+这种罕见能力允许巴丝蒂拉在战争时期协调大型舰队或军队，从宏观层面影响基础情绪和士气。它可以对战局产生显著影响，但不适用于小规模战斗。
+32081 := 男孩
+32082 := 男孩
+32083 := 女孩
+32084 := 女孩
+32085 := 他
+32086 := 他
+32087 := 她
+32088 := 她
+32089 := 他
+32090 := 他
+32091 := 她
+32092 := 她
+32093 := 他的
+32094 := 他的
+32095 := 她的
+32096 := 她的
+32097 := 男性
+32098 := 男性
+32099 := 女性
+32100 := 女性
+32101 := 男人
+32102 := 男人
+32103 := 女人
+32104 := 女人
+32105 := 先生
+32106 := 先生
+32107 := 女士
+32108 := 女士
+32109 := 依靠潜行和狡诈生存的熟练无赖。
+32110 := 最适应太空边疆的探索者。
+32111 := 随时准备战斗、在战斗中无人能敌的战士。
+32112 := 调整值
+32113 := 酸河
+32114 := 隐形屏障
+32115 := 马拉克的死去绝地
+32116 := 石柱
+32117 := 坠落屋顶 M39aa
+32118 := 西斯石棺
+32119 := 陷阱装置
+32120 := 垃圾压缩天花板
+32121 := 动作
+32122 := 领队
+32123 := 西斯门 5
+32124 := 塔里斯门 9
+32125 := [在蛋的残骸中发现了一颗水晶。]
+32127 := 星际锻炉门 1
+32128 := [这扇门后方的房间充满了水。]
+32129 := 加值
+32130 := 出售
+32132 := 购买
+32133 := 选择商店列表
+32134 := 选择物品栏列表
+32136 := 能量护盾
+32137 := 西斯能量护盾
+32138 := 阿卡尼亚能量护盾
+32139 := 埃查尼护盾
+32140 := 曼达洛近战护盾
+32141 := 曼达洛能量护盾
+32142 := 埃查尼决斗护盾
+32143 := 尤萨尼斯的决斗护盾
+32144 := 韦尔派因原型能量护盾
+32145 := 伪装装置
+32146 := 先决条件：
+4 级侦察兵
 
-A character with Uncanny Dodge retains the dexterity bonus to Defense even when surprised by camouflaged opponents, and also gains +2 on saves versus grenades.
-32147 := Prerequisites:
-Level 7 Scout
+拥有直觉闪避的角色即使被伪装的对手突袭，也会保留敏捷对防御值的加值，并且对抗手雷的豁免获得 +2。
+32147 := 先决条件：
+7 级侦察兵
 
-A character with Uncanny Dodge Two retains the dexterity bonus to Defense even when surprised by camouflaged opponents, and also gains +4 on saves versus grenades.
-32148 := Blue
-32149 := Give Item
-32150 := Manaan Door 3
-32151 := Manaan Door 4
-32152 := Manaan Door 5
-32153 := Manaan Door 6
-32154 := Level
-32155 := The current game will not be saved. Continue with load?
-32156 := Damaged Space Suit
-32157 := The body of Calder Nettic. He was apparently shot from behind with a blaster.
-32158 := These devices use a pair of vaporators to condense moisture from the air, albeit in small amounts over a long period of time. Droughts can last for centuries on some desert worlds, so this may be the only means to obtain water.
-32159 := This is a highly pungent mixture of local plants and fungus. Banthas apparently find it irresistible, though it's doubtful any intelligent species would willingly call it food.
-32160 := Choose your class
-32161 := N
-32162 := NE
-32163 := NW
-32164 := S
-32165 := SE
-32166 := SW
-32167 := E
-32168 := W
-32169 := VIT
-32170 := DEF
-32171 := Party Inventory
-32172 := No Description Set
-32173 := by Order Received
-32174 := by Name
-32175 := by Priority
-32176 := by Planet
-32177 := Completed Quests
-32178 := Active Quests
-32179 := Return to Spaceport
-32180 := Party Selection
-32181 := Map
-32182 := Quest Items
-32183 := Droid Stun Ray Type 1
-32184 := Droid Force Field Type 1
-32185 := Droid Force Field Type 2
-32186 := Droid Force Field Type 3
-32188 := Droid Hazard Shield Type 1
+拥有直觉闪避 2 的角色即使被伪装的对手突袭，也会保留敏捷对防御值的加值，并且对抗手雷的豁免获得 +4。
+32148 := 蓝色
+32149 := 给予物品
+32150 := 马南门 3
+32151 := 马南门 4
+32152 := 马南门 5
+32153 := 马南门 6
+32154 := 等级
+32155 := 当前游戏不会被保存。继续载入？
+32156 := 受损太空服
+32157 := 考尔德·耐蒂克的尸体。他显然是从背后被爆能枪射杀的。
+32158 := 这些装置使用一对蒸发器从空气中凝结水分，虽然长时间内只能获得少量水。有些沙漠世界的干旱能持续数百年，因此这可能是获取水的唯一手段。
+32159 := 这是一种由当地植物和真菌制成、气味极其浓烈的混合物。班萨显然觉得它难以抗拒，不过值得怀疑的是，任何智慧物种是否会自愿称它为食物。
+32160 := 选择你的职业
+32161 := 北
+32162 := 东北
+32163 := 西北
+32164 := 南
+32165 := 东南
+32166 := 西南
+32167 := 东
+32168 := 西
+32169 := 活力
+32170 := 防御
+32171 := 队伍物品栏
+32172 := 未设置说明
+32173 := 按接收顺序
+32174 := 按名称
+32175 := 按优先级
+32176 := 按星球
+32177 := 已完成任务
+32178 := 活跃任务
+32179 := 返回太空港
+32180 := 队伍选择
+32181 := 地图
+32182 := 任务物品
+32183 := 机器人震慑射线 1 型
+32184 := 机器人力场 1 型
+32185 := 机器人力场 2 型
+32186 := 机器人力场 3 型
+32188 := 机器人危害护盾 1 型
 
-32190 := Droid Hazard Shield Type 2
-32191 := Droid Hazard Shield Type 3
-32192 := Droid Stun Ray Type 2
-32195 := Droid Shield Disruptor Type 1
-32196 := Droid Shield Disruptor Type 2
-32197 := Droid Flame Thrower Type 1
-32198 := Droid Flame Thrower Type 2
-32199 := Droid Carbonite Stream Type 1
+32190 := 机器人危害护盾 2 型
+32191 := 机器人危害护盾 3 型
+32192 := 机器人震慑射线 2 型
+32195 := 机器人护盾干扰器 1 型
+32196 := 机器人护盾干扰器 2 型
+32197 := 机器人火焰喷射器 1 型
+32198 := 机器人火焰喷射器 2 型
+32199 := 机器人碳凝流 1 型
 32200 := Droid Carbonite Stream Type 2
 32201 := Droid Gravity Generator Type 1
 32202 := Droid Gravity Generator Type 2

@@ -118,6 +118,7 @@ star_wars,blending field,伪装场,10,review,tlk=StrRef 12782,,Mandalorian swoop
 star_wars,Bochaba,博查巴,8,review,https://starwars.fandom.com/wiki/Bochaba,,Sleheyron 赫特黑帮；中文译名按项目暂定
 star_wars,Bochoba,博查巴,1,review,https://starwars.fandom.com/wiki/Bochaba,,KOTOR 原文拼写变体；按 Bochaba 统一译名
 star_wars,Bolook,博卢克,26,review,https://starwars.fandom.com/wiki/Bolook,,Dantooine 谋杀案支线绝地；中文译名按项目暂定
+star_wars,Bomarr,博马尔,1,review,https://starwars.fandom.com/wiki/B%27omarr_Order,,TLK 拼写省略撇号；按 B'omarr Order 处理
 star_wars,Bonadan,博纳丹,3,review,https://starwars.fandom.com/wiki/Bonadan,,星球/工业社会；中文译名按项目暂定
 star_wars,Bondar,邦达,1,review,tlk=StrRef 6167,,光剑水晶名；中文译名按项目暂定
 star_wars,Bothan,波森人,17,review,https://starwars.fandom.com/wiki/Bothan/Legends,,物种；中文译名按项目暂定
@@ -295,6 +296,7 @@ star_wars,Elora,埃洛拉,32,review,https://starwars.fandom.com/wiki/Elora,,Mana
 star_wars,Empire,帝国,98,review,https://starwars.fandom.com/wiki/Galactic_Empire,,按上下文区分银河帝国/西斯帝国
 star_wars,Empress Teta,泰塔女皇,4,review,https://starwars.fandom.com/wiki/Empress_Teta,,人物/星系语境；中文译名按项目暂定
 star_wars,Endar Spire,恩达尖塔号,47,review,https://starwars.fandom.com/wiki/Endar_Spire,,舰名
+star_wars,Endar's Spire,恩达尖塔号,2,review,https://starwars.fandom.com/wiki/Endar_Spire,,TLK 遭遇标签中的所有格写法；按 Endar Spire 统一译名
 star_wars,environment suit,环境防护服,1,review,tlk=StrRef 20733,,Hrakert Station 装备称呼；中文译名按项目暂定
 star_wars,Environmental suit,环境防护服,5,review,tlk=StrRef 20680,,Hrakert Station 装备标签；中文译名按项目暂定
 star_wars,Envirosuit,环境防护服,5,review,tlk=StrRef 20659,,Hrakert Station 装备标签；中文译名按项目暂定
@@ -507,6 +509,7 @@ star_wars,Kandon,坎登,15,review,https://starwars.fandom.com/wiki/Kandon_Ark,,K
 star_wars,Kandon Ark,坎登·阿克,4,review,https://starwars.fandom.com/wiki/Kandon_Ark,,Black Vulkar 副手；中文译名按项目暂定
 star_wars,Karal Karr,卡拉尔·卡尔,1,review,tlk=StrRef 6711,,Aratech Droids 商人；中文译名按项目暂定
 star_wars,Kashyyyk,卡希克星,178,review,https://starwars.fandom.com/wiki/Kashyyyk,,星球名；地图/UI可简称“卡希克”
+star_wars,Kataarn,卡塔恩,8,review,https://starwars.fandom.com/wiki/Katarn/Legends,,TLK 拼写变体；按 Katarn 统一译名
 star_wars,Katarn,卡塔恩,38,review,https://starwars.fandom.com/wiki/Katarn/Legends,,Kashyyyk 生物名；中文译名按项目暂定
 star_wars,Katarn Slam,卡塔恩猛击,2,review,tlk=StrRef 6042,,KOTOR 生物攻击标签；中文译名按项目暂定
 star_wars,Kath hound,卡斯猎犬,17,review,https://starwars.fandom.com/wiki/Kath_hound,,生物名；Kath 音译作“卡斯”
@@ -856,6 +859,7 @@ star_wars,Shaardan,沙尔丹,34,review,https://starwars.fandom.com/wiki/Shaardan
 star_wars,Shadowlands,暗影之地,151,review,https://starwars.fandom.com/wiki/Shadowlands,,Kashyyyk 区域
 star_wars,Shaelas,谢拉斯,22,review,https://starwars.fandom.com/wiki/Shaelas,,Manaan 寻女支线角色；中文译名按项目暂定
 star_wars,Shaleena,莎莉娜,2,review,tlk=StrRef 25593,,Taris 地下城流放者村村民；中文译名按项目暂定
+star_wars,Shari,莎丽,1,review,tlk=StrRef 31961,,Dantooine 标签人物；中文译名按项目暂定
 star_wars,Sharina,莎丽娜,6,review,https://starwars.fandom.com/wiki/Sharina_Fizark,,Sharina Fizark 的简称；中文译名按项目暂定
 star_wars,Sharina Nal,莎丽娜·纳尔,1,review,tlk=StrRef 27981,,Tatooine Sharina 支线中的姓名写法；与 Sharina Fizark/Sharina 按上下文统一
 star_wars,Shasa,莎莎,26,review,https://starwars.fandom.com/wiki/Shasa,,Shaelas 的女儿；中文译名按项目暂定
@@ -1134,6 +1138,7 @@ swrpg_rules,awareness,察觉,46,confirmed,https://strategywiki.org/wiki/Star_War
 swrpg_rules,base attack bonus,基本攻击加值,1,review,https://www.d20srd.org/srd/combat/combatStatistics.htm#baseAttackBonus,,d20 3E BAB 术语
 swrpg_rules,blaster bolt deflection,爆能束偏转,2,review,https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Feats#Jedi_Defense,,光剑/原力相关战斗规则
 swrpg_rules,Bludgeoning,钝击,6,confirmed,https://www.d20srd.org/srd/equipment/weapons.htm#type,https://dnd.huijiwiki.com/wiki/%E7%8E%A9%E5%AE%B6%E6%89%8B%E5%86%8C%EF%BC%882014%EF%BC%89/%E7%AC%AC%E4%B9%9D%E7%AB%A0%EF%BC%9A%E6%88%98%E6%96%97/%E4%BC%A4%E5%AE%B3%E4%B8%8E%E6%B2%BB%E7%96%97#%E4%BC%A4%E5%AE%B3%E7%B1%BB%E5%9E%8B,伤害类型标签
+swrpg_rules,Body Fuel,身体燃料,2,review,tlk=StrRef 311,,Bastila 独特能力；中文译名按既有 TLK 译名
 swrpg_rules,Bonus,加值,21,confirmed,https://www.d20srd.org/srd/theBasics.htm#modifiers,https://dnd.huijiwiki.com/wiki/%E6%9C%AF%E8%AF%AD/%E5%85%B6%E4%BB%96%E6%9C%AF%E8%AF%AD#%E6%8E%A9%E6%8A%A4%20Cover,规则数值；普通语境可译“奖励”
 swrpg_rules,bonus feat,额外专长,1,review,https://www.d20srd.org/srd/feats.htm,,升级/职业奖励
 swrpg_rules,Charisma,魅力,28,confirmed,https://www.d20srd.org/srd/theBasics.htm#charismaCha,https://dnd.huijiwiki.com/wiki/%E7%8E%A9%E5%AE%B6%E6%89%8B%E5%86%8C%EF%BC%882014%EF%BC%89/%E7%AC%AC%E4%B8%83%E7%AB%A0%EF%BC%9A%E5%B1%9E%E6%80%A7%E5%80%BC%E5%BA%94%E7%94%A8/%E5%B1%9E%E6%80%A7%E5%80%BC%E4%B8%8E%E8%B0%83%E6%95%B4%E5%80%BC,六大属性
@@ -1225,6 +1230,7 @@ swrpg_rules,plague,疫病,24,review,https://www.d20srd.org/srd/specialAbilities.
 swrpg_rules,poison,中毒,66,confirmed,https://www.d20srd.org/srd/specialAbilities.htm#poison,https://dnd.huijiwiki.com/wiki/%E6%9C%AF%E8%AF%AD/%E7%8A%B6%E6%80%81#%E4%B8%AD%E6%AF%92%20Poisoned%E3%80%90%E7%8A%B6%E6%80%81%E3%80%91,状态/伤害来源按上下文
 swrpg_rules,poisoned,中毒状态,21,confirmed,https://www.d20srd.org/srd/specialAbilities.htm#poison,https://dnd.huijiwiki.com/wiki/%E6%9C%AF%E8%AF%AD/%E7%8A%B6%E6%80%81#%E4%B8%AD%E6%AF%92%20Poisoned%E3%80%90%E7%8A%B6%E6%80%81%E3%80%91,状态
 swrpg_rules,power attack,猛力攻击,11,review,https://www.d20srd.org/srd/feats.htm#powerAttack,,专长名
+swrpg_rules,Psychic Static,心灵静滞,2,review,tlk=StrRef 316,,Jolee 独特能力；中文译名按既有 TLK 译名
 swrpg_rules,Ranged Touch Attack,远程接触攻击,1,review,https://www.d20srd.org/srd/combat/combatStatistics.htm#touchAttacks,,d20 接触攻击规则
 swrpg_rules,ranged weapon,远程武器,5,confirmed,https://www.d20srd.org/srd/equipment/weapons.htm#rangedWeapons,https://dnd.huijiwiki.com/wiki/%E6%AD%A6%E5%99%A8,武器类别
 swrpg_rules,rapid shot,快速射击,3,review,https://www.d20srd.org/srd/feats.htm#rapidShot,,远程专长/动作
@@ -1265,6 +1271,7 @@ swrpg_rules,treat injury,治疗伤势,14,review,https://strategywiki.org/wiki/St
 swrpg_rules,turn,回合,225,confirmed,https://www.d20srd.org/srd/combat/actionsInCombat.htm#theCombatRound,https://dnd.huijiwiki.com/wiki/%E7%8E%A9%E5%AE%B6%E6%89%8B%E5%86%8C%EF%BC%882014%EF%BC%89/%E7%AC%AC%E4%B9%9D%E7%AB%A0%EF%BC%9A%E6%88%98%E6%96%97#%E6%88%98%E6%96%97%E6%B5%81%E7%A8%8B%20The%20Order%20of%20Combat,玩家/单位行动回合；普通动词 turn 按上下文译“转向/带回”等
 swrpg_rules,two-weapon fighting,双武器战斗,5,confirmed,https://www.d20srd.org/srd/feats.htm#twoWeaponFighting,https://dnd.huijiwiki.com/wiki/%E7%8E%A9%E5%AE%B6%E6%89%8B%E5%86%8C%EF%BC%882014%EF%BC%89/%E7%AC%AC%E4%B9%9D%E7%AB%A0%EF%BC%9A%E6%88%98%E6%96%97#%E5%8F%91%E5%8A%A8%E6%94%BB%E5%87%BB%20Making%20an%20Attack,专长
 swrpg_rules,unarmed,徒手,14,confirmed,https://www.d20srd.org/srd/combat/actionsInCombat.htm#unarmedAttacks,https://dnd.huijiwiki.com/wiki/%E6%9C%AF%E8%AF%AD/%E5%85%B6%E4%BB%96%E6%9C%AF%E8%AF%AD#%E5%BE%92%E6%89%8B%E6%89%93%E5%87%BB%20Unarmed%20Strike,战斗状态/攻击方式；无武器事实描述按上下文译“没有武器”
+swrpg_rules,Uncanny Dodge,直觉闪避,4,review,https://www.d20srd.org/srd/classes/rogue.htm#uncannyDodge,,d20/KOTOR 专长；中文译名按既有 TLK 译名
 swrpg_rules,vitality,活力,47,review,https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Combat#Vitality,,KOTOR/星战 d20 资源
 swrpg_rules,Vitality Points,活力点数,24,review,https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Combat#Vitality,,KOTOR/星战 d20 生命资源；需和 Wound Points 区分
 swrpg_rules,Weapon Focus,武器专攻,9,review,https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Feats#Weapon_Focus,,武器类专长
