@@ -35796,51 +35796,51 @@ C8-42 则稍微没有那么……热情。
 33400 := dan_general
 33401 := dan16_wp_party02
 33402 := dan16_wp_party01
-33403 := To Outer Courtyard
-33404 := Ebon Hawk
-33405 := General Shop
-33406 := Droid Shop
-33407 := Jedi Council Chamber
-33408 := My droid... destroyed? No, no! This cannot be happening! I cannot bear to live without him!
-33409 := Jon Initiiates Once
+33403 := 前往外庭
+33404 := 乌木鹰号
+33405 := 杂货店
+33406 := 机器人商店
+33407 := 绝地委员会厅
+33408 := 我的机器人……被毁了？不，不！这不可能！没有他我活不下去！
+33409 := 乔恩只触发一次
 33410 := dan14_mapnote
-33411 := Strange Ruins
-33412 := To Jedi Enclave
-33413 := Path South
-33414 := Master Matale is grateful to you for uniting Shen and Rahasia. He has sealed his estate while preparations are underway, however, and cannot see you.
-33415 := You've been holding out on us again. Since you haven't given us enough money, I guess we're going to have to take it out of you piece by piece!
-33416 := No! Please! Take my wife and children instead! Anything!
-33417 := Ha-ha! Mmm... Wife and children. Sounds like a good idea...
-33418 := Farmer
-33419 := Casus' Diary
-33420 := This is the diary of Casus Sandral, amateur archeologist. It details his efforts to discover the source of the ancient ruins found across the surface of Dantooine. Upon reading it, you gather that he had found some correlation between the ruins and something called the 'Rak'.
-33421 := Mandalorian Datapad
-33422 :=   Jarg, did you remember not to take the XT-model bike out today?  There was something funny with one of the intakes, and I thought it could jam.
-  Ha!  Consider yourself lucky!  If someone was dumb enough to take that thing out he would have ploughed right into the ground within a kilometer.
-33423 := Dead Settler
-33424 := Matale Estate
-33425 := Path North
-33426 := Very well... Who killed Calder Nettic?
-33427 := Very well... whose blood do you think it is?
-33428 := Very well...
-33429 := Very well. Neither man has a motive for murder, at least according to their own accounts. What do you think?
-33430 := Very well...
-33431 := Very well...
-33432 := If there is anything else you need, I will remain here while you question the witnesses.
-33433 := Actually, I reconsidered.
-33434 := Actually, I reconsidered.
-33435 := Actually, I reconsidered.
-33436 := Actually, I reconsidered.
-33437 := Actually, I reconsidered.
-33438 := Actually, I reconsidered.
-33439 := penned
-33440 :=   Jarg went missing in Sector B, then Reeza saw someone moving south of there.  Take a couple troops and find out who it is.
-  If they look suspicious: terminate.
-33441 := Calder Nettic
-33442 := Shurrik initiates
+33411 := 奇异遗迹
+33412 := 前往绝地飞地
+33413 := 南路
+33414 := 马塔勒主人感谢你促成申和拉哈西亚团聚。不过，他在筹备期间已经封闭庄园，不能见你。
+33415 := 你又对我们藏着掖着。既然钱给得不够，我看我们只好从你身上一块一块讨回来了！
+33416 := 不！求求你！把我的妻子和孩子带走吧！什么都行！
+33417 := 哈哈！嗯……妻子和孩子。听起来是个好主意……
+33418 := 农夫
+33419 := 卡苏斯的日记
+33420 := 这是业余考古学家卡苏斯·桑德拉尔的日记。日记详细记录了他试图查明丹图因星地表各处古代遗迹来源的努力。读完之后，你看出他发现这些遗迹与某个叫“Rak”的东西之间存在某种关联。
+33421 := 曼达洛人数据板
+33422 :=   贾格，你记得今天别把 XT 型飞梭摩托开出去吧？有个进气口有点不对劲，我觉得可能会卡住。
+  哈！算你走运！如果有人蠢到把那东西开出去，不到一公里就会一头栽进地里。
+33423 := 死去的定居者
+33424 := 马塔勒庄园
+33425 := 北路
+33426 := 很好……是谁杀了考尔德·耐蒂克？
+33427 := 很好……你认为那是谁的血？
+33428 := 很好……
+33429 := 很好。至少按他们各自的说法，两人都没有杀人动机。你怎么看？
+33430 := 很好……
+33431 := 很好……
+33432 := 如果你还需要别的，我会留在这里，等你讯问证人。
+33433 := 其实，我重新考虑过了。
+33434 := 其实，我重新考虑过了。
+33435 := 其实，我重新考虑过了。
+33436 := 其实，我重新考虑过了。
+33437 := 其实，我重新考虑过了。
+33438 := 其实，我重新考虑过了。
+33439 := 围起来
+33440 :=   贾格在 B 区失踪了，然后丽扎看见有人从那边往南移动。带几名士兵去查清是谁。
+  如果他们看起来可疑：终止。
+33441 := 考尔德·耐蒂克
+33442 := 谢鲁克触发
 33443 := dan14c_boll2
-33444 := monster pen
-33445 := start prey
+33444 := 怪物围栏
+33445 := 开始猎物
 33446 := POST_dan14_corpse
 33447 := POST_dan14_bolook01
 33448 := POST_dan14_handon01
@@ -35848,187 +35848,187 @@ C8-42 则稍微没有那么……热情。
 33450 := POST_dan14_rickard01
 33451 := wp_prey
 33452 := wp_prey_02
-33453 := Ancient Grove
-33454 := Dantooine - Sandral Estate
-33455 := Nurik has nothing more to say to you. He left strict instructions he was not to be disturbed under any circumstances.
-33456 := You are not permitted to speak to Rahasia, on Nurik's orders. Please leave immediately.
-33457 := Nurik extends his thanks to you for your actions with regards to his daughter Rahasia. I am sure that she and Shen will thank you personally once they have been settled in.
-33458 :=   Tandore, the damn farmers in Sector E aren't giving up their stuff.  We're going to go pay them a visit and crush the spirit out of them.  Make sure no one runs across this stash, or Sherruk will have your hide!
-  We're going to meet with him south of the Matale estate in a couple hours, and go from there. Don't screw it up this time!
-33459 := Sandral Estate
-33460 := Cave Entrance
-33461 := Exit
-33462 := You have proven yourself worthy, the sealed door is open. If you wish to learn the secrets of the Star Forge you must pass through the door to the room beyond.
-33463 := I am here to aid those who seek the knowledge of the Builders. What do you wish to know?
-33464 := The Star Forge is the glory of the Builders, the apex of their infinite empire. It is a machine of invincible might, a tool of unstoppable conquest.
-33465 := The Builders are the great masters of the galaxy, the conquerors of all worlds, the rulers of the infinite empire and the creators of the Star Forge.
-33466 := More than this, I am not programmed to say.
-33467 := I am the Overseer. The Builders programmed me to enforce discipline among the slaves while this monument to the power of the Star Forge was constructed.
-33468 := At project completion all slaves were executed. I was reprogrammed to serve should a Builder return in search of knowledge of the Star Forge.
-33469 := I want to ask you some questions.
-33470 := Tell me about the Star Forge.
-33471 := What do you know about the Builders?
-33472 := Who are you again?
+33453 := 古代林地
+33454 := 丹图因星 - 桑德拉尔庄园
+33455 := 努里克已经没有更多话要对你说。他留下了严格指示，无论任何情况都不得打扰他。
+33456 := 根据努里克的命令，你不得与拉哈西亚交谈。请立刻离开。
+33457 := 努里克感谢你对他女儿拉哈西亚所做的一切。我相信等她和申安顿下来以后，他们会亲自向你道谢。
+33458 :=   坦多尔，E 区那些该死的农民不肯交出东西。我们要去拜访他们，把他们的骨气彻底碾碎。别让任何人撞见这个藏货点，不然谢鲁克会扒了你的皮！
+  几个小时后我们会在马塔勒庄园南边和他会合，然后从那里出发。这次别再搞砸了！
+33459 := 桑德拉尔庄园
+33460 := 洞穴入口
+33461 := 出口
+33462 := 你已经证明自己配得上这里，封闭的门已经开启。如果你想了解星际锻炉的秘密，就必须穿过那扇门，进入后面的房间。
+33463 := 我在这里协助寻求建造者知识的人。你想知道什么？
+33464 := 星际锻炉是建造者的荣耀，是他们无限帝国的顶点。它是一台拥有无敌威力的机器，一件不可阻挡的征服工具。
+33465 := 建造者是银河系伟大的主人，所有世界的征服者，无限帝国的统治者，也是星际锻炉的创造者。
+33466 := 除此之外，我没有被编程去说明更多。
+33467 := 我是监管者。建造者在建造这座彰显星际锻炉力量的纪念碑时，将我编程为负责约束奴隶纪律。
+33468 := 工程完成时，所有奴隶都被处决。我被重新编程，以便在某位建造者返回寻找星际锻炉知识时提供服务。
+33469 := 我想问你一些问题。
+33470 := 告诉我星际锻炉的事。
+33471 := 你对建造者知道些什么？
+33472 := 你到底是谁？
 33473 := dan15_trig05
 33474 := wp_player_starmap
-33475 := Star Map
-33476 := Nurik has nothing more to say to you. He left strict instructions he was not to be disturbed under any circumstances.
-33477 := You are not permitted to speak to Rahasia, on Nurik's orders. Please leave immediately.
-33478 := Nurik extends his thanks to you for your actions with regards to his daughter Rahasia. I am sure that she and Shen will thank you personally once they have been settled in.
-33479 := Nurik left orders he was not to be disturbed, but given the circumstances I will make an exception. Go into the main hall. Nurik will meet with you there. 
-33480 := This is private property! By what authority are you trespassing on this estate?
-33481 := Casus is dead? Then it is as we feared. You should speak to Nurik yourself. He will want to question you on the details of his son's death.
-33482 := I am not programmed for battle, but I will not open the gates except for those on official family business.
-33483 := Even if you destroy me, you won't be able to get in. And tomorrow, another droid will be programmed to take over my duties.
-33484 := My orders are clear. Please leave immediately. Only those on official family business are permitted on the family's land. 
-33485 := The Council? If you are here because of Shen Matale's disappearance you are wasting your time. The Sandrals are not involved. This is nothing but a Matale witch hunt. 
-33486 := Very well. We wish no trouble with the Jedi Council.
-33487 := Nurik has nothing more to say to you. He left strict instructions he was not to be disturbed under any circumstances.
-33488 := You may give the diary to me. Nurik wanted you to have these credits - they are a reward for recovering his son's diary. But he himself is too upset over the fate of Carsus to receive visitors.
-33489 := Casus is dead? Then it is as we feared. I will be sure Nurik is given this news, though it will break his heart. But even under these circumstances I cannot let you in.
-33490 := Nurik has nothing more to say to you. He left strict instructions he was not to be disturbed under any circumstances.
-33491 := You are not permitted to speak to Rahasia, on Nurik's orders. Please leave immediately.
-33492 := Nurik extends his thanks to you for your actions with regards to his daughter Rahasia. I am sure that she and Shen will thank you personally once they have been settled in.
-33493 := Casus Sandral is dead.
-33494 := My weapons are my authority!
-33495 := I'm sorry, I'll be going now. 
-33496 := I come on behalf of the Jedi Council.
-33497 := In the name of the Council, I demand you let me in!
-33498 := I am not in league with the Matales, but I must speak to Nurik.
-33499 := I have his son's diary. Nurik asked me to bring it to him.
-33500 := Casus Sandral is dead.
-33501 := I'm getting inside, and nothing you can do will stop me! 
-33502 := My investigation is not yet complete. 
-33503 := SYSTEM LOADING...
-COMPLETE
-COMMAND?
-33504 := EXITING SYSTEM...
-33505 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-COMMAND?
-33506 := SYSTEM OVERRIDE ACCEPTED
-COMMAND?
-33507 := [FAILURE] ACCESS DENIED
-PHYSICAL FAILSAFES ENACTED
-SPIKES REJECTED
+33475 := 星图
+33476 := 努里克已经没有更多话要对你说。他留下了严格指示，无论任何情况都不得打扰他。
+33477 := 根据努里克的命令，你不得与拉哈西亚交谈。请立刻离开。
+33478 := 努里克感谢你对他女儿拉哈西亚所做的一切。我相信等她和申安顿下来以后，他们会亲自向你道谢。
+33479 := 努里克留下命令，不得打扰他，但考虑到眼下的情况，我会破例。进入主厅吧。努里克会在那里与你见面。
+33480 := 这是私人财产！你凭什么权力擅闯这座庄园？
+33481 := 卡苏斯死了？那么事情正如我们所担心的那样。你应该亲自去和努里克谈谈。他会想询问你他儿子死亡的细节。
+33482 := 我的程序不是用于战斗，但除了办理家族正式事务的人之外，我不会打开大门。
+33483 := 即使你摧毁我，你也进不去。明天会有另一个机器人被编程来接替我的职责。
+33484 := 我的命令很明确。请立刻离开。只有办理家族正式事务的人才允许进入家族土地。
+33485 := 委员会？如果你是因为申·马塔勒失踪而来，那你是在浪费时间。桑德拉尔家没有牵涉其中。这不过是马塔勒家的一场猎巫。
+33486 := 很好。我们不希望与绝地委员会发生麻烦。
+33487 := 努里克已经没有更多话要对你说。他留下了严格指示，无论任何情况都不得打扰他。
+33488 := 你可以把日记交给我。努里克希望你收下这些信用点——这是找回他儿子日记的报酬。但他本人对卡苏斯的命运太过悲痛，无法接待访客。
+33489 := 卡苏斯死了？那么事情正如我们所担心的那样。我一定会把这个消息告诉努里克，虽然这会让他心碎。但即便在这种情况下，我也不能让你进去。
+33490 := 努里克已经没有更多话要对你说。他留下了严格指示，无论任何情况都不得打扰他。
+33491 := 根据努里克的命令，你不得与拉哈西亚交谈。请立刻离开。
+33492 := 努里克感谢你对他女儿拉哈西亚所做的一切。我相信等她和申安顿下来以后，他们会亲自向你道谢。
+33493 := 卡苏斯·桑德拉尔已经死了。
+33494 := 我的武器就是我的权威！
+33495 := 抱歉，我现在就走。
+33496 := 我代表绝地委员会而来。
+33497 := 以委员会的名义，我要求你让我进去！
+33498 := 我没有和马塔勒家勾结，但我必须和努里克谈谈。
+33499 := 我有他儿子的日记。努里克让我把它带给他。
+33500 := 卡苏斯·桑德拉尔已经死了。
+33501 := 我要进去，你做什么都拦不住我！
+33502 := 我的调查还没有完成。
+33503 := 系统正在载入……
+完成
+命令？
+33504 := 正在退出系统……
+33505 := [失败] 拒绝访问
+计算机破解器不足
+命令？
+33506 := 系统覆盖已接受
+命令？
+33507 := [失败] 拒绝访问
+物理故障保险已启用
+计算机破解器被拒绝
 
-33508 := [SUCCESS] SENTRY DROID REPROGRAMMING COMPLETE
-AUTO-TARGETTING ENGAGED
-SWITCHING TO SECURITY CAMERA
-33509 := [SUCCESS] SENTRY DROID DEACTIVATED
-SWITCHING TO SECURITY CAMERA
-33510 := [SUCCESS] CONDUIT OVERLOADED
-SWITCHING TO SECURITY CAMERA
-33511 := ENTER COMMAND
-33512 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-COMMAND?
-33513 := [SUCCESS] SECURITY DOOR LOCKS OVERRIDDEN
-ACCESS GRANTED
-COMMAND?
-33514 := Log out.
-33515 := [Computer] Slice the computer. (1 spike)
-33516 := Log out.
-33517 := [Computer] Disable estate power grid. (20 spike(s))
-33518 := [Computer] Reprogram northern sentry droid to target everything. (<CUSTOM34> spike(s))
-33519 := [Computer] Deactivate northern sentry droid. (<CUSTOM33> spike(s))
-33520 := [Computer] Overload power conduit in security room. (<CUSTOM32> spike(s))
-33521 := [Computer] Open all security doors. (<CUSTOM31> spike(s))
-33522 := SYSTEM LOADING...
-COMPLETE
-COMMAND?
-33523 := EXITING SYSTEM...
-33524 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-COMMAND?
-33525 := SYSTEM OVERRIDE ACCEPTED
-COMMAND?
-33526 := [FAILURE] ACCESS DENIED
-PHYSICAL FAILSAFES ENACTED
-SPIKES REJECTED
+33508 := [成功] 哨戒机器人重编程完成
+自动瞄准已启用
+正在切换至安保摄像头
+33509 := [成功] 哨戒机器人已停用
+正在切换至安保摄像头
+33510 := [成功] 导管已过载
+正在切换至安保摄像头
+33511 := 输入命令
+33512 := [失败] 拒绝访问
+计算机破解器不足
+命令？
+33513 := [成功] 安保门锁已覆盖
+访问已授权
+命令？
+33514 := 登出。
+33515 := [计算机] 切入计算机。（1 个计算机破解器）
+33516 := 登出。
+33517 := [计算机] 关闭庄园电网。（20 个计算机破解器）
+33518 := [计算机] 将北侧哨戒机器人重编程为攻击一切目标。（<CUSTOM34> 个计算机破解器）
+33519 := [计算机] 停用北侧哨戒机器人。（<CUSTOM33> 个计算机破解器）
+33520 := [计算机] 使安保室的动力导管过载。（<CUSTOM32> 个计算机破解器）
+33521 := [计算机] 打开所有安保门。（<CUSTOM31> 个计算机破解器）
+33522 := 系统正在载入……
+完成
+命令？
+33523 := 正在退出系统……
+33524 := [失败] 拒绝访问
+计算机破解器不足
+命令？
+33525 := 系统覆盖已接受
+命令？
+33526 := [失败] 拒绝访问
+物理故障保险已启用
+计算机破解器被拒绝
 
-33527 := [SUCCESS] SENTRY DROID REPROGRAMMING COMPLETE
-AUTO-TARGETTING ENGAGED
-SWITCHING TO SECURITY CAMERA
-33528 := [SUCCESS] SENTRY DROID DEACTIVATED
-SWITCHING TO SECURITY CAMERA
-33529 := [SUCCESS] CONDUIT OVERLOADED
-SWITCHING TO SECURITY CAMERA
-33530 := ENTER COMMAND
-33531 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-COMMAND?
-33532 := [SUCCESS] SECURITY DOOR LOCKS OVERRIDDEN
-ACCESS GRANTED
-COMMAND?
-33533 := Log out.
-33534 := [Computer] Slice the computer. (1 spike)
-33535 := Log out.
-33536 := [Computer] Disable estate power grid.
-33537 := [Computer] Reprogram south sentry droid to target everything. (<CUSTOM34> spike(s))
-33538 := [Computer] Deactivate southern sentry droid. (<CUSTOM33> spike(s))
-33539 := [Computer] Overload power conduit in armory. (<CUSTOM32> spike(s))
-33540 := [Computer] Open all security doors. (<CUSTOM31> spike(s))
-(This will not open plot doors)
-33541 := This droid is damaged and inactive.
-33542 := The droid engages its patrol mode and moves off to carry out your programmed instructions.
-33543 := You leave the droid alone for now.
-33544 := [Failure] You don't have any repair parts. You leave the droid alone for now.
-33545 := The droid is now active. It will attack any enemies that come in range.
-33546 := [Failure] You do not have enough repair parts.
-33547 := [Success] Patrol mode engaged. Once you end this session the droid will begin patrol and destroy any enemies it encounters. 
-33548 := WARNING: Once you end this session the droid's program will be locked in. You will not be able to modifiy the droid anymore.
-33549 := [Success] The droid's shields are now active.
-33550 := [Success] The droid is now set for maximum accuracy.
-33551 := [Success] The droid is now set for maximum firepower.
-33552 := The droid is now active. It will attack any enemies that come in range.
-33553 := The droid is actively engaged in its patrol route. You cannot reprogram it anymore.
-33554 := Leave it alone.
-33555 := Reactivate the droid. (1 repair part)
-33556 := Leave it alone.
-33557 := Engage droid in patrol mode. (<CUSTOM45> repair part(s))
-33558 := Activate droid's shields. (<CUSTOM44> repair part(s))
-33559 := Optimize droid's targeting systems. (<CUSTOM43> repair part(s))
-33560 := Optimize droid's weaponry. (<CUSTOM42> repair part(s))
-33561 := Faulty War Droid
-33562 := Sandral Sentry Droid
-33563 := This key opens the rear door to the Sandral Estate.
-33564 := Security Room
-33565 := Security Control Room
+33527 := [成功] 哨戒机器人重编程完成
+自动瞄准已启用
+正在切换至安保摄像头
+33528 := [成功] 哨戒机器人已停用
+正在切换至安保摄像头
+33529 := [成功] 导管已过载
+正在切换至安保摄像头
+33530 := 输入命令
+33531 := [失败] 拒绝访问
+计算机破解器不足
+命令？
+33532 := [成功] 安保门锁已覆盖
+访问已授权
+命令？
+33533 := 登出。
+33534 := [计算机] 切入计算机。（1 个计算机破解器）
+33535 := 登出。
+33536 := [计算机] 关闭庄园电网。
+33537 := [计算机] 将南侧哨戒机器人重编程为攻击一切目标。（<CUSTOM34> 个计算机破解器）
+33538 := [计算机] 停用南侧哨戒机器人。（<CUSTOM33> 个计算机破解器）
+33539 := [计算机] 使军械库的动力导管过载。（<CUSTOM32> 个计算机破解器）
+33540 := [计算机] 打开所有安保门。（<CUSTOM31> 个计算机破解器）
+（这不会打开剧情门）
+33541 := 这个机器人已损坏且处于非活动状态。
+33542 := 机器人进入巡逻模式，随后离开去执行你编入的指令。
+33543 := 你暂时不管这个机器人。
+33544 := [失败] 你没有任何修理零件。你暂时不管这个机器人。
+33545 := 机器人现在已激活。它会攻击任何进入射程的敌人。
+33546 := [失败] 你的修理零件不足。
+33547 := [成功] 巡逻模式已启用。结束本次会话后，机器人将开始巡逻，并摧毁遇到的任何敌人。
+33548 := 警告：结束本次会话后，机器人的程序将被锁定。你将无法再修改这个机器人。
+33549 := [成功] 机器人的护盾现已激活。
+33550 := [成功] 机器人现已设置为最高精度。
+33551 := [成功] 机器人现已设置为最大火力。
+33552 := 机器人现在已激活。它会攻击任何进入射程的敌人。
+33553 := 机器人正在主动执行巡逻路线。你不能再重新编程它了。
+33554 := 别管它。
+33555 := 重新激活机器人。（1 个修理零件）
+33556 := 别管它。
+33557 := 让机器人进入巡逻模式。（<CUSTOM45> 个修理零件）
+33558 := 激活机器人的护盾。（<CUSTOM44> 个修理零件）
+33559 := 优化机器人的瞄准系统。（<CUSTOM43> 个修理零件）
+33560 := 优化机器人的武器系统。（<CUSTOM42> 个修理零件）
+33561 := 故障战斗机器人
+33562 := 桑德拉尔哨戒机器人
+33563 := 这把钥匙可以打开桑德拉尔庄园的后门。
+33564 := 安保室
+33565 := 安保控制室
 33566 := dan16_flee
-33567 := Nurik initiates
+33567 := 努里克触发
 33568 := dan16_raha01
 33569 := dan16_wp_nurik01
-33570 := Ebon Hawk
-33571 := Galaxy Map
-33572 := What happened? What's going on?
-33573 := Sith Interdictor ship. They must have been waiting for us on the hyperspace route. We're caught in their tractor beam.
-33574 := Do you recognize the ship? 
-33575 := It's the Leviathan. Saul Karath's vessel. My old mentor.
-33576 := [The Ebon Hawk is in no condition to fly. Until you find new stabilizers to replace those damaged by the disruptor field you won't be able to get off the ground.]
-33577 := [Before you can leave this planet you will have to find some way to disable the disruptor field that caused you to crash in the first place.]
+33570 := 乌木鹰号
+33571 := 银河地图
+33572 := 发生了什么？怎么回事？
+33573 := 西斯阻绝舰。他们一定一直在超空间航线上等着我们。我们被他们的牵引光束抓住了。
+33574 := 你认得那艘船吗？
+33575 := 是利维坦号。索尔·卡拉斯的船。我过去的导师。
+33576 := [乌木鹰号目前无法飞行。在你找到新的稳定器，替换那些被干扰场损坏的部件之前，你无法起飞。]
+33577 := [离开这颗星球之前，你必须设法停用当初导致你坠毁的干扰场。]
 33578 := playerface
-33579 := [The gizka looks at you curiously, cooing.]
-33580 := [The gizka looks disappointed at the lack of attention and hops away.]
-33581 := [You scratch the little critter behind its nubs that pass for ears and it coos enthusiastically in response.]
-33582 := [You play a game of peek-a-boo with the little creature, hiding your face behind your hands and startling it each time you "appear". What fun.]
-33583 := [The fragile creature's neck is easily wrung. Strangely enough, another gizka shows itself a moment later, crawling out from between two panels.]
-33584 := [You try to pick up the gizka, but it wriggles from your grasp and plops back down to the floor.]
-33585 := [The gizka devours the poison in a single, greedy gulp. It will probably take a few seconds for the poison to have an effect.]
-33586 := [Leave it alone.]
-33587 := [Pet it.]
-33588 := [Play a game with the gizka.]
-33589 := [Kill it.]
-33590 := [Pick it up.]
-33591 := [Feed it the gizka poison.]
-33592 := Hello there, <sir/madam>. Let's see... ah, yes. Here it is. It looks like the shipment has been delivered to your ship, as requested.
-33593 := Wait a second, is this right? It says docking bay 32 on the form, but you just arrived. Oh, well, the gizka are your problem now.
-33594 := Now, all I need is your thumbprint for the... wait a second, where did the datapad go? *sigh* Nothing is ever organized around here.
-33595 := At any rate, the gizka are yours. One of the loaders said the crate split open once he put it in your hold... some of the critters might have gotten lose.
-33596 := That happens, I'm afraid. We don't accept liability... and we certainly couldn't take the cargo back. Enjoy.
-33597 := If you want the cargo removed, you'll have to fill out another requisition. I have one right... wait. I thought I had one. Oh, well.
-33598 := It says right here on the manifest that you ordered a crate of gizka. To be delivered to docking bay 32... that's right here.
-33599 := Well, let me see. Docking bay 32, check... crate 42-B7, check... manifest lists "life form: gizka". Everything seems to be in order.
+33579 := [吉兹卡好奇地看着你，发出咕咕声。]
+33580 := [吉兹卡似乎因为没有得到关注而有些失望，随后跳开了。]
+33581 := [你挠了挠这只小生物头上勉强算作耳朵的小突起后面，它兴奋地咕咕回应。]
+33582 := [你和这只小生物玩起了躲猫猫，把脸藏在双手后面，每次“出现”都把它吓一跳。真有意思。]
+33583 := [这只脆弱生物的脖子很容易就被扭断了。奇怪的是，片刻之后另一只吉兹卡从两块面板之间爬了出来。]
+33584 := [你试图抱起吉兹卡，但它从你手里扭了出去，又扑通一声落回地板。]
+33585 := [吉兹卡贪婪地一口吞下毒药。毒药大概还需要几秒才会起效。]
+33586 := [别管它。]
+33587 := [摸摸它。]
+33588 := [和吉兹卡玩游戏。]
+33589 := [杀了它。]
+33590 := [把它抱起来。]
+33591 := [喂它吉兹卡毒药。]
+33592 := 你好，<sir/madam>。让我看看……啊，对。就是这个。看来货物已经按要求送到你的船上了。
+33593 := 等一下，这对吗？表格上写的是 32 号停泊舱，可你才刚到。噢，算了，吉兹卡现在是你的问题了。
+33594 := 现在，我只需要你的拇指印来……等一下，数据板去哪儿了？*叹气* 这里从来就没有东西是整理好的。
+33595 := 总之，吉兹卡是你的了。一个装卸工说，箱子一放进你的货舱就裂开了……有些小家伙可能跑掉了。
+33596 := 恐怕这种事时有发生。我们不承担责任……当然也不能把货收回去。祝你愉快。
+33597 := 如果你想移走这批货，就得再填一张征用单。我这里正好有一张……等一下。我还以为我有。噢，算了。
+33598 := 货单上清清楚楚写着你订购了一箱吉兹卡。送往 32 号停泊舱……正是这里。
+33599 := 好，让我看看。32 号停泊舱，确认……42-B7 号箱，确认……货单列明“生命形态：吉兹卡”。一切看起来都没问题。
 33600 := This is docking bay 32, isn't it? Yes, it is, and that's what I have here on the requisition form. Everything seems to be in order. The gizka are your problem now.
 33601 := Excellent. Thank you.
 33602 := Fair enough. Thanks.
