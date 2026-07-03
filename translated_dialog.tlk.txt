@@ -34252,302 +34252,302 @@ DC15 减半伤害
 32197 := 机器人火焰喷射器 1 型
 32198 := 机器人火焰喷射器 2 型
 32199 := 机器人碳凝流 1 型
-32200 := Droid Carbonite Stream Type 2
-32201 := Droid Gravity Generator Type 1
-32202 := Droid Gravity Generator Type 2
-32203 := Granted
-32204 := Selected
-32205 := Available
-32206 := Cold Serum
-32207 := Fine, keep your share. I guess you earned it.
-32208 := I knew you would respond to reason. You act harshly, but you are a hunter, like me. You will come to understand these things.
-32210 := A day passes in preperation. Uthar then takes you and Yuthura to the Sith tomb.
-32211 := Dantooine
-32212 := Taris
-32213 := Kashyyyk
-32214 := Manaan
-32215 := Korriban
-32216 := Tatooine
-32217 := The Leviathan
-32218 := Star Forge System
-32219 := Unknown World
-32220 := [This door has been damaged and will not open.]
-32221 := Much of it is still unexplored, even by the locals. The forest gets ever more dangerous the further you descend. The lowest levels, the Shadowlands, are largely unknown.
-32222 := Each round the next command in the action queue will take effect. You can see the action queue and the start of each round by watching the ready bar to the left of your character portrait.
-Press the [WHITE] button to unpause.
-32223 := Remember: hitting the buttons over and over again does not speed up your attacks and will not help you in combat. Pressing a button only puts the action into the action queue.
-Press the [WHITE] button to unpause.
-32224 := One of your party members is down! Don't worry, party members who go down during combat will be revived once the battle is over.
-Press the [WHITE] button to unpause.
-32225 := Even if the main character goes down, he or she will be revived at the end of the battle. You only lose the game if all the characters in your party go down in the same battle.
-Press the [WHITE] button to unpause.
-32226 := SYSTEM OVERRIDE ACCEPTED
-ENTER COMMAND
-32227 := Transit Back
-32228 := Return to Hideout
-32229 := Disguise
-32230 := Sabre Crystal - Purple 
-32231 := Sabre Crystal - Yellow
-32232 := There is a place of ritual south of here. If the Great Beast is to be lured out of hiding, it must be done there, using the old ways.
-32233 := You have already collected the body of a viper kinrath. Such bait would be tempting for the creature. Find a way to display it.
-32234 := The flesh of a fresh kill would be tempting bait if displayed properly. Find an appropriate beast of sufficient mass to attract it.
-32235 := [Water has been transferred to an adjoining pressure chamber.]
-32236 := No Action
-32237 := Quick - get we have to get to the escape pods before it's too late!
-32238 := Force Cage
-32239 := Floor Panel
-32240 := Ebon Hawk Container
-32241 := Power Conductor
-32242 := Battle Screen 1
-32243 := Battle Screen 2
-32244 := Water Level
-32245 := Deadfall 1
-32246 := Deadfall 2           
-32247 := Can I hear what the track records are?
-32248 := We keep tabs on all active racers. Currently we have information on you, Garm Totryl, Yuka Rill, and Zoriis Bafka. Nico has withdrawn for the time being.
-32249 := What do you have on me?
-32250 := What do you have on Zoriis?
-32251 := What do you have on Yuka Rill?
-32252 := What do you have on Garm?
-32253 := Let's go back to my other questions.
-32254 := Your best time is <CUSTOM25>. Your first time was <CUSTOM24> and the last time we have for you is <CUSTOM26>.
-32255 := You are the current track leader. Your best time was <CUSTOM25>. Your first time was <CUSTOM24> and the last time we have for you is <CUSTOM26>.
-32256 := She is the current track leader with a time of <CUSTOM29>.
-32257 := Her best time is <CUSTOM29>, which you have beaten.
-32258 := His best time was <CUSTOM28>, which you have beaten.
-32259 := Yuka Rill's best time is currently <CUSTOM28>.
-32260 := You have made short work of his best time of <CUSTOM27>.
-32261 := His current best time is <CUSTOM27>.
-32262 := Just don't keep me too long. Other racers might want to have a run down the track. Do you want a race?
-32263 := It's a good purchase, especially if it actually speaks a Sand People dialect like it said. Of course, I don't think it was telling me everything. Not many droids are programmed to lie, though.
-32264 := Yuka knows you speak Sand People dialects. Why ration information now?
-32265 := I will lead the Wookiee people to a great future... safely under my thumb. What should be the reward, brother? What will be your reward for joining me?
-32266 := Don't worry, brother. I know your way is the best. It's the only way our people will survive in a galaxy full of outsider lies.
-32267 := [Make a hasty retreat before they attack.]
-32268 := [You slip back out the entrance. The turrets still ignore you.]
-32269 := [Attack them all.]
-32270 := [The warriors ready their weapons.]
-32271 := Pazaak Card
-32273 := These are the intricate robes of a Sand People warrior. They seem to be in good condition, and might allow a wearer to superficially appear to be a member of the Sand People species.
-32274 := The gaffi is the traditional melee weapon of the Sand People, and while they may also use stolen blasters from time to time, these remain very personal items.
-32275 := The gaffi stick, or gaderffii, is the traditional melee weapon of the Sand People. Crafted out of whatever salvage is at hand, they can be very effective in close combat.
-32276 := A variation of the traditional gaffi stick, or gaderffii, marked as a chieftain's weapon by its slightly more ornate appearance and better construction.
-32277 := Speeder Distortion
-32278 := Rakata Door 4
-32279 := Prerequisites:
-Level 1 Scoundrel
+32200 := 机器人碳凝流 2 型
+32201 := 机器人重力发生器 1 型
+32202 := 机器人重力发生器 2 型
+32203 := 已授予
+32204 := 已选择
+32205 := 可用
+32206 := 寒冷血清
+32207 := 好吧，保留你那一份。我想这是你应得的。
+32208 := 我就知道你会听从理性。你行事严厉，但你和我一样，是个猎人。你终会明白这些事。
+32210 := 准备了一天后，乌萨尔带着你和尤苏拉前往西斯墓穴。
+32211 := 丹图因星
+32212 := 塔里斯星
+32213 := 卡希克星
+32214 := 马南
+32215 := 卡里班星
+32216 := 塔图因星
+32217 := 利维坦号
+32218 := 星际锻炉星系
+32219 := 未知世界
+32220 := [这扇门已经损坏，无法打开。]
+32221 := 即便对当地人来说，这里也仍有许多未探索之处。你越往下走，森林就越危险。最底层的暗影之地，基本上无人知晓。
+32222 := 每一轮，动作队列中的下一个指令都会生效。观察角色头像左侧的准备条，可以看到动作队列以及每一轮的开始。
+按下 [WHITE] 按钮解除暂停。
+32223 := 记住：反复按按钮不会加快攻击，也不会在战斗中帮到你。按下按钮只会把动作加入动作队列。
+按下 [WHITE] 按钮解除暂停。
+32224 := 你的一个队伍成员倒下了！别担心，战斗中倒下的队伍成员会在战斗结束后复苏。
+按下 [WHITE] 按钮解除暂停。
+32225 := 即使主角倒下，他或她也会在战斗结束后复苏。只有当你队伍中的所有角色都在同一场战斗中倒下时，你才会输掉游戏。
+按下 [WHITE] 按钮解除暂停。
+32226 := 系统覆写已接受
+输入命令
+32227 := 传送返回
+32228 := 返回藏身处
+32229 := 伪装
+32230 := 光剑水晶 - 紫色
+32231 := 光剑水晶 - 黄色
+32232 := 这里南边有一处仪式场所。如果要把巨兽诱出藏身处，就必须在那里用古老的方式进行。
+32233 := 你已经收集了一具毒蛇金拉斯的尸体。这样的诱饵会让那头生物动心。想办法把它摆出来。
+32234 := 如果摆放得当，一具新鲜猎物的血肉会是诱人的诱饵。找一头体型足够、能吸引它的合适野兽。
+32235 := [水已转移到相邻的压力舱。]
+32236 := 无动作
+32237 := 快，我们得赶到逃生舱，不然就来不及了！
+32238 := 原力牢笼
+32239 := 地板面板
+32240 := 乌木鹰号容器
+32241 := 动力导体
+32242 := 战斗屏幕 1
+32243 := 战斗屏幕 2
+32244 := 水位
+32245 := 坠落陷阱 1
+32246 := 坠落陷阱 2
+32247 := 我能听听赛道纪录吗？
+32248 := 我们会记录所有现役赛手。目前我们有你、加姆·托特里尔、尤卡·里尔和佐里斯·巴夫卡的资料。尼科暂时退出了。
+32249 := 关于我，你有什么资料？
+32250 := 关于佐里斯，你有什么资料？
+32251 := 关于尤卡·里尔，你有什么资料？
+32252 := 关于加姆，你有什么资料？
+32253 := 回到我其他的问题吧。
+32254 := 你的最佳时间是 <CUSTOM25>。你第一次的成绩是 <CUSTOM24>，我们记录到的最近一次成绩是 <CUSTOM26>。
+32255 := 你是当前的赛道领先者。你的最佳时间是 <CUSTOM25>。你第一次的成绩是 <CUSTOM24>，我们记录到的最近一次成绩是 <CUSTOM26>。
+32256 := 她是当前的赛道领先者，成绩为 <CUSTOM29>。
+32257 := 她的最佳时间是 <CUSTOM29>，而你已经超过了。
+32258 := 他的最佳时间是 <CUSTOM28>，而你已经超过了。
+32259 := 尤卡·里尔目前的最佳时间是 <CUSTOM28>。
+32260 := 你轻松超过了他的最佳时间 <CUSTOM27>。
+32261 := 他目前的最佳时间是 <CUSTOM27>。
+32262 := 别占用我太久。其他赛手可能也想下赛道跑一趟。你要比赛吗？
+32263 := 这笔买卖不错，尤其是如果它真像自己说的那样会说沙人的方言。当然，我觉得它没有把所有事都告诉我。不过，被编程用来撒谎的机器人并不多。
+32264 := 尤卡知道你会说沙人的方言。为什么现在还要保留信息？
+32265 := 我会带领伍基人走向伟大的未来……安全地置于我的掌控之下。奖赏该是什么，兄弟？你加入我，又该得到什么奖赏？
+32266 := 别担心，兄弟。我知道你的道路才是最好的。这是我们的族人在满是外来者谎言的银河中存活下去的唯一方式。
+32267 := [在他们攻击前匆忙撤退。]
+32268 := [你悄悄从入口退了出去。炮塔仍然没有理会你。]
+32269 := [攻击他们所有人。]
+32270 := [战士们准备好武器。]
+32271 := 帕扎克牌
+32273 := 这是沙人战士制作精巧的长袍。它们看起来状态良好，也许能让穿戴者在外表上粗略伪装成沙人。
+32274 := 加菲杖是沙人的传统近战武器。虽然他们偶尔也会使用偷来的爆能枪，但这些武器对他们来说仍是非常私人的物品。
+32275 := 加菲杖，又称加德菲，是沙人的传统近战武器。它们由手边能找到的各种废料打造而成，在近身战中相当有效。
+32276 := 这是一种传统加菲杖，或称加德菲，的变体；它外观稍显华丽，做工也更好，因此被标记为酋长的武器。
+32277 := 飞梭扰动
+32278 := 拉卡塔人门 4
+32279 := 先决条件：
+1 级无赖
 
-Sneak Attack I adds 1-6 points of extra damage to attacks when the target can't respond to the attacker. The extra damage is applied to attacks made from behind the target, attacks against stunned or otherwise immobilized targets, and any attacks made while in Stealth Mode (combat cancels Stealth Mode, but the first attack receives the bonus). 
-Sneak Attack only works if the target is within 10 meters. The extra damage is not multiplied in the case of a critical hit.
-32280 := Dim
-32281 := Low
-32282 := Normal
-32283 := Bright
-32284 := Prerequisites:
-Level 1 Droid
+偷袭 I 会在目标无法回应攻击者时，为攻击增加 1-6 点额外伤害。额外伤害适用于从目标背后发动的攻击、针对处于震慑或其他无法行动状态目标的攻击，以及在潜行模式下发动的任何攻击（战斗会取消潜行模式，但第一次攻击仍获得加值）。
+只有当目标位于 10 米以内时，偷袭才会生效。发生重击时，额外伤害不会被倍增。
+32280 := 暗
+32281 := 低
+32282 := 正常
+32283 := 亮
+32284 := 先决条件：
+1 级机器人
 
-As a droid gains experience, its programming becomes more adaptable to new situations. This allows it to accommodate more sophisticated upgrades. Droid Upgrade Class 1 allows the use of level 1 upgrade items.
-32285 := These are simple garments that protect little more than the modesty of the wearer.
-32286 := These are simple robes, kept modest not by a desire to appear humble, but to offer the greatest freedom of movement during battle.
-32287 := Designed for those who relish personal combat, and know that power comes to those who take it, these robes offer good protection with no hindrance to movement.
-32288 := These robes offer superior protection while still allowing full freedom of movement. They are the robes of the true masters, those whose will and authority go unopposed.
-32289 := not available
-32290 := Tatooine - Swoop Track
-32291 := This is your escape pod.
-32292 := <CUSTOM0> uses <CUSTOM1>.
-32293 := This is a disposable package of universally adaptable parts, designed for characters using the Repair skill on machines. Each pack is a one-use item. A high Repair skill reduces the number of parts required for any given task.
-32294 := Leaving Ahto City security zone. Cameras deactivated.
-32295 := Nothing yet. You'll have to put in some track time before we can record your results.
-32296 := Journal Updated:
-32297 := [Failure] Insufficient resources detected.
-Returning to previous system options.
-32298 := [Failure] Insufficient resources detected.
-Returning to previous system options.
-32299 := [Failure] Insufficient resources detected.
-Returning to previous system options.
-32300 := [Failure] Insufficient resources detected.
-Returning to previous system options.
-32302 := Pazaak Card +1
-32303 := Pazaak Card +2
-32304 := Pazaak Card +3
-32305 := Pazaak Card +4
-32306 := Pazaak Card +5
-32307 := Pazaak Card +6
-32308 := Pazaak Card -1
-32309 := Pazaak Card -2
-32310 := Pazaak Card -3
-32311 := Pazaak Card -4
-32312 := Pazaak Card -5
-32313 := Pazaak Card -6
-32314 := Pazaak Card +/-1
-32315 := Pazaak Card +/-2
-32316 := Pazaak Card +/-3
-32317 := Pazaak Card +/-4
-32318 := Pazaak Card +/-5
-32319 := Pazaak Card +/-6
-32320 := How much do you wager?
-32321 := Maximum wager:
-32322 := Are you sure you want to use this sidedeck?
-32323 := Choose Sidedeck
-32324 := Select Card
-32325 := Play
-32326 := Available cards
-32327 := Chosen cards
-32328 := Player Hand
-32329 := Opponent Hand
-32330 := Play Hand Card
-32331 := Flip Hand Card
-32332 := End Turn
-32333 := Stand
-32334 := You win the set.
-32335 := The opponent wins the set.
-32336 := You have defeated your opponent!
-32337 := You have been defeated.
-32338 := The set is tied.
-32339 := Player
-32340 := Opponent
-32341 := <CUSTOM51> seconds to complete depressurization. 
-32342 := This full body armor could be used to fool people into thinking the wearer was one of the Sith.
-32343 := Pazaak Side Deck
-32344 := Pazaak requires both a main deck and a side deck. You can store all your side deck cards here and bring them out when you start a game.
+随着机器人获得经验，它的程序会变得更能适应新情况。这让它能够容纳更复杂的升级。机器人升级等级 1 允许使用 1 级升级物品。
+32285 := 这些是简单的衣物，除了遮体之外几乎没有什么保护作用。
+32286 := 这些是简单的长袍。它们朴素，并不是为了显得谦逊，而是为了在战斗中提供最大的行动自由。
+32287 := 这些长袍为热衷亲身战斗、并明白力量归于敢于夺取者的人设计，能提供良好防护，又不妨碍行动。
+32288 := 这些长袍能提供更优越的防护，同时仍保留完全的行动自由。它们属于真正的大师，属于那些意志和权威无人敢违逆的人。
+32289 := 不可用
+32290 := 塔图因星 - 飞梭赛道
+32291 := 这是你的逃生舱。
+32292 := <CUSTOM0> 使用 <CUSTOM1>。
+32293 := 这是一包一次性的通用适配零件，供拥有修理技能的角色在机器上使用。每包都是一次性物品。较高的修理技能会减少完成特定任务所需的零件数量。
+32294 := 正在离开阿赫托城安保区。摄像头已停用。
+32295 := 还没有。你得先在赛道上跑出一些成绩，我们才能记录你的结果。
+32296 := 日志已更新：
+32297 := [失败] 检测到资源不足。
+正在返回之前的系统选项。
+32298 := [失败] 检测到资源不足。
+正在返回之前的系统选项。
+32299 := [失败] 检测到资源不足。
+正在返回之前的系统选项。
+32300 := [失败] 检测到资源不足。
+正在返回之前的系统选项。
+32302 := 帕扎克牌 +1
+32303 := 帕扎克牌 +2
+32304 := 帕扎克牌 +3
+32305 := 帕扎克牌 +4
+32306 := 帕扎克牌 +5
+32307 := 帕扎克牌 +6
+32308 := 帕扎克牌 -1
+32309 := 帕扎克牌 -2
+32310 := 帕扎克牌 -3
+32311 := 帕扎克牌 -4
+32312 := 帕扎克牌 -5
+32313 := 帕扎克牌 -6
+32314 := 帕扎克牌 +/-1
+32315 := 帕扎克牌 +/-2
+32316 := 帕扎克牌 +/-3
+32317 := 帕扎克牌 +/-4
+32318 := 帕扎克牌 +/-5
+32319 := 帕扎克牌 +/-6
+32320 := 你要下注多少？
+32321 := 最高下注：
+32322 := 你确定要使用这个副牌组吗？
+32323 := 选择副牌组
+32324 := 选择卡牌
+32325 := 出牌
+32326 := 可用卡牌
+32327 := 已选卡牌
+32328 := 玩家手牌
+32329 := 对手手牌
+32330 := 打出手牌
+32331 := 翻转手牌
+32332 := 结束回合
+32333 := 停牌
+32334 := 你赢得了这一局。
+32335 := 对手赢得了这一局。
+32336 := 你击败了对手！
+32337 := 你被击败了。
+32338 := 这一局平局。
+32339 := 玩家
+32340 := 对手
+32341 := <CUSTOM51> 秒后完成减压。
+32342 := 这套全身护甲可以用来骗人，让别人以为穿戴者是西斯的一员。
+32343 := 帕扎克牌副牌组
+32344 := 帕扎克牌需要一个主牌组和一个副牌组。你可以把所有副牌组卡牌存放在这里，并在开始游戏时取出使用。
 
-32346 := Equipped
-32347 := 60 seconds to complete depressurization.
-32348 := 54 seconds to complete depressurization.
-32349 := 48 seconds to complete depressurization.
-32350 := 42 seconds to complete depressurization.
-32351 := 36 seconds to complete depressurization.
-32352 := 30 seconds to complete depressurization.
-32353 := 24 seconds to complete depressurization.
-32354 := 18 seconds to complete depressurization.
-32355 := 12 seconds to complete depressurization.
-32356 := 6 seconds to complete depressurization.
-32357 := Chuundar's personal weapon is a bowcaster with some unusual Czerka modifications. Most Wookiees would likely not appreciate such outside influence.
-32358 := Damage: None
+32346 := 已装备
+32347 := 60 秒后完成减压。
+32348 := 54 秒后完成减压。
+32349 := 48 秒后完成减压。
+32350 := 42 秒后完成减压。
+32351 := 36 秒后完成减压。
+32352 := 30 秒后完成减压。
+32353 := 24 秒后完成减压。
+32354 := 18 秒后完成减压。
+32355 := 12 秒后完成减压。
+32356 := 6 秒后完成减压。
+32357 := 丘恩达的个人武器是一把弩枪，上面有一些不同寻常的泽卡改装。大多数伍基人大概不会喜欢这种外来影响。
+32358 := 伤害：无
 
-Secondary: Stun for 9sec
+次要效果：震慑 9 秒
 
-Area of Effect: 3.3m radius
+效果范围：半径 3.3 米
 
-Save :
-DC15 to negate stun
+豁免：
+DC15 可免除震慑
 
-Carefully set flash mines can stun any enemies unfortunate enough to step on them. This is the basic model.
-32359 := Damage: Piercing, 18pts
+精心布设的闪光地雷可以震慑任何不幸踩上它们的敌人。这是基础型号。
+32359 := 伤害：穿刺，18点
 
-Area of Effect: 3.3m radius
+效果范围：半径 3.3 米
 
-Save :
-DC15 for half damage
+豁免：
+DC15 伤害减半
 
-Frag mines send blasts of shrapnel through any nearby enemies. This is the basic model.
-32360 := Damage: Special
+破片地雷会向附近所有敌人喷射弹片。这是基础型号。
+32360 := 伤害：特殊
 
-Secondary:
-Poison, 3 pts every 3 sec
+次要效果：
+中毒，每 3 秒 3 点
 
-Duration: 30sec
+持续时间：30秒
 
-Area of Effect: 3.3m radius
+效果范围：半径 3.3 米
 
-Save:
-DC15 for no effect
+豁免：
+DC15 无效果
 
-When stepped on, gas mines saturate the immediate area with poisonous gas. This is the basic model.
-32361 := Damage: Heat, 24pts
+被踩中时，毒气地雷会让附近区域充满毒气。这是基础型号。
+32361 := 伤害：高温，24点
 
-Area of Effect: 3.3m radius
+效果范围：半径 3.3 米
 
-Save:
-DC15 for half damage
+豁免：
+DC15 伤害减半
 
-When stepped on, plasma mines emit a short burst of intense heat, searing all enemies nearby. This is the basic model.
-32362 := Concerning demolitions, the Bothans prefer well-equipped droids for the task of explosives management, and invest research accordingly. A droid must have basic Demolitions software (paid points into the skill) to benefit from this item.
-32363 := This basic probe improves a droid's demolitions capabilities, allowing for more sensitive adjustments of volatile substances. A droid must have basic Demolitions software (paid points into the skill) to benefit from this item.
-32364 := Wartime contracts over the last forty years saw a great deal of money poured into Verpine droid modifications, particularly in the area of demolitions. A droid must have basic Demolitions software (paid points into the skill) to benefit from this item.
-32365 := Gamorrean Battleaxes, much like their namesake species, are heavy, unsubtle, and generally a very damaging influence in almost any situation.
-32366 := Though initially they might seem cumbersome, Wookiee Warblades are actually a very efficient design. Kept in continual motion, they can cut a swath through almost anything.
-32367 := Special:
-Upgrade Item, Melee
+被踩中时，等离子地雷会释放一阵短促的强热，灼烧附近所有敌人。这是基础型号。
+32362 := 在爆破方面，波森人更偏好让装备精良的机器人负责爆炸物管理，也会相应投入研究。机器人必须拥有基础爆破软件（向该技能投入点数）才能从此物品受益。
+32363 := 这种基础探针能提升机器人的爆破能力，使其能对易爆物质进行更精细的调整。机器人必须拥有基础爆破软件（向该技能投入点数）才能从此物品受益。
+32364 := 过去四十年的战时合同让大量资金流入韦尔派因人的机器人改装研究，尤其集中在爆破领域。机器人必须拥有基础爆破软件（向该技能投入点数）才能从此物品受益。
+32365 := 加莫人战斧很像其同名种族：沉重、粗暴，而且在几乎任何场合都会带来极具破坏性的影响。
+32366 := 虽然乍看之下可能显得笨重，伍基战刃实际上是非常高效的设计。只要持续挥动，它们几乎能劈开一切。
+32367 := 特殊：
+升级物品，近战
 
-Application of this alloy can strengthen a melee weapon, increasing damage and possibly resistance to damage. The modifications require a workbench with adequate tools and a weapon of high quality marked as upgradeable.
-32368 := Special:
-Upgrade Item, Melee
+应用这种合金可以强化近战武器，提高伤害，并可能提高伤害抗性。这些改装需要一张配备足够工具的工作台，以及一件标记为可升级的高品质武器。
+32368 := 特殊：
+升级物品，近战
 
-This modular projector can cause a melee weapon to do additional energy-based damage. The modifications require a workbench with adequate tools and a weapon of high quality marked as upgradeable.
-32369 := Special:
-Upgrade Item, Melee
+这个模块化投射器能让近战武器造成额外的能量类伤害。这些改装需要一张配备足够工具的工作台，以及一件标记为可升级的高品质武器。
+32369 := 特殊：
+升级物品，近战
 
-A cell like this can stabilize a melee weapon allowing it to hit and damage better, and possibly gain other effects. The modifications require a workbench with adequate tools and a weapon of high quality marked as upgradeable.
-32370 := Special:
-Upgrade Item, Armor
+这样的能量池可以稳定近战武器，使其更容易命中并造成伤害，还可能获得其他效果。这些改装需要一张配备足够工具的工作台，以及一件标记为可升级的高品质武器。
+32370 := 特殊：
+升级物品，护甲
 
-Mesh underlay can have a variety of effects, depending on the nature of the armor it is applied to. The modifications require a workbench with adequate tools and armor of high quality marked as upgradeable.
-32371 := Special:
-Upgrade Item, Armor
+网状内衬可以产生多种效果，具体取决于它被应用到的护甲性质。这些改装需要一张配备足够工具的工作台，以及一件标记为可升级的高品质护甲。
+32371 := 特殊：
+升级物品，护甲
 
-Durasteel reinforcement is a complicated armor application that increases protective qualities. The modifications require a workbench with adequate tools and armor of high quality marked as upgradeable.
-32372 := Special:
-Upgrade Item, Ranged
+硬钢强化是一种复杂的护甲应用，可提升防护性能。这些改装需要一张配备足够工具的工作台，以及一件标记为可升级的高品质护甲。
+32372 := 特殊：
+升级物品，远程
 
-This item can broaden the beam of certain blaster types, increasing damage or possibly granting other effects. The modifications require a workbench with adequate tools and a weapon of high quality marked as upgradeable.
-32373 := Special:
-Upgrade Item, Ranged
+此物品可以拓宽某些爆能枪类型的光束，提高伤害，或可能赋予其他效果。这些改装需要一张配备足够工具的工作台，以及一件标记为可升级的高品质武器。
+32373 := 特殊：
+升级物品，远程
 
-This unit regulates the firing mechanism of certain blaster types, improving the ability of a skilled user to fire rapidly. The modifications require a workbench with adequate tools and a weapon of high quality marked as upgradeable.
-32374 := Special:
-Upgrade Item, Ranged
+这个单元会调节某些爆能枪类型的发射机制，提高熟练使用者快速开火的能力。这些改装需要一张配备足够工具的工作台，以及一件标记为可升级的高品质武器。
+32374 := 特殊：
+升级物品，远程
 
-This cell increases the energy output of certain blaster types, allowing skilled users to better deliver powerful attacks. The modifications require a workbench with adequate tools and a weapon of high quality marked as upgradeable.
-32375 := Special:
-Upgrade Item, Ranged
+这个能量池会提高某些爆能枪类型的能量输出，让熟练使用者更好地打出强力攻击。这些改装需要一张配备足够工具的工作台，以及一件标记为可升级的高品质武器。
+32375 := 特殊：
+升级物品，远程
 
-This scope increases the accuracy of certain blaster types, increasing the user's effectiveness with sniper attacks. The modifications require a workbench with adequate tools and a weapon of high quality marked as upgradeable.
-32376 := Well, that would be a loss, I'm sorry to say. Better luck next time?
-32377 := Would you like to have another round of Pazaak?
-32378 := This droid appears to be heavily armed, though it is ignoring you for now.
-32379 := [FAILURE] ACCESS DENIED!
-COMPUTER SLICE FAILED
-INCOMPATIBLE REQUEST
-SPIKES REJECTED
-(The failure dialog must give the player a reason as to why they can never succeed so they understand not to keep trying.)
+这个瞄准镜会提高某些爆能枪类型的准确度，增强使用者进行狙击攻击时的效果。这些改装需要一张配备足够工具的工作台，以及一件标记为可升级的高品质武器。
+32376 := 嗯，很遗憾，那就是输了。下次好运？
+32377 := 你想再来一轮帕扎克牌吗？
+32378 := 这个机器人似乎全副武装，不过它现在没有理会你。
+32379 := [失败] 访问被拒绝！
+计算机切入失败
+请求不兼容
+计算机破解器被拒绝
+（失败对话必须给玩家一个永远无法成功的理由，好让他们明白不要一直尝试。）
 
 
 
-32380 := [SUCCESS] SENTRY DROID REPROGRAMMING COMPLETE
-AUTO-TARGETTING ENGAGED
-SWITCHING TO SECURITY CAMERA
-32381 := [SUCCESS] SENTRY DROIDS DEACTIVATED
-SWITCHING TO SECURITY CAMERA
-32382 := [SUCCESS] SENTRY TURRETS DEACTIVATED
-SWITCHING TO SECURITY CAMERA
-32383 := [SUCCESS] GAS VENTED
-SWITCHING TO SECURITY CAMERA
-32384 := ENTER COMMAND
-32385 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-32386 := [SUCCESS] SECURITY DOOR LOCKS OVERRIDDEN
-ACCESS GRANTED
-ENTER COMMAND
-32387 := CELLS UNLOCKED
-ENTER COMMAND
-32388 := Log out.
-32389 := [Computer] Slice the computer. (1 spike)
-(This enables the player to access all the slice abilities of the computer)
-32390 := Log out.
-32391 := [Computer] Activate Nanotech assassin in Darth Malak's head. (50 spike(s))
-(This is an example of a fake choice. The player can never succeed at this.)
-32392 := [Computer] Reprogram sentry droids to target everything. (<CUSTOM34> spike(s))
-32393 := [Computer] Deactivate sentry droids. (<CUSTOM33> spike(s))
-32394 := [Computer] Deactivate sentry guns. (<CUSTOM33> spike(s))
-32395 := [Computer] Vent gas into [room] or overload power conduit. (<CUSTOM32> spike(s)) (Only one of these options should appear.)
-32396 := [Computer] Open all security doors. (<CUSTOM31> spike(s))
-(This will not open plot doors)
-32397 := Unlock holding cells. 
-(This is an example of a critical path option that doesn't require computer spikes. It shows up before the slice screen.)
-32398 := This droid is damaged and inactive.
-32399 := The droid engages its patrol mode and moves off to carry out your programmed instructions.
+32380 := [成功] 哨戒机器人重编程完成
+自动瞄准已启用
+正在切换至安保摄像头
+32381 := [成功] 哨戒机器人已停用
+正在切换至安保摄像头
+32382 := [成功] 哨戒炮塔已停用
+正在切换至安保摄像头
+32383 := [成功] 毒气已排放
+正在切换至安保摄像头
+32384 := 输入命令
+32385 := [失败] 访问被拒绝
+计算机破解器不足
+输入命令
+32386 := [成功] 安保门锁已覆写
+访问已授予
+输入命令
+32387 := 牢房已解锁
+输入命令
+32388 := 登出。
+32389 := [计算机] 切入计算机。（1 个计算机破解器）
+（这会让玩家能够访问该计算机的所有切入能力）
+32390 := 登出。
+32391 := [计算机] 激活达斯·马拉克脑中的纳米技术刺客。（50 个计算机破解器）
+（这是一个虚假选择示例。玩家永远无法在此成功。）
+32392 := [计算机] 将哨戒机器人重编程为攻击一切目标。（<CUSTOM34> 个计算机破解器）
+32393 := [计算机] 停用哨戒机器人。（<CUSTOM33> 个计算机破解器）
+32394 := [计算机] 停用哨戒炮。（<CUSTOM33> 个计算机破解器）
+32395 := [计算机] 向 [room] 排放毒气，或使动力导管过载。（<CUSTOM32> 个计算机破解器）（这些选项只应出现一个。）
+32396 := [计算机] 打开所有安保门。（<CUSTOM31> 个计算机破解器）
+（这不会打开剧情门）
+32397 := 解锁拘留牢房。
+（这是一个不需要计算机破解器的关键路径选项示例。它会出现在切入界面之前。）
+32398 := 这个机器人已损坏且处于停用状态。
+32399 := 机器人启动巡逻模式，并离开去执行你编入的指令。
 32400 := You leave the droid alone for now.
 32401 := [Failure] You don't have any repair parts. You leave the droid alone for now.
 32402 := The droid is now active. It will attack any enemies that come in range.
