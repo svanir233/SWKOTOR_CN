@@ -39449,489 +39449,489 @@ C8-42 则稍微没有那么……热情。
 36601 := unk41_rankill
 36602 := unk41_wprak
 36603 := wpplayer
-36604 := Unknown World - South Beach
-36605 := The Black Rakata will not rest until we are all dead and fed to their war beasts.
-36606 := Thank you for destroying the tribe of the One. We do not believe in needless violence, but the Black Rakata could not be reasoned with.
-36607 := The Council of Elders speaks for our entire village. You should speak with them if you have any questions.
-36608 := Few among our tribe ever expected you to return, Revan. Even the Elders thought you had betrayed us.
-36609 := The One has sworn to destroy us so that he may possess the terrible secrets of our ancestors. We cannot let that happen!
-36610 := With the death of the One the terrible secrets of our ancestors are once again safe. Thank you, Revan.
-36611 := The Council of Elders speaks for our entire village. You should speak with them if you have any questions.
-36612 := It is good to see you again, Revan. There were many among our tribe who feared you had allied yourself with our enemy.
-36613 := You... you do not remember the Elders? This... this is very strange. You should come with us to our village, Revan, and speak with the Elders. This is a matter for them.
-36614 := Come, the village is not far.
-36615 := The Black Rakata? They are nothing but barbarians and savages. What could they possibly help you with? If you need help you should speak with the Elders.
-36616 := Defend yourselves - we are under attack!
-36617 := The Elders? What are you talking about?
-36618 := Very well. Take me to see the Elders.
-36619 := I have to kill you to gain the help of the Black Rakata.
-36620 := I think I'll just kill you all instead!
-36621 := Settlement Entrance
-36622 := Unknown World - North Beach
-36623 := You dare defy the decrees of the One? You dare to challenge the Black Rakata tribe here, in the presence of our warriors and great war beasts?
-36624 := You have sworn to destroy our enemies, Revan. If you go back on your oath we will destroy you!
-36625 := It is the judgment of the One that you must be given free reign of our encampment, Revan. You may enter the domain of the One if you wish to speak with our leader.
-36626 := Inside you will also find many treasures we have collected from the ships that fell from the sky. For slaying our enemy, the One has decreed that you may claim whatever you wish from our cache.
-36627 := You can't stop me. I go wherever I please!
-36628 := I will honor my oath. I'll be back after I kill your enemies.
-36629 := The technology of the Red Rakata is a powerful weapon. It even allows their tribe to stand against the might of our war beasts.
-36630 := With the knowledge of the Red Rakata the One will lead us to dominance over all the other tribes of the world!
-36631 := It was the One who found and trained our great war beasts. Because of them, none will dare stand against our tribe.
-36632 := Few among us expected you to ever return, Revan. Yet the One understood you would not abandon us.
-36633 := Once the Red Rakata are destroyed there will be none who dare to stand against our tribe!
-36634 := The One is studying the secrets of the Red Rakata. In time he will use them to unlock the knowledge trapped within the Temple of the Ancients!
-36635 := We are the greatest of the Black Rakata. No leader is stronger than the One, and no other tribe commands the war beasts as we do.
-36636 := The One is the greatest warrior in the long history of our tribe. He will lead us to victory over all our enemies!
-36637 := Rakata
-36638 := Unknown World - Temple Exterior
-36639 := Unknown World - Elder Settlement
-36640 := Searching... error. No information on 'Star Forge' detected. Information may be recorded in the databanks within the Temple of the Ancients.
-36641 := We of the Elder Council did not expect to see you again, Revan. We thought you had betrayed us. Why have you returned to our village after all this time?
-36642 := The Black tribes are descended from the Rakata warrior class, we from the priests and keepers of knowledge. When the Infinite Empire collapsed the two groups waged a battle to control what remained.
-36643 := The Black Rakata seek to reclaim the terrible weapons of mass destruction that once nearly destroyed our Empire, but we Red Rakata will not allow such weapons to be unleashed again.
-36644 := The knowledge of our ancestors leads only to destruction; that is why we must keep the ancient secrets from being discovered by the Black Rakata. But they do not accept this.
-36645 := The One will not rest until he once again can rain death upon the land. He cannot be reasoned with, so we are left with only one choice: destroy the One and his tribe.
-36646 := You have slain the One? The Revan we knew would never have dared to challenge the Black Rakata and their war beasts. The risk would be too great.
-36647 := Perhaps you truly have changed. Perhaps you do intend to atone for the crimes of your past. We will take you to the Temple, if you wish.
-36648 := I spoke to you once before? What did I want?
-36649 := Why is there war between the Red and Black Rakata?
-36650 := The One is dead. I killed him myself.
-36651 := The other Rakata will not rest until we are all dead and fed to their war beasts.
-36652 := Thank you for destroying the tribe of the One. We do not believe in needless violence, but they could not be reasoned with.
-36653 := The Council speaks for our entire village. You should speak with them if you have any questions.
-36654 := Few among our tribe ever expected you to return, Revan. Even the Council thought you had betrayed us.
-36655 := The One has sworn to destroy us so that he may possess the terrible secrets of our ancestors. We cannot let that happen!
-36656 := With the death of the One the terrible secrets of our ancestors are once again safe. Thank you, Revan.
-36657 := The Council of Elders speaks for our entire village. You should speak with them if you have any questions.
-36658 := It is good to see you again, Revan. There were many among our tribe who feared you had allied yourself with our enemy.
-36659 := Red Rakata Worshipper
-36660 := Rancor Grenade
-36661 := Settlement Exit
-36662 := Storage Basket
-36663 := Storage Bin
+36604 := 未知世界 - 南海滩
+36605 := 黑拉卡塔不会罢休，直到我们全都死去，被喂给他们的战兽。
+36606 := 感谢你摧毁唯一者的部落。我们不相信无谓的暴力，但黑拉卡塔无法讲理。
+36607 := 长老议会代表我们整个村落。如果你有任何问题，应该去和他们谈谈。
+36608 := 我们部族中很少有人想到你会回来，瑞文。就连长老们都以为你背叛了我们。
+36609 := 唯一者发誓要毁灭我们，好让他占有祖先留下的可怕秘密。我们不能让这种事发生！
+36610 := 随着唯一者死去，我们祖先的可怕秘密再次安全了。谢谢你，瑞文。
+36611 := 长老议会代表我们整个村落。如果你有任何问题，应该去和他们谈谈。
+36612 := 很高兴再次见到你，瑞文。我们部族中有很多人担心你已经与我们的敌人结盟。
+36613 := 你……你不记得长老们了？这……这很奇怪。你应该跟我们去村子，瑞文，和长老们谈谈。这事得由他们处理。
+36614 := 来吧，村子不远。
+36615 := 黑拉卡塔？他们不过是野蛮人和未开化者。他们能帮你什么？如果你需要帮助，应该去和长老们谈谈。
+36616 := 防卫自己——我们遭到攻击！
+36617 := 长老们？你在说什么？
+36618 := 很好。带我去见长老们。
+36619 := 我必须杀了你们，才能获得黑拉卡塔的帮助。
+36620 := 我看我不如直接把你们全杀了！
+36621 := 定居点入口
+36622 := 未知世界 - 北海滩
+36623 := 你胆敢违抗唯一者的法令？胆敢在我们的战士和伟大战兽面前，在这里挑战黑拉卡塔部落？
+36624 := 你已经发誓要毁灭我们的敌人，瑞文。如果你违背誓言，我们就会毁灭你！
+36625 := 唯一者裁定，你必须获得在我们营地自由通行的权利，瑞文。如果你想和我们的首领谈话，可以进入唯一者的领地。
+36626 := 里面你还会看到许多宝物，是我们从那些从天而降的飞船上收集来的。因为你杀死了我们的敌人，唯一者下令，你可以从我们的藏货中取走任何你想要的东西。
+36627 := 你拦不住我。我想去哪就去哪！
+36628 := 我会遵守誓言。等我杀了你们的敌人就回来。
+36629 := 红拉卡塔的技术是一件强大的武器。它甚至能让他们的部族抵挡我们战兽的力量。
+36630 := 有了红拉卡塔的知识，唯一者将带领我们支配这个世界上的所有其他部族！
+36631 := 是唯一者发现并训练了我们的伟大战兽。有了它们，没有谁敢对抗我们的部族。
+36632 := 我们中很少有人想到你会回来，瑞文。但唯一者明白你不会抛弃我们。
+36633 := 一旦红拉卡塔被摧毁，就不会再有人胆敢对抗我们的部族！
+36634 := 唯一者正在研究红拉卡塔的秘密。总有一天，他会用这些秘密解开困在古代神庙中的知识！
+36635 := 我们是最伟大的黑拉卡塔。没有哪个首领比唯一者更强，也没有哪个部族像我们一样统御战兽。
+36636 := 唯一者是我们部族漫长历史中最伟大的战士。他会带领我们战胜所有敌人！
+36637 := 拉卡塔人
+36638 := 未知世界 - 神庙外部
+36639 := 未知世界 - 长老定居点
+36640 := 正在搜索……错误。未检测到关于“星际锻炉”的信息。信息可能记录在古代神庙内的数据银行中。
+36641 := 我们长老议会没想到还能再见到你，瑞文。我们以为你背叛了我们。过了这么久，你为什么又回到我们的村子？
+36642 := 黑色部落源自拉卡塔战士阶层，我们则源自祭司和知识守护者。无限帝国崩塌时，两个群体为控制残存之物而开战。
+36643 := 黑拉卡塔想要夺回那些曾经几乎毁灭我们帝国的可怕大规模毁灭武器，但我们红拉卡塔不会允许这种武器再次被释放。
+36644 := 我们祖先的知识只会通向毁灭；这就是为什么我们必须阻止黑拉卡塔发现古代秘密。但他们不接受这一点。
+36645 := 唯一者不会罢休，直到他能再次让死亡降临大地。他无法讲理，所以我们只剩下一个选择：毁灭唯一者和他的部落。
+36646 := 你杀了唯一者？我们认识的瑞文绝不敢挑战黑拉卡塔和他们的战兽。风险太大了。
+36647 := 也许你真的变了。也许你确实想为过去的罪行赎罪。如果你愿意，我们会带你去神庙。
+36648 := 我以前和你们说过话？我想要什么？
+36649 := 红拉卡塔和黑拉卡塔为什么会开战？
+36650 := 唯一者死了。我亲手杀了他。
+36651 := 其他拉卡塔人不会罢休，直到我们全都死去，被喂给他们的战兽。
+36652 := 感谢你摧毁唯一者的部落。我们不相信无谓的暴力，但他们无法讲理。
+36653 := 议会代表我们整个村落。如果你有任何问题，应该去和他们谈谈。
+36654 := 我们部族中很少有人想到你会回来，瑞文。就连议会都以为你背叛了我们。
+36655 := 唯一者发誓要毁灭我们，好让他占有祖先留下的可怕秘密。我们不能让这种事发生！
+36656 := 随着唯一者死去，我们祖先的可怕秘密再次安全了。谢谢你，瑞文。
+36657 := 长老议会代表我们整个村落。如果你有任何问题，应该去和他们谈谈。
+36658 := 很高兴再次见到你，瑞文。我们部族中有很多人担心你已经与我们的敌人结盟。
+36659 := 红拉卡塔崇拜者
+36660 := 兰克兽手雷
+36661 := 定居点出口
+36662 := 储物篮
+36663 := 储物箱
 36664 := unk42_eldspk
-36665 := Unknown World - Rakatan Settlement
-36666 := The One has decreed that you may claim any piece you wish from the treasures we have collected from the ships that fell from the sky, Revan.
-36667 := The One is studying the secrets of the Red Rakata. In time he will use them to unlock the knowledge trapped within the Temple of the Ancients!
-36668 := As a reward for slaying our hated enemy you may search our cache for whatever parts you need to repair your ship, Revan.
-36669 := With the knowledge of the Red Rakata the One will lead us to dominance over all the other tribes of the world!
-36670 := [Success] I suppose that if what you say is true - that you cannot remember when you were last here - then you must have many questions. Very well, Revan.
-36671 := [Persuade/Lie] I'll help you, but you have to answer my questions first.
-36672 := Ship Parts
-36673 :=   These ship parts appear to be similar enough to those on the Ebon Hawk that they could be used to repair it.
-36674 := Unknown World - Temple Interior
-36675 := Temple Control Accessed
-36676 := Shutdown armory turrets.
-36677 := Disable sentry droids.
-36678 := SYSTEM LOADING...
-PROTOTYPE ASSAULT DROID
-COMMAND TERMINAL ONLINE
-ENTER COMMAND
-36679 := EXITING SYSTEM...
-36680 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-36681 := SYSTEM OVERRIDE ACCEPTED
-ENTER COMMAND
-36682 := [FAILURE] ACCESS DENIED!
-COMPUTER SLICE FAILED
-SPIKES REJECTED
-36683 := PROTOTYPE DROIDS
-CANNOT BE DISABLED
-ENTER COMMAND
-36684 := [SUCCESS] REPROGRAMMING COMPLETE
-PROTOTYPE ASSAULT DROID
-AUTO-TARGETTING ENGAGED
-SWITCHING TO SECURITY CAMERA
-36685 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-36686 := [SUCCESS] PROTOTYPE DROID SHIELDS DEACTIVATED
-SWITCHING TO SECURITY CAMERA
-36687 := ENTER COMMAND
-36688 := Log out.
-36689 := [Computer] Slice the computer. (1 spike)
-36690 := Log out.
-36691 := [Computer] Deactivate prototype droids. (<CUSTOM35> spike(s))
-36692 := [Computer] Reprogram prototype droids to target everything. (<CUSTOM36> spike(s))
-36693 := [Computer] Disable prototype droid shields. (<CUSTOM35> spike(s))
-36694 := Temple control accessed.
-36695 := Open auxiliary armory
-36696 := Deactivate droid sentries
-36697 := This droid is damaged and inactive.
-36698 := The droid engages its patrol mode and moves off to carry out your programmed instructions.
-36699 := You leave the droid alone for now.
-36700 := [Failure] You don't have any repair parts. You leave the droid alone for now.
-36701 := The droid is now active. It will attack any enemies that come in range.
-36702 := [Failure] You do not have enough repair parts.
-36703 := [Success] Patrol mode engaged. Once you end this session the droid will begin patrol and destroy any enemies it encounters. 
-36704 := WARNING: Once you end this session the droid's program will be locked in. You will not be able to modifiy the droid anymore.
-36705 := [Success] The droid's shields are now active.
-36706 := [Success] The droid is now set for maximum accuracy.
-36707 := [Success] The droid is now set for maximum firepower.
-36708 := The droid is now active. It will attack any enemies that come in range.
-36709 := The droid is actively engaged in its patrol route. You cannot reprogram it anymore.
-36710 := Leave it alone.
-36711 := Reactivate the droid. (1 repair part)
-36712 := Leave it alone.
-36713 := Engage droid in patrol mode. (<CUSTOM45> repair part(s))
-36714 := Activate droid's shields. (<CUSTOM44> repair part(s))
-36715 := Optimize droid's targeting systems. (<CUSTOM43> repair part(s))
-36716 := Optimize droid's weaponry. (<CUSTOM42> repair part(s))
-36717 := SYSTEM LOADING...
-COMPLETE
-ENTER COMMAND
-36718 := EXITING SYSTEM...
-36719 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-COMMAND?
-36720 := SYSTEM OVERRIDE ACCEPTED
-COMMAND?
-36721 := [SUCCESS] PATROL DROID REPROGRAMMING COMPLETE
-AUTO-TARGETTING ENGAGED
-SWITCHING TO SECURITY CAMERA
-36722 := [SUCCESS] PATROL DROIDS DEACTIVATED
-SWITCHING TO SECURITY CAMERA
-36723 := [SUCCESS] BLASTER TURRETS DEACTIVATED
-SWITCHING TO SECURITY CAMERA
-36724 := ENTER COMMAND
-36725 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-36726 := [SUCCESS] SECURITY DOOR LOCKS OVERRIDDEN
-ACCESS GRANTED
-ENTER COMMAND
-36727 := Log out.
-36728 := [Computer] Slice the computer. (<CUSTOM35> spike(s))
-36729 := Log out.
-36730 := [Computer] Reprogram patrol droids to target everything. (<CUSTOM34> spike(s))
-36731 := [Computer] Deactivate patrol droids. (<CUSTOM33> spike(s))
-36732 := [Computer] Deactivate blaster turrets. (<CUSTOM33> spike(s))
-36733 := [Computer] Open armory security doors. (<CUSTOM31> spike(s))
-36734 := Sith Sentry Droid
-36735 := Sith Assault Droid
-36736 := Sith Acolyte
-36737 := Rusted Assault Droid
-36738 := Prototype Droid
-36739 := Rakatan Patrol Droid
+36665 := 未知世界 - 拉卡塔定居点
+36666 := 唯一者下令，瑞文，你可以从我们收集的坠天飞船宝物中取走任何想要的东西。
+36667 := 唯一者正在研究红拉卡塔的秘密。总有一天，他会用这些秘密解开困在古代神庙中的知识！
+36668 := 作为杀死我们仇敌的奖赏，瑞文，你可以搜索我们的藏货，找出任何修理你飞船所需的部件。
+36669 := 有了红拉卡塔的知识，唯一者将带领我们支配这个世界上的所有其他部族！
+36670 := [成功] 我想，如果你说的是真的——你不记得上次来这里的事——那你一定有许多问题。很好，瑞文。
+36671 := [说服/撒谎] 我会帮你，但你得先回答我的问题。
+36672 := 飞船部件
+36673 :=   这些飞船部件看起来和乌木鹰号上的部件足够相似，应该可以用于修理它。
+36674 := 未知世界 - 神庙内部
+36675 := 已访问神庙控制
+36676 := 关闭军械库炮塔。
+36677 := 停用哨戒机器人。
+36678 := 系统正在载入……
+原型突击机器人
+指令终端在线
+输入命令
+36679 := 正在退出系统……
+36680 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+36681 := 系统覆盖已接受
+输入命令
+36682 := [失败] 访问被拒！
+计算机切入失败
+计算机破解器被拒绝
+36683 := 原型机器人
+无法停用
+输入命令
+36684 := [成功] 重编程完成
+原型突击机器人
+自动瞄准已启用
+正在切换至安保摄像头
+36685 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+36686 := [成功] 原型机器人护盾已停用
+正在切换至安保摄像头
+36687 := 输入命令
+36688 := 注销。
+36689 := [计算机] 切入计算机。（1 个计算机破解器）
+36690 := 注销。
+36691 := [计算机] 停用原型机器人。（<CUSTOM35> 个计算机破解器）
+36692 := [计算机] 将原型机器人重编程为攻击一切目标。（<CUSTOM36> 个计算机破解器）
+36693 := [计算机] 停用原型机器人护盾。（<CUSTOM35> 个计算机破解器）
+36694 := 已访问神庙控制。
+36695 := 打开辅助军械库
+36696 := 停用机器人哨兵
+36697 := 这个机器人已损坏且处于非活动状态。
+36698 := 机器人启用巡逻模式，离开去执行你编程的指令。
+36699 := 你暂时不去管这个机器人。
+36700 := [失败] 你没有任何修理零件。你暂时不去管这个机器人。
+36701 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+36702 := [失败] 你的修理零件不足。
+36703 := [成功] 巡逻模式已启用。你结束本次会话后，机器人将开始巡逻，并摧毁它遇到的任何敌人。
+36704 := 警告：一旦你结束本次会话，机器人的程序将被锁定。你将无法再修改这个机器人。
+36705 := [成功] 机器人的护盾现已激活。
+36706 := [成功] 机器人现已设为最高精度。
+36707 := [成功] 机器人现已设为最大火力。
+36708 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+36709 := 机器人正在执行巡逻路线。你无法再重编程它。
+36710 := 别管它。
+36711 := 重新激活机器人。（1 个修理零件）
+36712 := 别管它。
+36713 := 启用机器人的巡逻模式。（<CUSTOM45> 个修理零件）
+36714 := 激活机器人的护盾。（<CUSTOM44> 个修理零件）
+36715 := 优化机器人的瞄准系统。（<CUSTOM43> 个修理零件）
+36716 := 优化机器人的武器系统。（<CUSTOM42> 个修理零件）
+36717 := 系统正在载入……
+完成
+输入命令
+36718 := 正在退出系统……
+36719 := [失败] 访问被拒
+计算机破解器不足
+命令？
+36720 := 系统覆盖已接受
+命令？
+36721 := [成功] 巡逻机器人重编程完成
+自动瞄准已启用
+正在切换至安保摄像头
+36722 := [成功] 巡逻机器人已停用
+正在切换至安保摄像头
+36723 := [成功] 爆能炮塔已停用
+正在切换至安保摄像头
+36724 := 输入命令
+36725 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+36726 := [成功] 安保门锁已覆盖
+访问已授权
+输入命令
+36727 := 注销。
+36728 := [计算机] 切入计算机。（<CUSTOM35> 个计算机破解器）
+36729 := 注销。
+36730 := [计算机] 将巡逻机器人重编程为攻击一切目标。（<CUSTOM34> 个计算机破解器）
+36731 := [计算机] 停用巡逻机器人。（<CUSTOM33> 个计算机破解器）
+36732 := [计算机] 停用爆能炮塔。（<CUSTOM33> 个计算机破解器）
+36733 := [计算机] 打开军械库安保门。（<CUSTOM31> 个计算机破解器）
+36734 := 西斯哨戒机器人
+36735 := 西斯突击机器人
+36736 := 西斯侍僧
+36737 := 锈蚀突击机器人
+36738 := 原型机器人
+36739 := 拉卡塔巡逻机器人
 36740 := unk44_area05
 36741 := unk44_area08
 36742 := unk44_area11
 36743 := unk44_area14
-36744 := Unknown World - Temple Catacombs
-36745 := Welcome back once again, Revan. Do you need to access the data within my storage banks?
-36746 := Due to my systems' ability to monitor and repair themselves, you will find all the data within my archives has remained fully intact. Please choose the topic you wish information on.
-36747 := As you wish. Please return if you find yourself in need of the information stored within my database.
-36748 := The Black Rakata are descended from the Rakata warrior class, the red from the priests. When the Infinite Empire collapsed the two groups waged a battle to control what remained.
-36749 := For two hundred centuries the tribes have fought over the secrets of the past. The Black Rakata seek to reclaim the technology and weapons of their ancestors to use in their wars of conquest.
-36750 := The Red Rakata feel unleashing such weapons will lead to the extinction of the species. They would rather die than let the ancient secrets fall into the Black Rakata hands.
-36751 := At its peak the Infinite Empire ruled over 500 planets and was comprised of ten billion Rakata and over a trillion slaves scattered across the galaxy.
-36752 := But the glory of the Infinite Empire was built on war and slaughter; it was inevitable it should collapse upon itself. Conflict among power-hungry warlords escalated into full civil war.
-36753 := Worlds were ravaged and millions of lives were lost. Sensing the weakness of their oppressors, the slaves rebelled and overthrew their masters. And then came the plague. 
-36754 := Its origins were unknown - perhaps the creation of an enslaved species, perhaps a mutation of a natural virus. It killed only Rakata, and it spread to every corner of the galaxy.
-36755 := The Infinite Empire crumbled into dust as the few Rakata survivors fled back here to their home world. All evidence of their existence was destroyed by the species they once enslaved.
-36756 := But even hidden here on their secret home world they were not safe. Millions died from the deadly plague, many more died in the never ending civil war.
-36757 := The history of the Rakata ended twenty thousand years ago. Now they are nothing but a few scattered tribes descended from the priest and warrior castes, still waging our never ending civil war.
-36758 := The Star Maps were built on conquered worlds as a symbol of Rakatan dominance and glory. Each map showed the whole expanse of the Infinite Empire, with the Star Forge at the center.
-36759 := When the Empire fell, the Rakata fled back here to their homeworld. They sabotaged the Star Maps so the enslaved species could not use them to discover the Star Forge or this planet.
-36760 := The Star Maps were created with the same technology as my own self-sufficient systems. Over the millennia the maps have been slowly rebuilding and repairing themselves.
-36761 := As you informed me during your last visit to this world, the Star Maps are still in a damaged and incomplete state. It is not possible to locate the Star Forge using a single map.
-36762 := However, the Star Maps have repaired themselves to the extent that it is possible to discover the Star Forge's location by combining bits of data from several of the maps, as you did.
-36763 := My systems control the doors to the upper levels, allowing only those who are worthy of the Rakata legacy to pass. The last time you were here, Revan, I unsealed the doors for you.
-36764 := However, the subtle neurological changes I detected in you earlier likely caused a failure in the recognition system that would have opened the doors for you.
-36765 := I have updated my databases to recognize the new configurations in your mind, Revan. The doors to the upper levels will once again open for you.
-36766 := The Disruptor Field was constructed as the Star Forge's primary defense against enemy attack, and can only be deactivated from the upper levels of the Temple.
-36767 := The Star Forge was constructed during the apex of the Infinite Empire's power. A true technological marvel, it is an enormous space station that serves as both factory and battle dreadnaught.
-36768 := The Star Forge can mass produce immense fleets with a minimum of time and resources. In addition, the Star Forge also shares much of the same technology used in my own construction.
-36769 := In many ways the Star Forge is like a living entity. It feeds, it hungers, it draws on the energy flowing through all living things - what you called the Force the last time you were here.
-36770 := This ability to feed and consume the living energy of the Force is the key to the Star Forge's power, but ultimately it was also what led to the destruction of the Infinite Empire.
-36771 := The Rakata are by nature a cruel and savage species. The Star Forge fueled itself with the hatred inherent in its own creators, and in doing so it accentuated these traits within the Builders.
-36772 := In your terminology, the Star Forge is a tool of the dark side. It corrupts those who use it so that it can generate greater and greater amounts of negative energy to fuel itself.
-36773 := The Builders thought they were strong enough to control this effect, but they were wrong. They became victims of their own creation, and eventually their hatred turned them against each other.
-36774 := Civil war destroyed the Infinite Empire... a lesson to remember. Only one who is immensely strong in mind and will can harness the power of the Star Forge without suffering a similar fate.
-36775 := Welcome back, Revan. It has been some time since you last accessed my database. I was beginning to wonder if you had been terminated.
-36776 := Of course. The Builders constructed me with a full range of sesnsory input systems to compliment my fully aware and self-sufficient programming.
-36777 := I recognize your appearance from your last visit, which is stored in my databanks. However, I am detecting some significant changes in your composition since your last visit.
-36778 := Your neurological patterns exhibit subtle yet substantive alterations in both thought patterns and information processing. These changes have been noted and recorded in my database.
-36779 := I am a completely self-sufficient, autonomous, interactive database constructed by the Rakata to record and store the entire history of the species.
-36780 := However, since the collapse of the Infinite Empire there have been few events worth recording, and nobody has sought to access the information stored within my database... until you came along.
-36781 := Due to my systems' ability to monitor and repair themselves, you will find all the data within my archives has remained fully intact. Please choose the topic you wish information on.
-36782 := An odd statement, though it does explain certain conflicting data being read by my sensory input systems.
-36783 := An obvious conclusion, given your presence here. However, my sensory input systems are detecting some significant changes in your composition since your last visit.
-36784 := I'll be going now.
-36785 := Tell me about the war between the Red and Black tribes.
-36786 := Tell me about the history of the Infinite Empire.
-36787 := The plague?
-36788 := Do you know anything about the Star Maps?
-36789 := They didn't do a very good job of destroying them.
-36790 := But I used the Star Maps to find this place!
-36791 := How can I get to the upper levels of the temple?
-36792 := How can I shut off the disruptor field around this planet?
-36793 := Tell me about the Star Forge.
-36794 := I want to ask you something else.
-36795 := What do you mean?
-36796 := You recognize me?
-36797 := I need some information.
-36798 := What are you?
-36799 := Your database?
-36800 := I'm not Revan anymore. I'm <FullName>.
-36801 := I almost was. But I'm hard to kill.
-36802 := This will provide some protection from bone-chilling extremes of cold.
-36803 := Rakata Computer
-36804 := Unknown World - Temple Summit
-36805 := TEMPLE ENERGY
-SHIELD DEACTIVATED
-PLANETARY DISRUPTOR
-FIELD STILL ACTIVE
-ENTER COMMAND
-36806 := PLANETARY DISRUPTOR
-FIELD DEACTIVATED
-ALL SHIELDS INACTIVE
-SYSTEM LOGGING OFF...
+36744 := 未知世界 - 神庙地下墓穴
+36745 := 再次欢迎回来，瑞文。你需要访问我存储库中的数据吗？
+36746 := 由于我的系统具备自我监控和修复能力，你会发现我档案中的所有数据都保持完整。请选择你希望了解的信息主题。
+36747 := 如你所愿。如果你发现自己需要我数据库中储存的信息，请再回来。
+36748 := 黑拉卡塔是拉卡塔战士阶层的后裔，红拉卡塔则源自祭司。无限帝国崩塌时，两个群体为控制残存之物而开战。
+36749 := 两百个世纪以来，各部族一直为过去的秘密而战。黑拉卡塔试图夺回祖先的技术和武器，用在他们的征服战争中。
+36750 := 红拉卡塔认为释放这种武器会导致整个物种灭绝。他们宁愿死，也不愿让古代秘密落入黑拉卡塔手中。
+36751 := 在鼎盛时期，无限帝国统治着 500 多颗行星，由一百亿拉卡塔人和散布银河各处的一万多亿奴隶组成。
+36752 := 但无限帝国的荣耀建立在战争和屠杀之上；它走向自我崩塌是不可避免的。渴求权力的军阀之间的冲突升级成全面内战。
+36753 := 一个个世界遭到蹂躏，数百万生命逝去。奴隶们察觉到压迫者的虚弱，于是揭竿而起，推翻了他们的主人。随后瘟疫降临。
+36754 := 它的源头无人知晓——或许是某个被奴役物种创造出来的，或许是天然病毒的变异。它只杀死拉卡塔人，并蔓延到银河系每个角落。
+36755 := 少数幸存的拉卡塔人逃回这里，回到他们的母星，无限帝国也随之化为尘埃。他们曾奴役的物种摧毁了他们存在过的一切证据。
+36756 := 但即使藏身在这颗秘密母星上，他们也并不安全。数百万死于致命瘟疫，更多死于永无止境的内战。
+36757 := 拉卡塔人的历史在两万年前就已经结束。如今他们不过是少数分散的部落，源自祭司和战士种姓，仍在进行我们永无止境的内战。
+36758 := 星图建造在被征服的世界上，是拉卡塔统治与荣耀的象征。每张图都展示无限帝国的全境，中心则是星际锻炉。
+36759 := 帝国陨落时，拉卡塔人逃回这里，回到他们的母星。他们破坏了星图，使被奴役的物种无法利用它们找到星际锻炉或这颗星球。
+36760 := 星图使用了与我自身自维持系统相同的技术。数千年来，这些地图一直在缓慢重建和修复自己。
+36761 := 正如你上次来到这个世界时告诉我的，星图仍处于受损且不完整的状态。仅靠一张地图无法定位星际锻炉。
+36762 := 不过，星图已经自我修复到一定程度，只要像你所做的那样，将几张图上的数据片段合并，就可以发现星际锻炉的位置。
+36763 := 我的系统控制通往上层的门，只允许配得上拉卡塔遗产的人通过。你上次在这里时，瑞文，我为你解封了那些门。
+36764 := 但我此前在你身上检测到的细微神经学变化，可能导致本该为你开门的识别系统发生故障。
+36765 := 我已经更新数据库，以识别你心智中的新配置，瑞文。通往上层的门将再次为你开启。
+36766 := 干扰场是作为星际锻炉抵御敌袭的主要防御而建造的，只能从神庙上层停用。
+36767 := 星际锻炉建造于无限帝国力量的巅峰时期。它是真正的技术奇迹，一座巨大的空间站，同时作为工厂和战斗无畏舰使用。
+36768 := 星际锻炉能以最少的时间和资源批量生产庞大舰队。此外，星际锻炉也与建造我自身所用的技术有许多共同之处。
+36769 := 在许多方面，星际锻炉就像一个活体。它进食，它饥饿，它汲取流经一切生命的能量——也就是你上次来到这里时称为原力的东西。
+36770 := 这种摄取并消耗原力生命能量的能力，是星际锻炉力量的关键，但最终也是它导致无限帝国毁灭的原因。
+36771 := 拉卡塔人天性残酷而野蛮。星际锻炉以创造者内在的仇恨为燃料，也因此强化了建造者身上的这些特质。
+36772 := 用你的术语来说，星际锻炉是黑暗面的工具。它会腐化使用者，以便产生越来越多的负面能量来供养自身。
+36773 := 建造者以为自己足够强大，可以控制这种影响，但他们错了。他们成了自己造物的受害者，最终，他们的仇恨让他们互相反目。
+36774 := 内战摧毁了无限帝国……这是一条值得铭记的教训。只有心智和意志极其强大的人，才能驾驭星际锻炉的力量而不遭受同样命运。
+36775 := 欢迎回来，瑞文。你已经有一段时间没有访问我的数据库了。我开始怀疑你是否已经被终止。
+36776 := 当然。建造者为我构建了完整的感官输入系统，用以配合我具备完整感知能力且自给自足的程序。
+36777 := 我从数据银行中保存的上次访问记录里认出了你的外貌。不过，我检测到你的构成自上次访问以来发生了一些显著变化。
+36778 := 你的神经模式在思维模式和信息处理方面都表现出细微但实质性的改变。这些变化已经被记录并存入我的数据库。
+36779 := 我是一个完全自给自足、自主、交互式的数据库，由拉卡塔人建造，用于记录并储存这个物种的全部历史。
+36780 := 然而，自无限帝国崩塌以来，值得记录的事件寥寥无几，也没有人试图访问我数据库中储存的信息……直到你出现。
+36781 := 由于我的系统具备自我监控和修复能力，你会发现我档案中的所有数据都保持完整。请选择你希望了解的信息主题。
+36782 := 这说法很奇怪，不过它确实解释了我的感官输入系统读到的某些互相矛盾的数据。
+36783 := 鉴于你现在就在这里，这是显而易见的结论。不过，我的感官输入系统检测到你的构成自上次访问以来发生了一些显著变化。
+36784 := 我现在要走了。
+36785 := 告诉我红色和黑色部落之间的战争。
+36786 := 告诉我无限帝国的历史。
+36787 := 瘟疫？
+36788 := 你知道星图的事吗？
+36789 := 他们销毁得可不怎么样。
+36790 := 但我是用星图找到这里的！
+36791 := 我怎样才能到达神庙上层？
+36792 := 我怎样才能关闭这颗星球周围的干扰场？
+36793 := 告诉我星际锻炉的事。
+36794 := 我还想问你别的事。
+36795 := 你是什么意思？
+36796 := 你认得我？
+36797 := 我需要一些信息。
+36798 := 你是什么？
+36799 := 你的数据库？
+36800 := 我不再是瑞文了。我是 <FullName>。
+36801 := 差一点就是了。但我没那么容易死。
+36802 := 这能在刺骨严寒中提供一定防护。
+36803 := 拉卡塔计算机
+36804 := 未知世界 - 神庙顶端
+36805 := 神庙能量
+护盾已停用
+行星干扰场
+仍处于激活状态
+输入命令
+36806 := 行星干扰场
+已停用
+所有护盾均已关闭
+系统正在注销...
 
 
-36807 := PLANETARY DISRUPTOR FIELD
-DEACTIVATED
-TEMPLE ENERGY SHIELD
-STILL ACTIVE
-ENTER COMMAND
+36807 := 行星干扰场
+已停用
+神庙能量护盾
+仍处于激活状态
+输入命令
 
-36808 := ENERGY SHIELD DEACTIVATED
-ALL SHIELDS INACTIVE
-SYSTEM LOGGING OFF...
-36809 := Shield Generator
-36810 := Door to Valley
-36811 := This will automatically level you up from level <CUSTOM0> to level <CUSTOM1>.  Are you sure you want to do this?
-36812 := Auto Level Up
-36813 := This is a standard Pazaak side deck card, for use with a Pazaak deck.
-36814 := You again, hmm? I hope you plan to do better than your last race... not that I don't like taking your money.
-36815 := Ah, my latest swoop jockey. You'll want your reward for your last race. I never break a deal once a price has been agreed upon.
-36816 := Certainly. We just need to clear up the positioning fee. All racers pay the same before each officially timed race. 100 credits.
-36817 := I will pay the 100 credits.
-36818 := I already paid a maintenance fee.
-36819 := Haven't I already dealt with this fee?
-36820 := Will you negotiate on the price?
-36821 := I have already given you a free race. Don't anger me by further insulting the reasonable nature of my prices. Pay or don't race.
-36822 := I don't feel that I need to. The price is reasonable.
-36823 := [Persuade] I'll put on a good show. You'll make your money back.
-36824 := [Success] Eh, fine, I will extend this discount to you, if only to close your mouth. I'll have your bike moved into position.
-36825 := [Failure] The price has been named and you will pay it. I don't see why you should be exempt.
-36826 := [Force Persuade] You want to let me race for free.
-36827 := The fee is due before each race. How else am I supposed to sponsor prize money at the level I do? I need to see some returns.
-36828 := I am investing in my riders, but I also need to see profit now. You'll agree with my logic. If you don't, you don't race.
-36829 := But I warn you, I have people to make sure I don't give too many favors. You won't get this discount again.
-36830 := [Success] Maybe I will let you race once for free. Yes, I think I will. I'll have your swoop moved into position on the track.
-36831 := Why are you in robes? I know you are not of the Sand People. I have hunted too long to be fooled by mere appearances.
-36832 := This is no time for such a masquarade. We have to deal with the dragon now that it's enraged!
-36833 := Greetings to you, human. If you are the person I think you are, I may have seen you in Anchorhead. You looked like a hunter.
-36834 := You have the same gait as the human I met in Fazza's lodge. We are hunters, you and I. Perhaps... we should pool our skills...
-36835 := This is not the time for such games. We must be respectful. The great beast is dead. He fought well, and will be remembered.
-36836 := Don't let your wardrobe distract you. Be ready for battle. The banthas are in position and will soon stir our restless prey.
-36837 := If you will quit your foolishness there is still time to pursue the hunt. Will you aid me, human?
-36838 := Regardless of your clothes we must be quiet. There is a great predator just within the cave. Care must be taken.
-36839 := Weapons such as this are not usually available for public purchase. They are best utilized during quick troop deployment and other situations where rapid suppressing fire is required.
-36840 := Unequip
-36841 := Select Crystal
-36842 := [This door seems to be blocked and cannot be opened.]
-36843 := [You spend a restless night in the Bek base. In the morning, one of the Beks takes you to the swoop racing pits, where only racers and mechanics are allowed to go.]
-36844 := [You spend a restless night in the Vulkar base. In the morning, one of the Vulkars takes you to the swoop racing pits, where only racers and mechanics are allowed to go.]
-36845 := Are you sure you want to complete this transaction?
-36846 := Exit
-36847 := Resisted
-36848 := Immune
-36849 := Saved
-36850 := You cannot win!
-36851 := Let's make this quick.
-36852 := So be it!
-36853 := You shall fall!
-36854 := The Force fights with me!
-36855 := Ha!
-36856 := Yes?
-36857 := What can I do?
-36858 := I'm here.
-36859 := Attack Grunt - no actual text to be translated
-36860 := Attack Grunt - not actual text to be translated
+36808 := 能量护盾已停用
+所有护盾均已关闭
+系统正在注销...
+36809 := 护盾发生器
+36810 := 通往山谷的门
+36811 := 这将自动把你从 <CUSTOM0> 级提升到 <CUSTOM1> 级。确定要这样做吗？
+36812 := 自动升级
+36813 := 这是一张标准帕扎克牌副牌组卡，用于帕扎克牌组。
+36814 := 又是你，嗯？希望你这次比赛表现得比上次好……倒不是说我不喜欢收你的钱。
+36815 := 啊，我最新的飞梭骑手。你是来拿上次比赛的报酬吧。价格一旦谈妥，我从不毁约。
+36816 := 当然。我们只需要先结清排位费。每个车手在正式计时赛前都一样，100 信用点。
+36817 := 我付 100 信用点。
+36818 := 我已经付过维护费了。
+36819 := 这笔费用我不是已经处理过了吗？
+36820 := 价格能商量吗？
+36821 := 我已经给过你一次免费比赛了。别再侮辱我合理的定价惹我生气。付钱，或者别比赛。
+36822 := 我觉得没有必要。这个价格很合理。
+36823 := [说服] 我会让比赛很精彩。你会把钱赚回来的。
+36824 := [成功] 呃，好吧，就当是为了让你闭嘴，我给你这个折扣。我会让人把你的飞梭摩托移到赛道上。
+36825 := [失败] 价格已经报出来了，你就得付。我看不出你有什么理由可以例外。
+36826 := [原力说服] 你想让我免费参赛。
+36827 := 每场比赛前都要缴费。不然我怎么赞助那么高的奖金？我总得看到些回报。
+36828 := 我是在投资我的车手，但我现在也得看到利润。你会同意我的逻辑。不愿意，那就别比赛。
+36829 := 但我警告你，我手下有人盯着，确保我不会给太多人情。这个折扣不会再有第二次。
+36830 := [成功] 也许我可以让你免费赛一次。对，我觉得可以。我会让人把你的飞梭移到赛道上。
+36831 := 你为什么穿着长袍？我知道你不是沙人。我狩猎太久了，不会被区区外表骗过。
+36832 := 现在不是玩这种化装戏的时候。龙已经被激怒了，我们得处理它！
+36833 := 向你致意，人类。如果你就是我想的那个人，我可能在锚头镇见过你。你看起来像个猎人。
+36834 := 你的步态和我在法扎旅店见到的那个人类一样。你和我都是猎人。也许……我们应该合力……
+36835 := 现在不是玩这种把戏的时候。我们必须表示敬意。巨兽已经死了。它战斗得很好，会被人铭记。
+36836 := 别让你的衣着分散注意。准备战斗。班萨已经就位，很快就会惊动我们那头躁动的猎物。
+36837 := 如果你肯停止愚蠢举动，现在还来得及继续狩猎。你会帮我吗，人类？
+36838 := 不管你穿什么衣服，我们都必须保持安静。洞里就有一头巨大的掠食者。必须小心。
+36839 := 这种武器通常不对公众出售。它们最适合快速部署部队，以及需要迅速压制火力的其他情况。
+36840 := 卸下装备
+36841 := 选择水晶
+36842 := [这扇门似乎被堵住了，无法打开。]
+36843 := [你在贝克帮基地度过了一个不安稳的夜晚。第二天早上，一名贝克帮成员带你前往飞梭赛维修坑，那里只允许车手和技工进入。]
+36844 := [你在火神帮基地度过了一个不安稳的夜晚。第二天早上，一名火神帮成员带你前往飞梭赛维修坑，那里只允许车手和技工进入。]
+36845 := 你确定要完成这笔交易吗？
+36846 := 退出
+36847 := 已抵抗
+36848 := 免疫
+36849 := 豁免成功
+36850 := 你赢不了！
+36851 := 我们速战速决。
+36852 := 那就这样吧！
+36853 := 你必将倒下！
+36854 := 原力与我并肩作战！
+36855 := 哈！
+36856 := 是？
+36857 := 我能做什么？
+36858 := 我在。
+36859 := 攻击哼声 - 无实际文本需要翻译
+36860 := 攻击哼声 - 非实际文本，无需翻译
 
-36861 := Attack Grunt - not actual text to be translated
+36861 := 攻击哼声 - 非实际文本，无需翻译
 
-36862 := Pain Grunt - not actual text to be translated
-36863 := Pain Grunt - not actual text to be translated
+36862 := 受伤哼声 - 非实际文本，无需翻译
+36863 := 受伤哼声 - 非实际文本，无需翻译
 
-36864 := I am wounded! Badly!
+36864 := 我受伤了！伤得很重！
 
-36865 := Pain Grunt - not actual text to be translated
+36865 := 受伤哼声 - 非实际文本，无需翻译
 
-36866 := There! Take that!
-36867 := I am doing no damage!
-36868 := Let's just remember where this is.
-36869 := That one's out of the way.
-36870 := I shall move unseen.
-36871 := I shall keep my eyes open.
-36872 := Let me try.
-36873 := Agh, I can't!
-36874 := It's done.
-36875 := Be still a moment and let me help.
-36876 := Wait here. I won't be long.
-36877 := Star Map: Manaan
-36878 := Let's move together again.
-36879 := Manaan is an ocean world covered completely by water. The only surface settlement on the planet is the constructed Ahto City. Any ancient relics or ruins would probably be below the surface.
-36880 := You have been advised to see Roland Wann at the Republic Embassy for further information on Manaan.
-36881 := Roland Wann, the Republic diplomat on Manaan, has indicated that he may know something about ancient ruins on Manaan. He first requires you to retrieve a data module stolen by the Sith and bring it back to him before he'll tell you anything.
-36882 := Poison! I can feel it.
-36883 := The Republic has constructed a secret facility at the bottom of the Hrakert Rift with the purpose of secretly harvesting and synthesizing kolto. Roland Wann has offered the use of a Republic submersible to travel down to the ocean floor so that you may investigate. He mentioned that the Republic has run across some sort of old ruin near the Rift itself.
-36884 := You have acquired the Star Map from the Hrakert Rift on Manaan.
-36885 := Die!
-36886 := You're dead!
-36887 := This is gonna be fun!
-36888 := This is what I live for!
-36889 := Here it is!
-36890 := One more time!
-36891 := Yeah?
-36892 := What?
-36893 := The Endar Spire is lost, though Carth Onasi informed you that Bastila managed to get away in one of the escape pods. You should do the same before the ship crashes to the planet below.
-36894 := Huh?
-36895 := Attack Grunt - not actual text to be translated
+36866 := 看招！
+36867 := 我造成不了伤害！
+36868 := 我们先记住这是哪里。
+36869 := 那个解决了。
+36870 := 我会悄然行动。
+36871 := 我会保持警惕。
+36872 := 让我试试。
+36873 := 啊，我不行！
+36874 := 完成了。
+36875 := 别动片刻，让我帮你。
+36876 := 在这儿等着。我不会去太久。
+36877 := 星图：马南
+36878 := 我们再一起行动吧。
+36879 := 马南是一个完全被海水覆盖的海洋世界。星球表面唯一的定居点是人工建造的阿赫托城。任何古代遗物或遗迹大概都在水面之下。
+36880 := 有人建议你去马南的共和国大使馆见罗兰·万恩，以取得更多关于马南的信息。
+36881 := 马南的共和国外交官罗兰·万恩表示，他可能知道一些马南古代遗迹的事情。他首先要求你取回被西斯偷走的数据模块并交还给他，然后才会告诉你任何事。
+36882 := 中毒！我能感觉到。
+36883 := 共和国在赫拉克特裂谷底部建造了一座秘密设施，目的是秘密采集并合成科尔托。罗兰·万恩提出让你使用共和国潜水器前往海床调查。他提到共和国在裂谷附近发现了某种古老遗迹。
+36884 := 你已经从马南赫拉克特裂谷取得了星图。
+36885 := 去死！
+36886 := 你死定了！
+36887 := 这下有意思了！
+36888 := 我就为了这个活着！
+36889 := 就在这儿！
+36890 := 再来一次！
+36891 := 嗯？
+36892 := 什么？
+36893 := 恩达尖塔号已经失守，不过卡斯·奥纳西告诉你，巴丝蒂拉设法搭上一艘逃生舱脱身了。在飞船坠毁到下方星球前，你也应该照做。
+36894 := 啊？
+36895 := 攻击哼声 - 非实际文本，无需翻译
 
-36896 := Attack Grunt - not actual text to be translated
+36896 := 攻击哼声 - 非实际文本，无需翻译
 
-36897 := Attack Grunt - not actual text to be translated
+36897 := 攻击哼声 - 非实际文本，无需翻译
 
-36898 := Pain Grunt - not actual text to be translated
+36898 := 受伤哼声 - 非实际文本，无需翻译
 
-36899 := Pain Grunt - not actual text to be translated
+36899 := 受伤哼声 - 非实际文本，无需翻译
 
-36900 := I'm pretty bad here.
-36901 := Pain Grunt - not actual text to be translated
+36900 := 我这边情况很糟。
+36901 := 受伤哼声 - 非实际文本，无需翻译
 
-36902 := That'll show ya!
-36903 := I need a better weapon!
+36902 := 让你见识一下！
+36903 := 我需要更好的武器！
 
-36904 := This is gonna be good.
-36905 := This one's gone.
-36906 := No one's gonna see me.
+36904 := 这下会很精彩。
+36905 := 这个解决了。
+36906 := 没人会看到我。
 
-36907 := I'll see it. Don't worry.
-36908 := Right.
-36909 := Crap.
-36910 := It's open.
-36911 := Keep your distance for a bit.
-36912 := Let's get moving again.
-36913 := I don't feel so hot.
-36914 := I will be your doom!
-36915 := For the Republic.
-36916 := Ha!
-36917 := You will fall!
-36918 := For the Order!
-36919 := Attack!
-36920 := Your wish?
-36921 := Yes?
-36922 := What is it?
-36923 := Attack Grunt - not actual text to be translated
-36924 := [This control panel is currently malfunctioning. ]
-36925 := Attack Grunt - not actual text to be translated
-36926 := Attack Grunt - not actual text to be translated
-36927 := Pain Grunt - not actual text to be translated
+36907 := 我会看见的。别担心。
+36908 := 好。
+36909 := 该死。
+36910 := 打开了。
+36911 := 先跟我保持一点距离。
+36912 := 我们继续行动吧。
+36913 := 我感觉不太舒服。
+36914 := 我将成为你的毁灭！
+36915 := 为了共和国。
+36916 := 哈！
+36917 := 你会倒下！
+36918 := 为了武士团！
+36919 := 进攻！
+36920 := 有何吩咐？
+36921 := 是？
+36922 := 什么事？
+36923 := 攻击哼声 - 非实际文本，无需翻译
+36924 := [这个控制面板目前发生故障。 ]
+36925 := 攻击哼声 - 非实际文本，无需翻译
+36926 := 攻击哼声 - 非实际文本，无需翻译
+36927 := 受伤哼声 - 非实际文本，无需翻译
 
-36928 := Pain Grunt - not actual text to be translated
+36928 := 受伤哼声 - 非实际文本，无需翻译
 
-36929 := I am in need of aid.
+36929 := 我需要援助。
 
-36930 := Pain Grunt - not actual text to be translated
+36930 := 受伤哼声 - 非实际文本，无需翻译
 
-36931 := THAT is what a Jedi can do!
-36932 := I cannot harm it!
-36933 := This will surprise them.
-36934 := Disabled.
-36935 := I shall not be seen.
-36936 := I shall be attentive.
-36937 := I will try.
-36938 := I cannot do this.
-36939 := Opened.
-36940 := I must go alone for a while.
-36941 := We should join once more.
-36942 := I do not feel well.
-36943 := Ha!
-36944 := You'll pay!
-36945 := I'll show you!
-36946 := You'll never get me!
-36947 := Just die already!
-36948 := I'm not a little girl anymore!
+36931 := 这就是绝地的本事！
+36932 := 我伤不了它！
+36933 := 这会让他们吃惊。
+36934 := 已停用。
+36935 := 我不会被看见。
+36936 := 我会留心。
+36937 := 我会试试。
+36938 := 我做不到。
+36939 := 已打开。
+36940 := 我得独自行动一会儿。
+36941 := 我们应该重新会合。
+36942 := 我感觉不适。
+36943 := 哈！
+36944 := 你会付出代价！
+36945 := 我来给你瞧瞧！
+36946 := 你永远抓不到我！
+36947 := 快给我死吧！
+36948 := 我已经不是小女孩了！
 
-36949 := Yeah?
-36950 := What?
-36951 := Huh?
-36952 := Attack Grunt - not actual text to be translated
+36949 := 嗯？
+36950 := 什么？
+36951 := 啊？
+36952 := 攻击哼声 - 非实际文本，无需翻译
 
-36953 := Attack Grunt - not actual text to be translated
+36953 := 攻击哼声 - 非实际文本，无需翻译
 
-36954 := Attack Grunt - not actual text to be translated
+36954 := 攻击哼声 - 非实际文本，无需翻译
 
-36955 := Pain Grunt - not actual text to be translated
+36955 := 受伤哼声 - 非实际文本，无需翻译
 
-36956 := Pain Grunt - not actual text to be translated
+36956 := 受伤哼声 - 非实际文本，无需翻译
 
-36957 := I'm hurting... pretty bad...
+36957 := 我伤得……挺重……
 
-36958 := Pain Grunt - not actual text to be translated
+36958 := 受伤哼声 - 非实际文本，无需翻译
 
-36959 := Take that!
-36960 := I'm... I'm not hurting it!
-36961 := SOMEONE's gonna get hurt.
-36962 := It shouldn't be a problem now.
-36963 := No one's gonna see THIS Mission!
-36964 := I'll see everything.
-36965 := Gotcha!
-36966 := Darn it!
-36967 := Simple.
-36968 := You guys give me a little room for now.
+36959 := 看招！
+36960 := 我……我伤不了它！
+36961 := 总有人要倒霉了。
+36962 := 现在应该没问题了。
+36963 := 没人会看见这位米申！
+36964 := 我会看清一切。
+36965 := 逮到你了！
+36966 := 该死！
+36967 := 简单。
+36968 := 你们先给我一点空间。
 
-36969 := Hey! Back again!
-36970 := Ugh... I don't feel good.
+36969 := 嘿！又回来了！
+36970 := 呃……我感觉不太好。
 
-36972 := Dantooine Interior
-36973 := Rakata Ruins Ambient
-36974 := Dreshdae Exterior Ambient
-36975 := Dreshdae Interior Ambient
-36976 := [You will need space suits to exit the airlock.]
-36977 := Power Crystal
-36978 := Color Crystal
-36980 := Womprat-o!
-36981 := Attack Grunt - not actual text to be translated
+36972 := 丹图因室内
+36973 := 拉卡塔遗迹环境音
+36974 := 德雷什戴外部环境音
+36975 := 德雷什戴室内环境音
+36976 := [你需要太空服才能离开气闸。]
+36977 := 能量水晶
+36978 := 颜色水晶
+36980 := 旺普鼠喔！
+36981 := 攻击哼声 - 非实际文本，无需翻译
 
-36982 := Pain Grunt - not actual text to be translated
+36982 := 受伤哼声 - 非实际文本，无需翻译
 
-36983 := Pain Grunt - not actual text to be translated
+36983 := 受伤哼声 - 非实际文本，无需翻译
 
-36984 := Attack Cry
+36984 := 攻击喊声
 
-36985 := Attack Cry
-36986 := Attack Grunt - not actual text to be translated
+36985 := 攻击喊声
+36986 := 攻击哼声 - 非实际文本，无需翻译
 
-36987 := Attack Grunt - not actual text to be translated
+36987 := 攻击哼声 - 非实际文本，无需翻译
 
-36988 := Attack Grunt - not actual text to be translated
+36988 := 攻击哼声 - 非实际文本，无需翻译
 
-36989 := Pain Grunt - not actual text to be translated
+36989 := 受伤哼声 - 非实际文本，无需翻译
 
-36990 := Pain Grunt - not actual text to be translated
+36990 := 受伤哼声 - 非实际文本，无需翻译
 
-36991 := Pain Grunt - not actual text to be translated
+36991 := 受伤哼声 - 非实际文本，无需翻译
 
-36992 := Attack Grunt - not actual text to be translated
+36992 := 攻击哼声 - 非实际文本，无需翻译
 
-36993 := Pain Grunt - not actual text to be translated
+36993 := 受伤哼声 - 非实际文本，无需翻译
 
-36994 := Pain Grunt - not actual text to be translated
+36994 := 受伤哼声 - 非实际文本，无需翻译
 
-36995 := Attack Grunt - not actual text to be translated
+36995 := 攻击哼声 - 非实际文本，无需翻译
 
-36996 := Pain Grunt - not actual text to be translated
+36996 := 受伤哼声 - 非实际文本，无需翻译
 
-36997 := Pain Grunt - not actual text to be translated
+36997 := 受伤哼声 - 非实际文本，无需翻译
 
-36998 := Attack Grunt - not actual text to be translated
+36998 := 攻击哼声 - 非实际文本，无需翻译
 
-36999 := Pain Grunt - not actual text to be translated
+36999 := 受伤哼声 - 非实际文本，无需翻译
 
 37000 := Pain Grunt - not actual text to be translated
 
