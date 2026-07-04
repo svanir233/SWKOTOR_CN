@@ -41787,263 +41787,263 @@ DC 30 无效果
 38797 := 嘿，嘿，嘿，别生气。对不起。只是想到一位传奇绝地丢了自己的光剑很好笑。听我一句劝：这个细节你也许最好别写进史书里。
 38798 := 我几乎不认为自己是什么传奇，卡斯。不过等我向绝地委员会叙述这些事件时，会考虑你的建议。没必要让他们知道发生过的*每一个*细节。
 38799 := 我想很明显，在这个案子里马拉克才是暴君。
-38800 := If you feel that way, why did you come with us?
-38801 := Are you saying what we're doing isn't important?
-38802 := Of course! Malak isn't evil, he's just misunderstood!
-38803 := So you don't have a problem with Malak and the Sith?
-38804 := Malak and the Sith are evil, Jolee! Surely you can see that.
-38805 := Zaalbar looks fine to me.
-38806 := She's got a point, Zaalbar. You could use a good makeover.
-38807 := Yeah, I'm sure there were twenty of them. I mean, fifty... no, wait... a hundred!
-38808 := Okay, let's not get into this.
-38809 := Keep it cool, you two. I don't want this getting out of hand.
-38810 := Yeah, Carth. When did you get all peace-loving on me?
-38811 := Carth isn't like you, Canderous.
-38812 := What's with all the apologies? I was hoping for another fight!
-38813 := It's about time you two made up.
-38814 := You're not going to take that from him, are you Mission?
-38815 := Settle down right now - both of you!
-38816 := Sounds like you're just making excuses, Bastila.
-38817 := What did they see, exactly?
-38818 := Leave her alone, Carth.
-38819 := Maybe losing lightsabers is a side-effect of her Battle Meditation.
-38820 := Of all the Jedi in the galaxy, why do we get one who's absent-minded?
-38821 := I want to quit
-38822 := SYSTEM LOADING...
-COMPLETE
-ENTER COMMAND
-38823 := EXITING SYSTEM...
-38824 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-38825 := SYSTEM OVERRIDE ACCEPTED
-ENTER COMMAND
-38826 := [FAILURE] ACCESS DENIED!
-COMPUTER SLICE FAILED
-INCOMPATIBLE REQUEST
-SPIKES REJECTED
-(The failure dialog must give the player a reason as to why they can never succeed so they understand not to keep trying.)
+38800 := 如果你这么想，为什么还要跟我们来？
+38801 := 你是说我们正在做的事并不重要？
+38802 := 当然！马拉克并不邪恶，他只是被误解了！
+38803 := 所以你对马拉克和西斯没有意见？
+38804 := 马拉克和西斯是邪恶的，乔利！你肯定看得出来。
+38805 := 扎尔巴在我看来挺好的。
+38806 := 她说得有道理，扎尔巴。你确实需要好好改造一下形象。
+38807 := 对啊，我确定他们有二十个。我是说，五十个……不，等等……一百个！
+38808 := 好吧，我们别扯这个了。
+38809 := 你们两个冷静点。我不想让事情失控。
+38810 := 是啊，卡斯。你什么时候变得这么爱好和平了？
+38811 := 卡斯和你不一样，坎德鲁斯。
+38812 := 怎么全是道歉？我还盼着再打一架呢！
+38813 := 你们两个总算和好了。
+38814 := 你不会就这样忍他吧，米申？
+38815 := 现在立刻安静下来——你们两个都是！
+38816 := 听起来你只是在找借口，巴丝蒂拉。
+38817 := 他们到底看见了什么？
+38818 := 别烦她，卡斯。
+38819 := 也许丢光剑是她战斗冥想的副作用。
+38820 := 银河系有那么多绝地，为什么偏偏轮到我们带一个健忘的？
+38821 := 我想退出
+38822 := 系统正在加载……
+完成
+输入命令
+38823 := 正在退出系统……
+38824 := [失败] 访问被拒绝
+计算机破解器不足
+输入命令
+38825 := 系统覆盖已接受
+输入命令
+38826 := [失败] 访问被拒绝！
+计算机切入失败
+请求不兼容
+计算机破解器被拒绝
+（失败对话必须给玩家一个永远无法成功的理由，让他们明白不要继续尝试。）
 
 
 
-38827 := [SUCCESS] SENTRY DROID REPROGRAMMING COMPLETE
-AUTO-TARGETTING ENGAGED
-SWITCHING TO SECURITY CAMERA
-38828 := [SUCCESS] SENTRY DROIDS DEACTIVATED
-SWITCHING TO SECURITY CAMERA
-38829 := [SUCCESS] SENTRY TURRETS DEACTIVATED
-SWITCHING TO SECURITY CAMERA
-38830 := [SUCCESS] GAS VENTED
-SWITCHING TO SECURITY CAMERA
-38831 := ENTER COMMAND
-38832 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-38833 := [SUCCESS] SECURITY DOOR LOCKS OVERRIDDEN
-ACCESS GRANTED
-ENTER COMMAND
-38834 := CELLS UNLOCKED
-ENTER COMMAND
-38835 := Log out.
-38836 := [Computer] Slice the computer. (1 spike)
-(This enables the player to access all the slice abilities of the computer)
-38837 := Log out.
-38838 := [Computer] Activate Nanotech assassin in Darth Malak's head. (50 spike(s))
-(This is an example of a fake choice. The player can never succeed at this.)
-38839 := [Computer] Reprogram sentry droids to target everything. (<CUSTOM34> spike(s))
-38840 := [Computer] Deactivate sentry droids. (<CUSTOM33> spike(s))
-38841 := [Computer] Deactivate sentry guns. (<CUSTOM33> spike(s))
-38842 := [Computer] Vent gas into [room] or overload power conduit. (<CUSTOM32> spike(s)) (Only one of these options should appear.)
-38843 := [Computer] Open all security doors. (<CUSTOM31> spike(s))
-(This will not open plot doors)
-38844 := Unlock holding cells. 
-(This is an example of a critical path option that doesn't require computer spikes. It shows up before the slice screen.)
-38845 := This droid is damaged and inactive.
-38846 := The droid engages its patrol mode and moves off to carry out your programmed instructions.
-38847 := You leave the droid alone for now.
-38848 := [Failure] You don't have any repair parts. You leave the droid alone for now.
-38849 := The droid is now active. It will attack any enemies that come in range.
-38850 := [Failure] You do not have enough repair parts.
-38851 := [Success] Patrol mode engaged. Once you end this session the droid will begin patrol and destroy any enemies it encounters. 
-38852 := WARNING: Once you end this session the droid's program will be locked in. You will not be able to modifiy the droid anymore.
-38853 := [Success] The droid engages its program and moves off to carry out your instructions.
-38854 := [Success] The droid's shields are now active.
-38855 := [Success] The droid is now set for maximum accuracy.
-38856 := [Success] The droid is now set for maximum firepower.
-38857 := The droid is now active. It will attack any enemies that come in range.
-38858 := The droid is actively engaged in its patrol route. You cannot reprogram it anymore.
-38859 := Leave it alone.
-38860 := Reactivate the droid. (1 repair part)
-38861 := Leave it alone.
-38862 := Engage droid in patrol mode. (<CUSTOM45> repair part(s))
-38863 := Program droid to ram force field. (<CUSTOM46> repair part(s))
-[This is an example of a plot option that the player can choose to get past a specific obstacle. This should cause the droid to be destroyed]
+38827 := [成功] 哨戒机器人重编程完成
+自动瞄准已启用
+正在切换至安保摄像头
+38828 := [成功] 哨戒机器人已停用
+正在切换至安保摄像头
+38829 := [成功] 哨戒炮塔已停用
+正在切换至安保摄像头
+38830 := [成功] 毒气已排出
+正在切换至安保摄像头
+38831 := 输入命令
+38832 := [失败] 访问被拒绝
+计算机破解器不足
+输入命令
+38833 := [成功] 安保门锁已覆盖
+访问已授权
+输入命令
+38834 := 牢房已解锁
+输入命令
+38835 := 注销。
+38836 := [计算机] 切入计算机。（1 个计算机破解器）
+（这会让玩家访问该计算机的所有切入能力）
+38837 := 注销。
+38838 := [计算机] 激活达斯·马拉克头部的纳米技术刺客。（50 个计算机破解器）
+（这是一个虚假选项示例。玩家永远无法成功。）
+38839 := [计算机] 将哨戒机器人重编程为攻击一切目标。（<CUSTOM34> 个计算机破解器）
+38840 := [计算机] 停用哨戒机器人。（<CUSTOM33> 个计算机破解器）
+38841 := [计算机] 停用哨戒炮。（<CUSTOM33> 个计算机破解器）
+38842 := [计算机] 向[房间]排放毒气，或使动力导管过载。（<CUSTOM32> 个计算机破解器）（这些选项只应出现一个。）
+38843 := [计算机] 打开所有安保门。（<CUSTOM31> 个计算机破解器）
+（这不会打开剧情门）
+38844 := 解锁拘留牢房。
+（这是一个不需要计算机破解器的关键路径选项示例。它会出现在切入界面之前。）
+38845 := 这个机器人已损坏且未激活。
+38846 := 机器人进入巡逻模式，并离开执行你编程的指令。
+38847 := 你暂时不管这个机器人。
+38848 := [失败] 你没有任何修理零件。你暂时不管这个机器人。
+38849 := 机器人现在已激活。它会攻击任何进入射程的敌人。
+38850 := [失败] 你的修理零件不足。
+38851 := [成功] 巡逻模式已启用。你结束本次会话后，机器人会开始巡逻并摧毁遇到的任何敌人。
+38852 := 警告：你结束本次会话后，机器人的程序将被锁定。你将无法再修改机器人。
+38853 := [成功] 机器人启动程序，并离开执行你的指令。
+38854 := [成功] 机器人的护盾现在已激活。
+38855 := [成功] 机器人现在已设为最高精准度。
+38856 := [成功] 机器人现在已设为最大火力。
+38857 := 机器人现在已激活。它会攻击任何进入射程的敌人。
+38858 := 机器人正在执行巡逻路线。你不能再重编程它。
+38859 := 别管它。
+38860 := 重新激活机器人。（1 个修理零件）
+38861 := 别管它。
+38862 := 启用机器人的巡逻模式。（<CUSTOM45> 个修理零件）
+38863 := 将机器人编程为撞击力场。（<CUSTOM46> 个修理零件）
+[这是一个剧情选项示例，玩家可以选择它来通过特定障碍。这应该会导致机器人被摧毁]
 
-38864 := Activate droid's shields. (<CUSTOM44> repair part(s))
-38865 := Optimize droid's targeting systems. (<CUSTOM43> repair part(s))
-38866 := Optimize droid's weaponry. (<CUSTOM42> repair part(s))
-38867 := We can't risk having any of the dark Jedi Masters recognize me. For the sake of the mission I must remain hidden in the Ebon Hawk while we are on this world.
-38868 := [Bastila seems to have something on her mind. Perhaps you should talk to her about it.]
-38869 := [You decide to ignore Bastila and continue on with your quest for now, though you might want to speak with her later.]
-38870 := The Star Forge is under assault from the entire Republic fleet! If I don't use my Battle Meditation to turn the tide, Admiral Dodonna's capital ships will destroy the Star Forge.
-38871 := I have to stay here in the command center so that I can best use my Battle Meditation against our enemy. If I don't the Star Forge will be lost!
-38872 := You must go to face Malak without me. Find him, kill him and reclaim the title of Dark Lord of the Sith!
-38873 := With each passing moment your old apprentice becomes stronger, Master. We must act quickly to exact your vengeance. Malak will pay for stealing the mantle of Dark Lord from you!
-38874 := That's all for now.
-38875 := Do you know if anything can be done about all these gizka on board?
-38876 := Can you help me with my little stowaway problem?
-38877 := [Don't speak to her.]
-38878 := [Speak to Bastila.]
-38879 := [Despite helping you on Taris, Canderous continues to be something of a mystery to you. It might be a good idea to try and get to know him better.]
-38880 := [You decide to ignore Canderous and continue on with your quest for now, though it might be a good idea to speak with him later.]
-38881 := Have you seen all these gizka on the ship?
-38882 := Can you help me with our little stowaway problem?
-38883 := Tell me about it later. I want to ask something else.
-38884 := Maybe another time. I want to ask something else.
-38885 := [Don't speak to him.]
-38886 := [Speak to Canderous.]
-38887 := [Something seems to be bothering Carth. Maybe you should speak to him and see if you can get him to open up about it.]
-38888 := [You decide to ignore Carth and continue on with your quest for now, though it might be a good idea to speak with him later.]
-38889 := Do you know if anything can be done about all these gizka?
-38890 := Do you have any advice on our little stowaway?
-38891 := Spit it out already.
-38892 := I didn't ask for your advice, nor do I need it.
-38893 := That settles that, I guess.
-38894 := [Don't speak to him.]
-38895 := [Speak to Carth.]
-38896 := Beep beep beep-oop!
-38897 := Please do excuse me, but I am required elsewhere.
-38898 := I cannot render assistance, citizen. Move along.
-38899 := We have a little stowaway problem. Can you help?
-38900 := Do you know anything about these gizka, HK?
-38901 := [Even though he has joined your group, Jolee remains a somewhat mysterious character. Maybe you should speak to him about why he chose to come with you.]
-38902 := [You decide to ignore Jolee and continue on with your quest for now, though it might be a good idea to speak with him later.]
-38903 := Have you seen all these gizka we have on board?
-38904 := We have a stowaway on the ship. Do you have any advice for me?
-38905 := [Don't speak to him.]
-38906 := [Speak to Jolee.]
-38907 := [Juhani seems tense and wary in your presence. Perhaps you could make her feel more welcome by talking with her.]
-38908 := [You decide to ignore Juhani and continue on with your quest for now, though you might want to speak with her later.]
-38909 := Do you know if anything can be done about all these gizka?
-38910 := I was wondering if you could help me with our stowaway problem.
-38911 := [Don't speak to her.]
-38912 := [Speak to Juhani.]
-38913 := [Mission seems rather distant. Maybe you should talk to her.]
-38914 := [You decide to ignore Mission and continue on with your quest for now, though you might want to speak with her later.]
-38915 := Do you know anything about these gizka creatures?
-38916 := You got any advice on our little stowaway?
-38917 := Sorry, but we don't have time for this now.
-38918 := [Don't speak to her.]
-38919 := [Speak to Mission.]
-38920 := Weep-boop-beep-beep!
-38921 := Beep-boop.
-38922 := Beep-woop-woo.
-38923 := You don't talk much, do you?
-38924 := Just chime in if you ever have any advice.
-38925 := I want to ask you some questions.
-38926 := You don't even know what I was going to ask!
-38927 := Terentatek
-38928 := Clothing Variant 1
-38929 := Clothing Variant 7
-38930 := Clothing Variant 8
-38931 := Galduran Calrissian's name was something of a liability after he became infamous for running an unsanctioned smuggling ring within Hutt space. Eventually cornered, he had to pawn even his personal items to avoid being the last Calrissian. The user must have paid points into the Demolitions and Security skills to gain the respective benefits from this belt.
-38932 := Bith Guitar
-38933 := Bith Clarinet
-38934 := Bith Trombone
-38935 := Bith Accordian
-38936 := Deflection: Energy, 20pts
-Duration: 200 seconds,
-or max damage taken
+38864 := 激活机器人的护盾。（<CUSTOM44> 个修理零件）
+38865 := 优化机器人的瞄准系统。（<CUSTOM43> 个修理零件）
+38866 := 优化机器人的武器系统。（<CUSTOM42> 个修理零件）
+38867 := 我们不能冒险让任何黑暗绝地大师认出我。为了任务，我在这个世界期间必须藏在乌木鹰号里。
+38868 := [巴丝蒂拉似乎有心事。也许你该和她谈谈。]
+38869 := [你决定暂时不理会巴丝蒂拉，继续你的任务，不过你也许稍后想和她谈谈。]
+38870 := 星际锻炉正遭到共和国整支舰队攻击！如果我不使用战斗冥想扭转战局，多唐纳上将的主力舰就会摧毁星际锻炉。
+38871 := 我必须留在这里的指挥中心，才能最好地用战斗冥想对抗我们的敌人。如果我不这么做，星际锻炉就会失守！
+38872 := 你必须在没有我的情况下去面对马拉克。找到他，杀了他，夺回西斯黑暗尊主的称号！
+38873 := 你的旧学徒每一刻都在变得更强，主人。我们必须迅速行动，完成你的复仇。马拉克会为从你手中夺走黑暗尊主的称号付出代价！
+38874 := 现在就这些。
+38875 := 你知道有没有办法处理船上这些吉兹卡吗？
+38876 := 你能帮我处理一下这个小偷渡者问题吗？
+38877 := [不要和她说话。]
+38878 := [和巴丝蒂拉说话。]
+38879 := [尽管坎德鲁斯在塔里斯星帮助过你，他对你来说仍有些神秘。试着更了解他也许是个好主意。]
+38880 := [你决定暂时不理会坎德鲁斯，继续你的任务，不过稍后和他谈谈也许是个好主意。]
+38881 := 你看到船上这些吉兹卡了吗？
+38882 := 你能帮我处理一下我们的小偷渡者问题吗？
+38883 := 以后再告诉我吧。我想问别的事。
+38884 := 也许下次吧。我想问别的事。
+38885 := [不要和他说话。]
+38886 := [和坎德鲁斯说话。]
+38887 := [卡斯似乎有什么事困扰着他。也许你该和他说话，看看能不能让他敞开心扉。]
+38888 := [你决定暂时不理会卡斯，继续你的任务，不过稍后和他谈谈也许是个好主意。]
+38889 := 你知道有没有办法处理这些吉兹卡吗？
+38890 := 关于我们的小偷渡者，你有什么建议吗？
+38891 := 有话快说。
+38892 := 我没问你的建议，也不需要。
+38893 := 那我想这事就这么定了。
+38894 := [不要和他说话。]
+38895 := [和卡斯说话。]
+38896 := 哔哔哔-呜！
+38897 := 请原谅我，但别处需要我。
+38898 := 我无法提供协助，公民。请继续前进。
+38899 := 我们有个小偷渡者问题。你能帮忙吗？
+38900 := HK，你知道这些吉兹卡的事吗？
+38901 := [即使乔利已经加入你的队伍，他仍是个有些神秘的人物。也许你该和他谈谈，问问他为什么选择跟你同行。]
+38902 := [你决定暂时不理会乔利，继续你的任务，不过稍后和他谈谈也许是个好主意。]
+38903 := 你看到我们船上这些吉兹卡了吗？
+38904 := 船上有个偷渡者。你有什么建议给我吗？
+38905 := [不要和他说话。]
+38906 := [和乔利说话。]
+38907 := [茱哈妮在你面前显得紧张而警惕。也许你可以和她谈谈，让她更有受欢迎的感觉。]
+38908 := [你决定暂时不理会茱哈妮，继续你的任务，不过你也许稍后想和她谈谈。]
+38909 := 你知道有没有办法处理这些吉兹卡吗？
+38910 := 我想知道你能不能帮我处理我们的偷渡者问题。
+38911 := [不要和她说话。]
+38912 := [和茱哈妮说话。]
+38913 := [米申似乎相当疏远。也许你该和她谈谈。]
+38914 := [你决定暂时不理会米申，继续你的任务，不过你也许稍后想和她谈谈。]
+38915 := 你知道这些吉兹卡生物的事吗？
+38916 := 关于我们的小偷渡者，你有什么建议吗？
+38917 := 抱歉，我们现在没时间谈这个。
+38918 := [不要和她说话。]
+38919 := [和米申说话。]
+38920 := 呜-哔-哔哔！
+38921 := 哔-呜。
+38922 := 哔-呜-呜。
+38923 := 你话不多，对吧？
+38924 := 如果你什么时候有建议，就直接插话吧。
+38925 := 我想问你一些问题。
+38926 := 你甚至不知道我要问什么！
+38927 := 泰伦塔泰克
+38928 := 服装变体 1
+38929 := 服装变体 7
+38930 := 服装变体 8
+38931 := 加尔杜兰·卡瑞辛因在赫特空间经营未经授权的走私集团而臭名昭著后，他的名字成了某种负担。最终被逼入绝境时，他甚至不得不典当私人用品，以免成为最后一个卡瑞辛。使用者必须已向爆破和安保技能投入点数，才能从这条腰带获得相应收益。
+38932 := 比思吉他
+38933 := 比思单簧管
+38934 := 比思长号
+38935 := 比思手风琴
+38936 := 偏转：能量，20 点
+持续时间：200 秒，
+或达到最大承受伤害
 
-This is a basic model energy shield universally applicable to most droids. The power drain is significant, however, and units like this must be replaced regularly.
-38937 := Deflection: Energy, 30pts
-Duration: 200 seconds,
-or max damage taken
+这是基础型号能量护盾，普遍适用于大多数机器人。不过能量消耗很大，这类装置必须定期更换。
+38937 := 偏转：能量，30 点
+持续时间：200 秒，
+或达到最大承受伤害
 
-Upgraded from the basic portable energy shield, these units are marketed to companies and governments that keep large standing forces of combat droids. The power drain is significant, however, and they must be replaced regularly.
-38938 := Deflection: Energy, 50pts
-Duration: 200 seconds,
-or max damage taken
+这些装置由基础便携能量护盾升级而来，面向拥有大量常备战斗机器人的公司和政府销售。不过能量消耗很大，必须定期更换。
+38938 := 偏转：能量，50 点
+持续时间：200 秒，
+或达到最大承受伤害
 
-This sophisticated item is designed for top quality combat droids, and produces superior protection for any droid with the necessary software to install it. The power drain is significant, however, and it must be replaced regularly.
-38939 := Deflection: Energy, Sonic, Cold, Heat, 20pts total
-Duration: 200 seconds,
-or max damage taken
+这件精密物品专为顶级战斗机器人设计，可为任何具备必要软件来安装它的机器人提供优越保护。不过能量消耗很大，必须定期更换。
+38939 := 偏转：能量、音波、寒冷、高温，总计 20 点
+持续时间：200 秒，
+或达到最大承受伤害
 
-Initially designed to resist the harsh conditions of factory floors, these shields provide a droid with basic protection against a broad array of effects. The power drain is significant, however, and they must be replaced regularly.
-38940 := Deflection: Energy, Sonic, Cold, Heat, 30pts total
-Duration: 200 seconds,
-or max damage taken
+这些护盾最初设计用于抵抗工厂车间的严酷条件，可为机器人提供对广泛效果的基础保护。不过能量消耗很大，必须定期更换。
+38940 := 偏转：能量、音波、寒冷、高温，总计 30 点
+持续时间：200 秒，
+或达到最大承受伤害
 
-This unit is an aftermarket modification of the shielding typically found on deep-core mining droids. It provides broad protection against many effects, but the power drain is significant and it must be replaced regularly.
-38941 := Deflection: Energy, Sonic, Cold, Heat, 50pts total
-Duration: 200 seconds,
-or max damage taken
+这件装置是深核采矿机器人常见护盾的售后改装版。它能提供对多种效果的广泛保护，但能量消耗很大，必须定期更换。
+38941 := 偏转：能量、音波、寒冷、高温，总计 50 点
+持续时间：200 秒，
+或达到最大承受伤害
 
-This variant of environmental shielding is designed for frontline combat droids. It provides broad protection against many effects, but the power drain is significant and it must be replaced regularly.
-38942 := Sith Mask
-38943 := A medpac contains essential equipment for the treatment of wounds. They cannot be used by droids. Basic medpacs heal 10 vitality points + WIS modifier + user's skill in Treat Injury.
-38944 := An advanced medpac contains an improved array of equipment for the treatment of wounds. They cannot be used by droids. Advanced medpacs heal 20 vitality points + WIS modifier + (2 x user's skill in Treat Injury).
-38945 := A life support pack contains dermal regenerators and other equipment for the treatment of wounds. They cannot be used by droids. Life support packs heal 30 vitality points + WIS modifier + (3 x user's skill in Treat Injury).
-38946 := Each squad recovery stim includes a number of fittings to be placed on every member of the group (automatically done at purchase). When activated, a stim shot is triggered that heals everyone for 10 vitality points. This unit also includes electro-stim fittings that spur the auto-repair functions of droid group members, effectively repairing them for 10 vitality points as well.
-38947 := Damage: None
-Secondary: Stun for 9sec
-Area of Effect: 3.3m radius
-Save :
-DC20 to negate stun
+这种环境护盾变体专为前线战斗机器人设计。它能提供对多种效果的广泛保护，但能量消耗很大，必须定期更换。
+38942 := 西斯面具
+38943 := 医疗包包含治疗伤势所需的基本装备。机器人不能使用。基础医疗包治疗 10 点活力点数 + 感知调整值 + 使用者的治疗伤势技能。
+38944 := 高级医疗包包含改良的伤势治疗装备阵列。机器人不能使用。高级医疗包治疗 20 点活力点数 + 感知调整值 + 使用者治疗伤势技能的 2 倍。
+38945 := 生命维持包包含皮肤再生器和其他伤势治疗装备。机器人不能使用。生命维持包治疗 30 点活力点数 + 感知调整值 + 使用者治疗伤势技能的 3 倍。
+38946 := 每支小队恢复兴奋剂都包含若干配件，会放置在队伍每个成员身上（购买时自动完成）。激活后会触发一次兴奋剂注射，为所有人治疗 10 点活力点数。此装置还包含电刺激配件，会促使机器人队伍成员的自动修理功能运作，实际上也为它们修复 10 点活力点数。
+38947 := 伤害：无
+次要：震慑 9 秒
+效果范围：3.3 米半径
+豁免：
+DC 20 免除震慑
 
-This variant of the stun mine is an improvement on the basic model. Larger power cells increase its effectiveness a considerable amount.
-38948 := Bastila's Lightsaber
-38949 := Dark Jedi Lightsaber
-38950 := Double Bladed Lightsaber
-38951 := Malak's Lightsaber
-38953 := This vial of green, bubbling liquid is the only hope of a cure for anyone infected with the rakghoul disease.
-38954 := A standard ID card for Sith troopers
-38955 := Skeletal Corpse
-38956 := Party Init
-38957 := Minor Flash Mine
-38958 := Average Flash Mine
-38959 := Deadly Flash Mine
-38960 := Minor Frag Mine
-38961 := Average Frag Mine
-38962 := Deadly Frag Mine
-38963 := Minor Plasma Mine
-38964 := Average Plasma Mine
-38965 := Deadly Plasma Mine
-38966 := Minor Gas Mine
-38967 := Average Gas Mine
-38968 := Deadly Gas Mine
-38969 := Banter
-38970 := Award stealth xp
-38971 := Prey End
-38972 := Predator/Prey Start
-38973 := You experienced a powerful vision upon first meeting Bastila. The vision could be an indication that you have a strong connection with the Force, but Bastila was reluctant to speculate on such matters.
-38974 := Bendak is dead. Now all you have to do is go back to Zax and collect his bounty.
-38975 := Canderous
-38976 := You have been joined by Canderous Ordo, a skilled Mandalorian mercenary. You know little about him, however.
-38977 := Canderous has told you a little bit about himself. He told of the great wars and battles his people had fought before, and how he had been reduced to serving Davik on a backwater world. He seemed to regret mentioning anything. Perhaps you should speak to him about this again later.
-38978 := Canderous told you about what's it like to drop through the atmosphere in one of the Mandalorian's Basilisk war droids. From what he said, they must have been fearsome weapons. He would probably tell you more stories if you talked to him later.
-38979 := You have heard Canderous' tale of his encounter in an asteroid field on the Outer Rim, but do not know what to make of it. Maybe talking to him further will make things more clear.
-38980 := Canderous told you about the honors he won leading a unit in the battle over Althir. It seems that he was quite the warrior back then. You could probably hear more if you asked him again later.
-38981 := You've heard from Canderous how the Mandalorians started their war on the Republic and the success they had at the beginning. If you talked to him later, he might tell you how the tide turned later on.
-38982 := Canderous described the end of Mandalorian Wars to you. He seemed to admire Revan greatly. Maybe you can ask him about this later.
-38983 := Canderous described the end of the Mandalorian Wars to you. He seemed to admire you greatly. Maybe he can tell you more later.
-38984 := Canderous told how Revan and his forces destroyed the Mandalorians' weaponry and exiled them, scattering them across the Outer Rim. He thinks that now, with you, he might find worthy opponents once again. You might try to talk to him more later.
-38985 := You have had a more personal moment with Canderous. He was talking about his work for Davik, and he mentioned that he seems to have changed from the warrior he once was. It may be that the time of the Mandalorians truly has past, and that Canderous may have to find some other meaning for his life. You may want to ask later about this.
-38986 := Canderous has said that the time of the Mandalorians is past, that his kind no longer have a place in the galaxy anymore. He does not know what the future may hold for him, but thinks that he may be able to find out once his journey with you is done.
-38987 := Canderous was affected oddly by his encounter with Jagi. He probably needs time to think about it and what it will mean for him.
-38988 := Canderous has said that he will stand by you no matter what path you take or what enemies you face.
-38989 := You've opened the Leviathan's hangar doors, but you can feel Darth Malak's presence drawing ever closer. Now you have to get off the ship before the Dark Lord arrives.
-38990 := Zax was waiting for you when you returned. Dia's life was just business between you.
-38991 := Dia is dead. Now all you have to do is go back to Zax to collect the bounty.
-38992 := Dwindling Supplies
-38993 := Zaalbar is concerned about the emergency food stores in the Ebon Hawk's cargo hold. The Wookiee's natural fixation on food might be causing him to worry unjustly, but you should still check it out just to be safe.
-38994 := Something, or possibly someone, has been into the food supplies. You might want to conduct a search of the ship to try to find the culprit.
-38995 := The mystery of the missing supplies is solved: a girl has been hiding on the ship and stealing food. Of course, now you have to figure out what to do with this stowaway...
-38996 := In order to get inside the Sith academy in Dreshdae, you will have to be approved by one of the Sith as a worthy "hopeful". The one who does the deciding of which hopefuls make it is a Twi'lek Sith Master by the name of Yuthura Ban. She can reportedly be sometimes found in colony's cantina... you should check there.
-38997 := You have heard that when a Sith accepts a hopeful as worthy they are given a medallion... which must then be presented to Yuthura Ban, the Sith Master who decides which hopefuls enter the academy. She can sometimes be found in the colony's cantina. You should probably check to see if she has returned to the cantina.
-38998 := You've recovered the departure codes you need to escape Taris. Now you just have to bring them back to Canderous Ordo in the Lower City Cantina.
-38999 := You've recovered the departure codes you need to escape Taris. Now you just have to find a fast ship to get you off the planet. Maybe someone in one of the cantinas could help you out.
+这种震慑地雷变体是基础型号的改进版。更大的能量电池显著提高了它的效果。
+38948 := 巴丝蒂拉的光剑
+38949 := 黑暗绝地光剑
+38950 := 双刃光剑
+38951 := 马拉克的光剑
+38953 := 这瓶绿色冒泡液体是任何感染拉克食尸鬼疫病的人获得治愈的唯一希望。
+38954 := 西斯士兵的标准身份卡
+38955 := 骸骨尸体
+38956 := 队伍初始化
+38957 := 初级闪光地雷
+38958 := 普通闪光地雷
+38959 := 致命闪光地雷
+38960 := 初级破片地雷
+38961 := 普通破片地雷
+38962 := 致命破片地雷
+38963 := 初级等离子地雷
+38964 := 普通等离子地雷
+38965 := 致命等离子地雷
+38966 := 初级毒气地雷
+38967 := 普通毒气地雷
+38968 := 致命毒气地雷
+38969 := 闲聊
+38970 := 奖励潜行经验
+38971 := 猎物结束
+38972 := 捕食者/猎物开始
+38973 := 你第一次见到巴丝蒂拉时经历了强烈的幻象。这个幻象可能表明你与原力有着强大联结，但巴丝蒂拉不愿对此类事情作出推测。
+38974 := 本达克死了。现在你只要回去找扎克斯领取他的赏金就行了。
+38975 := 坎德鲁斯
+38976 := 坎德鲁斯·奥多已经加入你。他是一名熟练的曼达洛人雇佣兵。不过，你对他所知甚少。
+38977 := 坎德鲁斯向你稍微讲了一点自己的事。他讲述了他的人民过去经历的大战与战斗，也说到自己如何沦落到在一个偏僻世界为戴维克效力。他似乎后悔提起这些。也许你应该稍后再和他谈谈。
+38978 := 坎德鲁斯告诉你，乘坐曼达洛人的巴西利斯克战斗机器人穿越大气层是什么感觉。按他的说法，它们一定是可怕的武器。如果你稍后再和他谈谈，他大概会讲更多故事。
+38979 := 你听过坎德鲁斯讲述他在外环星域一片小行星带中的遭遇，但还不知道该如何理解。也许继续和他谈谈会让事情更清楚。
+38980 := 坎德鲁斯告诉你，他曾在阿尔希尔上空的一场战斗中率领一支部队赢得荣誉。看来那时的他确实是一名战士。如果你再问他，应该还能听到更多。
+38981 := 你已经听坎德鲁斯讲过曼达洛人如何发动对共和国的战争，以及他们一开始取得的成功。如果稍后再和他谈谈，他也许会告诉你之后战局如何逆转。
+38982 := 坎德鲁斯向你描述了曼达洛战争的终结。他似乎非常崇拜瑞文。也许你可以稍后再问他这件事。
+38983 := 坎德鲁斯向你描述了曼达洛战争的终结。他似乎非常崇拜你。也许他稍后还能告诉你更多。
+38984 := 坎德鲁斯讲述了瑞文和其部队如何摧毁曼达洛人的武器，并将他们放逐，使他们散落到外环星域各处。他认为现在和你在一起，也许能再次找到配得上的对手。你也许可以稍后再和他谈谈。
+38985 := 你和坎德鲁斯有过一次更私人的时刻。他谈到自己为戴维克做事，并提到自己似乎已经不再是过去那个战士。也许曼达洛人的时代确实已经过去，而坎德鲁斯也许必须为自己的人生寻找其他意义。你也许想稍后再问问这件事。
+38986 := 坎德鲁斯说过，曼达洛人的时代已经过去，他的族类在银河系中已经不再有位置。他不知道未来会给他带来什么，但认为等与你的旅程结束后，他也许能找到答案。
+38987 := 坎德鲁斯受到与贾吉遭遇的奇特影响。他大概需要时间思考这件事，以及它对他意味着什么。
+38988 := 坎德鲁斯说过，无论你选择什么道路、面对什么敌人，他都会站在你这一边。
+38989 := 你已经打开利维坦号的机库门，但能感觉到达斯·马拉克的存在正越来越近。现在你必须在黑暗尊主抵达前离开这艘船。
+38990 := 你回来时扎克斯正在等你。迪娅的性命只是你们之间的生意。
+38991 := 迪娅死了。现在你只要回去找扎克斯领取赏金就行了。
+38992 := 日渐减少的补给
+38993 := 扎尔巴担心乌木鹰号货舱里的紧急食物储备。这个伍基人天生对食物的执着也许让他担心得没有道理，但为了安全起见，你还是应该去检查一下。
+38994 := 有什么东西，或者可能是某个人，动过食物补给。你也许该搜索飞船，试着找出罪魁祸首。
+38995 := 失踪补给之谜已经解开：一个女孩一直藏在船上偷食物。当然，现在你还得决定如何处理这个偷渡者……
+38996 := 要进入德雷什戴的西斯学院，你必须得到某个西斯认可，被视为合格的“候选人”。决定哪些候选人能进入学院的人，是一名名叫尤苏拉·班的提列克人西斯大师。据说她有时会出现在殖民地的酒馆里……你应该去那里看看。
+38997 := 你听说，当某个西斯承认候选人合格时，他们会得到一枚徽章……然后必须把它交给尤苏拉·班，也就是决定哪些候选人能进入学院的西斯大师。她有时会出现在殖民地的酒馆里。你也许应该去看看她是否已经回到酒馆。
+38998 := 你已经找回逃离塔里斯星所需的出发代码。现在只需要把它们带回下层城酒馆交给坎德鲁斯·奥多。
+38999 := 你已经找回逃离塔里斯星所需的出发代码。现在只要找到一艘高速飞船把你带离这颗星球。也许某间酒馆里有人能帮上忙。
 39000 := Invited to a Party
 39001 := You've been invited to a party by one of the Sith. According to the directions on your datapad they're getting together at an apartment on the east side of the North Upper City.
 39002 := The Jedi Council on Dantooine has decided to train you in the ways of the ancient Jedi Order. After much initial training, your first task will be to learn the precepts of the Jedi Code. This code is the path by which all Jedi should lead their lives.
