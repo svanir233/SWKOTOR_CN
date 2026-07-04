@@ -41245,548 +41245,548 @@ C8-42 则稍微没有那么……热情。
 38397 := 达斯·马拉克
 38398 := 多唐纳上将
 38399 := 杜罗人
-38400 := Commoner - Fat Female
-38401 := Commoner - Fat Male
-38402 := Human Smuggler
-38403 := Ithorian
-38404 := Jawa
-38405 := Jedi Council - Female
-38406 := Jedi Council - Male
-38407 := Malak
-38408 := Jedi - Female
-38409 := Jedi - Male
-38410 := Mandalorian
-38411 := Rakata
-38412 := Republic Officer
-38413 := Republic Soldier
-38414 := Rodian
-38415 := Selkath
-38416 := Sith Apprentice
-38417 := Sith Apprentice - Female
-38418 := Sith Apprentice - Male
-38419 := Sith Commoner - Female
-38420 := Sith Commoner - Male
-38421 := Sith Soldier
-38422 := Swoop Gang Member
-38423 := Tusken
-38424 := Twilek - Female
-38425 := Twilek - Male
-38426 := Walrusman
-38427 := Wookiee - Female
-38428 := Wookiee - Male
-38429 := Yoda
-38430 := Bastila
-38431 := Canerous Ordo
-38432 := Carth Onasi
+38400 := 平民 - 肥胖女性
+38401 := 平民 - 肥胖男性
+38402 := 人类走私者
+38403 := 伊索人
+38404 := 贾瓦人
+38405 := 绝地委员会 - 女性
+38406 := 绝地委员会 - 男性
+38407 := 马拉克
+38408 := 绝地 - 女性
+38409 := 绝地 - 男性
+38410 := 曼达洛人
+38411 := 拉卡塔人
+38412 := 共和国军官
+38413 := 共和国士兵
+38414 := 罗迪亚人
+38415 := 塞尔卡斯人
+38416 := 西斯学徒
+38417 := 西斯学徒 - 女性
+38418 := 西斯学徒 - 男性
+38419 := 西斯平民 - 女性
+38420 := 西斯平民 - 男性
+38421 := 西斯士兵
+38422 := 飞梭帮成员
+38423 := 塔斯肯人
+38424 := 提列克人 - 女性
+38425 := 提列克人 - 男性
+38426 := 阿夸利什人
+38427 := 伍基人 - 女性
+38428 := 伍基人 - 男性
+38429 := 尤达
+38430 := 巴丝蒂拉
+38431 := 坎德鲁斯·奥多
+38432 := 卡斯·奥纳西
 38433 := HK-47
-38434 := Jolee Bindo
-38435 := Juhani
-38436 := Mission
-38437 := Player - Female Black
-38438 := Player - Female White
-38439 := Player - Male Black
-38440 := Player - Male White
-38441 := T3M4
-38442 := Zaalbar
-38444 := Pazaak Tip 1: Good Pazaak players know that totals of 17 or less don't win very often.
-38445 := Pazaak Tip 2: Letting your Pazaak opponent BUST is often an effective way of winning a set.
-38446 := Pazaak Tip 3: Good Pazaak players often conserve their HAND cards for the later sets.
-38447 := Pazaak Tip 4: You can improve your Pazaak side deck with cards you'll find during the game.
-38448 := Pazaak Tip 5: Your Pazaak side deck should contain a mix of both + and - cards.
-38449 := Pazaak Tip 6: Some Pazaak side cards can flip their +/- sign. These cards are quite valuable.
-38450 := You cannot equip this item.  You don't have the prerequisites.  Please see the item description.
-38451 := That function is unavailable at this time.
-38452 := You must rejoin your party first.
-38453 := SECURITY BREACH!!
-38454 := Use weapons that suit your target. Ion damage is very effective against droids and personal shields.
-38455 := Add
-38456 := Remove
-38457 := SH pt.1: Personal energy shields are disposable units that absorb incoming damage of various types.
-38458 := SH pt.2: Shields have a set number of uses. Depleted shields can't be recharged and must be replaced.
-38459 := SH pt.3: A 75pt heat-absorbing shield blocks all incoming heat attacks up to 75pts before failing.
-38460 := And what do you call that, then? Winners draw the crowd, not lazy times like that. Are you sure you are up to the competition?
-38461 := That was... unfortunate. Your performance just now was not of very high quality. You will need to improve.
-38462 := That cannot be done while there are enemies nearby.
-38463 := Droid Stealth Field Enabler
-38464 := You cannot gain levels when you are dead.
-38465 := We're hit! Damage is critical! The Hawk won't hold!
-38466 := Impressive. That HK-47 I sold you would be of considerable help as well, I imagine, though I'm still not certain what it was fully capable of.
-38467 := I was at Motta's, yes. Can I ask a question or two?
-38468 := Even though you've arranged a better deal for him, Nico won't listen to what you have to say about Motta's contract until you have proven you are as good a racer as he is, and his times are presumably as fast as the Tatooine official track record.
-38469 := I have already told you to take your filthy madclaw and leave. Speak with Chuundar in the village and don't bother me further.
-38470 := Especially when you bring filth such as this with you. This madclaw has no place here.
-38471 := Who are you to question my place? You follow Chuundar into the arms of outsiders.
-38472 := And yet you travel with outsiders yourself! Speak no more! Chuundar will decide if you are permitted to enter the Shadowlands.
-38473 := Where is this Wookiee I need to see?
-38474 := What was that about, Zaalbar?
-38475 := We should proceed to the village. I'm sure we will both get answers there.
-38477 := Return To Ebon Hawk
-38478 := You have taken a good and honest man and twisted him into a bitter, hateful creature. You must be so proud of yourself.
-38479 := Feeding this man's hatred is an act of malice and petty evil. The Council would not approve of your actions here, and neither do I.
-38480 := I have to admit, I'm surprised you let him get away. I don't know if I could have been as forgiving.
-38481 := I will never understand you meatbags. He cheated you and killed your friends, but you didn't terminate him when you had the chance.
-38482 := If it had been me, Eli would a smoking corpse right now.
-38483 := *whisper* The Force should not be used for profit and personal gain. As Jedi we should be above such things.
-38484 := It troubles me to see you behaving this way. Such acts can lead to the dark side.
-38485 := *whisper* The Force is not a thing to be trifled with. Continue to use it frivolously and you may find yourself straying down the dark path.
-38486 := We should guard and protect those weaker than ourselves... not bully and exploit them!
-38487 := That was beneath you. I hope in the future you will strive to be better than this.
-38488 := Rock Fall Type 1
-38489 := That was a truly noble act. The Jedi Council would be pleased.
-38490 := A Jedi should not use the Force for personal gain. We are better than that.
-38491 := The dark side dwells in us all, but you cannot give in to your baser instincts like this!
-38492 := *whisper* You should treat your power with respect, not use the Force on a whim like it is some toy!
-38493 := *whisper* The Jedi should be protectors of the weak! You shame us all by your actions here.
-38494 := You are a representative of the Jedi Order. When you behave this way you disgrace us all!
-38495 := This is how we Jedi should always act: with honor.
-38496 := *whisper* The Jedi Council wouldn't approve, but they always were a little stodgy about using the Force on people. Sometimes you gotta do what you gotta do.
-38497 := I know I'm just an old codger, but in my time I've learned what goes around comes around. These things have a way of coming back to you in the end.
-38498 := *whisper* Heh! Reminds me of my old smuggling days. Nothing better than the old Jedi mind trick for getting past an overly curious customs officer.
-38499 := You've got a real mean streak, kid. You might want to work on that; nasty people tend to come to nasty ends.
-38500 := Nice. Real nice. Maybe later we could find some insects to pull the legs off, huh?
-38501 := Hey, kid, that was a good thing you did there. Almost brought a tear to this old man's eye.
-38502 := I'm no Jedi, but are you really supposed to be using the Force for things like this?
-38503 := Why did you do that? Sometimes... sometimes I just can't understand how you can be so cruel.
-38504 := This isn't right! We should be helping people, not making their lives miserable.
-38505 := That was totally uncalled for.
-38506 := With all the violence and bloodshed we've seen, it's kind of nice to help someone for a change.
-38507 := I'm glad to see we're still the good guys here. Sometimes I think we forget that.
-38508 := Hmph. That trick would never work on a Mandalorian. Our minds are not so weak and easily twisted.
-38509 := *whisper* I'm amazed at how many people that works on. The entire galaxy must be filled with weak-minded fools.
-38510 := I like the way you handled that. Are you sure you don't have some Mandalorian blood in you?
-38511 := The role of the weak is to serve the will of the strong; I'm glad you understand that.
-38512 := Mighty generous of you. A little too generous, if you ask me.
-38513 := What was that all about? Are you going soft on me?
-38514 := Your actions disturb me. Among my kind, those who take pleasure in the suffering of others are considered dangerously unstable.
-38515 := Had I known you were so cruel, I might have thought twice before swearing my life-debt to you.
-38516 := I am proud to call you my friend, <FullName>. You have a noble and generous spirit.
-38517 := Statement: Well done, master. You're my kind of owner!
-38518 := Observation: Your ruthlessness and cruelty are quite refreshing in an organic meatbag, master. Are you sure you aren't part droid?
-38519 := Statement: Oh, master. I'm so very disappointed in you.
-38520 := *whisper* Well, that was easy. I sure wish I had special mind-affecting Force powers.
-38521 := *whisper* I can be pretty convincing when I have to be, but that mind trick is something else!
-38522 := Hey, why'd you have to do that? That was just mean!
-38523 := You know what? Sometimes you're nothing but a bully!
-38524 := I know you're supposed to save the galaxy and all, but could you try being less of a scummy core slime while you're doing it?
-38525 := Wow, sometimes helping people feels pretty good, you know?
-38526 := Wookiee Toughness
-38527 := Blaster Integration
-38528 := Force Camouflage
-38529 := Force Immunity: Stun
-38530 := Force Immunity: Fear
-38531 := Force Immunity: Paralysis
-38532 := Improved Force Jump
-38533 := Master Force Jump
-38534 := This planet is incredible! It's too bad Zaalbar isn't with us. It would be nice to have a guide who's familiar with this place.
-38535 := This place is wild and untamed. It stirs the blood and makes one feel alive. It is a shame the Wookiee is not here with us; I have no doubt he would feel the same way.
-38536 := Feats Required
-38537 := This place is so wonderful, yet so strange. Maybe we should have Zaalbar with us. A guide with local knowledge could be invaluable.
-38538 := Observation: I think this meatbag has hostile intentions, Master! This is going to be fun!
-38539 := I'm glad Big Z isn't here to see this. I don't know if he could handle it.
-38540 := It's a good thing Zaalbar isn't here to see this. I doubt he'd approve of what you're doing. Actually, I don't know if I approve, either.
-38541 := *whisper* I do not approve of this game you are playing! This Wookiee's death is a tragedy, not a chance for your profit.
-38542 := Get Items
-38543 := Give Item
-38544 := I do not like where this is leading. I fear it can only end in sorrow.
-38545 := Yours? Why would we find your casing beside... no, it couldn't be. Could it?
-38546 := Prerequisites:
-Cathar
+38434 := 乔利·宾多
+38435 := 茱哈妮
+38436 := 米申
+38437 := 玩家 - 黑肤女性
+38438 := 玩家 - 白肤女性
+38439 := 玩家 - 黑肤男性
+38440 := 玩家 - 白肤男性
+38441 := T3-M4
+38442 := 扎尔巴
+38444 := 帕扎克牌提示 1：优秀的帕扎克牌玩家都知道，总点数 17 或更低通常很难取胜。
+38445 := 帕扎克牌提示 2：让帕扎克牌对手爆牌，往往是赢下一局的有效办法。
+38446 := 帕扎克牌提示 3：优秀的帕扎克牌玩家通常会把手牌留到后面的局数。
+38447 := 帕扎克牌提示 4：你可以用游戏中找到的牌来强化自己的帕扎克牌副牌组。
+38448 := 帕扎克牌提示 5：你的帕扎克牌副牌组应该同时包含 + 牌和 - 牌。
+38449 := 帕扎克牌提示 6：有些帕扎克牌副牌可以翻转自己的 +/- 符号。这类牌非常宝贵。
+38450 := 你不能装备此物品。你不满足先决条件。请查看物品说明。
+38451 := 该功能目前不可用。
+38452 := 你必须先重新加入队伍。
+38453 := 安保遭突破！！
+38454 := 使用适合目标的武器。离子伤害对机器人和个人护盾非常有效。
+38455 := 添加
+38456 := 移除
+38457 := 护盾第 1 部分：个人能量护盾是一次性装置，可吸收多种类型的来袭伤害。
+38458 := 护盾第 2 部分：护盾有固定使用次数。耗尽的护盾无法充能，必须更换。
+38459 := 护盾第 3 部分：75 点吸热护盾会在失效前阻挡最多 75 点来袭高温攻击。
+38460 := 那你管这叫什么？胜者才能吸引观众，不是这种懒散的成绩。你确定自己够资格参赛吗？
+38461 := 这可真是……不走运。你刚才的表现质量不高。你得继续提高。
+38462 := 附近有敌人时不能这么做。
+38463 := 机器人潜行力场启用器
+38464 := 你死亡时不能获得等级。
+38465 := 我们中弹了！损伤严重！乌木鹰号撑不住了！
+38466 := 令人印象深刻。我卖给你的那台 HK-47 想必也能帮上大忙，虽然我仍不确定它到底具备哪些完整能力。
+38467 := 是的，我当时在莫塔那里。我能问一两个问题吗？
+38468 := 虽然你已经为尼科安排了更好的条件，但在你证明自己和他一样优秀之前，他不会听你谈莫塔的合同；他的成绩大概和塔图因星官方赛道纪录一样快。
+38469 := 我已经告诉过你了，带着你肮脏的疯爪离开。去村里找丘恩达，别再烦我。
+38470 := 尤其是你还带着这种脏东西。这个疯爪在这里没有位置。
+38471 := 你有什么资格质疑我的位置？你跟着丘恩达投向外来者的怀抱。
+38472 := 可你自己也和外来者同行！别再说了！丘恩达会决定你是否可以进入暗影之地。
+38473 := 我要见的这个伍基人在哪里？
+38474 := 扎尔巴，刚才那是怎么回事？
+38475 := 我们应该前往村子。我相信我们在那里都会得到答案。
+38477 := 返回乌木鹰号
+38478 := 你把一个善良诚实的人扭曲成了痛苦又充满仇恨的生物。你一定很为自己骄傲吧。
+38479 := 助长这个人的仇恨，是恶意且卑劣的邪恶行为。绝地委员会不会认可你在这里的做法，我也不会。
+38480 := 我得承认，我很惊讶你让他逃走了。我不知道自己能不能像你这样宽容。
+38481 := 我永远也理解不了你们这些肉袋。他欺骗你，还杀了你的朋友，可你有机会时却没有终结他。
+38482 := 如果换成我，伊莱现在已经是一具冒烟的尸体了。
+38483 := *低语* 原力不该用于牟利和个人私欲。作为绝地，我们应当超越这种事。
+38484 := 看到你这样行事让我不安。这种行为可能会通向黑暗面。
+38485 := *低语* 原力不是可以随便玩弄的东西。继续轻率使用它，你也许会发现自己正偏离到黑暗道路上。
+38486 := 我们应该守护和保护比自己弱小的人……不是欺凌和剥削他们！
+38487 := 这配不上你。我希望你以后会努力做得更好。
+38488 := 落石类型 1
+38489 := 那是真正高尚的行为。绝地委员会会感到欣慰。
+38490 := 绝地不应为了个人利益使用原力。我们应该比这更好。
+38491 := 黑暗面潜伏在我们所有人心中，但你不能这样屈从于自己卑劣的本能！
+38492 := *低语* 你应该尊重自己的力量，不要一时兴起就像玩玩具一样使用原力！
+38493 := *低语* 绝地应该保护弱者！你在这里的行为让我们全都蒙羞。
+38494 := 你代表着绝地武士团。你这样行事，就是让我们所有人蒙羞！
+38495 := 这才是我们绝地永远应有的行事方式：带着荣誉。
+38496 := *低语* 绝地委员会不会赞成，不过他们对在人身上使用原力一直有点古板。有时候你就是得做该做的事。
+38497 := 我知道我只是个老顽固，但我这些年明白了一件事：种什么因，得什么果。这些事最后总会回到你身上。
+38498 := *低语* 嘿！让我想起了以前走私的日子。要绕过一个好奇心过强的海关官员，没有什么比老派绝地心灵把戏更好用。
+38499 := 孩子，你真有股刻薄劲。你也许该改改；恶毒的人往往没什么好下场。
+38500 := 漂亮。真漂亮。也许待会儿我们可以找些昆虫，把它们的腿拔掉，是吧？
+38501 := 嘿，孩子，你刚才做了件好事。差点让这个老头眼里泛泪。
+38502 := 我不是绝地，但你真的应该把原力用在这种事情上吗？
+38503 := 你为什么要那样做？有时候……有时候我就是不明白你怎么能这么残忍。
+38504 := 这不对！我们应该帮助别人，不是让他们的生活更痛苦。
+38505 := 那完全没有必要。
+38506 := 在经历过这么多暴力和流血之后，偶尔帮助别人感觉还挺好。
+38507 := 我很高兴看到我们在这里仍然是好人。有时候我觉得我们会忘记这一点。
+38508 := 哼。那招绝不会对曼达洛人起作用。我们的心智没有那么软弱，也没那么容易被扭曲。
+38509 := *低语* 我真惊讶这招居然对那么多人有效。整个银河系一定到处都是意志薄弱的蠢货。
+38510 := 我喜欢你处理这事的方式。你确定自己没有一点曼达洛人的血统吗？
+38511 := 弱者的职责就是服从强者的意志；我很高兴你明白这一点。
+38512 := 你可真慷慨。要我说，是有点太慷慨了。
+38513 := 这是怎么回事？你对我心软了吗？
+38514 := 你的行为让我不安。在我的族人看来，以他人的痛苦为乐的人会被视为危险的不稳定者。
+38515 := 要是早知道你这么残忍，我在向你宣誓生命债之前也许会三思。
+38516 := 我很自豪能称你为我的朋友，<FullName>。你拥有高尚而慷慨的精神。
+38517 := 陈述：干得好，主人。您正是我喜欢的那类拥有者！
+38518 := 观察：在一个有机肉袋身上，您的无情和残酷相当令人耳目一新，主人。您确定自己不是部分机器人吗？
+38519 := 陈述：哦，主人。我对您非常失望。
+38520 := *低语* 嗯，这可真容易。我真希望自己也有特殊的影响心智原力能力。
+38521 := *低语* 需要的时候我也能挺有说服力，但那个心灵把戏真是另一回事！
+38522 := 嘿，你为什么非得那样做？那也太刻薄了！
+38523 := 你知道吗？有时候你根本就是个恶霸！
+38524 := 我知道你该拯救银河系什么的，但你做这件事的时候能不能别那么像个肮脏的核心泥虫？
+38525 := 哇，有时候帮助别人感觉还挺不错，你知道吗？
+38526 := 伍基人坚韧
+38527 := 爆能枪整合
+38528 := 原力伪装
+38529 := 原力免疫：震慑
+38530 := 原力免疫：恐惧
+38531 := 原力免疫：麻痹
+38532 := 高级原力跳跃
+38533 := 大师级原力跳跃
+38534 := 这颗星球太不可思议了！真可惜扎尔巴没有和我们在一起。有个熟悉这里的向导会很不错。
+38535 := 这个地方狂野而未被驯服。它让人热血涌动，感觉自己真正活着。可惜那个伍基人不在我们身边；我毫不怀疑他也会有同样感受。
+38536 := 专长要求
+38537 := 这个地方如此美妙，却又如此陌生。也许我们应该带上扎尔巴。有个熟悉本地情况的向导会非常宝贵。
+38538 := 观察：我认为这个肉袋怀有敌意，主人！这会很有趣！
+38539 := 我很高兴大Z不在这里看到这一幕。我不知道他能不能承受。
+38540 := 幸好扎尔巴不在这里看到这一幕。我怀疑他不会赞成你正在做的事。事实上，我也不确定自己是否赞成。
+38541 := *低语* 我不赞成你正在玩的这个把戏！这个伍基人的死亡是一场悲剧，不是你牟利的机会。
+38542 := 取得物品
+38543 := 给予物品
+38544 := 我不喜欢事情正在走向的方向。我担心它只会以悲伤收场。
+38545 := 你的？为什么我们会在……旁边找到你的外壳，不，不可能。会吗？
+38546 := 先决条件：
+凯瑟人
 
-Because of her unusual heritage, Juhani has developed her Force powers in unexpected ways, as shown by her almost subconscious ability to simply not be seen. This physical manipulation of light and sound allows her to go unnoticed even in a direct line of sight, and is equally effective against droids and living beings. Juhani does not require a stealth field generator to enter Stealth Mode.
-38547 := Yeah, let's keep the focus on what's important. If there's profit to be made here, we don't want to miss out.
-38548 := You mustn't let greed rule your decision here. Justice must be served.
-38549 := Greed will lead you down the dark side if you are not careful. You must not seek material gain at the expense of the ideals the Jedi hold dear.
-38550 := Transit Disabled
+由于茱哈妮不同寻常的血统，她的原力能力以意想不到的方式发展出来，体现在她几乎下意识地让自己不被看见的能力上。这种对光与声音的物理操控，使她即使在直接视线中也能不被注意到，并且对机器人和生物同样有效。茱哈妮不需要潜行力场发生器也能进入潜行模式。
+38547 := 对，还是把注意力放在重要的事情上吧。如果这里有利润可赚，我们可不想错过。
+38548 := 你不能让贪婪支配这里的决定。正义必须得到伸张。
+38549 := 如果你不小心，贪婪会把你引向黑暗面。你绝不能为了物质利益而牺牲绝地珍视的理想。
+38550 := 传送已禁用
 38551 := XP
-38552 := Physical
-38553 := Universal
-38554 := Acid
-38555 := Cold
-38556 := Light Side
-38557 := Electrical
-38558 := Fire
-38559 := Dark Side
-38560 := Sonic
-38561 := Ion
-38562 := Energy
-38563 := Prerequisites:
-Utility Droid
+38552 := 物理
+38553 := 通用
+38554 := 酸液
+38555 := 寒冷
+38556 := 光明面
+38557 := 电击
+38558 := 火焰
+38559 := 黑暗面
+38560 := 音波
+38561 := 离子
+38562 := 能量
+38563 := 先决条件：
+工具机器人
 
-This feat gives the adaptable T3-M4 unit the ability to integrate blasters into its weapons systems. Special universal ports allow internal placement of most models of blaster pistol, tapping the energy pack and emitters as though factory installed.
-38564 := Prerequisites: 
-Wookiee
+此专长使适应性很强的 T3-M4 单位能够将爆能枪整合进自身武器系统。特殊通用接口可让大多数型号的爆能手枪内置安装，像原厂安装一样接入能量匣和发射器。
+38564 := 先决条件：
+伍基人
 
-This feat represents the innate toughness that Zaalbar has developed as a result of his Wookiee heritage and the hard life he has lived as a slave and fugitive. Any damage he suffers is automatically reduced by 2, and he gains an additional +2 vitality points each time he levels up, over and above any Constitution modifier.
-38565 := Range
-38566 := Attack Modifier
-38567 := Droids
-38568 := Humans
-38570 := Physical
-38571 := Critical Threat
-38572 := SithDoor1 No PresiceUse
-38573 := ManaanDoor2 No PresiceUse
-38574 := chance
-38575 := rounds
-38576 := So, Jolee, you decided to leave your little hermitage in the forest and come help us stop the Sith. I guess you realized this was worth coming out of retirement for, huh?
-38577 := Yeah, that's right, sonny. The Sith are the greatest evil to hit the galaxy since, well, the Mandalorians. And they're the worst thing since Exar Kun. Blah, blah, blah, etcetera, etcetera, etcetera.
-38578 := Okay, old man, you lost me there. Are you trying to make a point?
-38579 := Look, everybody always figures the time they live in is the most epic, most important age to end all ages. But tyrants and heroes rise and fall, and historians sort out the pieces.
-38580 := Malak is a tyrant who should be stopped. If he conquers the galaxy we're in for a couple of rough centuries. Eventually it'll come around again, but I'd rather not wait that long.
-38581 := So we do what we have to do, and we try to stop the Sith. But don't start thinking this war - your war - is more important than any other war just because you're in it.
-38582 := That's an interesting theory, but I don't buy it. The Republic stands for something; it's stood for something for fifteen thousand years. And if it falls, everything will change forever.
-38583 := On Hit
-38584 := Scoundrel's Luck
-38585 := Improved Scoundrel's Luck
-38586 := Master Scoundrel's Luck
-38587 := Jedi Sense
-38588 := Knight Sense
-38589 := Master Sense
-38590 := Combat Logic Upgrade
-38591 := Tactician Logic Upgrade
-38592 := Battle Droid Logic Upgrade
-38593 := Defense Bonus
-38595 := Falling Roof 2
-38596 := Falling Roof Rubble
-38597 := <CUSTOM0> attempts to resist force power : <CUSTOM1>
-38598 := <CUSTOM0> Force Resisted!
-38599 := force power absorbed
-38600 := Credits:
-38601 := Add card
-38602 := Remove card
-38603 := Heap of Garbage
-38604 := Rakata Bench
-38605 := Ruined pillar
-38606 := Ruined pillar container
-38607 := Disengage <bbutton>
-38608 := Well, things may have turned around for me, luck-wise, but I'm not sure if I really know all that much more than I did before.
-38609 := Taris - Upper Sewers
-38610 := Exit Ramp
-38611 := East Central
-38612 := The remains left by a creature recently killed.
-38613 := Force Depleted
-38614 := Restricted by Armor
-38615 := Missing Item
-38616 := Tanis is free to move. The trap left by his estranged wife has been disarmed. He'll be glad to hear it.
-38617 := Clothing Variant 2
-38618 := Clothing Variant 3
-38619 := Clothing Variant 4
-38620 := Clothing Variant 5
-38621 := Clothing Variant 6
-38622 := Paralysis
-38623 := Continue
-38624 := Back
-38625 := End Tutorial
-38626 := Cancel
-38627 := Before each Pazaak match you must select ten cards to form your side deck. 4 of these cards will be randomly drawn to form your HAND during the match.
-38628 := A basic Pazaak deck has two of each card numbered +1 to +5 available to create a side deck. You will find other side deck cards as you play Knights of the Old Republic with values ranging from +/-1 to +/-6.
-38629 := Select ten cards to form your side deck now.
-38630 := You must select ten cards to form your side deck before the match can begin.
-38631 := The object of the game is to have your face up cards total higher than your opponent's hand without exceeding a total of 20.
-38632 := If a player's total is greater than 20 at the end of a turn (a 'BUST'), the opponent wins the set. A player must win 3 sets to win the match.
-38633 := The first player draws a card from the main deck and plays it face up to begin their turn. This is done automatically.
-38634 := This is your HAND for the match. It is made up of 4 cards randomly drawn from the side deck you selected earlier. These cards have to last through all the sets of the match.
-38635 := After drawing a card, a player has the option of playing one of the cards from their HAND. You can only play one card from your HAND each turn by dragging it onto the board, or by double-clicking it. Playing a card from the HAND is optional.
-38636 := Tip: If your total is over 20 after your draw and you have a negative card in your hand, you can play it to bring your total back under 20.
-38637 := A player's turn is over when they select either END TURN or STAND. If you choose END TURN you will draw another card on your next turn.
-38638 := If you choose STAND you will not draw anymore cards and you cannot play anymore cards from your HAND until the next set of the match.
-38639 := You may now choose to play a card from your HAND, to END TURN or to STAND.
-38640 := If you STAND you cannot draw anymore cards and you cannot play any more cards from your HAND until the next set of the match. Are you sure you want to stand?
-38641 := When you select END TURN you will automatically draw another card at the start of your next turn. Remember: if your cards total more than 20 at the end of your turn you will BUST and your opponent wins the set.
-38642 := You can only play one HAND card each turn. Playing a HAND card is optional. You never get more than the 4 HAND cards you start a match with, so you might want to save them.
-38643 := During your travels you might find cards that can be played as either a negative or a positive value. These cards are very rare, but they give Pazaak players a strong tactical advantage.
-38644 := A HAND card must be declared as positive or negative before it is played. While it is in your hand you can flip it back and forth, but once it is played it cannot be changed.
-38645 := Your opponent uses the same rules you do. Each turn they draw a card, and then they have the option to play a HAND card, to END TURN or to STAND.
-38646 := If a player's total is exactly 20, they automatically STAND. The opponent can continue to play until they STAND or BUST.
-38647 := If a player has a total greater than 20 after their turn is over, it is BUST. Their opponent automatically wins the set.
-38648 := A match continues until one player has won 3 sets. Ties do not count. You are never given more HAND cards in the match, so use the 4 cards you have carefully.
-38649 := The match is over.
-38651 := Prerequisites:
-Jedi Sentinel
+此专长代表扎尔巴因伍基人血统以及作为奴隶和逃亡者的艰苦生活而培养出的天生坚韧。他受到的任何伤害都会自动减少 2 点，并且每次升级时都会额外获得 +2 活力点数，这会叠加在任何体质调整值之外。
+38565 := 射程
+38566 := 攻击调整值
+38567 := 机器人
+38568 := 人类
+38570 := 物理
+38571 := 重击威胁
+38572 := 西斯门1 无精确使用
+38573 := 马南门2 无精确使用
+38574 := 几率
+38575 := 轮
+38576 := 所以，乔利，你决定离开森林里的小隐居处，出来帮我们阻止西斯。我猜你意识到这件事值得你重出江湖了，是吧？
+38577 := 对，对，孩子。西斯是自从，嗯，曼达洛人以来袭击银河系的最大邪恶。他们也是埃克萨·库恩以来最糟糕的东西。诸如此类，等等，等等，等等。
+38578 := 好吧，老人家，我没听懂。你是在试图说明什么吗？
+38579 := 听着，每个人总觉得自己生活的时代是最史诗、最重要、终结一切时代的时代。但暴君和英雄都会兴衰起落，历史学家会去整理那些碎片。
+38580 := 马拉克是个应该被阻止的暴君。如果他征服银河系，我们就要迎来几个艰难的世纪。最后局势总会再转回来，但我宁愿别等那么久。
+38581 := 所以我们做必须做的事，试着阻止西斯。但别因为你身在其中，就开始觉得这场战争——你的战争——比其他任何战争都更重要。
+38582 := 这是个有趣的理论，但我不接受。共和国代表着某种东西；它已经代表那东西一万五千年了。如果它倒下，一切都会永远改变。
+38583 := 命中时
+38584 := 无赖的幸运
+38585 := 高级无赖的幸运
+38586 := 大师级无赖的幸运
+38587 := 绝地感应
+38588 := 骑士感应
+38589 := 大师感应
+38590 := 战斗逻辑升级
+38591 := 战术家逻辑升级
+38592 := 战斗机器人逻辑升级
+38593 := 防御加值
+38595 := 坠落屋顶 2
+38596 := 坠落屋顶碎石
+38597 := <CUSTOM0> 尝试抵抗原力能力：<CUSTOM1>
+38598 := <CUSTOM0> 抵抗了原力！
+38599 := 原力能力被吸收
+38600 := 信用点：
+38601 := 添加牌
+38602 := 移除牌
+38603 := 垃圾堆
+38604 := 拉卡塔长椅
+38605 := 毁坏的柱子
+38606 := 毁坏的柱子容器
+38607 := 脱离 <bbutton>
+38608 := 好吧，就运气来说，事情也许对我有了转机，但我不确定自己真的比以前知道更多。
+38609 := 塔里斯星 - 上层下水道
+38610 := 出口坡道
+38611 := 中东部
+38612 := 某个最近被杀死的生物留下的残骸。
+38613 := 原力已耗尽
+38614 := 受护甲限制
+38615 := 缺少物品
+38616 := 塔尼斯已经可以自由行动。他那位分居妻子留下的陷阱已经解除。他听到这个消息会很高兴。
+38617 := 服装变体 2
+38618 := 服装变体 3
+38619 := 服装变体 4
+38620 := 服装变体 5
+38621 := 服装变体 6
+38622 := 麻痹
+38623 := 继续
+38624 := 返回
+38625 := 结束教程
+38626 := 取消
+38627 := 每场帕扎克牌比赛前，你必须选择十张牌组成副牌组。其中 4 张会在比赛中随机抽出，组成你的手牌。
+38628 := 基础帕扎克牌组有编号 +1 到 +5 的牌各两张，可用于组建副牌组。游玩《旧共和国武士》时，你还会找到其他副牌组卡牌，数值范围从 +/-1 到 +/-6。
+38629 := 现在选择十张牌组成你的副牌组。
+38630 := 比赛开始前，你必须选择十张牌组成副牌组。
+38631 := 游戏目标是让自己正面朝上的牌总点数高于对手手牌，同时不超过 20。
+38632 := 如果一名玩家在一个回合结束时总点数大于 20（即“爆牌”），对手赢得本局。玩家必须赢下 3 局才能赢得整场比赛。
+38633 := 第一名玩家从主牌组抽一张牌，正面朝上打出以开始自己的回合。此过程会自动完成。
+38634 := 这是你本场比赛的手牌。它由你先前选择的副牌组中随机抽出的 4 张牌组成。这些牌必须撑完整场比赛的所有局。
+38635 := 抽牌后，玩家可以选择打出一张手牌。你每回合只能从手牌中打出一张牌，方法是将它拖到牌桌上，或双击它。打出手牌是可选的。
+38636 := 提示：如果你抽牌后总点数超过 20，并且手中有负值牌，就可以打出它，让总点数回到 20 以下。
+38637 := 玩家选择“结束回合”或“停牌”时，该玩家的回合结束。如果你选择“结束回合”，你会在下一回合再抽一张牌。
+38638 := 如果你选择“停牌”，你将不再抽牌，并且在本场比赛的下一局开始前不能再打出任何手牌。
+38639 := 你现在可以选择打出一张手牌、结束回合或停牌。
+38640 := 如果你停牌，你将不能再抽牌，并且在本场比赛的下一局开始前不能再打出任何手牌。你确定要停牌吗？
+38641 := 当你选择“结束回合”时，你会在下一回合开始时自动再抽一张牌。记住：如果你的牌在回合结束时总点数超过 20，你就会爆牌，对手赢得本局。
+38642 := 你每回合只能打出一张手牌。打出手牌是可选的。你永远不会得到超过开局时那 4 张手牌，所以也许应该把它们留到关键时刻。
+38643 := 在旅途中，你也许会找到既能作为负值也能作为正值打出的牌。这类牌非常稀有，但能给帕扎克牌玩家带来强大的战术优势。
+38644 := 手牌在打出前必须声明为正值或负值。它还在你手中时可以来回翻转，但一旦打出就不能再改变。
+38645 := 你的对手使用和你相同的规则。每个回合他们都会抽一张牌，然后可以选择打出一张手牌、结束回合或停牌。
+38646 := 如果一名玩家的总点数正好是 20，就会自动停牌。对手可以继续打牌，直到停牌或爆牌。
+38647 := 如果一名玩家在自己的回合结束后总点数大于 20，就是爆牌。对手自动赢得本局。
+38648 := 比赛会持续到一名玩家赢下 3 局为止。平局不计。比赛中你永远不会得到更多手牌，所以请谨慎使用手中的 4 张牌。
+38649 := 比赛结束。
+38651 := 先决条件：
+绝地哨兵
 
-The Jedi possesses an inner calm that cannot be shaken by mere threats to mind or body. The Force grants understanding, which is a shield that fear cannot breach. This feat is always active.
-38652 := Prerequisites:
-Level 6 Jedi Sentinel
+绝地拥有一种不会被单纯身心威胁动摇的内在平静。原力赐予理解，而理解是一面恐惧无法突破的护盾。此专长始终生效。
+38652 := 先决条件：
+等级 6 绝地哨兵
 
-The Jedi has an unshakable connection to the Force and, through it, to the galaxy as well. No amount of damage or distraction will cause fear or a loss of alertness. This feat is always active. This feat replaces Force Immunity: Fear.
-38653 := Prerequisites:
-Level 12 Jedi Sentinel
+绝地与原力、也通过原力与银河系本身建立了不可动摇的联结。无论多少伤害或干扰，都不会造成恐惧或警觉丧失。此专长始终生效。此专长取代原力免疫：恐惧。
+38653 := 先决条件：
+等级 12 绝地哨兵
 
-The Jedi is one with the Force, moving within it as it moves within all things. This connection prevents fear or loss of senses, and blocks any attempt at paralyzation. This feat is always active. This feat replaces Force Immunity: Stun.
-38654 := Prerequisites:
-Jedi Guardian
+绝地与原力合而为一，在原力之中行动，如同原力在万物之中流动。这种联结会防止恐惧或感官丧失，并阻挡任何麻痹尝试。此专长始终生效。此专长取代原力免疫：震慑。
+38654 := 先决条件：
+绝地守护者
 
-Requires Lightsaber
+需要光剑
 
-The Jedi knows that if diplomacy fails, combat must be swift and decisive. When an opponent at range is targeted with a standard lightsaber melee attack, this feat allows Guardians to make a quick series of jumps and rolls to close the distance almost instantly. This feat is automatic when wielding a lightsaber and targeting opponents with a standard melee attack from more than 10 meters away. The Jedi must have a clear line of sight to the opponent.
-NOTE: Using a feat or special attack negates this ability.
-38655 := Prerequisites:
-Level 6 Jedi Guardian
+绝地知道，如果外交失败，战斗就必须迅速而果断。当以标准光剑近战攻击瞄准远处对手时，此专长允许守护者通过一连串快速跳跃和翻滚，几乎瞬间拉近距离。挥舞光剑并从 10 米外以标准近战攻击瞄准对手时，此专长会自动生效。绝地与对手之间必须有清晰视线。
+注意：使用专长或特殊攻击会使此能力失效。
+38655 := 先决条件：
+等级 6 绝地守护者
 
-Requires Lightsaber
+需要光剑
 
-The Jedi knows that if combat is inevitable it must be swift and decisive. When an opponent at range is targeted with a standard lightsaber melee attack, the Guardian closes the distance almost instantly and also receives +2 to hit and damage on the first strike. This feat is automatic when wielding a lightsaber and targeting opponents with a standard melee attack from more than 10 meters away. The Jedi must have a clear line of sight to the opponent.
-This feat replaces Force Jump.
-NOTE: Using a feat or special attack negates this ability.
-38656 := Prerequisites:
-Level 12 Jedi Guardian
+绝地知道，如果战斗不可避免，就必须迅速而果断。当以标准光剑近战攻击瞄准远处对手时，守护者几乎瞬间拉近距离，并在第一击获得命中和伤害 +2。挥舞光剑并从 10 米外以标准近战攻击瞄准对手时，此专长会自动生效。绝地与对手之间必须有清晰视线。
+此专长取代原力跳跃。
+注意：使用专长或特殊攻击会使此能力失效。
+38656 := 先决条件：
+等级 12 绝地守护者
 
-Requires Lightsaber
+需要光剑
 
-The Jedi knows that if combat is inevitable it must be swift and decisive. When an opponent at range is targeted with a standard lightsaber melee attack, the Guardian closes the distance almost instantly and also receives +4 to hit and damage on the first strike. This feat is automatic when wielding a lightsaber and targeting opponents with a standard melee attack from more than 10 meters away. The Jedi must have a clear line of sight to the opponent.
-This feat replaces Improved Force Jump.
-NOTE: Using a feat or special attack negates this ability.
-38657 := Sitting Bith
-38658 := Sitting Rakata
-38659 := Sitting Rodian
-38660 := Sitting Selkath
-38661 := Sitting Twilek Female
-38662 := Sitting Twilek Male
-38663 := Sitting Walrusman
-38664 := Sitting WookieeFemale
-38665 := Sitting WookieeMale
-38666 := Sitting Swoopganger
-38667 := Prerequisites:
-Scoundrel
+绝地知道，如果战斗不可避免，就必须迅速而果断。当以标准光剑近战攻击瞄准远处对手时，守护者几乎瞬间拉近距离，并在第一击获得命中和伤害 +4。挥舞光剑并从 10 米外以标准近战攻击瞄准对手时，此专长会自动生效。绝地与对手之间必须有清晰视线。
+此专长取代高级原力跳跃。
+注意：使用专长或特殊攻击会使此能力失效。
+38657 := 坐着的比思人
+38658 := 坐着的拉卡塔人
+38659 := 坐着的罗迪亚人
+38660 := 坐着的塞尔卡斯人
+38661 := 坐着的提列克女性
+38662 := 坐着的提列克男性
+38663 := 坐着的阿夸利什人
+38664 := 坐着的伍基女性
+38665 := 坐着的伍基男性
+38666 := 坐着的飞梭帮成员
+38667 := 先决条件：
+无赖
 
-Scoundrels have a knack for getting in trouble, but to compensate, they also possess an incredible instinct for survival. This manifests as a truly useful +2 to defense. This feat is always active.
-38668 := Prerequisites:
-Level 6 Scoundrel
+无赖总有惹上麻烦的本事，但作为补偿，他们也拥有惊人的生存本能。这表现为真正有用的防御值 +2。此专长始终生效。
+38668 := 先决条件：
+等级 6 无赖
 
-As their skills increase, Scoundrels learn to make the most of their infamous luck, turning the whims of chance into a certain +4 to defense. This feat is always active. This feat replaces Scoundrel's Luck.
-38669 := Prerequisites:
-Level 12 Scoundrel
+随着技能提升，无赖学会充分利用自己臭名昭著的运气，把机会的反复无常转化为稳定的防御值 +4。此专长始终生效。此专长取代无赖的幸运。
+38669 := 先决条件：
+等级 12 无赖
 
-At the heights of their abilities, Scoundrels can seem to regularly defy the odds to survive any situation. Their skills and luck combine to grant a remarkable +6 to defense. This feat is always active. This feat replaces Improved Scoundrel's Luck.
-38670 := Prerequisites:
-Jedi
+在能力达到巅峰时，无赖似乎经常能违背概率，在任何处境中活下来。他们的技能和运气结合起来，赋予显著的防御值 +6。此专长始终生效。此专长取代高级无赖的幸运。
+38670 := 先决条件：
+绝地
 
-The Jedi develops a connection to the Force that allows them to better sense incoming attacks. This feat grants +2 defense and is always active.
-38671 := Prerequisites: 
-Level 6 Jedi
+绝地发展出与原力的联结，使其能够更好地感知来袭攻击。此专长给予防御值 +2，并始终生效。
+38671 := 先决条件：
+等级 6 绝地
 
-Furthering their connection to the Force, the Jedi gains an additional sensitivity to the actions of others in combat. This feat grants +4 defense and is always active. This feat replaces Jedi Sense.
-38672 := Prerequisites:
-Level 12 Jedi
+进一步加深与原力的联结后，绝地对战斗中他人的动作获得额外敏感度。此专长给予防御值 +4，并始终生效。此专长取代绝地感应。
+38672 := 先决条件：
+等级 12 绝地
 
-As their connection to the Force continues to strengthen, the Jedi gains a supreme sense of self and the actions of others in combat. This feat grants +6 defense and is always active. This feat replaces Knight Sense.
-38673 := Prerequisites:
-Droid
+随着与原力的联结继续增强，绝地对自我以及战斗中他人的动作获得至高感应。此专长给予防御值 +6，并始终生效。此专长取代骑士感应。
+38673 := 先决条件：
+机器人
 
-The droid is fitted with the most basic combat programming, allowing for simple but effective defense maneuvers. This feat grants +2 to defense and is always active.
-38674 := Prerequisites:
-Level 6 Droid
+机器人安装了最基础的战斗程序，能够执行简单但有效的防御机动。此专长给予防御值 +2，并始终生效。
+38674 := 先决条件：
+等级 6 机器人
 
-Having witnessed the effects and actions of combat first hand, the droid is able to self-upgrade their defensive algorithms. This feat grants +4 to defense and is always active. This feat replaces the Combat Logic upgrade.
-38675 := Prerequisites:
-Level 12 Droid
+亲眼见证战斗的效果和动作后，机器人能够自行升级防御算法。此专长给予防御值 +4，并始终生效。此专长取代战斗逻辑升级。
+38675 := 先决条件：
+等级 12 机器人
 
-Fully experienced with the rigors of combat, the droid is able to self-upgrade its tactical reasoning and maximize its defensive potential. This feat grants +6 to defense and is always active. This feat replaces the Tactician Logic upgrade.
-38676 := Quiet Room with Walla
-38677 := Medium Room with Walla
-38678 := Busy Room with Walla
-38679 := Small Empty Room
-38680 := Medium Empty Room
-38681 := Large Empty Room
-38682 := You cannot win, Revan.
-38683 := Recovery Stim
-38684 := Terrain: desert, canyons
-Native Species: Jawas, Sand People
-Docking: Anchorhead settlement
-38685 := Terrain: temperate forest
-Native Species: Wookiees
-Docking: Czerka Corp. outpost
-38686 := Terrain: worldwide cityscape
-Native Species: mixed, Human majority
-Docking: docking not available
-38687 := Terrain: volcanic mountain range
-Native Species: none known, now settled
-Docking: Dreshdae settlement
-38688 := This planet has no entry in the Republic archives.
-38689 := Terrain: worldwide ocean
-Native Species: Selkath
-Docking: city of Ahto
-38690 := This space station is of an unknown configuration and has no entry in the Republic archives.
-38691 := Climate: Temperate grassland
-Native Species: none native, now settled
-Docking: Jedi Academy
-38692 := Class
-38693 := Change Character
-38694 := Squad Recovery Stim
-38695 := Each squad recovery stim includes a number of fittings to be placed on every member of the group (automatically done at purchase). When activated, a stim shot is triggered that heals everyone for 10 vitality points. This unit also includes electro-stim fittings that spur the auto-repair functions of droid group members, effectively repairing them for 10 vitality points as well.
-38696 := [The Czerka commander is itching for a fight, and stealing their equipment would be ample justification. Attempting to open one of these containers again will trigger a hostile reaction.]
-38697 := Damage: None
+充分经历战斗的严酷考验后，机器人能够自行升级战术推理能力，并最大化其防御潜力。此专长给予防御值 +6，并始终生效。此专长取代战术家逻辑升级。
+38676 := 有背景人声的安静房间
+38677 := 有背景人声的中型房间
+38678 := 有背景人声的繁忙房间
+38679 := 小型空房间
+38680 := 中型空房间
+38681 := 大型空房间
+38682 := 你赢不了的，瑞文。
+38683 := 恢复兴奋剂
+38684 := 地形：沙漠、峡谷
+原生物种：贾瓦人、沙人
+停靠：锚头镇定居点
+38685 := 地形：温带森林
+原生物种：伍基人
+停靠：泽卡公司前哨站
+38686 := 地形：全球性城市景观
+原生物种：混合，以人类为主
+停靠：无法停靠
+38687 := 地形：火山山脉
+原生物种：无已知原生物种，现有定居
+停靠：德雷什戴定居点
+38688 := 这颗星球在共和国档案中没有条目。
+38689 := 地形：全球性海洋
+原生物种：塞尔卡斯人
+停靠：阿赫托城
+38690 := 这座空间站构型未知，在共和国档案中没有条目。
+38691 := 气候：温带草原
+原生物种：无原生物种，现有定居
+停靠：绝地学院
+38692 := 职业
+38693 := 切换角色
+38694 := 小队恢复兴奋剂
+38695 := 每支小队恢复兴奋剂都包含若干配件，会放置在队伍每个成员身上（购买时自动完成）。激活后会触发一次兴奋剂注射，为所有人治疗 10 点活力点数。此装置还包含电刺激配件，会促使机器人队伍成员的自动修理功能运作，实际上也为它们修复 10 点活力点数。
+38696 := [泽卡指挥官正巴不得打一架，而偷走他们的装备就足以成为理由。再次尝试打开这些容器之一会触发敌对反应。]
+38697 := 伤害：无
 
-Secondary: Stun for 9sec
+次要：震慑 9 秒
 
-Area of Effect: 3.3m radius
+效果范围：3.3 米半径
 
-Save :
-DC20 to negate stun
+豁免：
+DC 20 免除震慑
 
-This variant of the stun mine is an improvement on the basic model. Larger power cells increase its effectiveness a considerable amount.
-38698 := Damage: None
+这种震慑地雷变体是基础型号的改进版。更大的能量电池显著提高了它的效果。
+38698 := 伤害：无
 
-Secondary: Stun for 9sec
+次要：震慑 9 秒
 
-Area of Effect: 3.3m radius
+效果范围：3.3 米半径
 
-Save :
-DC25 to negate stun
+豁免：
+DC 25 免除震慑
 
-The most powerful stun mine available, this item can quickly disable anyone unfortunate enough to activate it.
-38699 := Damage: Piercing, 30pts
+这是可获得的最强大震慑地雷，能迅速使任何不幸触发它的人失能。
+38699 := 伤害：穿刺，30 点
 
-Area of Effect: 3.3m radius
+效果范围：3.3 米半径
 
-Save :
-DC20 for half damage
+豁免：
+DC 20 伤害减半
 
-Like all frag mines, this item sends a blast of shrapnel through any nearby enemies. This variant is much more powerful than the basic model.
-38700 := Damage: Piercing, 54pts
+和所有破片地雷一样，此物品会向附近所有敌人爆出一阵弹片。这种变体比基础型号强大得多。
+38700 := 伤害：穿刺，54 点
 
-Area of Effect: 3.3m radius
+效果范围：3.3 米半径
 
-Save :
-DC25 for half damage
+豁免：
+DC 25 伤害减半
 
-The most powerful fragmentation mine available, this item can make short work of entire battle groups.
-38701 := Damage: Heat, 42pts
+这是可获得的最强破片地雷，能迅速解决整支战斗小队。
+38701 := 伤害：高温，42 点
 
-Area of Effect: 3.3m radius
+效果范围：3.3 米半径
 
-Save:
-DC20 for half damage
+豁免：
+DC 20 伤害减半
 
-An extremely volatile mixture of incendiary chemicals makes this plasma mine much more powerful than the basic model.
-38702 := Damage: Heat, 72pts
+极度不稳定的燃烧性化学混合物使这种等离子地雷比基础型号强大得多。
+38702 := 伤害：高温，72 点
 
-Area of Effect: 3.3m radius
+效果范围：3.3 米半径
 
-Save:
-DC25 for half damage
+豁免：
+DC 25 伤害减半
 
-The most damaging plasma mine available, this item throws intense heat over a wide radius.
-38703 := Damage: Special
+这是可获得的伤害最高的等离子地雷，会在大范围内释放强烈高温。
+38703 := 伤害：特殊
 
-Secondary:
-Poison, 4 pts every 3 sec
+次要：
+中毒，每 3 秒 4 点
 
-Duration: 30sec
+持续时间：30 秒
 
-Area of Effect: 3.3m radius
+效果范围：3.3 米半径
 
-Save:
-DC20 for no effect
+豁免：
+DC 20 无效果
 
-This item emits a far more toxic cloud of gas than the basic model mine of this type.
-38704 := Damage: Special
+此物品释放的毒气云远比这类地雷的基础型号更具毒性。
+38704 := 伤害：特殊
 
-Secondary:
-Poison, 5 pts every 3 secs
+次要：
+中毒，每 3 秒 5 点
 
-Duration: 30sec
+持续时间：30 秒
 
-Area of Effect: 3.3m radius
+效果范围：3.3 米半径
 
-Save:
-DC30 for no effect
+豁免：
+DC 30 无效果
 
-The most toxic poison mine available, this item can quickly reduce the effectiveness of entire enemy groups.
-38705 := Zaalbar, let me handle this.
-38706 := But their disregard for the life of this Wookiee is too much!
-38707 := I have asked you to let me handle this. Honor my request.
-38708 := I will do so. For your sake, not theirs.
-38709 := Mind your place, Zaalbar! Remember your debt!
-38710 := I will honor my debt, but I can barely stomach this.
-38711 := Does this make you mad, Zaalbar? I bet it does.
-38712 := What are you getting at? Do you want these men dead? I would not need much encouraging!
-38713 := Do it. Kill them. We'll make them pay.
-38714 := Control yourself. Let me take care of this.
-38715 := You believe whatever you need to to get you through this, sonny. The bottom line is we both want to stop Malak, so let's not get hung up on the details. Let's just get back to stopping him.
-38716 := Jolee, may I have a moment? There is something I wish to speak to you about.
-38717 := Yep, I figured it was only a matter of time until we had the whole "come back to the Order" discussion. Well, I guess there's no avoiding it now, so let's get it over with.
-38718 := I know you have... issues... with the Order. But you are a Jedi, Jolee. You command the Force. Without the guidance of the Council how can you avoid falling to the dark side?
-38719 := Well, I've managed to avoid it the last 20 years or so. Besides, light side, dark side: they don't mean the same to me as they do to you. I don't see in absolutes.
-38720 := I want to stop Malak as much as anyone. But I don't have to join the Order to do it. Look at Carth, or Canderous. They're with us in this quest, but they aren't Jedi.
-38721 := The capacity for good or evil, like the Force itself, is in all living creatures. And belonging to the Jedi Order, or the Sith, or any group, won't change what you are at your core.
-38722 := I see you are quite adamant. No doubt you've had ample time to think on this during your long seclusion. I guess it was foolish of me to think I could sway your position so easily.
-38723 := Yeah, I'm old and stubborn. But I appreciate the effort. But from now on you can just think of me as any other non-Jedi in our little group - with a lightsaber. And Force powers.
-38724 := Hey, Bastila. You ever just use the Force for fun? You know, a little jolt of the Force to trip some jerk who's ticking you off?
-38725 := I would never use the Force for such a petty and trivial revenge! The mere thought of it is preposterous!
-38726 := Ah, come on. There's got to be times when you've thought about it. Don't be so stuck up - you can tell me.
-38727 := I am not stuck up. I merely have the years of training to give me the wisdom and understanding to see how childish such an act would be.
-38728 := Childish? Is that a crack about my age? You ain't much older than me, miss high and mighty! Just 'cause you're some Jedi doesn't mean you can be a prissy little...
-38729 := What the -?? Hey, that wasn't funny!
-38730 := I have no idea what you're talking about, Mission. Come now, we have to get going. Please do try to be less clumsy in the future.
-38731 := Hey, Big Z. Don't take this the wrong way, but lately I've noticed you're starting to look a little bit scruffy.
-38732 := Scruffy? What are you talking about? I hope you aren't suggesting I take a bath!
-38733 := No, I'm not suggesting a bath. I know how well that went over last time. But your hair's getting all tangled. And if you look close, you can see a few gray strands starting to poke through.
-38734 := You're making this up! I groom every day! My hair is not tangled, and it's not going gray!
-38735 := Don't worry, Big Z. It's nothing I can't fix. A little trim, a splash of coloring and you'll be as good as new. Best looking Wookiee on the planet. Maybe a nice suit...
-38736 := You don't trim a Wookiee! You don't color a Wookiee! And you certainly don't dress a Wookiee!
-38737 := I know Wookiees aren't into the whole clothing thing, but you could start a whole new trend! You'd be on the cutting edge.
-38738 := Rargh! Leave me alone!
-38739 := Okay, okay. Sheesh. Try to offer some constructive criticism and this is the thanks I get? Let's move on. You can just stay naked and scruffy for all I care.
-38740 := Hey, Big Z, we've got to do something about your breath.  I didn't want to say anything, but it's bad. Worse than usual, which is hard to believe.
-38741 := In fact, now that I think about it, your breath has been pretty rancid ever since we rescued you from those Gammorean slavers. What did they feed you, buddy?
-38742 := They didn't. I wasn't their guest, Mission. I was a prisoner. I don't think they cared much what happened to me. 
-38743 := Oh, Zaalbar, that's terrible! I know how grouchy you get if you don't get your eight square meals a day. I'm amazed you didn't pass out from hunger.
-38744 := I did manage to take a chunk out of the arm of a guards that wandered too close to my cage. But it tasted awful, so I spit it out.
-38745 := Ewww! No wonder your breath is so bad, Big Z. Gammoreans smell like bantha poo-doo! We'll have to pick you up a toothbrush to clean that stench out of your choppers.
-38746 := Wookiees do not brush their teeth, Mission! It... it just isn't done! What humiliation will you use on me next? A comb?
-38747 := Okay, relax. No toothbrush. Sheesh. Just try to eat something else to cover up that smell, okay? Stay away from anything that's smart enough to lock you in a cage this time.
-38748 := *sigh* I'll take care of it as soon as I can, Mission. For now, let's stay focused on the task at hand.
-38749 := So, Bastila, I heard a rumor that the Vulkars captured you without much of a struggle. It must be embarrassing to be bested by a handful of street thugs.
-38750 := There were extenuating circumstances. And I can assure you it took far more than a handful of Vulkars to subdue me.
-38751 := Whatever you say. All I know is that if we had more Jedi like Bastila fighting against us in the Mandalorian Wars, my side might not have lost.
-38752 := Bold talk from a broken-down merceneray who was serving at Davik's heel. I'd call you his pet kath hound, but they have enough loyalty not to turn on their masters.
-38753 := Insults? Maybe if your Master had trained your lightsaber to be as quick as your tongue you could have escaped those Vulkars, you spoiled little Jedi princess!
-38754 := I was not spoiled! I was given the same training as everyone else in the Order! You are nothing but a... no. I must not do this. There is no emotion; there is peace.
-38755 := That's the problem with you Jedi. Always chanting about peace and control, never up for a good fight. Well, except for Revan, I guess.
-38756 := Enough, Mandalorian. I won't rise to your bait any more. The game is over. Let us continue on with what we were doing.
-38757 := Carth, you fought in the Mandalorian Wars, didn't you? We may have faced each other in combat. What battles were you in?
-38758 := I try not to think about my past battles too much. The horrors of war are something I'd rather not relive.
-38759 := The horrors of war? My people know only the glory of battle. I'm disappointed in you, Carth. I thought a warrior like you would understand.
-38760 := I'm not a warrior, I'm a soldier. There's a difference. Warriors attack and conquer, they prey on the weak. Soldiers defend and protect the innocent - mostly from warriors.
-38761 := Nice speech. I bet you tell yourself that every night so you can sleep. But I accept who and what I am. I don't have to justify it with words - victory in battle is my justification!
-38762 := Justification through victory? So what happens when you lose? You know, like you did against us.
-38763 := You had us outnumbered five to one. You had more ships, more troops, more supplies and the Jedi on your side. And we still made the Republic tremble before we fell!
-38764 := Nice speech. I bet you tell yourself that every night so you can sleep. I don't want to talk about this anymore, Canderous. The war is over. You lost.
-38765 := Uh, hey Carth. Can I... can I talk to you for a second?
-38766 := Are you ready to have a civil chat? Or are is this going to be another childish tantrum?
-38767 := Tantrum? I'm trying to apologize, you nerf-herder! Uh... I mean... I'm sorry. I didn't mean to get mad at you. It's just that I'm sick of everyone treating me like I'm a helpless kid.
-38768 := Yeah, I know. And I'm sorry about what I said, too. I'm just a little on edge lately. Not surprising considering all we've been through. But I shouldn't take it out on you.
-38769 := Mission, you have to know that we don't think you're helpless. Look where we are, look at what we're doing. You're not just along for the ride.  We need you.
-38770 := You really mean it, don't you? Nobody's ever said anything like that to me before, not even Big Z. He might think it, but he's not really one for words, you know. Thanks, Carth.
-38771 := Ah, it's no big deal. I know how it is. Sometimes you just need to hear a few words of encouragement. Kids are like that.
-38772 := Kids are like that?? Listen you... oh, I get it. Okay, you got me. You're pretty funny, Carth. For an old guy. Come on, you geezer - let's get back to what we were doing.
-38773 := Hey, Carth. You're a pilot for the Republic, right? You've been all over the galaxy I bet, right? So tell me, how would you rate Taris compared to other worlds you've seen?
-38774 := I'll be honest, Mission, Taris would rate pretty low. The prejudice, the rich spoiling themselves while the poor are crushed beneath them - not a pretty picture.
-38775 := Yeah, but that's only since the Sith occupation. Before that... well, I guess it wasn't all that different, really. Hmm... maybe Taris ain't as great as I thought, you know?
-38776 := Trust me, Mission. There are a lot of worlds better than Taris. There are worse, too. But Taris is no place for a kid to live on her own - even a kid who's got a Wookiee to look out for her.
-38777 := Hey, I ain't no kid! And I look out for Zaalbar as much as he looks out for me. Big Z's my friend, not my babysitter! Geez, I come ask you a question and you give me a lecture!
-38778 := Don't you snap at me, missy! You want a lecture? How's this: only bratty little children fly off the handle because of a simple comment.
-38779 := I don't have to listen to you, Carth! You ain't my father - though you're sure old enough to be! So keep your lectures inside your withered old head, 'cause I don't need 'em!
-38780 := And I sure as hell don't need this. Let's just drop it and get back to what we were doing.
-38781 := Bastila, did you ever think about joining all the Jedi who were running off to follow Revan and Malak when they went to fight the Mandalorians?
-38782 := That was nearly five years ago. I was still an apprentice, my Battle Meditation hadn't even manifested itself. Yet even then I had the wisdom to obey the will of the Council. Unlike Revan.
-38783 := I guess. Still, do you ever wonder if things could have been different? Would Revan and Malak still have been corrupted if the Council had supported them instead of dragging its feet?
-38784 := Do not blame Revan's corruption on the Council! Your Republic saw only the threat of the Mandalorians, but the wisdom of the Masters saw beyond the immediate threat.
-38785 := There was something lurking out there, something that devoured Revan and Malak - and many other Jedi. Had the Council sent us all into the unknown, how many more would have fallen?
-38786 := So you're saying we should have done nothing? Just let the Mandalorians conquer us unopposed? I mean, the Republic was under attack, and the Order abandoned us!
-38787 := We did not abandon you! But the Council were not about to throw lives away foolishly. In time, we would have aided you against the Mandalorians. But you couldn't wait.
-38788 := Revan and Malak offered a quicker answer, and the Republic chose to walk the easy path rather than the path of wisdom. Now we see the results all around us.
-38789 := You asked me if I think things could have been different? I *know* they could have! If Revan had only listened to the Council, millions of innocent people would still be alive.
-38790 := Yeah, right. And every single one of them would be speaking Mandalorain. I think we're done here. Let's just get back to the task at hand.
-38791 := Bastila, I was wondering something. How did those Vulkars manage to capture a famous Jedi like you? Were you knocked out when your escape pod crashed?
-38792 := No, I was conscious. But my Force powers were exhausted from using my Battle Meditation in the battle for the Endar Spire. Without my help you might never have gotten off the ship alive.
-38793 := Fair enough. But I've seen you Jedi in action. There's no way those thugs would have stood a chance against your lightsaber.
-38794 := My lightsaber was... misplaced. I couldn't find it after the crash. I looked *everywhere* in that pod. The Vulkars came and overwhelmed me even as I was searching for my weapon.
-38795 := Wait a minute, let me get this straight. You *lost* your lightsaber? Ha-ha! I mean, isn't that a violation of some kind of Jedi code or something?
-38796 := This is no laughing matter! During the crash my lightsaber must have... it must have fallen from my belt and rolled under my seat! The Vulkars probably found it there when they searched the wreckage.
-38797 := Hey, hey, hey, don't get mad. I'm sorry. It's just funny to think of a legendary Jedi losing her lightsaber. Take my advice: this is one detail you might want to keep out of the history texts.
-38798 := I hardly consider myself a legend, Carth. Though I will consider your advice when I relate these events to the Jedi Council. There is no need for them to know *every* detail of what transpired.
-38799 := I think it's pretty clear that Malak is the tyrant in this case.
+这是可获得的毒性最强的毒素地雷，能迅速削弱整群敌人的战斗力。
+38705 := 扎尔巴，让我来处理这件事。
+38706 := 但他们对这个伍基人生命的漠视太过分了！
+38707 := 我已经请你让我来处理。尊重我的请求。
+38708 := 我会照做。看在你的份上，不是他们的。
+38709 := 注意自己的位置，扎尔巴！记住你的债！
+38710 := 我会履行我的债，但这让我几乎难以忍受。
+38711 := 这让你生气了吗，扎尔巴？我打赌肯定是。
+38712 := 你到底想说什么？你想让这些人死吗？我不需要多少鼓动！
+38713 := 动手。杀了他们。我们要让他们付出代价。
+38714 := 控制住自己。让我来处理。
+38715 := 你就相信任何能让你挺过这事的说法吧，孩子。归根结底，我们都想阻止马拉克，所以别纠结细节了。我们还是回去阻止他吧。
+38716 := 乔利，可以占用你片刻吗？我有些事想和你谈谈。
+38717 := 是啊，我就知道我们迟早要来一场完整的“回归武士团”讨论。好吧，我想现在躲不过去了，那就说完吧。
+38718 := 我知道你和武士团之间有些……问题。但你是绝地，乔利。你掌握着原力。没有委员会的引导，你要如何避免堕入黑暗面？
+38719 := 嗯，过去差不多 20 年我都成功避开了。再说，光明面、黑暗面：对我来说，它们和对你来说的意义并不一样。我不按绝对来看事情。
+38720 := 我和任何人一样想阻止马拉克。但我不必为此加入武士团。看看卡斯，或者坎德鲁斯。他们和我们一起执行这项任务，但他们不是绝地。
+38721 := 行善或作恶的能力，就像原力本身一样，存在于所有生物之中。属于绝地武士团、西斯或任何组织，都不会改变你核心处是什么样的人。
+38722 := 看得出你非常坚定。毫无疑问，你在漫长隐居期间有充足时间思考这些。我想，认为自己能这么轻易改变你的立场，是我愚蠢了。
+38723 := 对，我又老又固执。不过我感谢你的努力。但从现在起，你可以把我当作我们这个小队里的另一个非绝地——只是带着一把光剑，还有原力能力。
+38724 := 嘿，巴丝蒂拉。你有没有只是为了好玩而使用原力？你知道的，来一点原力冲击，让惹你生气的混蛋绊一跤？
+38725 := 我绝不会为了这种卑微又琐碎的报复使用原力！光是这个念头就荒谬至极！
+38726 := 啊，得了吧。总该有些时候你想过吧。别那么高高在上，你可以告诉我。
+38727 := 我并不高高在上。我只是受过多年训练，拥有足够的智慧和理解，明白这种行为有多幼稚。
+38728 := 幼稚？这是在讽刺我的年龄吗？你也没比我大多少啊，高贵小姐！就因为你是个绝地，不代表你可以当个矫揉造作的小……
+38729 := 什么——？？嘿，这一点也不好笑！
+38730 := 我完全不知道你在说什么，米申。来吧，我们该走了。以后请尽量别这么笨手笨脚。
+38731 := 嘿，大Z。别误会，但我最近注意到你开始显得有点邋遢了。
+38732 := 邋遢？你在说什么？我希望你不是在建议我洗澡！
+38733 := 不，我不是建议洗澡。我知道上次那事有多不顺。但你的毛都开始打结了。仔细看的话，还能看到几缕灰毛冒出来。
+38734 := 你在胡编！我每天都梳理！我的毛没有打结，也没有变灰！
+38735 := 别担心，大Z。这没什么我修不了的。稍微修剪一下，染一点颜色，你就会焕然一新。星球上最好看的伍基人。也许再配一套漂亮衣服……
+38736 := 你不能修剪伍基人！不能给伍基人染色！更绝对不能给伍基人穿衣服！
+38737 := 我知道伍基人不太接受穿衣服这回事，但你可以开创一种全新潮流！你会走在时尚最前沿。
+38738 := 吼啊！别烦我！
+38739 := 好吧，好吧。啧。试着给点建设性批评，结果这就是我得到的感谢？继续走吧。你想一直光着身子又毛糙，我才不管。
+38740 := 嘿，大Z，我们得想办法处理一下你的口气。我本来不想说什么，但真的很糟。比平常还糟，这都难以置信。
+38741 := 事实上，现在我想想，自从我们把你从那些加莫人奴隶贩子手里救出来后，你的口气就一直很腐臭。他们都喂你吃了什么，伙计？
+38742 := 他们没喂。我不是他们的客人，米申。我是囚犯。我想他们并不关心我会怎么样。
+38743 := 哦，扎尔巴，那太可怕了！我知道你要是一天吃不到八顿正餐会有多暴躁。我真惊讶你没有饿昏过去。
+38744 := 我确实咬掉过一个离笼子太近的守卫手臂上一大块肉。但味道太糟，所以我吐掉了。
+38745 := 呕！难怪你的口气这么糟，大Z。加莫人闻起来像班萨粪便！我们得给你买把牙刷，把那股臭味从你的牙齿里清出去。
+38746 := 伍基人不刷牙，米申！这……这就是不该做的事！你接下来还要拿什么羞辱我？梳子吗？
+38747 := 好吧，放松。不要牙刷。啧。那就试着吃点别的东西盖住那股味道，好吗？这次离任何聪明到会把你关进笼子的东西远一点。
+38748 := *叹气* 我会尽快处理，米申。现在，我们还是专注于手头任务吧。
+38749 := 所以，巴丝蒂拉，我听说有个传言，说火神帮没费多大劲就抓住了你。被一小撮街头混混打败，一定很难堪吧。
+38750 := 当时有情有可原的情况。而且我可以向你保证，制服我所需的火神帮成员远不止一小撮。
+38751 := 随你怎么说。我只知道，如果曼达洛战争中有更多像巴丝蒂拉这样的绝地和我们作战，我这一方也许就不会输了。
+38752 := 这话出自一个给戴维克当走狗的落魄雇佣兵，还真够大胆。我本想叫你他的宠物卡斯猎犬，但它们至少足够忠诚，不会反咬主人。
+38753 := 侮辱？如果你的大师把你的光剑训练得像你的舌头一样快，也许你就能逃过那些火神帮了，你这个被宠坏的小绝地公主！
+38754 := 我没有被宠坏！我接受的训练和武士团里其他人一样！你不过是个……不。我不能这么做。没有情感，唯有平静。
+38755 := 这就是你们绝地的问题。总是念叨和平与控制，永远不愿好好打一架。嗯，我想瑞文除外。
+38756 := 够了，曼达洛人。我不会再上你的钩了。游戏结束。让我们继续刚才在做的事。
+38757 := 卡斯，你参加过曼达洛战争，对吧？我们也许曾经在战场上交过手。你参加过哪些战役？
+38758 := 我尽量不去想过去那些战斗。战争的恐怖是我不愿重温的东西。
+38759 := 战争的恐怖？我的人民只知道战斗的荣耀。我对你很失望，卡斯。我以为像你这样的战士会明白。
+38760 := 我不是战士，我是士兵。这两者有区别。战士进攻和征服，掠食弱者。士兵保护和守卫无辜者——主要是保护他们不受战士侵害。
+38761 := 漂亮的演说。我打赌你每晚都这样告诉自己，好让自己睡得着。但我接受我是什么人、是什么东西。我不需要用话语来辩解——战斗中的胜利就是我的辩解！
+38762 := 用胜利来辩解？那你输了会怎么样？比如你们输给我们那次。
+38763 := 你们人数是我们的五倍。你们有更多舰船、更多部队、更多补给，还有绝地站在你们那边。可在倒下之前，我们仍让共和国颤抖！
+38764 := 漂亮的演说。我打赌你每晚都这样告诉自己，好让自己睡得着。我不想再谈这个了，坎德鲁斯。战争结束了。你输了。
+38765 := 呃，嘿，卡斯。我能不能……和你谈一下？
+38766 := 你准备好文明地聊聊了吗？还是这又会变成另一场幼稚的发脾气？
+38767 := 发脾气？我是在试着道歉，你这个纳夫牧人！呃……我是说……对不起。我不是故意对你生气。只是我受够了大家都把我当成无助的小孩。
+38768 := 是啊，我知道。我也为自己说过的话道歉。我最近只是有点紧绷。考虑到我们经历过的一切，这并不奇怪。但我不该把气撒在你身上。
+38769 := 米申，你得知道，我们并不觉得你无助。看看我们在哪里，看看我们在做什么。你不只是跟着搭便车。我们需要你。
+38770 := 你是真心的，对吧？以前从没有人对我说过这种话，就连大Z也没有。他也许会这么想，但他真的不太擅长说话，你知道。谢谢，卡斯。
+38771 := 啊，没什么大不了的。我知道那是什么感觉。有时候你就是需要听几句鼓励的话。小孩子就是这样。
+38772 := 小孩子就是这样？？听着，你这个……哦，我懂了。好吧，你赢了。你挺有意思的，卡斯。以一个老头来说。来吧，老家伙——我们回去做刚才的事吧。
+38773 := 嘿，卡斯。你是共和国飞行员，对吧？我打赌你去过银河系各处，对吧？那告诉我，和你见过的其他世界相比，你会怎么评价塔里斯星？
+38774 := 我说实话，米申，塔里斯星的评价会相当低。偏见，富人自我放纵，而穷人被压在他们脚下——并不是什么美好景象。
+38775 := 是啊，但那只是西斯占领之后。以前……好吧，我想其实也没有太大不同。嗯……也许塔里斯星并没有我想的那么伟大，你知道吗？
+38776 := 相信我，米申。有很多世界比塔里斯星更好。当然也有更糟的。但塔里斯星不是一个孩子独自生活的地方——即使是有伍基人照顾她的孩子。
+38777 := 嘿，我才不是小孩！而且我照顾扎尔巴，就像他照顾我一样多。大Z是我的朋友，不是我的保姆！天啊，我只是来问你一个问题，你却给我上课！
+38778 := 别对我顶嘴，小姑娘！你想听课？这样如何：只有被宠坏的小孩才会因为一句简单评论就大发脾气。
+38779 := 我才不用听你的，卡斯！你又不是我父亲——虽然你确实老到够当我父亲！所以把你的说教留在你干瘪的老脑袋里吧，因为我不需要！
+38780 := 我也绝对不需要这些。我们还是别谈了，回去做刚才的事吧。
+38781 := 巴丝蒂拉，当瑞文和马拉克去对抗曼达洛人时，你有没有想过加入那些纷纷追随他们而去的绝地？
+38782 := 那已经差不多是五年前了。我当时还是学徒，我的战斗冥想甚至还没有显现出来。可即便在那时，我也有足够的智慧去服从委员会的意志。不像瑞文。
+38783 := 我想也是。不过，你有没有想过事情本可以不同？如果委员会当初支持瑞文和马拉克，而不是拖拖拉拉，他们还会被腐化吗？
+38784 := 不要把瑞文的腐化归咎于委员会！你们共和国只看见曼达洛人的威胁，但大师们的智慧看到了眼前威胁之外的东西。
+38785 := 那里潜伏着某种东西，某种吞噬了瑞文和马拉克，也吞噬了许多其他绝地的东西。如果委员会把我们全都派进未知之中，还会有多少人堕落？
+38786 := 所以你是说我们什么都不该做？就让曼达洛人毫无阻碍地征服我们？我是说，共和国正遭受攻击，而武士团抛弃了我们！
+38787 := 我们没有抛弃你们！但委员会不会愚蠢地把生命白白丢掉。假以时日，我们会帮助你们对抗曼达洛人。但你们等不了。
+38788 := 瑞文和马拉克给出了更快的答案，而共和国选择走容易的道路，不是智慧的道路。现在我们在周围看到了结果。
+38789 := 你问我是否认为事情本可以不同？我*知道*它们本可以不同！如果瑞文当初听从委员会，数百万无辜者现在仍会活着。
+38790 := 是啊，当然。然后他们每一个都会说曼达洛语。我想我们谈完了。还是回到手头任务吧。
+38791 := 巴丝蒂拉，我一直想问件事。那些火神帮到底是怎么抓住你这样一位著名绝地的？你的逃生舱坠毁时你昏过去了吗？
+38792 := 没有，我当时清醒着。但我的原力能力在恩达尖塔号战斗中使用战斗冥想后已经耗尽。没有我的帮助，你们也许根本无法活着离开那艘船。
+38793 := 好吧，说得过去。但我见过你们绝地行动。那些暴徒根本不可能挡得住你的光剑。
+38794 := 我的光剑被……放错地方了。坠毁后我找不到它。我在那个舱里*到处*找。火神帮在我还在找武器时来了，并且压倒了我。
+38795 := 等一下，让我弄清楚。你*丢了*你的光剑？哈哈！我是说，这难道不违反某种绝地准则什么的吗？
+38796 := 这不是可笑的事！坠毁时我的光剑一定是……一定是从腰带上掉下来，滚到我的座位底下了！火神帮搜索残骸时大概在那里找到了它。
+38797 := 嘿，嘿，嘿，别生气。对不起。只是想到一位传奇绝地丢了自己的光剑很好笑。听我一句劝：这个细节你也许最好别写进史书里。
+38798 := 我几乎不认为自己是什么传奇，卡斯。不过等我向绝地委员会叙述这些事件时，会考虑你的建议。没必要让他们知道发生过的*每一个*细节。
+38799 := 我想很明显，在这个案子里马拉克才是暴君。
 38800 := If you feel that way, why did you come with us?
 38801 := Are you saying what we're doing isn't important?
 38802 := Of course! Malak isn't evil, he's just misunderstood!
