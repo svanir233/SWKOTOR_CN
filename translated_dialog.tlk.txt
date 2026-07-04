@@ -38759,69 +38759,69 @@ C8-42 则稍微没有那么……热情。
 35997 := 别管它。
 35998 := 启用机器人的巡逻模式。（<CUSTOM45> 个修理零件）
 35999 := 激活机器人的护盾。（<CUSTOM44> 个修理零件）
-36000 := Optimize droid's targeting systems. (<CUSTOM43> repair part(s))
-36001 := Optimize droid's weaponry. (<CUSTOM42> repair part(s))
-36002 := Malfunctioning Droid
-36003 := Rusted Droid
-36004 := Gamorrean
-36005 := This journal details the search for the Promised Land carried out by Rukil's Apprentice.  Most of the entries are mundane; however, the last entry is quite interesting:
+36000 := 优化机器人的瞄准系统。（<CUSTOM43> 个修理零件）
+36001 := 优化机器人的武器系统。（<CUSTOM42> 个修理零件）
+36002 := 故障机器人
+36003 := 锈蚀机器人
+36004 := 加莫人
+36005 := 这本日志详细记录了鲁基尔的学徒寻找应许之地的过程。大多数条目都很平常；不过最后一条很有意思：
 
-"I have uncovered evidence that others have been seeking out the fabled land, and that their treks have led them into the sewers.  I have decided that I must go there as well."
-36006 := This journal is a record of the long and difficult search to find the Promised Land. It contains many half completed maps and cryptic notes, all attempting to decipher whether the legend is true or simply a child's fable. By itself this journal does not contain enough information to solve the mystery, however it could be a valuable piece of the puzzle.
-36007 := Sewer Entrance
-36008 := Gate
-36009 := Malfunctioning Droid Encounter
-36010 := Apprentice Backpack
-36011 := Promised Backpack
-36012 := Outcast Corpse
-36013 := Skeletal Remains
+“我发现有证据表明，其他人也一直在寻找那片传说之地，而他们的跋涉把他们引向了下水道。我决定我也必须去那里。”
+36006 := 这本日志记录了寻找应许之地的漫长艰难历程。里面有许多半成品地图和隐晦笔记，都在试图弄清这个传说究竟是真实存在，还是只是孩子们的童话。单凭这本日志还不足以解开谜团，但它可能是拼图中很有价值的一块。
+36007 := 下水道入口
+36008 := 大门
+36009 := 故障机器人遭遇
+36010 := 学徒背包
+36011 := 应许背包
+36012 := 流放者尸体
+36013 := 骸骨遗骸
 36014 := tar04_candstop
 36015 := tar04_reptlk
 36016 := tar04_tpparty
 36017 := IgearStore
-36018 := Taris - Lower Sewers
-36019 := That energy shield leads to another section of the sewers. The entrance to the Vulkar base is somewhere past there.
-36020 := I've got the codes to lower the shield, but we have to rescue Zaalbar from those Gamorrean slavers. Don't worry - we can come back after we find Big Z.
-36021 := You won't be able to get that computer to lower the energy field unless you know the proper codes. Lucky for you, I've got them.
-36022 := I picked them off the pocket of a Black Vulkar who had a little too much to drink in the cantina one night. Here, let me get that energy field down for you.
-36023 := From far off, you hear a loud clanking as if something very large was opened or closed.
-36024 := This droid is damaged and inactive.
-36025 := The droid engages its patrol mode and moves off to carry out your programmed instructions.
-36026 := You leave the droid alone for now.
-36027 := [Failure] You don't have any repair parts. You leave the droid alone for now.
-36028 := The droid is now active. It will attack any enemies that come in range.
-36029 := [Failure] You do not have enough repair parts.
-36030 := [Success] Patrol mode engaged. Once you end this session the droid will begin patrol and destroy any enemies it encounters. 
-36031 := WARNING: Once you end this session the droid's program will be locked in. You will not be able to modifiy the droid anymore.
-36032 := [Success] The droid's shields are now active.
-36033 := [Success] The droid is now set for maximum accuracy.
-36034 := [Success] The droid is now set for maximum firepower.
-36035 := The droid is now active. It will attack any enemies that come in range.
-36036 := The droid is actively engaged in its patrol route. You cannot reprogram it anymore.
-36037 := Leave it alone.
-36038 := Reactivate the droid. (1 repair part)
-36039 := Leave it alone.
-36040 := Engage droid in patrol mode. (<CUSTOM45> repair part(s))
-36041 := Activate droid's shields. (<CUSTOM44> repair part(s))
-36042 := Optimize droid's targeting systems. (<CUSTOM43> repair part(s))
-36043 := Optimize droid's weaponry. (<CUSTOM42> repair part(s))
-36044 := Processing default program: seek out waste for disposal. Organic waste detected.
-36045 := Analyzing organic waste. Detecting life signs. Conclusion: vermin in sewer. Initiating pest control sequence.
-36046 := This droid is no longer active, though it appears to be an old janitor droid that may once have been involved in waste disposal. 
-36047 := [Failure] You don't have any repair parts. There is nothing you can do to reactivate the droid.
-36048 := [Success] You have successfully reactivaed the droid.
-36049 := The droid initiates its default waste disposal program and sets off to seek out waste for removal from sewers.
-36050 := Leave droid for now.
-36051 := Reactivate disposal droid. (1 repair part)
-36052 := Waste detected in trash compactor. Initiating trash compaction sequence.
-36053 := Good to meet you, Zaalbar. I'm <FullName>.
-36054 := Disabled Droid
-36055 := Service Elevator
-36056 := Trash Compactor
-36057 := Compactor Ceiling
-36058 := Weapons Locker
-36059 := Ladder
-36060 := Trash Compactor Control
+36018 := 塔里斯 - 下层下水道
+36019 := 那道能量护盾通往下水道的另一区域。火神帮基地的入口就在那后面的某个地方。
+36020 := 我有降下护盾的代码，但我们得先把扎尔巴从那些加莫奴隶贩子手里救出来。别担心，找到大 Z 之后我们还能回来。
+36021 := 如果不知道正确代码，你没法让那台计算机降下能量力场。算你走运，我有代码。
+36022 := 有天晚上，我从一个在酒馆里喝多了的黑火神帮口袋里顺来的。来，我帮你把那道能量力场降下来。
+36023 := 远处传来一阵巨大的金属撞击声，像是什么很大的东西被打开或关上了。
+36024 := 这个机器人已损坏且处于非活动状态。
+36025 := 机器人启用巡逻模式，离开去执行你编程的指令。
+36026 := 你暂时不去管这个机器人。
+36027 := [失败] 你没有任何修理零件。你暂时不去管这个机器人。
+36028 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+36029 := [失败] 你的修理零件不足。
+36030 := [成功] 巡逻模式已启用。你结束本次会话后，机器人将开始巡逻，并摧毁它遇到的任何敌人。
+36031 := 警告：一旦你结束本次会话，机器人的程序将被锁定。你将无法再修改这个机器人。
+36032 := [成功] 机器人的护盾现已激活。
+36033 := [成功] 机器人现已设为最高精度。
+36034 := [成功] 机器人现已设为最大火力。
+36035 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+36036 := 机器人正在执行巡逻路线。你无法再重编程它。
+36037 := 别管它。
+36038 := 重新激活机器人。（1 个修理零件）
+36039 := 别管它。
+36040 := 启用机器人的巡逻模式。（<CUSTOM45> 个修理零件）
+36041 := 激活机器人的护盾。（<CUSTOM44> 个修理零件）
+36042 := 优化机器人的瞄准系统。（<CUSTOM43> 个修理零件）
+36043 := 优化机器人的武器系统。（<CUSTOM42> 个修理零件）
+36044 := 正在处理默认程序：寻找废弃物并进行处理。检测到有机废弃物。
+36045 := 正在分析有机废弃物。检测到生命迹象。结论：下水道害虫。正在启动害虫清除序列。
+36046 := 这个机器人已经不再活动，不过它看起来像一台老旧清洁机器人，过去可能负责过废物处理。
+36047 := [失败] 你没有任何修理零件。你无法重新激活这个机器人。
+36048 := [成功] 你已经成功重新激活机器人。
+36049 := 机器人启动默认废物处理程序，动身去寻找并清除下水道中的废弃物。
+36050 := 暂时离开机器人。
+36051 := 重新激活处理机器人。（1 个修理零件）
+36052 := 垃圾压缩机中检测到废物。正在启动垃圾压缩序列。
+36053 := 很高兴认识你，扎尔巴。我是 <FullName>。
+36054 := 停用机器人
+36055 := 服务升降梯
+36056 := 垃圾压缩机
+36057 := 压缩机顶板
+36058 := 武器储物柜
+36059 := 梯子
+36060 := 垃圾压缩机控制台
 36061 := tar05_tc1str
 36062 := tar05_trashatk
 36063 := tar05_trashstr
@@ -38832,524 +38832,524 @@ C8-42 则稍微没有那么……热情。
 36068 := tar05_wpserva
 36069 := tar05_wpservb
 36070 := tar05_wpservc
-36071 := Snort, snort!
-36072 := Rancor Death Claws
-36073 := Bek Datapad
-36074 := This datapad seems to detail plans the Hidden Bek had to get into the Black Vulkar base.  Of note is the following:
+36071 := 哼哧，哼哧！
+36072 := 兰克兽死亡之爪
+36073 := 贝克帮数据板
+36074 := 这块数据板似乎详述了隐秘贝克帮进入黑火神帮基地的计划。值得注意的是下面这段：
 
-"We have synthesized a substance with an odor that resembles a favorite prey of rancors. If we place the bait properly, we can lure the rancor into eating something lethal enough to kill it."
-36075 := Synthesized Odor
-36076 := This appears to be a timed release device for a strange substance.  The liquid has a very pungent odor.
-36077 := Severed Arm
-36078 := Corpse Pile
+“我们合成了一种物质，其气味类似兰克兽最喜欢的猎物。如果把诱饵放对位置，我们就能引诱兰克兽吃下足以杀死它的东西。”
+36075 := 合成气味剂
+36076 := 这似乎是一种用于释放奇怪物质的定时装置。液体散发着非常刺鼻的气味。
+36077 := 断臂
+36078 := 尸堆
 36079 := tar05_raneat
-36080 := Taris - Davik's Estate
-36081 := HANGAR SECURITY SYSTEM LOADING...
-36082 := HANGAR SECURITY SYSTEM LOADING...
-COMPLETE
-ENTER COMMAND
-36083 := EXITING SYSTEM...
-36084 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-36085 := SYSTEM OVERRIDE ACCEPTED
-ENTER COMMAND
-36086 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-36087 := [SUCCESS] EBON HAWK SHIELDS DISABLED
-SYSTEM OFF LINE
-EXITING SYSTEM...
-36088 := EBON HAWK SHIELDS DISABLED
-SYSTEM OFF LINE
-EXITING SYSTEM...
-36089 := Log out.
-36090 := [Computer] Slice the computer. (1 spike)
-36091 := Log out.
-36092 := [Computer] Disable Ebon Hawk shields. (<CUSTOM34> spike(s))
-36093 := SYSTEM LOADING...
-COMPLETE
-ENTER COMMAND
-36094 := EXITING SYSTEM...
-36095 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-36096 := SYSTEM OVERRIDE ACCEPTED
-ENTER COMMAND
-36097 := [SUCCESS] DOWNLOADING SECURITY
-CODES TO DATAPAD...
-COMPLETE
-36098 := CODES MUST BE ENTERED AT
-HANGAR SECURITY TERMINAL
-TO DISABLE SYSTEM
-ENTER COMMAND
-36099 := [SUCCESS] GAS VENTED
-SWITCHING TO SECURITY CAMERA
-36100 := ENTER COMMAND
-36101 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-36102 := [SUCCESS] SECURITY DOOR LOCKS OVERRIDDEN
-ACCESS GRANTED
-ENTER COMMAND
-36103 := COMMAND NOT POSSIBLE
-SYSTEM MUST BE DISABLED
-FROM HANGAR SECURITY TERMINAL
-ENTER COMMAND
-36104 := Log out.
-36105 := [Computer] Slice the computer. (1 spike)
-36106 := Log out.
-36107 := [Computer] Download security codes to datapad. (<CUSTOM33> spike(s))
-36108 := [Computer] Vent gas into main guard barracks. (<CUSTOM32> spike(s))
-36109 := [Computer] Open all security doors. (<CUSTOM31> spike(s))
-36110 := Disable hangar security systems.
-36111 := Good to finally meet you, Davik. My name's <FullName>.
-36112 := [It appears Calo Nord has been buried alive.]
-36113 := This droid is inactive. Davik probably only uses it for special ceremonial functions.
-36114 := The droid engages its patrol mode and moves off to carry out your programmed instructions.
-36115 := You leave the droid alone for now.
-36116 := [Failure] You don't have any repair parts. You leave the droid alone for now.
-36117 := The droid is now active. It will attack any enemies that come in range.
-36118 := [Failure] You do not have enough repair parts.
-36119 := [Success] Patrol mode engaged. Once you end this session the droid will begin patrol and destroy any enemies it encounters. 
-36120 := WARNING: Once you end this session the droid's program will be locked in. You will not be able to modifiy the droid anymore.
-36121 := [Success] The droid's shields are now active.
-36122 := [Success] The droid is now set for maximum accuracy.
-36123 := [Success] The droid is now set for maximum firepower.
-36124 := The droid is now active. It will attack any enemies that come in range.
-36125 := The droid is actively engaged in its patrol route. You cannot reprogram it anymore.
-36126 := Leave it alone.
-36127 := Reactivate the droid. (1 repair part)
-36128 := Leave it alone.
-36129 := Engage droid in patrol mode. (<CUSTOM45> repair part(s))
-36130 := Activate droid's shields. (<CUSTOM44> repair part(s))
-36131 := Optimize droid's targeting systems. (<CUSTOM43> repair part(s))
-36132 := Optimize droid's weaponry. (<CUSTOM42> repair part(s))
-36133 := Ornamental Droid
-36134 := Torture Droid
-36135 := Cage Release
-36136 := Hangar Security Terminal
-36137 := Rubble Pile
+36080 := 塔里斯 - 戴维克庄园
+36081 := 机库安保系统正在载入……
+36082 := 机库安保系统正在载入……
+完成
+输入命令
+36083 := 正在退出系统……
+36084 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+36085 := 系统覆盖已接受
+输入命令
+36086 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+36087 := [成功] 乌木鹰号护盾已停用
+系统离线
+正在退出系统……
+36088 := 乌木鹰号护盾已停用
+系统离线
+正在退出系统……
+36089 := 注销。
+36090 := [计算机] 切入计算机。（1 个计算机破解器）
+36091 := 注销。
+36092 := [计算机] 停用乌木鹰号护盾。（<CUSTOM34> 个计算机破解器）
+36093 := 系统正在载入……
+完成
+输入命令
+36094 := 正在退出系统……
+36095 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+36096 := 系统覆盖已接受
+输入命令
+36097 := [成功] 正在下载安保
+代码至数据板……
+完成
+36098 := 代码必须在
+机库安保终端输入
+以停用系统
+输入命令
+36099 := [成功] 毒气已排出
+切换到安保摄像头
+36100 := 输入命令
+36101 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+36102 := [成功] 安保门锁已覆盖
+访问已授权
+输入命令
+36103 := 命令无法执行
+必须从机库安保终端
+停用系统
+输入命令
+36104 := 注销。
+36105 := [计算机] 切入计算机。（1 个计算机破解器）
+36106 := 注销。
+36107 := [计算机] 将安保代码下载至数据板。（<CUSTOM33> 个计算机破解器）
+36108 := [计算机] 向主守卫兵营排放毒气。（<CUSTOM32> 个计算机破解器）
+36109 := [计算机] 打开所有安保门。（<CUSTOM31> 个计算机破解器）
+36110 := 停用机库安保系统。
+36111 := 终于见到你了，戴维克。我的名字是 <FullName>。
+36112 := [看起来卡洛·诺德被活埋了。]
+36113 := 这个机器人处于停用状态。戴维克大概只在特殊仪式场合使用它。
+36114 := 机器人启用巡逻模式，离开去执行你编程的指令。
+36115 := 你暂时不去管这个机器人。
+36116 := [失败] 你没有任何修理零件。你暂时不去管这个机器人。
+36117 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+36118 := [失败] 你的修理零件不足。
+36119 := [成功] 巡逻模式已启用。你结束本次会话后，机器人将开始巡逻，并摧毁它遇到的任何敌人。
+36120 := 警告：一旦你结束本次会话，机器人的程序将被锁定。你将无法再修改这个机器人。
+36121 := [成功] 机器人的护盾现已激活。
+36122 := [成功] 机器人现已设为最高精度。
+36123 := [成功] 机器人现已设为最大火力。
+36124 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+36125 := 机器人正在执行巡逻路线。你无法再重编程它。
+36126 := 别管它。
+36127 := 重新激活机器人。（1 个修理零件）
+36128 := 别管它。
+36129 := 启用机器人的巡逻模式。（<CUSTOM45> 个修理零件）
+36130 := 激活机器人的护盾。（<CUSTOM44> 个修理零件）
+36131 := 优化机器人的瞄准系统。（<CUSTOM43> 个修理零件）
+36132 := 优化机器人的武器系统。（<CUSTOM42> 个修理零件）
+36133 := 装饰机器人
+36134 := 拷问机器人
+36135 := 牢笼释放装置
+36136 := 机库安保终端
+36137 := 瓦砾堆
 36138 := tar08_destdavik
 36139 := tar08_gasarea
 36140 := tar08_goebon
 36141 := tar08_wpexplosion
-36142 := Taris - Sith Base
-36143 := This droid is damaged and inactive.
-36144 := The droid engages its patrol mode and moves off to carry out your programmed instructions.
-36145 := You leave the droid alone for now.
-36146 := [Failure] You don't have any repair parts. You leave the droid alone for now.
-36147 := The droid is now active. It will attack any enemies that come in range.
-36148 := [Failure] You do not have enough repair parts.
-36149 := [Success] Patrol mode engaged. Once you end this session the droid will begin patrol and destroy any enemies it encounters. 
-36150 := WARNING: Once you end this session the droid's program will be locked in. You will not be able to modifiy the droid anymore.
-36151 := [Success] The droid's shields are now active.
-36152 := [Success] The droid is now set for maximum accuracy.
-36153 := [Success] The droid is now set for maximum firepower.
-36154 := The droid is now active. It will attack any enemies that come in range.
-36155 := The droid is actively engaged in its patrol route. You cannot reprogram it anymore.
-36156 := Leave it alone.
-36157 := Reactivate the droid. (1 repair part)
-36158 := Leave it alone.
-36159 := Engage droid in patrol mode. (<CUSTOM45> repair part(s))
-36160 := Activate droid's shields. (<CUSTOM44> repair part(s))
-36161 := Optimize droid's targeting systems. (<CUSTOM43> repair part(s))
-36162 := Optimize droid's weaponry. (<CUSTOM42> repair part(s))
-36163 := SYSTEM LOADING...
-COMPLETE
-ENTER COMMAND
-36164 := EXITING SYSTEM...
-36165 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-36166 := SYSTEM OVERRIDE ACCEPTED
-ENTER COMMAND
-36167 := [SUCCESS] SENTRY DROID REPROGRAMMING COMPLETE
-AUTO-TARGETTING ENGAGED
-SWITCHING TO SECURITY CAMERA
-36168 := [SUCCESS] SENTRY DROIDS DEACTIVATED
-SWITCHING TO SECURITY CAMERA
-36169 := [SUCCESS] SENTRY TURRETS DEACTIVATED
-SWITCHING TO SECURITY CAMERA
-36170 := [SUCCESS] POWER OVERLOAD
-SWITCHING TO SECURITY CAMERA
-36171 := ENTER COMMAND
-36172 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-36173 := [SUCCESS] ELEVATOR LOCK OVERRIDDEN
-ACCESS GRANTED
-ENTER COMMAND
-36174 := DATABASE SEARCH FAILED!
-PLANETARY LAUNCH CODES
-NOT STORED IN SYSTEM
-36175 := Log out.
-36176 := [Computer] Slice the computer. (1 spike)
-36177 := Log out.
-36178 := [Computer] Reprogram sentry droids to target everything. (<CUSTOM34> spike(s))
-36179 := [Computer] Deactivate sentry droids. (<CUSTOM33> spike(s))
-36180 := [Computer] Deactivate sentry guns. (<CUSTOM33> spike(s))
-36181 := [Computer] Overload power conduit in barracks. (<CUSTOM32> spike(s))
-36182 := [Computer] Open security elevator. (<CUSTOM31> spike(s))
+36142 := 塔里斯 - 西斯基地
+36143 := 这个机器人已损坏且处于非活动状态。
+36144 := 机器人启用巡逻模式，离开去执行你编程的指令。
+36145 := 你暂时不去管这个机器人。
+36146 := [失败] 你没有任何修理零件。你暂时不去管这个机器人。
+36147 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+36148 := [失败] 你的修理零件不足。
+36149 := [成功] 巡逻模式已启用。你结束本次会话后，机器人将开始巡逻，并摧毁它遇到的任何敌人。
+36150 := 警告：一旦你结束本次会话，机器人的程序将被锁定。你将无法再修改这个机器人。
+36151 := [成功] 机器人的护盾现已激活。
+36152 := [成功] 机器人现已设为最高精度。
+36153 := [成功] 机器人现已设为最大火力。
+36154 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+36155 := 机器人正在执行巡逻路线。你无法再重编程它。
+36156 := 别管它。
+36157 := 重新激活机器人。（1 个修理零件）
+36158 := 别管它。
+36159 := 启用机器人的巡逻模式。（<CUSTOM45> 个修理零件）
+36160 := 激活机器人的护盾。（<CUSTOM44> 个修理零件）
+36161 := 优化机器人的瞄准系统。（<CUSTOM43> 个修理零件）
+36162 := 优化机器人的武器系统。（<CUSTOM42> 个修理零件）
+36163 := 系统正在载入……
+完成
+输入命令
+36164 := 正在退出系统……
+36165 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+36166 := 系统覆盖已接受
+输入命令
+36167 := [成功] 哨戒机器人重编程完成
+自动瞄准已启用
+正在切换至安保摄像头
+36168 := [成功] 哨戒机器人已停用
+正在切换至安保摄像头
+36169 := [成功] 哨戒炮塔已停用
+正在切换至安保摄像头
+36170 := [成功] 动力过载
+正在切换至安保摄像头
+36171 := 输入命令
+36172 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+36173 := [成功] 升降梯锁已覆盖
+访问已授权
+输入命令
+36174 := 数据库搜索失败！
+行星起飞代码
+未储存在系统中
+36175 := 注销。
+36176 := [计算机] 切入计算机。（1 个计算机破解器）
+36177 := 注销。
+36178 := [计算机] 将哨戒机器人重编程为攻击一切目标。（<CUSTOM34> 个计算机破解器）
+36179 := [计算机] 停用哨戒机器人。（<CUSTOM33> 个计算机破解器）
+36180 := [计算机] 停用哨戒炮塔。（<CUSTOM33> 个计算机破解器）
+36181 := [计算机] 使兵营的动力导管过载。（<CUSTOM32> 个计算机破解器）
+36182 := [计算机] 打开安保升降梯。（<CUSTOM31> 个计算机破解器）
 
-36183 := Search database for planetary launch codes.
-36184 := Rusted Sentry
-36185 := This datapad contains the codes necessary to launch a ship from the planet's surface without being destroyed by the Sith autotargeting cannons.
-36186 := Sec - 1 Power
-36187 := Sec - 2 Power
-36188 := Sec - 3 Power
-36189 := Sec - 4 Power
-36190 := Control Terminal
+36183 := 搜索数据库中的行星起飞代码。
+36184 := 锈蚀哨戒机器人
+36185 := 这块数据板包含让飞船从星球表面起飞所需的代码，否则飞船会被西斯自动瞄准炮摧毁。
+36186 := 安保 - 1 动力
+36187 := 安保 - 2 动力
+36188 := 安保 - 3 动力
+36189 := 安保 - 4 动力
+36190 := 控制终端
 36191 := tar09_gasarea
 36192 := tar09_govtlk
-36193 := Taris - Black Vulkar Base
-36194 := This is an old, broken down bartender droid. It has been deactivated in preparation for disposal.
-36195 := The droid engages its patrol mode and moves off to carry out your programmed instructions.
-36196 := You leave the droid alone for now.
-36197 := [Failure] You don't have any repair parts. You leave the droid alone for now.
-36198 := The droid is now active. It will attack any enemies that come in range.
-36199 := [Failure] You do not have enough repair parts.
-36200 := [Success] Patrol mode engaged. Once you end this session the droid will begin patrol and destroy any enemies it encounters. 
-36201 := WARNING: Once you end this session the droid's program will be locked in. You will not be able to modifiy the droid anymore.
-36202 := [Success] The droid's shields are now active.
-36203 := [Success] The droid is now set for maximum accuracy.
-36204 := [Success] The droid is now set for maximum firepower.
-36205 := The droid is now active. It will attack any enemies that come in range.
-36206 := The droid is actively engaged in its patrol route. You cannot reprogram it anymore.
-36207 := Leave it alone.
-36208 := Reactivate the droid. (1 repair part)
-36209 := Leave it alone.
-36210 := Engage droid in patrol mode. (<CUSTOM45> repair part(s))
-36211 := Activate droid's shields. (<CUSTOM44> repair part(s))
-36212 := Optimize droid's targeting systems. (<CUSTOM43> repair part(s))
-36213 := Optimize droid's weaponry. (<CUSTOM42> repair part(s))
-36214 := SYSTEM LOADING...
-COMPLETE
-ENTER COMMAND
-36215 := EXITING SYSTEM...
-36216 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-36217 := SYSTEM OVERRIDE ACCEPTED
-ENTER COMMAND
-36218 := [FAILURE] ACCESS DENIED!
-SPIKES REJECTED
-THERMAL SECURITY SYSTEM
-CANNOT BE DISABLED
-FROM REMOTE TERMINAL
+36193 := 塔里斯 - 黑火神帮基地
+36194 := 这是一台老旧破损的酒保机器人。它已经被停用，准备报废。
+36195 := 机器人启用巡逻模式，离开去执行你编程的指令。
+36196 := 你暂时不去管这个机器人。
+36197 := [失败] 你没有任何修理零件。你暂时不去管这个机器人。
+36198 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+36199 := [失败] 你的修理零件不足。
+36200 := [成功] 巡逻模式已启用。你结束本次会话后，机器人将开始巡逻，并摧毁它遇到的任何敌人。
+36201 := 警告：一旦你结束本次会话，机器人的程序将被锁定。你将无法再修改这个机器人。
+36202 := [成功] 机器人的护盾现已激活。
+36203 := [成功] 机器人现已设为最高精度。
+36204 := [成功] 机器人现已设为最大火力。
+36205 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+36206 := 机器人正在执行巡逻路线。你无法再重编程它。
+36207 := 别管它。
+36208 := 重新激活机器人。（1 个修理零件）
+36209 := 别管它。
+36210 := 启用机器人的巡逻模式。（<CUSTOM45> 个修理零件）
+36211 := 激活机器人的护盾。（<CUSTOM44> 个修理零件）
+36212 := 优化机器人的瞄准系统。（<CUSTOM43> 个修理零件）
+36213 := 优化机器人的武器系统。（<CUSTOM42> 个修理零件）
+36214 := 系统正在载入……
+完成
+输入命令
+36215 := 正在退出系统……
+36216 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+36217 := 系统覆盖已接受
+输入命令
+36218 := [失败] 访问被拒！
+计算机破解器被拒绝
+热能安保系统
+无法从远程终端
+停用
 
 
 
-36219 := [SUCCESS] POWER CONDUIT OVERLOAD
-SWITCHING TO SECURITY CAMERA
-36220 := ENTER COMMAND
-36221 := [SUCCESS] ELEVATOR LOCKS OVERRIDDEN
-ACCESS GRANTED
-ENTER COMMAND
-36222 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-36223 := [SUCCESS] SECURITY DOOR LOCKS OVERRIDDEN
-ACCESS GRANTED
-ENTER COMMAND
-36224 := Log out.
-36225 := [Computer] Slice the computer. (1 spike)
-36226 := Log out.
-36227 := [Computer] Shut down thermal security systems. (5 spike(s))
-36228 := [Computer] Overload power conduit in main barracks. (<CUSTOM32> spike(s))
-36229 := [Computer] Shut down garage elevator security system. (<CUSTOM34> spike(s))
-36230 := [Computer] Open all security doors. (<CUSTOM31> spike(s))
-36231 := This is an old cleaning droid for the now empty swimming pool.
-36232 := The droid engages its patrol mode and moves off to carry out your programmed instructions.
-36233 := You leave the droid alone for now.
-36234 := [Failure] You don't have any repair parts. You leave the droid alone for now.
-36235 := The droid is now active. It will attack any enemies that come in range.
-36236 := [Failure] You do not have enough repair parts.
-36237 := [Success] Patrol mode engaged. Once you end this session the droid will begin patrol and destroy any enemies it encounters. 
-36238 := WARNING: Once you end this session the droid's program will be locked in. You will not be able to modifiy the droid anymore.
-36239 := [Success] The droid's shields are now active.
-36240 := [Success] The droid is now set for maximum accuracy.
-36241 := [Success] The droid is now set for maximum firepower.
-36242 := [Success] The droid moves off to carry out the instructions you programmed into it.
-36243 := The droid is now active. It will attack any enemies that come in range.
-36244 := The droid is actively engaged in its patrol route. You cannot reprogram it anymore.
-36245 := The droid is busy carrying out the instructions you programmed into it earlier. It can't be reprogrammed right now.
-36246 := Leave it alone.
-36247 := Reactivate the droid. (1 repair part)
-36248 := Leave it alone.
-36249 := Engage droid in patrol mode. (<CUSTOM45> repair part(s))
-36250 := Activate droid's shields. (<CUSTOM44> repair part(s))
-36251 := Optimize droid's targeting systems. (<CUSTOM43> repair part(s))
-36252 := Optimize droid's weaponry. (<CUSTOM42> repair part(s))
-36253 := Program droid to crawl into pool and self destruct. (<CUSTOM44> repair part(s))
+36219 := [成功] 动力导管过载
+正在切换至安保摄像头
+36220 := 输入命令
+36221 := [成功] 升降梯锁已覆盖
+访问已授权
+输入命令
+36222 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+36223 := [成功] 安保门锁已覆盖
+访问已授权
+输入命令
+36224 := 注销。
+36225 := [计算机] 切入计算机。（1 个计算机破解器）
+36226 := 注销。
+36227 := [计算机] 关闭热能安保系统。（5 个计算机破解器）
+36228 := [计算机] 使主兵营的动力导管过载。（<CUSTOM32> 个计算机破解器）
+36229 := [计算机] 关闭车库升降梯安保系统。（<CUSTOM34> 个计算机破解器）
+36230 := [计算机] 打开所有安保门。（<CUSTOM31> 个计算机破解器）
+36231 := 这是一台老旧清洁机器人，用于现在已经空置的泳池。
+36232 := 机器人启用巡逻模式，离开去执行你编程的指令。
+36233 := 你暂时不去管这个机器人。
+36234 := [失败] 你没有任何修理零件。你暂时不去管这个机器人。
+36235 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+36236 := [失败] 你的修理零件不足。
+36237 := [成功] 巡逻模式已启用。你结束本次会话后，机器人将开始巡逻，并摧毁它遇到的任何敌人。
+36238 := 警告：一旦你结束本次会话，机器人的程序将被锁定。你将无法再修改这个机器人。
+36239 := [成功] 机器人的护盾现已激活。
+36240 := [成功] 机器人现已设为最高精度。
+36241 := [成功] 机器人现已设为最大火力。
+36242 := [成功] 机器人离开去执行你编入的指令。
+36243 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+36244 := 机器人正在执行巡逻路线。你无法再重编程它。
+36245 := 机器人正忙着执行你先前编入的指令。现在无法重编程它。
+36246 := 别管它。
+36247 := 重新激活机器人。（1 个修理零件）
+36248 := 别管它。
+36249 := 启用机器人的巡逻模式。（<CUSTOM45> 个修理零件）
+36250 := 激活机器人的护盾。（<CUSTOM44> 个修理零件）
+36251 := 优化机器人的瞄准系统。（<CUSTOM43> 个修理零件）
+36252 := 优化机器人的武器系统。（<CUSTOM42> 个修理零件）
+36253 := 编程机器人爬进泳池并自毁。（<CUSTOM44> 个修理零件）
 
-36254 := SYSTEM ONLINE
-SYSTEM STATUS PENDING...
-36255 := SYSTEM MALFUNCTION
-ROOM TEMPERATURE 
-EXCEEDS TOLERABLE LIMITS
-36256 := I surrender! I surrender! Please, don't kill me. I'm not like these others. I'm not like Brejik and his new Vulkars!
-36257 := I'm a Vulkar, but I was here long before Brejik took over. I was a Vulkar back when it meant something. Back when we had honor.
-36258 := Then Brejik and his followers took over and turned our gang into a bunch of violent thugs and bloodthirsty punks. Now they treat all us original Vulkars like second class citizens. 
-36259 := Take me, for example. I used to be one of the highest ranking Vulkars in the gang. Now I'm stuck on guard duty here in the back, all thanks to Brejik!
-36260 := Well I'm not just going to roll over and let you kill me!
-36261 := Yeah, sure. Whatever you want to know. It's not like I owe that scum lord Brejik anything.
-36262 := Thanks. Thanks a lot. And don't worry, I won't cause any trouble for you on the way out. In fact, I hope you take Brejik and his Vulkars down!
-36263 := Yeah, right. You think Brejik would leave a trophy like that in here with this scum? He's got her stashed away somewhere safe, I'd guess. Somewhere outside this base.
-36264 := Right - that gadget Brejik stole from the Beks. He's got the accelerator in the basement garage. The only way down is by using the security elevator in the back of the base.
-36265 := But the security elevator is protected by auto-targeting laser cannons. You'll be vaporized before you ever get near it, unless you get your hands on a pass card.
-36266 := I guess it might be possible to slice into the main computer bank near the front of the base and override the security system, but I sure wouldn't be able to do it.
-36267 := If I had one myself, I'd give it to you. But Brejik only gives them to his lieutenants. You'd have to get a pass card from one of them, but I doubt they'd just hand it over to you.
-36268 := I've been trying to work up the courage to leave, but it's not that easy. Brejik's followers will try to hunt down anyone who leaves the Vulkar gang. He says he won't let traitors live. Ha!
-36269 := Brejik and his followers are the real traitors. They turned on Gadon and now they slaughter the Beks in the streets... and anyone else they happen to run across.
-36270 := Brejik knows anyone with character will never willingly follow a leader like him, so he uses brutality and violence to stay in power.
-36271 := Sorry - I only fight to the death!
-36272 := What are you talking about? You're a Vulkar, aren't you?
-36273 := Sorry, but it's too risky to let you live.
-36274 := You better give me some information if you want to live.
-36275 := I'm going to let you live. Go on, get out of here!
-36276 := I'm looking for a prisoner. A woman named Bastila.
-36277 := Where can I find the prototype swoop engine accelerator?
-36278 := Is there some way to disable the security cannons?
-36279 := Where can I get a pass card?
-36280 := I want to ask you something else.
-36281 := If you hate Brejik so much, why don't you leave the gang?
-36282 := Elevator Keycard
-36283 := This is a pass card used to grant access at security terminals.
+36254 := 系统在线
+系统状态待定……
+36255 := 系统故障
+室温
+超过可承受限度
+36256 := 我投降！我投降！求你别杀我。我跟其他人不一样。我不像布雷吉克和他那帮新火神帮！
+36257 := 我是火神帮成员，但我在布雷吉克接手很久以前就在这里了。那时火神帮这个名字还有分量。那时我们还有荣誉。
+36258 := 后来布雷吉克和他的追随者接管一切，把我们的帮派变成一群暴力恶棍和嗜血混混。现在他们把我们这些老火神帮成员都当成二等公民。
+36259 := 拿我来说吧。我以前是帮里级别最高的火神帮成员之一。现在却被困在后面站岗，全拜布雷吉克所赐！
+36260 := 哼，我可不会乖乖趴下任你宰割！
+36261 := 可以，可以。你想知道什么都行。反正我也不欠布雷吉克那个人渣头子什么。
+36262 := 谢谢。太谢谢了。别担心，我离开时不会给你惹麻烦。事实上，我希望你能干掉布雷吉克和他的火神帮！
+36263 := 哈，想得美。你以为布雷吉克会把那样的战利品留在这里，和这群渣滓放在一起？我猜他把她藏在某个安全的地方了。在基地外面的某处。
+36264 := 对，就是布雷吉克从贝克帮偷来的那个小玩意。他把加速器放在地下车库。唯一能下去的路，是使用基地后方的安保升降梯。
+36265 := 但安保升降梯受到自动瞄准激光炮保护。除非你拿到通行卡，否则还没靠近就会被汽化。
+36266 := 也许可以切入基地前部附近的主计算机组，覆盖安保系统，但我肯定做不到。
+36267 := 如果我自己有一张，我就给你了。但布雷吉克只发给他的副手。你得从他们中的一个人身上弄到通行卡，不过我怀疑他们会直接交给你。
+36268 := 我一直想鼓起勇气离开，但没那么容易。布雷吉克的追随者会追杀任何离开火神帮的人。他说不会让叛徒活着。哈！
+36269 := 布雷吉克和他的追随者才是真正的叛徒。他们背叛了加登，现在又在街上屠杀贝克帮……还有任何碰巧遇到的人。
+36270 := 布雷吉克知道任何有骨气的人都不会自愿追随他这样的头目，所以他靠残暴和暴力维持权力。
+36271 := 抱歉——我只会战斗到死！
+36272 := 你在说什么？你不是火神帮的吗？
+36273 := 抱歉，但让你活着风险太大。
+36274 := 如果你想活命，最好告诉我点有用情报。
+36275 := 我会放你一条生路。走吧，离开这里！
+36276 := 我在找一个囚犯。一个叫巴丝蒂拉的女人。
+36277 := 我在哪能找到原型飞梭引擎加速器？
+36278 := 有没有办法停用安保炮？
+36279 := 我在哪能拿到通行卡？
+36280 := 我还想问你别的事。
+36281 := 如果你这么恨布雷吉克，为什么不离开帮派？
+36282 := 升降梯钥匙卡
+36283 := 这是一张用于在安保终端授权访问的通行卡。
 36284 := tar10_turrettrig
-36285 := HEATING CONTROL PANEL
-SYSTEM STATUS: OPERATIONAL
-INCREASING ROOM TEMPERATURE
-36286 := LOGGING OFF...
-36287 := SYSTEM LOADING...
-COMPLETE
-ENTER COMMAND
-36288 := EXITING SYSTEM...
-36289 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-36290 := SYSTEM OVERRIDE ACCEPTED
-ENTER COMMAND
-36291 := [SUCCESS] SENTRY TURRETS DEACTIVATED
-SWITCHING TO SECURITY CAMERA
-36292 := [SUCCESS] GAS VENTED
-SWITCHING TO SECURITY CAMERA
-36293 := ENTER COMMAND
-36294 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-36295 := [SUCCESS] SECURITY DOOR LOCKS OVERRIDDEN
-ACCESS GRANTED
-ENTER COMMAND
-36296 := Log out.
-36297 := [Computer] Slice the computer. (1 spike)
-36298 := Log out.
-36299 := [Computer] Deactivate turrets. (<CUSTOM33> spike(s))
-36300 := [Computer] Vent gas into soldier's rec room. (<CUSTOM32> spike(s))
-36301 := [Computer] Open all security doors. (<CUSTOM31> spike(s))
-36302 := This old droid has been left here to await repair from one of the Vulkar mechanics.
-36303 := The droid engages its patrol mode and moves off to carry out your programmed instructions.
-36304 := You leave the droid alone for now.
-36305 := [Failure] You don't have any repair parts. You leave the droid alone for now.
-36306 := The droid is now active. It will attack any enemies that come in range.
-36307 := [Failure] You do not have enough repair parts.
-36308 := [Success] Patrol mode engaged. Once you end this session the droid will begin patrol and destroy any enemies it encounters. 
-36309 := WARNING: Once you end this session the droid's program will be locked in. You will not be able to modifiy the droid anymore.
-36310 := [Success] The droid's shields are now active.
-36311 := [Success] The droid is now set for maximum accuracy.
-36312 := [Success] The droid is now set for maximum firepower.
-36313 := The droid is now active. It will attack any enemies that come in range.
-36314 := The droid is actively engaged in its patrol route. You cannot reprogram it anymore.
-36315 := Leave it alone.
-36316 := Reactivate the droid. (1 repair part)
-36317 := Leave it alone.
-36318 := Engage droid in patrol mode. (<CUSTOM45> repair part(s))
-36319 := Activate droid's shields. (<CUSTOM44> repair part(s))
-36320 := Optimize droid's targeting systems. (<CUSTOM43> repair part(s))
-36321 := Optimize droid's weaponry. (<CUSTOM42> repair part(s))
-36322 := Packaged Spice
-36323 := This is a small package of processed spice.
-36324 := Mechanic ID
-36325 := This card is used by mechanics to gain access to the various levels of the Vulkar base.
-36326 := This industrial strength battery is surprisingly heavy.
-36327 := Vulkar Encounter
-36328 := Personal Locker
-36329 := Enough yapping! Hand over that accelerator.
-36330 := You're right, I'm not one of the Beks. My name's <FullName>.
-36331 := [It looks like you will need a special pass to open this door.]
-36332 := This droid is damaged and inactive.
-36333 := The droid engages its patrol mode and moves off to carry out your programmed instructions.
-36334 := You leave the droid alone for now.
-36335 := [Failure] You don't have any repair parts. You leave the droid alone for now.
-36336 := The droid is now active. It will attack any enemies that come in range.
-36337 := [Failure] You do not have enough repair parts.
-36338 := [Success] Patrol mode engaged. Once you end this session the droid will begin patrol and destroy any enemies it encounters. 
-36339 := WARNING: Once you end this session the droid's program will be locked in. You will not be able to modifiy the droid anymore.
-36340 := [Success] The droid's shields are now active.
-36341 := [Success] The droid is now set for maximum accuracy.
-36342 := [Success] The droid is now set for maximum firepower.
-36343 := The droid is now active. It will attack any enemies that come in range.
-36344 := The droid is actively engaged in its patrol route. You cannot reprogram it anymore.
-36345 := Leave it alone.
-36346 := Reactivate the droid. (1 repair part)
-36347 := Leave it alone.
-36348 := Engage droid in patrol mode. (<CUSTOM45> repair part(s))
-36349 := Activate droid's shields. (<CUSTOM44> repair part(s))
-36350 := Optimize droid's targeting systems. (<CUSTOM43> repair part(s))
-36351 := Optimize droid's weaponry. (<CUSTOM42> repair part(s))
-36352 := This droid is damaged and inactive.
-36353 := The droid engages its patrol mode and moves off to carry out your programmed instructions.
-36354 := You leave the droid alone for now.
-36355 := [Failure] You don't have any repair parts. You leave the droid alone for now.
-36356 := The droid is now active. It will attack any enemies that come in range.
-36357 := [Failure] You do not have enough repair parts.
-36358 := [Success] Patrol mode engaged. Once you end this session the droid will begin patrol and destroy any enemies it encounters. 
-36359 := WARNING: Once you end this session the droid's program will be locked in. You will not be able to modifiy the droid anymore.
-36360 := [Success] The droid engages its program and moves off to carry out your instructions.
-36361 := [Success] The droid's shields are now active.
-36362 := [Success] The droid is now set for maximum accuracy.
-36363 := [Success] The droid is now set for maximum firepower.
-36364 := The droid is now active. It will attack any enemies that come in range.
-36365 := The droid is actively engaged in its patrol route. You cannot reprogram it anymore.
-36366 := The droid is busy carrying out your previously programmed instructions. You can't reprogram it now.
-36367 := Leave it alone.
-36368 := Reactivate the droid. (1 repair part)
-36369 := Leave it alone.
-36370 := Engage droid in patrol mode. (<CUSTOM45> repair part(s))
-36371 := Reprogram droid to ram loading bay doors. (<CUSTOM45> repair part(s))
-36372 := Activate droid's shields. (<CUSTOM44> repair part(s))
-36373 := Optimize droid's targeting systems. (<CUSTOM43> repair part(s))
-36374 := Optimize droid's weaponry. (<CUSTOM42> repair part(s))
-36375 := Swoop Accelerator
-36376 := Though not overly large the prototype swoop accelerator is surprisingly heavy. Without being an expert on swoop bike construction it is difficult to imagine how this simple device could be so valuable.
-36377 := This key card will give access to most of the restricted areas in the Vulkar garage.
-36378 := Loading Dock
-36379 := Radiation Shields
-36380 := Swoop Bike
+36285 := 供热控制面板
+系统状态：运行中
+正在提高室温
+36286 := 正在注销……
+36287 := 系统正在载入……
+完成
+输入命令
+36288 := 正在退出系统……
+36289 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+36290 := 系统覆盖已接受
+输入命令
+36291 := [成功] 哨戒炮塔已停用
+正在切换至安保摄像头
+36292 := [成功] 毒气已排出
+正在切换至安保摄像头
+36293 := 输入命令
+36294 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+36295 := [成功] 安保门锁已覆盖
+访问已授权
+输入命令
+36296 := 注销。
+36297 := [计算机] 切入计算机。（1 个计算机破解器）
+36298 := 注销。
+36299 := [计算机] 停用炮塔。（<CUSTOM33> 个计算机破解器）
+36300 := [计算机] 向士兵休息室排放毒气。（<CUSTOM32> 个计算机破解器）
+36301 := [计算机] 打开所有安保门。（<CUSTOM31> 个计算机破解器）
+36302 := 这台老旧机器人被留在这里，等待某个火神帮技工来维修。
+36303 := 机器人启用巡逻模式，离开去执行你编程的指令。
+36304 := 你暂时不去管这个机器人。
+36305 := [失败] 你没有任何修理零件。你暂时不去管这个机器人。
+36306 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+36307 := [失败] 你的修理零件不足。
+36308 := [成功] 巡逻模式已启用。你结束本次会话后，机器人将开始巡逻，并摧毁它遇到的任何敌人。
+36309 := 警告：一旦你结束本次会话，机器人的程序将被锁定。你将无法再修改这个机器人。
+36310 := [成功] 机器人的护盾现已激活。
+36311 := [成功] 机器人现已设为最高精度。
+36312 := [成功] 机器人现已设为最大火力。
+36313 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+36314 := 机器人正在执行巡逻路线。你无法再重编程它。
+36315 := 别管它。
+36316 := 重新激活机器人。（1 个修理零件）
+36317 := 别管它。
+36318 := 启用机器人的巡逻模式。（<CUSTOM45> 个修理零件）
+36319 := 激活机器人的护盾。（<CUSTOM44> 个修理零件）
+36320 := 优化机器人的瞄准系统。（<CUSTOM43> 个修理零件）
+36321 := 优化机器人的武器系统。（<CUSTOM42> 个修理零件）
+36322 := 包装香料
+36323 := 这是一小包加工过的香料。
+36324 := 技工身份卡
+36325 := 这张卡供技工用来进入火神帮基地的各个层级。
+36326 := 这块工业级电池出人意料地重。
+36327 := 火神帮遭遇
+36328 := 私人储物柜
+36329 := 废话够了！把那个加速器交出来。
+36330 := 你说得对，我不是贝克帮的人。我的名字是 <FullName>。
+36331 := [看起来你需要一张特殊通行证才能打开这扇门。]
+36332 := 这个机器人已损坏且处于非活动状态。
+36333 := 机器人启用巡逻模式，离开去执行你编程的指令。
+36334 := 你暂时不去管这个机器人。
+36335 := [失败] 你没有任何修理零件。你暂时不去管这个机器人。
+36336 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+36337 := [失败] 你的修理零件不足。
+36338 := [成功] 巡逻模式已启用。你结束本次会话后，机器人将开始巡逻，并摧毁它遇到的任何敌人。
+36339 := 警告：一旦你结束本次会话，机器人的程序将被锁定。你将无法再修改这个机器人。
+36340 := [成功] 机器人的护盾现已激活。
+36341 := [成功] 机器人现已设为最高精度。
+36342 := [成功] 机器人现已设为最大火力。
+36343 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+36344 := 机器人正在执行巡逻路线。你无法再重编程它。
+36345 := 别管它。
+36346 := 重新激活机器人。（1 个修理零件）
+36347 := 别管它。
+36348 := 启用机器人的巡逻模式。（<CUSTOM45> 个修理零件）
+36349 := 激活机器人的护盾。（<CUSTOM44> 个修理零件）
+36350 := 优化机器人的瞄准系统。（<CUSTOM43> 个修理零件）
+36351 := 优化机器人的武器系统。（<CUSTOM42> 个修理零件）
+36352 := 这个机器人已损坏且处于非活动状态。
+36353 := 机器人启用巡逻模式，离开去执行你编程的指令。
+36354 := 你暂时不去管这个机器人。
+36355 := [失败] 你没有任何修理零件。你暂时不去管这个机器人。
+36356 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+36357 := [失败] 你的修理零件不足。
+36358 := [成功] 巡逻模式已启用。你结束本次会话后，机器人将开始巡逻，并摧毁它遇到的任何敌人。
+36359 := 警告：一旦你结束本次会话，机器人的程序将被锁定。你将无法再修改这个机器人。
+36360 := [成功] 机器人启动程序，离开去执行你的指令。
+36361 := [成功] 机器人的护盾现已激活。
+36362 := [成功] 机器人现已设为最高精度。
+36363 := [成功] 机器人现已设为最大火力。
+36364 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+36365 := 机器人正在执行巡逻路线。你无法再重编程它。
+36366 := 机器人正忙着执行你先前编入的指令。你现在无法重编程它。
+36367 := 别管它。
+36368 := 重新激活机器人。（1 个修理零件）
+36369 := 别管它。
+36370 := 启用机器人的巡逻模式。（<CUSTOM45> 个修理零件）
+36371 := 重编程机器人去撞击装卸区大门。（<CUSTOM45> 个修理零件）
+36372 := 激活机器人的护盾。（<CUSTOM44> 个修理零件）
+36373 := 优化机器人的瞄准系统。（<CUSTOM43> 个修理零件）
+36374 := 优化机器人的武器系统。（<CUSTOM42> 个修理零件）
+36375 := 飞梭加速器
+36376 := 虽然体积不算特别大，但原型飞梭加速器出奇地重。如果不是飞梭摩托建造方面的专家，很难想象这个简单装置怎么会这么有价值。
+36377 := 这张钥匙卡可以进入火神帮车库中大多数限制区域。
+36378 := 装卸码头
+36379 := 辐射护盾
+36380 := 飞梭摩托
 36381 := tar10_radtrap
-36382 := Taris - Hidden Bek Base
-36383 := That... human woman! I am... outraged at her arrogance. You! Do all of your species place yourselves on such annoying pedestals!
-36384 := See, that same attitude! That "don't even talk to me" look she had! I swear, "Helena" must be your word for pit rancor.
-36385 := Out of your way, out of her way. I've already left the cantina and now I can't walk down the street. Arrogant humans! All of you!
-36386 := What? No... but you don't understand. That woman, I think she didn't like us breathing the same air. You'd think she was queen of the planet.
-36387 := I guess I don't mean to be so rude. She was so frustrating to deal with. If she felt she was too good for the cantina, why didn't she leave?
-36388 := No offence, but your companion here looks especially like her.
-36389 := If that woman is your mother, you have my sympathies. She's driving the regulars out of the cantina as we speak.
-36390 := Seen her? Human, you couldn't miss her if you tried. She strolled into the cantina like she owned the place. 
-36391 := Probably. I don't think anyone else could top her attitude, so she won't be leaving. I won't be going back while she's there, though.
-36392 := You're actually looking for her? You humans, you're all out of your minds.
-36393 := You should be sorry for sharing a species with that... that creature. I swear, "Helena" must be your word for pit rancor.
-36394 := Step back, fool! I don't like your tone!
-36395 := Just get out of my way.
-36396 := You seem pretty hateful towards other species.
-36397 := Helena? Bastila, isn't that your mother's name?
-36398 := Is she still there?
-36399 := I'm sorry? What are you talking about?
-36400 := A typical utility droid.
-36401 := Maana
-36402 := Demknot
-36403 := An agitated Duros, clearly in a foul mood.
-36404 := Spaceport
-36405 := Hunting Lodge
-36406 := Czerka Office
-36407 := Anchorhead Cantina
-36408 := Maana Demknot Talk
-36409 := Maana Demknot Trigger
-36410 := Manna Demknot WP
+36382 := 塔里斯 - 隐秘贝克帮基地
+36383 := 那个……人类女人！她的傲慢让我……怒不可遏。你！你们整个种族都喜欢把自己摆在那么讨厌的高台上吗！
+36384 := 看吧，就是这种态度！她那副“别跟我说话”的眼神！我敢发誓，“海伦娜”在你们语言里肯定就是坑洞兰克兽的意思。
+36385 := 给你让路，给她让路。我都已经离开酒馆了，现在连街都不能走。傲慢的人类！你们全都一样！
+36386 := 什么？不……但你不明白。那个女人，我觉得她连和我们呼吸同一片空气都嫌弃。你会以为她是这颗星球的女王。
+36387 := 我想我不是故意这么粗鲁。和她打交道实在太令人恼火了。如果她觉得自己高贵到不该待在酒馆，为什么不离开？
+36388 := 无意冒犯，但你这位同伴看起来特别像她。
+36389 := 如果那个女人是你母亲，那我同情你。就在我们说话的时候，她正在把酒馆的常客都赶走。
+36390 := 见过她？人类，你想错过她都难。她大摇大摆走进酒馆，好像那地方是她的。
+36391 := 大概吧。我不觉得还有谁的态度能比她更糟，所以她不会离开。不过只要她在那儿，我就不会回去。
+36392 := 你居然真的在找她？你们人类，全都疯了。
+36393 := 你应该为和那个……那种生物同属一个种族感到抱歉。我敢发誓，“海伦娜”在你们语言里肯定就是坑洞兰克兽的意思。
+36394 := 退后，蠢货！我不喜欢你的口气！
+36395 := 别挡我的路。
+36396 := 你看起来很憎恨其他物种。
+36397 := 海伦娜？巴丝蒂拉，那不是你母亲的名字吗？
+36398 := 她还在那里吗？
+36399 := 抱歉？你在说什么？
+36400 := 一台典型的工具机器人。
+36401 := 马娜
+36402 := 德姆诺特
+36403 := 一个焦躁的杜罗人，显然心情很糟。
+36404 := 太空港
+36405 := 猎人会所
+36406 := 泽卡办公室
+36407 := 锚头镇酒馆
+36408 := 马娜·德姆诺特对白
+36409 := 马娜·德姆诺特触发器
+36410 := 马娜·德姆诺特路点
 36411 := tat18aa_tat17aa
-36412 := Hello there, captain. Let's see... ah, yes. Here it is. It looks like the shipment has been delivered to your ship, as requested.
-36413 := Wait a second, is this right? It says docking bay 32 on the form, but you just arrived. Oh, well, the gizka are your problem now.
-36414 := Now, all I need is your thumbprint for the... wait a second, where did the datapad go? *sigh* Nothing is ever organized around here.
-36415 := At any rate, the gizka are yours. One of the loaders said the crate split open once he put it in your hold... some of the critters might have gotten loose.
-36416 := That happens, I'm afraid. We don't accept liability... and we certainly couldn't take the cargo back. Enjoy.
-36417 := If you want the cargo removed, you'll have to fill out another requisition. I have one right... wait. I thought I had one. Oh, well.
-36418 := It says right here on the manifest that you ordered a crate of gizka. To be delivered to docking bay 32... that's right here.
-36419 := Well, let me see. Docking bay 32, check... crate 42-B7, check... manifest lists "life form: gizka". Everything seems to be in order.
-36420 := This is docking bay 32, isn't it? Yes, it is, and that's what I have here on the requisition form. Everything seems to be in order. The gizka are your problem now.
-36421 := Excellent. Thank you.
-36422 := Fair enough. Thanks.
-36423 := Whatever you put on my ship, I want it off. Now.
-36424 := What do you mean "my problem"? I didn't order any gizka.
-36425 := Excuse me, did you say "gizka"?
-36426 := Err... what shipment was that again?
-36427 := What shipment? What are you talking about?
-36428 := Turn it around, fassa to gammenda! The customers come back and we need to see them good! There you are, back to save your credits.
-36429 := Who that? Turn it, you gunda fasca, customers are talking! That's better. Hello customer! Buy from Mic'Tunan'Jus and save your credits!
-36430 := And like we were saying, we don't sell anything if you don't ask for it, so step up and see what Mic'Tunan'Jus can both do for you.
-36431 := And don't be shy. Just ask to see what you want. If you can't get a good look, we don't move the merchandise.
-36432 := You will want to save your money for your swoop, we would bet. Yes, you have the champion's face. we'll have what you need.
-36433 := Yes, save, because you never know when hardship will come. The galaxy is dangerous, we say, even before we hear of Sith trouble on Korriban.
-36434 := Yes, save, because you never know when situations turn all around. Look at Czerka. We hear... well, things are not well on outpost Kashyyyk, we're sure you know.
-36435 := Very important to save these days, Thuursa knows it's true. Kolto prices make healing expensive, but you can't go without, we're sure.
-36436 := We wait for your return. Anyone with credits is always welcome.
-36437 := We are here to serve. What do you need to know?
-36438 := Just what everyone else talks about: Taris and the Sith and the stirring of change. Could be good for business, could be bad for business.
-36439 := All that we know is that wise people keep low and stay out of the way. Something to always remind your other half. Er... if you have one.
-36440 := We have not moved since you last asked. The Tatooine dust is rough on our hide, and the sun is much harsher than it needs to be.
-36441 := Not as much as we should. If we knew more, we would have better business. Travelers like us best. Settlers don't have much to trade.
-36442 := We don't travel far on Tatooine itself, you see. The weather is not like our home. Too dry. Way too dry. 
-36443 := Always trust the locals, even if they don't trust you. They are the ones that really know what's going on. That's true on any world.
-36444 := Again you ask, but we have not changed. Just an honest merchant from the Rim.
-36445 := Mic'Tunan'Jus is just a humble merchant from the Rim. What would you wish to know about we?
-36446 := You are pardoned for asking because you only know one mind... or at least only one at a time. We are one now, but weren't always.
-36447 := We grow together, bonded from the age of choosing when we become whole. Not like you. You are half of what you should be, like brood-squeeler.
-36448 := Er, not that we would want to offend you. We don't want to lose any business. That is just our way as Paaerduag.
-36449 := Just because *you* can't hear it, doesn't mean it isn't there.
-36450 := You couldn't say it, and don't have the ears for it. Two voices create the name, and four ears hear the true sound.
-36451 := We suppose the trade lanes have had to call us something. With one mouth the world is Sorjus, far off the Perlemian trade route.
-36452 := It's an unimportant stop, we admit. We left for a life of trade, because we are strong and a good talker. We have done well.
-36453 := Yes, of course. We don't want to keep you from your important business. Please, have a look.
-36454 := I have to go now.
-36455 := I want to ask you a few questions.
-36456 := Heard any off-world rumors?
-36457 := Do you know anything about Tatooine?
-36458 := Who would I ask to get more information?
-36459 := I want to ask about you.
-36460 := Let's go back to my other questions.
-36461 := Are you one creature or two?
-36462 := Your other half doesn't say much.
-36463 := Where do you come from?
-36464 := Just show me what you have for sale.
-36465 := Mic'Tunan'Jus
-36466 := Orgu
-36467 := An unusual merchant. Or pair of merchants.
-36468 := Exit to Anchorhead
-36469 := JorUl Trigger
-36470 := Orgultoovak's Kiosk
-36471 := [This droid does not respond. It obviously needs extensive repairs. For all you know it could have been lying out in the desert for years.]
-36472 := Inoperative Droid
-36473 := A damaged protocol droid. It has not been kept in good repair.
-36474 := Yuka Laka's Droid Shop
-36475 := Fazza's Depot
-36476 := Eh? What's this? A box? Oh... *that* box.
-36477 := Yeah, I know what box you're talking about. I thought that was supposed to be here a month ago. You take a detour, huh?
-36478 := Ahh, never mind. You open the box?
-36479 := No, it doesn't. I know what's in the box and that's good enough for me.
-36480 := I suppose you're expecting some payment now, huh? I'll give you 2000 credits for the box, and you can run on your way.
-36481 := Smart <man/woman>. Here you go. Say hello to Lurze for me.
-36482 := You think so, huh? I'll remind you that you don't own the box. You're just a courier. You have a problem with the compensation, you talk to Lurze.
-36483 := [Failure] No, I want you to leave. I have offered my best price and that is what you will accept. Smugglers are not hard to find.
-36484 := [Success] Hmm... I will pay you more... but I don't like it. Take your money and let me get back to race business.
-36485 := [Failure] And I expect my goods to be delivered on time. You have a problem with the price, you talk to Lurze.
-36486 := I'll have some of my spaceport workers unload the box from your ship, so take the credits and go. I've got other things to take care of, here.
-36487 := [Success] The box isn't dangerous unless you're fool enough to open it. But I like your backbone, human. I'll give you 2500 credits.
-36488 := I'll have some of my spaceport workers unload the box from your ship. You take the credits and go. Say hello to Lurze for me.
-36489 := Eh? You opened it but you're still around to deliver it to me? Impressive. More likely you're just lying, but I don't care.
-36490 := Maybe, maybe not. I'm thinking you didn't, or you wouldn't be standing here delivering it to me.
-36491 := Smart <man/woman>. Live longer that way.
-36492 := I have a box for you. Sent by Lurze.
-36493 := Does it make a difference?
-36494 := I'll take it.
-36495 := Is that all? Maybe I'll just keep the box until I get a better price.
-36496 := [Force Persuade] You want to pay me a little more.
-36497 := [Persuade] I expect a little more for transporting dangerous goods.
-36498 := I did. It was... very interesting.
-36499 := Of course I did. Wouldn't you have?
-36500 := No, of course not.
-36501 := Track Coordinator
-36502 := Cantina Shop
-36503 := Czerka Warehouse
-36504 := Gaffi Bounty Depot
+36412 := 你好啊，船长。让我看看……啊，对，在这儿。看起来货物已经按要求送到你的船上了。
+36413 := 等一下，这对吗？表格上写的是 32 号停泊舱，但你刚到啊。算了，吉兹卡现在是你的问题了。
+36414 := 现在，我只需要你的拇指印来……等一下，数据板去哪了？*叹气* 这里从来就没整理明白过。
+36415 := 不管怎样，吉兹卡归你了。有个装卸工说箱子一放进你的货舱就裂开了……有几只小东西可能已经跑出来了。
+36416 := 恐怕这种事时有发生。我们不承担责任……当然也不能把货收回来。祝你愉快。
+36417 := 如果你想移除货物，就得再填一张征用单。我这里正好有一张……等等。我还以为我有。算了。
+36418 := 货单上清楚写着，你订了一箱吉兹卡。交付到 32 号停泊舱……就是这里。
+36419 := 嗯，让我看看。32 号停泊舱，没错……42-B7 号货箱，没错……货单列明“生命体：吉兹卡”。一切看起来都合规。
+36420 := 这里是 32 号停泊舱，对吧？没错，而我的征用单上写的也是这里。一切看起来都合规。吉兹卡现在是你的问题了。
+36421 := 很好。谢谢。
+36422 := 说得过去。谢了。
+36423 := 不管你们把什么放上了我的船，我都要你们把它弄下来。现在。
+36424 := “我的问题”是什么意思？我没订过任何吉兹卡。
+36425 := 抱歉，你刚才说“吉兹卡”？
+36426 := 呃……那又是什么货物？
+36427 := 什么货物？你在说什么？
+36428 := 转过来，法萨到加门达！顾客回来了，我们得好好看清楚！来了，回来省信用点吧。
+36429 := 谁呀？转过来，你这贡达法斯卡，顾客在说话！这就好多了。你好，顾客！向米克图南朱斯购买，省下你的信用点！
+36430 := 就像我们刚才说的，你不开口我们就不卖东西，所以走上前来，看看米克图南朱斯两个能为你做些什么。
+36431 := 别害羞。想看什么就说。如果你看不清，我们就不动货。
+36432 := 我们敢打赌，你会想为你的飞梭省钱。是的，你有冠军的脸。我们会有你需要的东西。
+36433 := 是的，要省，因为你永远不知道艰难日子什么时候会来。银河系很危险，我们这么说，在听说卡里班的西斯麻烦之前就是如此。
+36434 := 是的，要省，因为你永远不知道局势什么时候会整个翻转。看看泽卡。我们听说……嗯，卡希克前哨站情况不好，我们肯定你知道。
+36435 := 这些日子省钱非常重要，瑟尔萨知道这是真的。科尔托价格让治疗变得昂贵，但又不能不用，我们肯定。
+36436 := 我们等你回来。任何有信用点的人永远受欢迎。
+36437 := 我们在这里服务。你需要知道什么？
+36438 := 不过是大家都在谈的：塔里斯、西斯和变化的骚动。可能对生意好，也可能对生意坏。
+36439 := 我们只知道聪明人会低调，别挡路。这一点要经常提醒你的另一半。呃……如果你有的话。
+36440 := 自从你上次问过之后，我们没挪地方。塔图因的尘土磨得我们的皮很难受，太阳也比有必要的更毒。
+36441 := 知道得不如应该知道的多。如果我们知道更多，生意就会更好。旅行者最喜欢我们。定居者没什么可交易。
+36442 := 你知道，我们在塔图因本地不会走很远。这里天气不像我们的家乡。太干了。实在太干。
+36443 := 永远相信当地人，即使他们不相信你。他们才是真正知道发生了什么的人。任何世界都是这样。
+36444 := 你又问了，但我们没有改变。只是来自边缘地带的诚实商人。
+36445 := 米克图南朱斯只是来自边缘地带的卑微商人。你想知道我们什么？
+36446 := 原谅你这么问，因为你只知道一个头脑……或者至少一次只有一个。我们现在是一体，但并非一直如此。
+36447 := 我们一起成长，在选择之龄结合，那时我们成为完整。不像你。你只是你本该成为的一半，像育巢尖叫兽。
+36448 := 呃，我们不是想冒犯你。我们不想失去任何生意。这只是我们帕尔杜阿格人的方式。
+36449 := 只因为 *你* 听不见，不代表它不存在。
+36450 := 你说不出来，也没有能听见它的耳朵。两个声音创造这个名字，四只耳朵听见真正的声音。
+36451 := 我们想贸易航道上的人总得给我们取个叫法。用一张嘴来说，那世界叫索尔朱斯，远在佩勒米亚贸易航线之外。
+36452 := 我们承认，那只是个不重要的停靠点。我们离开那里过贸易生活，因为我们强壮，也擅长说话。我们干得不错。
+36453 := 是的，当然。我们不想耽误你的重要事务。请看看吧。
+36454 := 我现在得走了。
+36455 := 我想问你几个问题。
+36456 := 听说什么外界传闻吗？
+36457 := 你对塔图因了解多少？
+36458 := 我该问谁才能知道更多信息？
+36459 := 我想问问你的事。
+36460 := 回到我其他的问题。
+36461 := 你是一个生物，还是两个？
+36462 := 你的另一半不怎么说话。
+36463 := 你来自哪里？
+36464 := 直接让我看看你卖什么。
+36465 := 米克图南朱斯
+36466 := 奥尔古
+36467 := 一个不寻常的商人。或者一对商人。
+36468 := 前往锚头镇
+36469 := 乔乌尔触发器
+36470 := 奥古尔图瓦克的售货亭
+36471 := [这个机器人没有反应。它显然需要大修。据你所知，它可能已经在沙漠里躺了好几年。]
+36472 := 失效机器人
+36473 := 受损的礼仪机器人。它没有得到妥善维护。
+36474 := 尤卡·拉卡的机器人商店
+36475 := 法扎仓库
+36476 := 嗯？这是什么？一个盒子？哦……*那个*盒子。
+36477 := 对，我知道你说的是哪个盒子。我还以为那东西一个月前就该到这里了。你绕路了，嗯？
+36478 := 啊，算了。你打开过盒子吗？
+36479 := 不，不重要。我知道盒子里是什么，这对我来说就够了。
+36480 := 我猜你现在是在等付款，对吧？我给你 2000 信用点买这个盒子，然后你就可以走你的路。
+36481 := 聪明的 <man/woman>。给你。替我向勒兹问好。
+36482 := 你这么想，嗯？我提醒你一下，你并不拥有这个盒子。你只是个信使。如果你对报酬有意见，就去找勒兹谈。
+36483 := [失败] 不，我要你离开。我已经给出最好的价格，而这就是你会接受的价格。走私者并不难找。
+36484 := [成功] 嗯……我会多付你一些……但我不喜欢这样。拿钱，然后让我继续忙赛车的事。
+36485 := [失败] 而我期待我的货物按时送达。如果你对价格有意见，就去找勒兹谈。
+36486 := 我会让几个太空港工人把盒子从你的船上卸下来，所以拿上信用点走吧。我这里还有别的事要处理。
+36487 := [成功] 盒子本身并不危险，除非你蠢到打开它。但我喜欢你的骨气，人类。我给你 2500 信用点。
+36488 := 我会让几个太空港工人把盒子从你的船上卸下来。你拿上信用点走吧。替我向勒兹问好。
+36489 := 嗯？你打开过它，但还活着把它送到我这儿？了不起。更可能是你在撒谎，不过我不在乎。
+36490 := 也许是，也许不是。我觉得你没有打开，否则你就不会站在这里把它交给我了。
+36491 := 聪明的 <man/woman>。那样活得更久。
+36492 := 我有个盒子给你。勒兹送来的。
+36493 := 这有什么区别吗？
+36494 := 我收下。
+36495 := 就这些？也许我会先留着盒子，等别人出更高价。
+36496 := [原力说服] 你想多付我一点钱。
+36497 := [说服] 我运送危险货物，应该得到更多报酬。
+36498 := 我打开了。那……很有意思。
+36499 := 我当然打开了。换作你不会吗？
+36500 := 不，当然没有。
+36501 := 赛道协调员
+36502 := 酒馆商店
+36503 := 泽卡仓库
+36504 := 加菲赏金站
 36505 := PowerUp
 36506 := Engine01
 36507 := Engine02
@@ -39365,86 +39365,86 @@ ENTER COMMAND
 36517 := Shift3
 36518 := Shift4
 36519 := Shift5
-36520 := This droid is damaged and inactive.
-36521 := The droid engages its patrol mode and moves off to carry out your programmed instructions.
-36522 := You leave the droid alone for now.
-36523 := [Failure] You don't have any repair parts. You leave the droid alone for now.
-36524 := The droid is now active. It will attack any enemies that come in range.
-36525 := [Failure] You do not have enough repair parts.
-36526 := [Success] Patrol mode engaged. Once you end this session the droid will begin patrol and destroy any enemies it encounters. 
-36527 := WARNING: Once you end this session the droid's program will be locked in. You will not be able to modifiy the droid anymore.
-36528 := [Success] The droid's shields are now active.
-36529 := [Success] The droid is now set for maximum accuracy.
-36530 := [Success] The droid is now set for maximum firepower.
-36531 := The droid is now active. It will attack any enemies that come in range.
-36532 := The droid is actively engaged in its patrol route. You cannot reprogram it anymore.
-36533 := Leave it alone.
-36534 := Reactivate the droid. (1 repair part)
-36535 := Leave it alone.
-36536 := Engage droid in patrol mode. (<CUSTOM45> repair part(s))
-36537 := Activate droid's shields. (<CUSTOM44> repair part(s))
-36538 := Optimize droid's targeting systems. (<CUSTOM43> repair part(s))
-36539 := Optimize droid's weaponry. (<CUSTOM42> repair part(s))
-36540 := Eastern Dune Sea
-36541 := Danger! Turn back.
-36542 := Sand People Fortress
-36543 := A malfunctioning droid abandoned to the Dune Sea.
-36544 := Refuse pile
-36545 := Dune Sea Speaker
-36546 := Sand People Area Speaker
-36547 := Dune Sea Edge
-36548 := Sand People Transition
+36520 := 这个机器人已损坏且处于非活动状态。
+36521 := 机器人启用巡逻模式，离开去执行你编程的指令。
+36522 := 你暂时不去管这个机器人。
+36523 := [失败] 你没有任何修理零件。你暂时不去管这个机器人。
+36524 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+36525 := [失败] 你的修理零件不足。
+36526 := [成功] 巡逻模式已启用。你结束本次会话后，机器人将开始巡逻，并摧毁它遇到的任何敌人。
+36527 := 警告：一旦你结束本次会话，机器人的程序将被锁定。你将无法再修改这个机器人。
+36528 := [成功] 机器人的护盾现已激活。
+36529 := [成功] 机器人现已设为最高精度。
+36530 := [成功] 机器人现已设为最大火力。
+36531 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+36532 := 机器人正在执行巡逻路线。你无法再重编程它。
+36533 := 别管它。
+36534 := 重新激活机器人。（1 个修理零件）
+36535 := 别管它。
+36536 := 启用机器人的巡逻模式。（<CUSTOM45> 个修理零件）
+36537 := 激活机器人的护盾。（<CUSTOM44> 个修理零件）
+36538 := 优化机器人的瞄准系统。（<CUSTOM43> 个修理零件）
+36539 := 优化机器人的武器系统。（<CUSTOM42> 个修理零件）
+36540 := 东部沙丘海
+36541 := 危险！返回。
+36542 := 沙人要塞
+36543 := 一台被遗弃在沙丘海中的故障机器人。
+36544 := 垃圾堆
+36545 := 沙丘海发话器
+36546 := 沙人区域发话器
+36547 := 沙丘海边缘
+36548 := 沙人过渡点
 36549 := tat17aa_tat18aa
-36550 := Dune Sea Leave
-36551 := Krayt Area Leave
+36550 := 离开沙丘海
+36551 := 离开克雷特区域
 36552 := tat18aa_exit
 36553 := tat18ab_tat18aa
 36554 := tat18ac_tat18aa
-36555 := [A vast expanse of desert stretches before you, with no markers or any indications of life. It would be a deathtrap for anyone wandering aimlessly.]
-36556 := Anchorhead
-36557 := Eastern Dune Sea
-36558 := Danger! Turn back.
-36559 := Dune Edge Speaker
-36560 := Sandperson Death Speaker
-36561 := Dune Sea Transition
-36562 := Sandperson Death Trigger
-36563 := Krayt Dragon Leave
+36555 := [一片广阔沙漠在你面前延伸，看不到任何标记，也没有任何生命迹象。对任何漫无目的游荡的人来说，这里都是死亡陷阱。]
+36556 := 锚头镇
+36557 := 东部沙丘海
+36558 := 危险！返回。
+36559 := 沙丘边缘发话器
+36560 := 沙人死亡发话器
+36561 := 沙丘海过渡点
+36562 := 沙人死亡触发器
+36563 := 离开克雷特龙区域
 36564 := tat18aa_tat18ab
 36565 := tat20aa_tat18ab
-36566 := Tatooine - Eastern Dune Sea
-36567 := Good job! Come talk to me!
-36568 := What the...! Look at the size of it... Yeaaaarrrgh!!
-36569 := AAAAHHHHHHH!!!
-36570 := [A vast expanse of desert stretches before you, with no markers or any indications of life. It would be a deathtrap for anyone wandering aimlessly.]
-36571 := Anchorhead
-36572 := Danger! Turn Back.
-36573 := Sand People Fortress
-36574 := Krayt Dragon Claw
-36575 := Bantha Speaker
-36576 := Sand People Speaker
-36577 := Sand Person Transition
-36578 := Bantha Lure 4
-36579 := Bantha Lure 5
-36580 := Bantha Lure 6
-36581 := Krayt Spawn 2
-36582 := Party Move 1
-36583 := Party Move 2
-36584 := Party Move 3
-36585 := Party Move 4
-36586 := Player Move 1
-36587 := Player Move 2
-36588 := Player Move 3
+36566 := 塔图因 - 东部沙丘海
+36567 := 干得好！来找我说话！
+36568 := 什么鬼……！看看它的个头……呀啊啊啊！！
+36569 := 啊啊啊啊啊！！！
+36570 := [一片广阔沙漠在你面前延伸，看不到任何标记，也没有任何生命迹象。对任何漫无目的游荡的人来说，这里都是死亡陷阱。]
+36571 := 锚头镇
+36572 := 危险！返回。
+36573 := 沙人要塞
+36574 := 克雷特龙爪
+36575 := 班萨发话器
+36576 := 沙人发话器
+36577 := 沙人过渡点
+36578 := 班萨诱饵 4
+36579 := 班萨诱饵 5
+36580 := 班萨诱饵 6
+36581 := 克雷特生成 2
+36582 := 队伍移动 1
+36583 := 队伍移动 2
+36584 := 队伍移动 3
+36585 := 队伍移动 4
+36586 := 玩家移动 1
+36587 := 玩家移动 2
+36588 := 玩家移动 3
 36589 := tat18aa_tat18ac
-36590 := Tat18ac Exit
-36591 := Sand People Female
-36592 := Wood Slat Door
-36593 := Exit to Dune Sea
+36590 := Tat18ac 出口
+36591 := 沙人女性
+36592 := 木板门
+36593 := 前往沙丘海
 36594 := tat18ab_tat20aa
-36595 := Unknown World - Central Beach
-36596 := Wait, you look like... yes! I recognize you: you are Revan! You are the one who came before - you and your apprentice Malak! Few among our tribe ever expected you to return.
-36597 := No! I won't let you hurt Mission!
-36598 := Then I'll just kill you both!
-36599 := Battered Foot Locker
+36595 := 未知世界 - 中央海滩
+36596 := 等等，你看起来像……对！我认得你：你是瑞文！你就是以前来过的那个人——你和你的学徒马拉克！我们部族中很少有人想到你会回来。
+36597 := 不！我不会让你伤害米申！
+36598 := 那我就把你们两个都杀了！
+36599 := 破旧脚柜
 36600 := temp
 36601 := unk41_rankill
 36602 := unk41_wprak
