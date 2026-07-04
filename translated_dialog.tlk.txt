@@ -36443,20 +36443,20 @@ C8-42 则稍微没有那么……热情。
 33997 := 你说得有道理。
 33998 := 听着……你*别想*得到我的身体。
 33999 := 那么你有什么建议？
-34000 := I don't suppose you'll tell me, will you?
-34001 := Out? Out to where? If you get out of here, your body's probably dead.
-34002 := I'll have to do for what?
-34003 := Ahhh! Na abds! Na abds!!
+34000 := 我想你不会告诉我的，对吧？
+34001 := 出去？出去到哪儿？如果你真的离开这里，你的身体恐怕早就死了。
+34002 := 我得做什么？
+34003 := 啊啊！Na abds! Na abds!!
 34004 := Na abds! Me hoot bad liaz!! Awnts!!
-34005 := Ahh!! Me na awnts palkie bristag!! Bad liaz!!
-34006 := *sniff* Me awnts na palkie. Me bad liaz.
-34007 := *sniff* Me... me palkie. Is na gon-disen.
-34008 := You... yooba me na abds?
-34009 := [She smiles.] Yooba gon-disen!
-34010 := [She frowns and looks at you helplessly.]
+34005 := 啊！！Me na awnts palkie bristag!! Bad liaz!!
+34006 := *抽泣* Me awnts na palkie. Me bad liaz.
+34007 := *抽泣* Me... me palkie. Is na gon-disen.
+34008 := 你... yooba me na abds?
+34009 := [她笑了。] Yooba gon-disen!
+34010 := [她皱起眉，无助地看着你。]
 34011 := Yooba me kapsie?
-34012 := Yooba palkie?  Bye-bye.
-34013 := Yooba palkie?  Bye-bye.
+34012 := Yooba palkie?  拜拜。
+34013 := Yooba palkie?  拜拜。
 34014 := Na! Me hoot bad liaz! Awnts!!
 34015 := Me... me na palkie? Gon-disen!
 34016 := Me na awnts palkie!! Na abds!!
@@ -36466,886 +36466,886 @@ C8-42 则稍微没有那么……热情。
 34020 := Me palkie bristag na nuh ghis! Me hoot abd liaz!
 34021 := Me palkie Manlorey! Me na esowon!
 34022 := Me na palkie awnts! Bristag me laesfa!
-34023 := [She nods.] Bristag me laesfa.
+34023 := [她点点头。] Bristag me laesfa.
 34024 := Me no palkie?
 34025 := Me no palkie awnts! Bristag me laesfa!
 34026 := Yooba gon-disen! Bristag me laesfa!
-34027 := [She points at a nearby service panel. You understand that she must have been sleeping in the ship's repair ducts.] Sasha stin-quiw there. It gon-disen.
-34028 := Manlorey kesta-won Sasha na nuh ghis! Manlorey abds!
+34027 := [她指向附近的一块维修面板。你明白她一定一直睡在飞船的维修管道里。] 萨莎 stin-quiw 那里。那 gon-disen.
+34028 := Manlorey kesta-won 萨莎 na nuh ghis! Manlorey abds!
 34029 := Manlorey bristag na laesfa. Manlorey bristag is na gon-disen!
 34030 := Me palkie Manlorey bristag. Me na esowon in bristag laesfa.
 34031 := Bristag me laesfa!!
-34032 := [The girl thinks for a long moment.] Dantooine. Dantooine me laesfa na nuh ghis.
-34033 := [She seems uncertain.] Me palkie laesfa? Me palkie Dantooine?
-34034 := [The girl seems to think about this, but says nothing.]
-34035 := [The girl thinks for a long moment.] Dantooine. Dantooine me laesfa na nuh ghis.
-34036 := [The girl looks hopeful.] Me na palkie laesfa?
+34032 := [女孩沉思了很久。] 丹图因星。丹图因星 me laesfa na nuh ghis.
+34033 := [她似乎拿不准。] Me palkie laesfa? Me palkie 丹图因星?
+34034 := [女孩似乎想了想，却什么也没说。]
+34035 := [女孩沉思了很久。] 丹图因星。丹图因星 me laesfa na nuh ghis.
+34036 := [女孩露出希望的神情。] Me na palkie laesfa?
 34037 := Bristag me laesfa! Yooba gon-disen!!
-34038 := [The girl obviously doesn't understand.]
-34039 := [She seems frightened and backs away.] Me abd liaz...
+34038 := [女孩显然没有听懂。]
+34039 := [她显得很害怕，往后退去。] Me abd liaz...
 34040 := Tabed me yooba!
-34041 := [The girl stares at you with wide eyes.] Is na gon-disen?
-34042 := [She claps her hands excitedly.] Tabed me yooba, awnts!
-34043 := [The girl points at her mouth.] Yooba kapsie... tabed me yooba.
-34044 := [The girl points at her mouth.] Yooba kapsie... tabed me yooba.
-34045 := [She points at you.] Yooba! Tabed me yooba!
+34041 := [女孩睁大眼睛盯着你。] Is na gon-disen?
+34042 := [她兴奋地拍起手。] Tabed me yooba, awnts!
+34043 := [女孩指了指自己的嘴。] Yooba kapsie... tabed me yooba.
+34044 := [女孩指了指自己的嘴。] Yooba kapsie... tabed me yooba.
+34045 := [她指着你。] Yooba! Tabed me yooba!
 34046 := Tabed me yooba!
 34047 := Manlorey! Manlorey is na gon-disen! Manlorey abds!
 34048 := Me na esowon Manlorey! Manlorey abds!
-34049 := [The girl obviously doesn't understand.]
-34050 := Me? Sasha na Manlorey!!
+34049 := [女孩显然没有听懂。]
+34050 := Me? 萨莎 na Manlorey!!
 34051 := Me awnts kesta-won yum nuh ghis.
-34052 := [The girl thinks for a moment and then stabs downwards several times with her finger.] Me kapsie nuh ghis!
-34053 := [She covers her mouth with her hand.] Me na kapsie nuh ghis!
-34054 := [She covers her mouth with her hand.] Me na kapsie nuh ghis!
+34052 := [女孩想了一会儿，然后用手指朝下戳了好几下。] Me kapsie nuh ghis!
+34053 := [她用手捂住嘴。] Me na kapsie nuh ghis!
+34054 := [她用手捂住嘴。] Me na kapsie nuh ghis!
 34055 := Nuh ghis! Me awnts kesta-won yum nuh ghis!
-34056 := [The girl seems puzzled. She points towards elsewhere on the ship.] Yum. Me awnts kesta-won yum.
-34057 := [She mimics an act which looks like she's chewing something.] Yum. Me yum gon-disen!
-34058 := [She mimics an act which looks like she's chewing something.] Yum. Me yum gon-disen!
-34059 := [She smiles.] Me awnts kesta-won yum nuh ghis!
+34056 := [女孩显得困惑。她指向飞船别处。] Yum. Me awnts kesta-won yum.
+34057 := [她模仿出像是在咀嚼东西的动作。] Yum. Me yum gon-disen!
+34058 := [她模仿出像是在咀嚼东西的动作。] Yum. Me yum gon-disen!
+34059 := [她笑了。] Me awnts kesta-won yum nuh ghis!
 34060 := Yooba na abds?
-34061 := [The girl slaps her leg.] Abds! Me abds!
-34062 := [She frowns and slaps her leg again.]  Abds! Is na gon-disen!
-34063 := [She frowns and slaps her leg again.]  Abds! Is na gon-disen!
+34061 := [女孩拍了拍自己的腿。] Abds! Me abds!
+34062 := [她皱起眉，又拍了拍自己的腿。]  Abds! Is na gon-disen!
+34063 := [她皱起眉，又拍了拍自己的腿。]  Abds! Is na gon-disen!
 34064 := Yooba na abds!
 34065 := Yooba gon-disen!
-34066 := [The girl laughs and points at you.] Yooba gon-disen!
-34067 := [The girl smiles and pats her chest.] Gon-disen! Me!
-34068 := [The girl smiles and pats her chest.] Gon-disen! Me!
+34066 := [女孩笑了，指着你。] Yooba gon-disen!
+34067 := [女孩微笑着拍了拍自己的胸口。] Gon-disen! Me!
+34068 := [女孩微笑着拍了拍自己的胸口。] Gon-disen! Me!
 34069 := Yooba gon-disen!
-34070 := Sasha na esowon in bristag. Bristag me laesfa.
-34071 := [She points towards one of the Ebon Hawk's service panels.] Me laesfa. Me stin-quiw in laesfa.
-34072 := [The girl looks puzzled. She gestures around her.] Bristag me laesfa!
-34073 := [The girl looks puzzled. She gestures around her.] Bristag me laesfa!
-34074 := [The girl smiles.] Sasha na esowon in bristag. Bristag me laesfa!
-34075 := [The girl points at things around her.] Bristag! Bristag me laesfa!
-34076 := [The girl waves a hand about, making a "swooshing" sound.] Bristag!
-34077 := [The girl waves a hand about, making a "swooshing" sound.] Bristag!
-34078 := Bristag! Sasha na esowon in bristag. Bristag me laesfa.
-34079 := [She points to herself.] Me esowon!
-34080 := [The girl hides her face behind her hands for a moment.] Me na esowon!
-34081 := [The girl hides her face behind her hands for a moment.] Me na esowon!
-34082 := [The girl appears, unsure.] Yooba esowon nuh ghis?
-34083 := Sasha na esowon in bristag. Bristag me laesfa.
-34084 := [The girl looks at you quizzically, not understanding.]
-34085 := [she nods] Waba soosa Sasha.
-34086 := [The girl looks at you oddly, puzzled.]
-34087 := [The girl points to herself.] Waaba soosa Sasha!
-34088 := [The girl obviously doesn't understand you.]
-34089 := Get out of here, whoever you are! Right now!!
-34090 := A little girl? Where did you come from?
-34091 := Hey! What are you doing here?!
-34092 := I want you out of here! Off my ship!!
-34093 := Alright, alright, calm down. What's the problem?
-34094 := I don't care. Off you go. Now!!
-34095 := Oh no, not the tears! *sigh* Alright, what's the problem?
-34096 := I don't understand and I don't care. Get off my ship.
-34097 := Suck it up, sister. Find someone who cares.
-34098 := Calm down, little girl. I won't hurt you.
-34099 := I don't understand what you're saying.
-34100 := Err... sure, whatever you say.
-34101 := I still don't understand you.
-34102 := I've got to go.
-34103 := Sorry, but you have to leave my ship.
-34104 := *sigh* Alright, you can stay. For now.
-34105 := Look... I can't understand you. You have to go.
-34106 := I don't have time for this. Out!!
-34107 := I don't care if you're scared. Go!
-34108 := [Communicate with Sasha in her language.]
-34109 := I'm tired of this game. I want you off my ship.
-34110 := No, we'll have to talk later.
-34111 := Why are you hiding on my ship? Sasha na esowon in bristag?
-34112 := You came to the ship before. You were very scared. Why?
-34113 := You left the Mandalorians? And hid here on the ship.
-34114 := You don't want to leave. The Ebon Hawk is your home.
-34115 := That's enough talk for now.
-34116 := I haven't decided yet.
-34117 := No, you don't have to go. For now.
-34118 := You have to go now, Sasha. Yooba palkie nuh ghis, Sasha.
-34119 := You sleep here on the ship? Yooba stin-quiw in bristag?
-34120 := Why are you scared of the Mandalorians? Hoot bad liaz Manlorey?
-34121 := They took you before? And hurt you?
-34122 := The Mandalorian ship wasn't home. You didn't like it.
-34123 := The Ebon Hawk is not your home, Sasha. Not your first home, anyway. Bristag na Sasha laesfa.
-34124 := Tell me about your home before. Tabed me Sasha laesfa na nuh ghis.
-34125 := Dantooine's been destroyed, Sasha...
-34126 := I don't have time to go to Dantooine!
-34127 := Dantooine? Maybe someone on Dantooine remembers you?
-34128 := There is someone there who will take you home. Lur Arka kesta-won you laesfa.
-34129 := If I have time.
-34130 := If Lur Arka is still there. We'll see.
-34131 := Yes, you can go home.
-34132 := I don't have time to look around for someone who knows you.
-34133 := Forget it! I'm not looking out for you... off my ship. Now!
-34134 := I don't care what you do. Stay on the ship... just don't be any trouble.
-34135 := You don't have to go, Sasha. You can stay... for now.
-34136 := Dantooine? Maybe someone here remembers you?
-34137 := [Try to learn Sasha's strange language.]
-34138 := I give up.
-34139 := Right. You can stay here, for now.
-34140 := Say something else, Sasha.
-34141 := You want to know about me, do you?
-34142 := Tabed you? What do you mean?
-34143 := I... don't understand. I'll have to think about it.
-34144 := I'm... supposed to talk? To speak? What about?
-34145 := You... want me to tell you a story? About what?
-34146 := So... 'tabed' means 'tell me about'. I get it.
-34147 := Many of the words you're speaking are Mandalorian...
-34148 := The Mandalorians hurt you? Is that what you're saying?
-34149 := You don't like the Mandalorians. I understand.
-34150 := Okay. Mandalorians bad. I get it.
-34151 := Manlorey... that's your word for Mandalorian? So you do know of them.
-34152 := So you... hid from the Mandalorians? Or are hiding?
-34153 := I can understand Mandalorian, but your words are all mixed up.
-34154 := But are you a Mandalorian child, then?
-34155 := Sasha isn't Mandalorian. Got it. But why don't you speak Basic, then?
-34156 := So you're human. You learned the words from somewhere, though.
-34157 := You... want some food now. You're hungry.
-34158 := Nuh ghis? Is that all one phrase?
-34159 := You're talking... down? I don't understand.
-34160 := The floor? "Nuh ghis" means floor?
-34161 := That could be anything. I don't get it.
-34162 := You're not speaking... now? "Nuh ghis" means "now"! "Na nuh ghis" is not now... or "before"?
-34163 := Yum? What kind of word is that?
-34164 := You want something from elsewhere?
-34165 := It's... a part of the ship? A room?
-34166 := To... to chew? To bite? No, I don't get it.
-34167 := Yum... you mean food, don't you? "Yum" is "food".
-34168 := I understand. No, I won't hurt you.
-34169 := "Na abds"... you said that when I first found you.
-34170 := Yes, very bad. Stop that!
-34171 := "Abds" means "hit"? Is that it?
-34172 := No, I don't understand what you're getting at.
-34173 := So... "abds" is "to hurt"? "Na abds" means "not hurt"? Is that it?
-34174 := You like me. I understand.
-34175 := You've said that before. What is "gon-disen"?
-34176 := You already said that! What about it?
-34177 := Something about me, yes, but what?
-34178 := You're gon-disen? No, that's not it.
-34179 := It's... something you like. Yes, "gon-disen" means you like it!
-34180 := You're hiding in the starship. It's your home. I understand.
-34181 := Laesfa... everything is safe? Is that it?
-34182 := You... sleep there? "Laesfa" means "sleep"?
-34183 := That panel? That's what "laesfa" means?
-34184 := It's... no, I don't understand.
-34185 := The starship... you mean home. The ship is your home.
-34186 := The panel... all of this... it's your home. "Laesfa" means "home".
-34187 := Bristag? What is that?
-34188 := It's your home? Is that it?
-34189 := It's a thing? Something around here?
-34190 := No, I don't understand what you're getting at.
-34191 := "Bristag"... it means "starship", doesn't it?
+34070 := 萨莎 na esowon in bristag. Bristag me laesfa.
+34071 := [她指向乌木鹰号的一块维修面板。] Me laesfa. Me stin-quiw in laesfa.
+34072 := [女孩显得困惑。她朝四周比划。] Bristag me laesfa!
+34073 := [女孩显得困惑。她朝四周比划。] Bristag me laesfa!
+34074 := [女孩笑了。] 萨莎 na esowon in bristag. Bristag me laesfa!
+34075 := [女孩指着周围的东西。] Bristag! Bristag me laesfa!
+34076 := [女孩挥了挥手，发出“嗖”的声音。] Bristag!
+34077 := [女孩挥了挥手，发出“嗖”的声音。] Bristag!
+34078 := Bristag! 萨莎 na esowon in bristag. Bristag me laesfa.
+34079 := [她指向自己。] Me esowon!
+34080 := [女孩把脸在双手后藏了一会儿。] Me na esowon!
+34081 := [女孩把脸在双手后藏了一会儿。] Me na esowon!
+34082 := [女孩显得有些不确定。] Yooba esowon nuh ghis?
+34083 := 萨莎 na esowon in bristag. Bristag me laesfa.
+34084 := [女孩疑惑地看着你，没听懂。]
+34085 := [她点点头。] Waba soosa 萨莎.
+34086 := [女孩古怪地看着你，困惑不解。]
+34087 := [女孩指向自己。] Waaba soosa 萨莎!
+34088 := [女孩显然没听懂你的话。]
+34089 := 滚出去，不管你是谁！马上！！
+34090 := 一个小女孩？你从哪儿来的？
+34091 := 嘿！你在这里干什么？！
+34092 := 我要你离开这里！从我的船上下去！！
+34093 := 好了，好了，冷静点。出什么事了？
+34094 := 我不关心。走吧。现在！！
+34095 := 噢不，别哭！*叹气* 好吧，出什么事了？
+34096 := 我听不懂，也不关心。离开我的船。
+34097 := 别哭哭啼啼了，小妹。找个在乎的人去。
+34098 := 冷静点，小姑娘。我不会伤害你。
+34099 := 我听不懂你在说什么。
+34100 := 呃……当然，随你怎么说。
+34101 := 我还是听不懂你。
+34102 := 我得走了。
+34103 := 抱歉，但你必须离开我的船。
+34104 := *叹气* 好吧，你可以留下。暂时。
+34105 := 听着……我听不懂你。你得走。
+34106 := 我没时间管这个。出去！！
+34107 := 我不管你怕不怕。走！
+34108 := [用萨莎的语言与她交流。]
+34109 := 我受够这个游戏了。我要你离开我的船。
+34110 := 不，我们以后再谈。
+34111 := 你为什么躲在我的船上？萨莎 na esowon in bristag?
+34112 := 你以前来过这艘船。你很害怕。为什么？
+34113 := 你离开了曼达洛人？然后躲在这艘船上。
+34114 := 你不想离开。乌木鹰号是你的家。
+34115 := 先谈到这里吧。
+34116 := 我还没决定。
+34117 := 不，你不用走。暂时不用。
+34118 := 你现在必须走了，萨莎。Yooba palkie nuh ghis, 萨莎.
+34119 := 你睡在这艘船上？Yooba stin-quiw in bristag?
+34120 := 你为什么害怕曼达洛人？Hoot bad liaz Manlorey?
+34121 := 他们以前抓走过你？还伤害了你？
+34122 := 那艘曼达洛人的船不是家。你不喜欢那里。
+34123 := 乌木鹰号不是你的家，萨莎。至少不是你最初的家。Bristag na 萨莎 laesfa.
+34124 := 告诉我你以前的家。Tabed me 萨莎 laesfa na nuh ghis.
+34125 := 丹图因星已经被摧毁了，萨莎……
+34126 := 我没时间去丹图因星！
+34127 := 丹图因星？也许丹图因星上有人记得你？
+34128 := 那里有人会带你回家。卢尔·阿卡 kesta-won 你 laesfa.
+34129 := 如果我有时间的话。
+34130 := 如果卢尔·阿卡还在那里。到时候再看。
+34131 := 是的，你可以回家。
+34132 := 我没时间到处找认识你的人。
+34133 := 算了！我不会照看你……离开我的船。现在！
+34134 := 我不管你做什么。待在船上吧……只要别惹麻烦。
+34135 := 你不用走，萨莎。你可以留下……暂时。
+34136 := 丹图因星？也许这里有人记得你？
+34137 := [尝试学习萨莎的奇怪语言。]
+34138 := 我放弃。
+34139 := 好吧。你暂时可以留在这里。
+34140 := 再说点别的，萨莎。
+34141 := 你想了解我的事，是吗？
+34142 := Tabed 你？什么意思？
+34143 := 我……听不懂。我得想想。
+34144 := 我……应该说话？开口？说什么？
+34145 := 你……想让我给你讲个故事？讲什么？
+34146 := 所以……“tabed”的意思是“告诉我关于……的事”。我懂了。
+34147 := 你说的很多词都是曼达洛人语……
+34148 := 曼达洛人伤害了你？你是这个意思吗？
+34149 := 你不喜欢曼达洛人。我明白了。
+34150 := 好吧。曼达洛人坏。我懂了。
+34151 := Manlorey……这是你说“曼达洛人”的词？所以你确实知道他们。
+34152 := 所以你……躲过曼达洛人？或者正在躲？
+34153 := 我能听懂曼达洛人语，但你的词全混在一起了。
+34154 := 可这么说你是曼达洛人的孩子？
+34155 := 萨莎不是曼达洛人。明白了。可是那你为什么不说银河基本语？
+34156 := 所以你是人类。可是这些词你总是从某个地方学来的。
+34157 := 你……现在想要些食物。你饿了。
+34158 := Nuh ghis? 那是一整个短语吗？
+34159 := 你在说……下面？我不明白。
+34160 := 地板？“Nuh ghis”的意思是地板？
+34161 := 那可能是什么都行。我没懂。
+34162 := 你现在……不是在说话？“Nuh ghis”的意思是“现在”！“Na nuh ghis”不是现在……或者是“以前”？
+34163 := Yum？这算什么词？
+34164 := 你想要别处的某个东西？
+34165 := 那是……飞船的一部分？一个房间？
+34166 := 是……咀嚼？咬？不，我没懂。
+34167 := Yum……你是说食物，对吧？“Yum”就是“食物”。
+34168 := 我明白了。不，我不会伤害你。
+34169 := “Na abds”……我第一次找到你时你说过这个。
+34170 := 对，很坏。别这样！
+34171 := “Abds”的意思是“打”？是这样吗？
+34172 := 不，我不明白你想表达什么。
+34173 := 所以……“abds”是“伤害”？“Na abds”意思是“不伤害”？是这样吗？
+34174 := 你喜欢我。我明白了。
+34175 := 你以前说过那个。什么是“gon-disen”？
+34176 := 你已经说过那个了！那又怎样？
+34177 := 是关于我的什么，没错，但到底是什么？
+34178 := 你是 gon-disen？不，不是这个意思。
+34179 := 那是……你喜欢的东西。对，“gon-disen”的意思是你喜欢它！
+34180 := 你躲在这艘星舰里。这里是你的家。我明白。
+34181 := Laesfa……一切都安全？是这个意思？
+34182 := 你……在那里睡觉？“Laesfa”的意思是“睡觉”？
+34183 := 那块面板？那就是“laesfa”的意思？
+34184 := 这是……不，我不明白。
+34185 := 这艘星舰……你是说家。这艘船是你的家。
+34186 := 那块面板……这一切……都是你的家。“Laesfa”的意思是“家”。
+34187 := Bristag？那是什么？
+34188 := 那是你的家？是这个意思？
+34189 := 那是个东西？这里周围的什么东西？
+34190 := 不，我不明白你想表达什么。
+34191 := “Bristag”……它的意思是“星舰”，对吧？
 34192 := Esowon? Na esowon?
-34193 := I need to hear more.
-34194 := I see you? Or you see me?
-34195 := You... don't see? No, that's not it, is it?
-34196 := I understand. "Esowon" is "see" but "na esowon" is "hide".
-34197 := You... you're hiding! "Na esowon" is "hide"!
-34198 := I didn't get all of that, but sure.
-34199 := Yes, I see now. Me esowon nuh ghis.
-34200 := Where are you from, Sasha? Taris?
-34201 := Where are you from? Can you tell me that?
-34202 := How did you get on the ship, Sasha?
-34203 := You're a stowaway, aren't you? How long have you been here?
-34204 := Does the name Lur Arka ring a bell? What about Rundil ot Sulem?
-34205 := Sasha... your name is Sasha, right?
-34206 := Can you tell me your name?
-34207 := [Point to yourself.] My name is <FirstName>. You are...?
-34208 := Do you know a Twi'lek by the name of Lur Arka Sulas?
-34209 := Jor Ul
-34210 := Kurax
-34211 := Lurze
-34212 := Kesh
-34213 := Nubassa
-34214 := Sasha
-34215 := Gizka Poison
-34216 := Spice
-34217 := There are several kilograms of illegal spice here, tightly wrapped and sealed.
-34218 := Strange Box
-34219 := The box is rather light and small, made out of an odd metal allow. It appears to have no lock and could probably be opened quite easily.
-34220 := Spice container
-34221 := This locker is made of a very sturdy metal and has a complex lock with an attached pad. It will likely be very difficult to break into without the proper code.
-34222 := SYSTEM LOADING...
-COMPLETE
-ENTER COMMAND
-34223 := EXITING SYSTEM...
-34224 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-34225 := SYSTEM OVERRIDE ACCEPTED
-ENTER COMMAND
-34226 := [SUCCESS] MAINTENANCE DROID REPORTING FOR DUTY
-34227 := SYSTEM LOADING...
-COMPLETE
-34228 := MAINTENANCE DROID ALERTED...
-LOGGING OFF
-34229 := Log out.
-34230 := Slice the computer. (1 spike)
-34231 := Log out.
-34232 := [Computer] Call for maintenance droid to repair damaged door.
-34233 := There's something behind here.
-34234 := Damn - another Dark Jedi! I'll try to hold him off, you get to the escape pods! Go!
-34235 := You're wounded! You better use a medpac to heal yourself before we go any farther.
-34236 := Press the "X" button to target yourself and bring up an action menu. Select "Use Item", then select "medpac" from the list of items.
-34237 := How do I use a medpack?
-34238 := Okay.
-34239 := Its maintenance program engaged, the droid scurries about in a vain effort to repair the massive damage to the ship. You cannot reprogram it again.
-34240 := This maintenance droid is damaged.
-34241 := You leave it alone for now.
-34242 := [Failure] You don't have any repair parts. You leave the droid alone for now.
-34243 := The maintenance droid is now active. Once you end this session it will begin its maintenance program and repair the door.
-34244 := Beep Beep Bebeep
-34245 := Leave it alone.
-34246 := Reactivate the droid. (1 repair part)
-34247 := End repair session.
-34248 := Quick - get we have to get to the escape pods before it's too late!
-34249 := Whenever you gain experience in the game, the rest of your party will as well. You have the option of levelling them up manually, or you can use the default system. 
-34250 := But enough of this. We need to get moving!
-34251 := Go ahead and level up before we move on. Press [START] then go to the CHARACTER menu and follow the instructions on the screen.
-34252 := Nice job. You've gained quite a bit of experience so far. You want me to show you how to apply that experience to improve your skills?
-34253 := Whenever you have enough experience to level up, your character portrait will begin to flash. Press [START] then go to the CHARACTER menu to level up.
-34254 := If you have enough experience points, you can press "A" to level your character up from this screen.
-34255 := Good. Go ahead and level up now before we continue.
-34256 := Those Sith won't know what hit 'em!
-34257 := To slice into most computers you'll need computer spikes. The higher your computer skill, the less spikes it takes to override the system.
-34258 := Once you have your equipment, come speak to me again.
-34259 := I know all about your reputation, how you used to smuggle spice and blasters along the Corellian Run. I guess the Republic figured since they couldn't catch you, they might as well hire you.
-34260 := And I'll admit, the Republic is in desperate need of someone with your kind of skills. Desperate enough to overlook your shady past.
-34261 := I heard what everyone's saying about you: you've explored the farthest reaches of the galaxy, you've visited planets I've never even heard of.
-34262 := People with your skills and abilities are hard to find; it's no wonder the Republic recruited you for this mission. But now's the time to prove yourself!
-34263 := I've heard all about your reputation: elite combat training, tops in your class. It's no wonder you were hand picked for this mission.
-34264 := Word is the officers haven't seen a recruit with your kind of potential in twenty years. But all that potential doesn't mean a thing if you can't deliver when it counts!
-34265 := Yes, show me how.
-34266 := Can you repeat that?
-34267 := I understand.
-34268 := I already know how to do that.
-34269 := Okay, give me some tips.
-34270 := Can you repeat that?
-34271 := Okay. Let's get to the fighting!
-34272 := Forget the tips. Let's just get to the fighting!
-34273 := Can you repeat that?
-34274 := Okay.
-34275 := What if they have lightsabers?
-34276 := Okay.
-34277 := How do I check my map?
-34278 := Okay.
-34279 := I can repair droids?
-34280 := Okay.
-34281 := How do I use the computer?
-34282 := Okay.
-34283 := How do you use security on a door?
-34284 := Okay.
-34285 := How do I use a medpac?
-34286 := Okay.
-34287 := How do I use you to unlock the door?
-34288 := Okay.
-34289 := Okay.
-34290 := How do I look at my journal?
-34291 := Okay.
-34292 := Okay.
-34293 := How do I equip my items?
-34294 := Okay.
-34295 := Can you repeat that?
-34296 := I understand.
+34193 := 我需要再听一些。
+34194 := 我看见你？还是你看见我？
+34195 := 你……看不见？不，不是这个意思，对吧？
+34196 := 我明白了。“Esowon”是“看见”，但“na esowon”是“躲藏”。
+34197 := 你……你在躲！“Na esowon”是“躲藏”！
+34198 := 我没有全听懂，不过好吧。
+34199 := 是，我现在明白了。Me esowon nuh ghis.
+34200 := 你来自哪里，萨莎？塔里斯星？
+34201 := 你来自哪里？能告诉我吗？
+34202 := 你是怎么上船的，萨莎？
+34203 := 你是个偷渡者，对吧？你在这里多久了？
+34204 := 卢尔·阿卡这个名字有印象吗？伦迪尔·奥特·苏勒姆呢？
+34205 := 萨莎……你的名字是萨莎，对吧？
+34206 := 你能告诉我你的名字吗？
+34207 := [指向自己。] 我的名字是 <FirstName>。你是……？
+34208 := 你认识一个叫卢尔·阿卡·苏拉斯的提列克人吗？
+34209 := 乔尔·乌尔
+34210 := 库拉克斯
+34211 := 勒兹
+34212 := 凯什
+34213 := 努巴萨
+34214 := 萨莎
+34215 := 吉兹卡毒药
+34216 := 香料
+34217 := 这里有几公斤非法香料，包得很紧并且密封着。
+34218 := 奇怪的盒子
+34219 := 这个盒子相当轻巧，体积不大，由一种奇异金属合金制成。它似乎没有锁，应该很容易打开。
+34220 := 香料容器
+34221 := 这个储物柜由非常坚固的金属制成，配有复杂的锁和外接键盘。如果没有正确密码，想破开大概非常困难。
+34222 := 系统载入中……
+完成
+输入命令
+34223 := 正在退出系统……
+34224 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+34225 := 系统覆盖已接受
+输入命令
+34226 := [成功] 维护机器人报到
+34227 := 系统载入中……
+完成
+34228 := 已通知维护机器人……
+正在注销
+34229 := 注销。
+34230 := 切入计算机。（1 个计算机破解器）
+34231 := 注销。
+34232 := [计算机] 呼叫维护机器人修理受损舱门。
+34233 := 后面有东西。
+34234 := 该死，又一个黑暗绝地！我来拖住他，你去逃生舱！快！
+34235 := 你受伤了！我们继续走之前，你最好用医疗包治疗自己。
+34236 := 按“X”按钮以自己为目标，并打开动作菜单。选择“使用物品”，然后从物品列表中选择“医疗包”。
+34237 := 我该怎么使用医疗包？
+34238 := 好。
+34239 := 维护程序启动后，机器人四处奔忙，徒劳地试图修复飞船遭受的严重损坏。你无法再次重编程它。
+34240 := 这个维护机器人受损了。
+34241 := 你暂时不去管它。
+34242 := [失败] 你没有任何修理零件。你暂时不去管这个机器人。
+34243 := 维护机器人现在已激活。一旦你结束本次会话，它就会开始执行维护程序并修理舱门。
+34244 := 哔哔，哔哔哔
+34245 := 别管它。
+34246 := 重新激活机器人。（1 个修理零件）
+34247 := 结束维修会话。
+34248 := 快，我们得在太迟之前赶到逃生舱！
+34249 := 每当你在游戏中获得经验时，队伍其他成员也会获得经验。你可以选择手动为他们升级，也可以使用默认系统。
+34250 := 这个先说到这里。我们得行动了！
+34251 := 动身前先去升级。按 [START]，然后进入角色菜单，并按照屏幕上的指示操作。
+34252 := 干得不错。到现在你已经获得了不少经验。想让我教你怎么运用这些经验来提升你的技能吗？
+34253 := 每当你有足够经验可以升级时，你的角色头像会开始闪烁。按 [START]，然后进入角色菜单升级。
+34254 := 如果你有足够的经验值，就可以在这个画面按“A”为你的角色升级。
+34255 := 很好。现在先升级，然后我们再继续。
+34256 := 那些西斯还不知道谁打了他们呢！
+34257 := 要切入大多数计算机，你需要计算机破解器。你的计算机技能越高，覆盖系统需要的破解器就越少。
+34258 := 拿到装备后，再来找我说话。
+34259 := 我很清楚你的名声：你过去常在科雷利亚航路上走私香料和爆能枪。我猜共和国觉得既然抓不到你，不如雇用你。
+34260 := 我也承认，共和国迫切需要像你这样有本事的人。迫切到足以忽略你不光彩的过去。
+34261 := 我听过大家对你的传言：你探索过银河系最遥远的边疆，去过一些我连名字都没听过的星球。
+34262 := 拥有你这种技能和能力的人很难找；共和国招募你参加这次任务也就不足为奇了。但现在该证明自己了！
+34263 := 我听说过你的名声：受过精英战斗训练，成绩名列前茅。你被亲自挑选参加这次任务一点也不奇怪。
+34264 := 军官们都说二十年来没见过有你这种潜力的新兵。但如果关键时刻做不到，潜力再大也毫无意义！
+34265 := 好，教我。
+34266 := 你能重复一遍吗？
+34267 := 我明白。
+34268 := 我已经知道怎么做了。
+34269 := 好，给我一些建议。
+34270 := 你能重复一遍吗？
+34271 := 好。开始战斗吧！
+34272 := 别讲建议了。直接开始战斗吧！
+34273 := 你能重复一遍吗？
+34274 := 好。
+34275 := 如果他们有光剑怎么办？
+34276 := 好。
+34277 := 我怎么查看地图？
+34278 := 好。
+34279 := 我可以修理机器人？
+34280 := 好。
+34281 := 我怎么使用计算机？
+34282 := 好。
+34283 := 我怎么对门使用安保技能？
+34284 := 好。
+34285 := 我怎么使用医疗包？
+34286 := 好。
+34287 := 我怎么让你来开门？
+34288 := 好。
+34289 := 好。
+34290 := 我怎么查看日志？
+34291 := 好。
+34292 := 好。
+34293 := 我怎么装备物品？
+34294 := 好。
+34295 := 你能重复一遍吗？
+34296 := 我明白。
 34297 := end_1damblast
-34298 := Starboard Section
-34299 := Parts pile
+34298 := 右舷区
+34299 := 零件堆
 34300 := end_wp_maint01
 34301 := end_wp_maint02
 34302 := end_wp_repair
 34303 := end_wp_traskdie
 34304 := end_wp_traskdie2
-34305 := Bridge
-34306 := Starboard Section
-34307 := This droid is damaged and inactive.
-34308 := The droid engages its patrol mode and moves off to carry out your programmed instructions.
-34309 := You leave the droid alone for now.
-34310 := [Failure] You don't have any repair parts. You leave the droid alone for now.
-34311 := The droid is now active. It will attack any enemies that come in range.
-34312 := [Failure] You do not have enough repair parts.
-34313 := [Success] Patrol mode engaged. Once you end this session the droid will begin patrol and destroy any enemies it encounters. 
-34314 := WARNING: Once you end this session the droid's program will be locked in. You will not be able to modifiy the droid anymore.
-34315 := [Success] The droid's shields are now active.
-34316 := [Success] The droid is now set for maximum accuracy.
-34317 := [Success] The droid is now set for maximum firepower.
-34318 := The droid is now active. It will attack any enemies that come in range.
-34319 := The droid is actively engaged in its patrol route. You cannot reprogram it anymore.
-34320 := Leave it alone.
-34321 := Reactivate the droid. (1 repair part)
-34322 := Leave it alone.
-34323 := Engage droid in patrol mode. (<CUSTOM42> repair part(s))
-34324 := Activate droid's shields. (<CUSTOM42> repair part(s))
-34325 := Optimize droid's targeting systems. (<CUSTOM43> repair part(s))
-34326 := Optimize droid's weaponry. (<CUSTOM42> repair part(s))
-34327 := [This is the last escape pod and your only hope of survival.]
-34328 := [Step away from the escape pod.]
-34329 := [Use the escape pod.]
-34330 := SYSTEM LOADING...
-COMPLETE
-ENTER COMMAND
-34331 := EXITING SYSTEM...
-34332 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-34333 := SYSTEM OVERRIDE ACCEPTED
-ENTER COMMAND
-34334 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-34335 := [SUCCESS] POWER CONDUIT OVERLOAD
-SWITCHING TO SECURITY CAMERA
-34336 := LOGGING OUT
-34337 := Log out.
-34338 := Slice the computer. (1 spike)
-34339 := Log out.
-34340 := [Computer] Overload power conduit. (<CUSTOM32> spike(s))
-34341 := Combat Droid
+34305 := 舰桥
+34306 := 右舷区
+34307 := 这个机器人已损坏并处于停用状态。
+34308 := 机器人启用巡逻模式，离开去执行你编程的指令。
+34309 := 你暂时不去管这个机器人。
+34310 := [失败] 你没有任何修理零件。你暂时不去管这个机器人。
+34311 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+34312 := [失败] 你的修理零件不足。
+34313 := [成功] 巡逻模式已启用。你结束本次会话后，机器人将开始巡逻，并摧毁它遇到的任何敌人。
+34314 := 警告：一旦你结束本次会话，机器人的程序将被锁定。你将无法再修改这个机器人。
+34315 := [成功] 机器人的护盾现已激活。
+34316 := [成功] 机器人现已设为最高精度。
+34317 := [成功] 机器人现已设为最大火力。
+34318 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+34319 := 机器人正在执行巡逻路线。你无法再重编程它。
+34320 := 别管它。
+34321 := 重新激活机器人。（1 个修理零件）
+34322 := 别管它。
+34323 := 启用机器人的巡逻模式。（<CUSTOM42> 个修理零件）
+34324 := 激活机器人的护盾。（<CUSTOM42> 个修理零件）
+34325 := 优化机器人的瞄准系统。（<CUSTOM43> 个修理零件）
+34326 := 优化机器人的武器系统。（<CUSTOM42> 个修理零件）
+34327 := [这是最后一个逃生舱，也是你唯一的生存希望。]
+34328 := [离开逃生舱。]
+34329 := [使用逃生舱。]
+34330 := 系统载入中……
+完成
+输入命令
+34331 := 正在退出系统……
+34332 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+34333 := 系统覆盖已接受
+输入命令
+34334 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+34335 := [成功] 动力导管过载
+切换至安保摄像头
+34336 := 正在注销
+34337 := 注销。
+34338 := 切入计算机。（1 个计算机破解器）
+34339 := 注销。
+34340 := [计算机] 使动力导管过载。（<CUSTOM32> 个计算机破解器）
+34341 := 战斗机器人
 34342 := end_onedam
-34343 := Power Conduit
-34344 := Escape Pod
-34345 := Carth Initiates 1
-34346 := Carth Bark
-34347 := Carth Initiates 2
+34343 := 动力导管
+34344 := 逃生舱
+34345 := 卡斯启动 1
+34346 := 卡斯短句
+34347 := 卡斯启动 2
 34348 := WP_end_assaultdroid_01
 34349 := end_sith03
 34350 := WP_end_assaultdroid_02
 34351 := WP_end_assaultdroid_03
 34352 := WP_end_assaultdroid_04
-34353 := Escape Pods
-34354 := I'm <FullName>. Let me see what you carry.
-34355 := To the Great Walkway
-34356 := Zaalbar Speaker 1
-34357 := Party Trigger
-34358 := Eli Gand's Outpost
-34359 := Party Talk WP
-34360 := Zaalbar Talk WP
-34361 := Just hurry up and tell me what happened.
-34362 := This droid is damaged and inactive.
-34363 := The droid engages its patrol mode and moves off to carry out your programmed instructions.
-34364 := You leave the droid alone for now.
-34365 := [Failure] You don't have any repair parts. You leave the droid alone for now.
-34366 := The droid is now active. It will attack any enemies that come in range.
-34367 := [Failure] You do not have enough repair parts.
-34368 := [Success] Patrol mode engaged. Once you end this session the droid will begin patrol and destroy any enemies it encounters. 
-34369 := WARNING: Once you end this session the droid's program will be locked in. You will not be able to modifiy the droid anymore.
-34370 := [Success] The droid's shields are now active.
-34371 := [Success] The droid is now set for maximum accuracy.
-34372 := [Success] The droid is now set for maximum firepower.
-34373 := The droid is now active. It will attack any enemies that come in range.
-34374 := The droid is actively engaged in its patrol route. You cannot reprogram it anymore.
-34375 := Leave it alone.
-34376 := Reactivate the droid. (1 repair part)
-34377 := Leave it alone.
-34378 := Engage droid in patrol mode. (<CUSTOM45> repair part(s))
-34379 := Activate droid's shields. (<CUSTOM44> repair part(s))
-34380 := Optimize droid's targeting systems. (<CUSTOM43> repair part(s))
-34381 := Optimize droid's weaponry. (<CUSTOM42> repair part(s))
-34382 := Damaged Sentry Droid
-34383 := A sentry droid damaged by hostile wildlife.
-34384 := To the Czerka Dock
-34385 := Rwookrrorro Village
-34386 := Zaalbar Speaker 2
-34387 := Supply Station
-34388 := Basket Entrance 2
-34389 := Basket Entrance 3
-34390 := Party Talk WP2
-34391 := Zaalbar Talk WP2
-34392 := Chieftain's Hall
-34393 := Holder of the Laws
-34394 := Home of Woorwill
-34395 := Like I said before, Woorwill, don't believe what they say. Trust your own kind.
-34396 := And you can't tell me when Rorworr went missing?
-34397 := Go over who Rorworr was again.
-34398 := My life debt won't let me speak for you, <FirstName>, but you know Jaraak had justification. Will you tell them?
-34399 := See how this Wookiee truly understands honor? Do you see how important we consider these things, <FirstName>?
-34400 := I don't like this decision, but I respect why Jaarak wishes it. He sacrifices to save the innocence of another.
-34401 := Beast
-34402 := This bolt casing was abandoned next to Rorworr's corpse, likely by whoever killed him. Bowcasters and the accompanying bolt casings are very personal items among the Wookiees, and are adorned with traditional family symbols and other identifying marks. It is possible the owner of this one could be identified by a knowledgeable Wookiee.
-34403 := Replaying the last memory of this damaged droid reveals that it and its owners were the victims of an ambush by someone named Eli. The name "Matton" was also mentioned.
-34404 := Force Field Speaker
-34405 := Jolee Way5
-34406 := Ritual Beast
-34407 := Wookiee Corpse
-34408 := Autosave Trigger
-34409 := You there, human... you are the one flying the Ebon Hawk now? I saw you disembarking earlier.
-34410 := Whoa, now! You're just going to have to make a little time, human. We've been waiting for this shipment for over a month.
-34411 := I suppose we should be grateful that the shipment survived Taris at all, though, right? Anyway... hand it over and let's finish this.
-34412 := Wait a minute... don't you work for Davik? Just how is it you happen to be flying the Ebon Hawk, anyway?
-34413 := I'm not here to give you any trouble, human. The people I represent and Davik had an arrangement... I just want to know what the status of it is.
-34414 := Fair enough. To be honest, I don't really care what happened to Davik or how you got the ship. I'm interested in something else.
-34415 := Well, when a planet explodes, you've got to expect a few changes. Davik's dead, hey? Maybe you can still help me with something.
-34416 := We had arranged for several kilograms of spice to be shipped to us here aboard the Ebon Hawk. Perhaps Davik left it on board?
-34417 := I suspect if it is, it would be in the container we gave him. Locked and requiring a code. Might you have seen such a thing, human?
-34418 := Are you sure? The people I represent could make it well worth your while.
-34419 := That is unfortunate. The people I represent will be... displeased. They've already lost their interests on Taris, after all.
-34420 := But it is your choice, human. Pray that no-one takes your refusal personally.
-34421 := Excellent. Set the code on the container to "Red-47". When you get the spice, bring it to me here... I'll wait for you.
-34422 := One thousand credits... and perhaps more, if you're interested. What do you say to that?
-34423 := My employers would be disappointed, no doubt. Have you another use for the spice, human? Consider carefully.
-34424 := So you do. That does, indeed, look like the amount that Davik promised. Very well... 1000 credits is yours in exchange for the spice.
-34425 := The authorities? Do you mean the Sith? This is Korriban, human... the Sith here have no interest in smuggling.
-34426 := But I have no desire, either, for you to take the package back into Republic space. Extortion or no, I will give you 1500 credits... but no more.
-34427 := Are you certain? It is odd to meet a human who is uninterested in free credits. But have it your way.
-34428 := Done and done, human. Here you are.
-34429 := Allow me to take the spice off your hands. My employers will be most pleased. Tell me... might you be interested in earning more credits?
-34430 := Not interested in the smuggling business, are we? You do know the history of the Ebon Hawk, I assume? Well, no matter.
-34431 := It is your decision. I wish you well, human, and thank you for the service you have provided.
-34432 := It is a simple courier mission. Motta the Hutt on Tatooine awaits delivery of a box that I hold. The spice was his, and the box is his repayment.
-34433 := There is no danger involved, human, so long as you do not attempt to open the box yourself. I'm sure Motta will pay you what was promised to Davik for the delivery. I believe 2000 credits was the agreed upon sum.
-34434 := He can be found in Anchorhead, though I am uncertain exactly where. He should not be difficult to spot, fat as he is.
-34435 := *Never* open the box. Opening the box would be horribly bad.
-34436 := It is not a bomb. Just do not open it... that is all I can say. It represents no danger to you so long as it remains closed.
-34437 := I suppose I would eventually have to, should you refuse. You are already here, however, and you have a ship... it is most convenient to have you deliver the box.
-34438 := Very good. I will have some of my workers load the box onto the Ebon Hawk for you. It will be waiting there for you. Remember: do not open the box!
-34439 := Now I must go. My employers thank you for your assistance.
-34440 := [Failure] You may not have been part of the original arrangement, human, but our terms for you are no different. 1000 credits, no more.
-34441 := Are you sure you want to do that? This is not something you can sell at your nearest kiosk, human. Do you have the contacts to make such a sale?
-34442 := My employers will be most disappointed if this spice turns up elsewhere. The price we offer is a fair one.
-34443 := Then you leave me no choice. I will take that spice now, thank you.
-34444 := [Success] I... suppose we should... count ourselves fortunate that you're here to deliver on Davik's promise at all. 1500 credits, human, but no more.
-34445 := [Success] I suppose we should count ourselves fortunate that you're here to deliver on Davik's promise at all. 1500 credits, human, but no more.
-34446 := Here you are. You drive a hard bargain, human.
-34447 := Is that so? Well, you can tell Davik that my people are spitting plasma over this. We've been waiting for this shipment for a month, now.
-34448 := Name's Lurze, not that it's important. I don't know you and you don't know me. What's important is that we've been waiting for this shipment for a month, now.
-34449 := There you are. Do you have the spice, human?
-34450 := No? Could you be persuaded to continue looking for it? The spice it carries is most eagerly awaited by my employers.
-34451 := I don't have time to talk.
-34452 := I'm no smuggler, if that's what you're implying.
-34453 := Look, I don't want any trouble, okay?
-34454 := I'm sure we could work out something, if you're interested.
-34455 := There is no arrangement. The Ebon Hawk belongs to me, now.
-34456 := What business is it of yours? The Ebon Hawk is mine, now.
-34457 := Davik's dead, I presume. I stole the Ebon Hawk from him.
-34458 := There's nothing like that on the ship.
-34459 := I don't want to get involved in this.
-34460 := Fine. I'll take a look for your container.
-34461 := I said I didn't want to get involved.
-34462 := How well worth my while?
-34463 := I could take a look for it.
-34464 := I may have. How much is it worth to you?
-34465 := And if I refuse?
-34466 := I already opened that container. I have the spice right here.
-34467 := Make it 2000 credits or I hand this package over to the authorities.
-34468 := Just take the spice. I don't want it or your credits.
-34469 := Fair enough. 1000 credits it is.
-34470 := Get out of my sight, scum.
-34471 := No, not really.
-34472 := Maybe. Tell me more.
-34473 := Forget it. Not interested.
-34474 := Where can I find this Motta?
-34475 := What happens if I open the box?
-34476 := But what would happen? Is it a bomb?
-34477 := Why don't you just bring it to him yourself?
-34478 := Alright. I'll do it.
-34479 := [Persuade] I don't work for Davik, remember? I want more.
-34480 := Then I guess I'll be keeping the spice.
-34481 := I'll take my chances.
-34482 := [Force Persuade] I think you want to offer me a higher price.
-34483 := You obviously have me mistaken for someone else.
-34484 := Hand what over? What are you talking about?
-34485 := Yes, the Ebon Hawk is my ship.
-34486 := Who wants to know?
-34487 := I couldn't find your container.
-34488 := No, I don't think so.
-34489 := I'll try looking again.
-34490 := Oh, wait, I have it right here...
-34491 := I've decided I don't want to get involved in this.
-34492 := Not yet, but I'll look for it.
-34493 := Yes, I do.
-34494 := Greetings once again. Might you have a Pazaak deck? I would be most interested in some idle entertainment, sentient.
-34495 := You still don't have a deck? Then why are you bothering me? Until you get a deck we have nothing to discuss.
-34496 := Greetings once again. Might you have a Pazaak deck? I would be most interested in some idle entertainment, sentient.
-34497 := Excellent. Let us begin.
-34498 := Ahhh, it is a good day, sentient, is it not? I always find the vindication of my skill to be pleasing. You have my condolences.
-34499 := As you wish. I certainly can always use the credits.
-34500 := A lucky hand. I will have to try a little harder next time if I am going to beat you... and I will, I am quite sure. Shall we try again?
-34501 := It seems I have been bested at my own game. Fair enough, sentient... you are the superior player. I do not think we need to play any more games to continue proving the point.
-34502 := *sigh* I am down a considerable number of credits, sentient. I am not in the mood to answer your queries, to be quite honest.
-34503 := And put even more credits into your pocket? Are you joking, sentient? I know when I am beaten.
-34504 := So please... find some other player to wring dry. I'll look for something a little less challenging, myself.
-34505 := Greetings, sentient. Are you willing to engage in a hand of Pazaak? I am afraid there are few takers on Korriban... it would be good to have a little fun, for once.
-34506 := Come back anytime, sentient. I'm always willing to play.
-34507 := Yes, yes, take my credits and go.
-34508 := I see. I apologize, but I do not have a spare. Should you ever acquire a deck, do come and see me.
-34509 := There are others here to answer your questions, sentient. To be honest, if we are not going to engage in some entertaining sport, I would rather be alone.
-34510 := I am known as Toll Apkar. If you must know, I am quite proficient at Pazaak. I would not wish to begin a game under false pretenses.
-34511 := Ahhh, it is a good day, sentient, is it not? I always find the vindication of my skill to be pleasing. You have my condolences.
-34512 := As you wish. I certainly can always use the credits.
-34513 := A lucky hand. I will have to try a little harder next time if I am going to beat you... and I will, I am quite sure. Shall we try again?
-34514 := It seems I have been bested at my own game. Fair enough, sentient... you are the superior player and here is your reward. I do not think we need to play any more games to continue proving the point.
-34515 := *sigh* I am down a considerable number of credits, sentient. I am not in the mood to answer your queries, to be quite honest.
-34516 := And put even more into your pocket? Are you joking, sentient? I know when I am beaten.
-34517 := So please... find some other player to wring dry. I'll look for something a little less challenging, myself.
-34518 := I don't have a deck yet.
-34519 := Who are you again?
-34520 := Sorry, not interested right now. 
-34521 := Let's play.
-34522 := Deal the cards - I'm not leaving just yet!
-34523 := You think it was luck? Let's do it again!
-34524 := How about you answer some of my questions then?
-34525 := Oh come on... one more game!
-34526 := Goodbye.
-34527 := I want to play Pazaak, but I don't have a deck.
-34528 := I want to ask you some questions.
-34529 := Who are you?
-34530 := Deal the cards - I'm not leaving just yet!
-34531 := You think it was luck? Let's do it again!
-34532 := How about I ask you some questions, then?
-34533 := Oh come on... one more game!
-34534 := So you know what I am.
-34535 := Toll
-34536 := Apkar
-34537 := Sith Medallion
-34538 := This medallion is clearly marked with the insignia of the Sith, and otherwise consists of a shiny black onyx-like material. It is unlikely to be very valuable, but is quite distinctive.
-34539 := Exit from Dreshdae
-34540 := Terminal 1
-34541 := Terminal 2
-34542 := Kiosk 1
-34543 := Kiosk 2
-34544 := Kiosk 3
-34545 := Space Ship
-34546 := Inform 1
-34547 := Inform 2
-34548 := Inform 3
-34549 := Shaandar End Conversation
-34550 := Czerka Store
-34551 := Cantina Map Note
-34552 := Cantina
-34553 := Exit Map Note
-34554 := Exit from Dreshdae
-34555 := Ebon Hawk Map Note
-34556 := To Ebon Hawk
-34557 := Czerka Store Map Note
-34558 := Czerka Store
-34559 := Shaardan 2 Waypoint
-34560 := Shaardan 3 Waypoint
-34561 := Shaardan 4 Waypoint
-34562 := Shaardan Victim Waypoint
-34563 := Sith Murdered 1 Waypoint
-34564 := Sith Murdered 2 Waypoint
-34565 := Sith Murdered 3 Waypoint
-34566 := Freight Crewman Walk Waypoints
-34567 := Informed Walk Waypoints
-34568 := Mechanic Walk Waypoints
-34569 := AstroMech Walk Waypoints
-34570 := Protocol Walk Waypoints
-34571 := Landing Pad
-34572 := This medallion is clearly marked with the insignia of the Sith. It is made with an unknown onyx-like material, and while it is distinctive it is probably not very valuable in and of itself.
-34573 := Dreshdae Map Note
-34574 := To Dreshdae
-34575 := Sith Academy Map Note
-34576 := To Sith Academy
-34577 := Mekel Waypoint
-34578 := Astro Mech Walk Waypoint
-34579 := Protocol Walk Waypoint
-34580 := Terantenek
-34581 := These animal droppings have a disgusting, phosphorous-like odor as well as a very acidic nature. While handling the substance is not pleasant, it may prove useful.
-34582 := Chewed corpse
-34583 := Sith Corpse
-34584 := Predator Trigger
-34585 := Valley Map Note
-34586 := To Valley of the Dark Lords
-34587 := Home Base Tag
-34588 := Predator End
-34589 := Predator Start
-34590 := SYSTEM LOADING...
-SYSTEM STATUS OPERATIONAL.
-VERIFYING IDENTITY...
-34591 := IDENTITY VERIFIED
-USER STATUS: PENDING STUDENT
-# OF COMBATS REMAINING: <CUSTOM13>
-34592 := EXITING SYSTEM...
-34593 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-34594 := SYSTEM OVERRIDE ACCEPTED
-ENTER COMMAND
-34595 := [FAILURE] ACCESS DENIED!
-COMPUTER SLICE FAILED
-INCOMPATIBLE REQUEST
-SPIKES REJECTED
-...
-THIS CONSOLE CAN NO LONGER BE USED TO EXCEED PERSONAL ALLOTMENT
-OVERRIDE AUTHORIZATION: UWYNN
-34596 := [FAILURE] ACCESS DENIED!
-COMPUTER SLICE FAILED
-INCOMPATIBLE REQUEST
-SPIKES REJECTED
-...
-ELIMINATION OF COMPETITORS MUST BE FOUND BY OTHER MEANS, STUDENT
-OVERRIDE AUTHORIZATION: UWYNN
-34597 := [SUCCESS] DATAFILES SECURITY BREACHED
-SCANNING FILES...
-34598 := NO FILES OF INTEREST FOUND...
-ENTER COMMAND
-34599 := FILE: STUDENT DUSTIL ONASI
-FORCE POTENTIAL: CONSIDERABLE
-FELLOW STUDENT SELENE HINDERING PROGRESS
-34600 := FURTHER FILE DETAILS DOWNLOADED TO PERSONAL DATAPAD
-AUTHORIZATION: MASTER UTHAR WYNN
-34601 := FILE: REBEL STUDENTS LED BY THALIA MAY
-ORDER FOR EXECUTION MADE BY MASTER UTHAR WYNN
-ORDER NOT YET CARRIED OUT
-34602 := RECENT SCANS INDICATE REBEL STUDENTS MAY BE HIDDEN WITHIN SHYRACK CAVERNS
-NEAREST ENTRANCE IN SOUTH PATH TO VALLEY OF THE DARK LORDS
-INVESTIGATE AT EARLIEST POSSIBILITY
-34603 := NO OTHER FILES FOUND...
-ENTER COMMAND
-34604 := [SUCCESS] SECURITY CAMERA NETWORK HACKED
-SWITCHING TO CAMERA VIEW...
-34605 := ENTER COMMAND
-34606 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-34607 := [SUCCESS] SECURITY DOOR LOCKS OVERRIDDEN
-ACCESS GRANTED
-ENTER COMMAND
-34608 := INITIATING COMBAT PREPARATION...
-PRISONER WILL BE INJECTED AND ARMED
-CAUTION! PERSONAL SAFETY NOT GUARANTEED!
-34609 := CANCELLING COMBAT PREPARATION...
-34610 := ARMING PRISONER #<CUSTOM14>
-RELEASING PRISONER #<CUSTOM14>
+34353 := 逃生舱
+34354 := 我是 <FullName>。让我看看你卖什么。
+34355 := 前往大步道
+34356 := 扎尔巴发言者 1
+34357 := 队伍触发器
+34358 := 伊莱·甘德的前哨站
+34359 := 队伍谈话 WP
+34360 := 扎尔巴谈话 WP
+34361 := 快点告诉我发生了什么。
+34362 := 这个机器人已损坏并处于停用状态。
+34363 := 机器人启用巡逻模式，离开去执行你编程的指令。
+34364 := 你暂时不去管这个机器人。
+34365 := [失败] 你没有任何修理零件。你暂时不去管这个机器人。
+34366 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+34367 := [失败] 你的修理零件不足。
+34368 := [成功] 巡逻模式已启用。你结束本次会话后，机器人将开始巡逻，并摧毁它遇到的任何敌人。
+34369 := 警告：一旦你结束本次会话，机器人的程序将被锁定。你将无法再修改这个机器人。
+34370 := [成功] 机器人的护盾现已激活。
+34371 := [成功] 机器人现已设为最高精度。
+34372 := [成功] 机器人现已设为最大火力。
+34373 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+34374 := 机器人正在执行巡逻路线。你无法再重编程它。
+34375 := 别管它。
+34376 := 重新激活机器人。（1 个修理零件）
+34377 := 别管它。
+34378 := 启用机器人的巡逻模式。（<CUSTOM45> 个修理零件）
+34379 := 激活机器人的护盾。（<CUSTOM44> 个修理零件）
+34380 := 优化机器人的瞄准系统。（<CUSTOM43> 个修理零件）
+34381 := 优化机器人的武器系统。（<CUSTOM42> 个修理零件）
+34382 := 受损哨戒机器人
+34383 := 一台被敌对野生动物损坏的哨戒机器人。
+34384 := 前往泽卡码头
+34385 := 鲁克罗罗村
+34386 := 扎尔巴发言者 2
+34387 := 补给站
+34388 := 吊篮入口 2
+34389 := 吊篮入口 3
+34390 := 队伍谈话 WP2
+34391 := 扎尔巴谈话 WP2
+34392 := 酋长大厅
+34393 := 持法者
+34394 := 沃尔威尔的家
+34395 := 就像我之前说的，沃尔威尔，别相信他们说的话。相信你自己的族人。
+34396 := 所以你说不出罗沃尔是什么时候失踪的？
+34397 := 再说一遍罗沃尔是什么人。
+34398 := 我的生命债不允许我替你发言，<FirstName>，但你知道贾拉克有正当理由。你会告诉他们吗？
+34399 := 看看这个伍基人是多么真正懂得荣誉？你明白我们有多看重这些事了吗，<FirstName>？
+34400 := 我不喜欢这个决定，但我尊重贾拉克为何希望如此。他牺牲自己，是为了保全另一个人的清白。
+34401 := 野兽
+34402 := 这个弩枪弹壳被遗弃在罗沃尔的尸体旁，很可能是杀害他的人留下的。弩枪以及配套弹壳对伍基人来说是非常私人的物品，上面会装饰传统家族符号和其他识别标记。懂行的伍基人也许能辨认出这个弹壳的主人。
+34403 := 回放这个受损机器人最后的记忆后，可以发现它和它的主人是遭到一个名叫伊莱的人伏击的受害者。记忆中还提到了“马顿”这个名字。
+34404 := 力场发言者
+34405 := 乔利 Way5
+34406 := 仪式野兽
+34407 := 伍基人尸体
+34408 := 自动存档触发器
+34409 := 那边的人类……你就是现在驾驶乌木鹰号的人？我早些时候看见你下船了。
+34410 := 等等！你非得抽出一点时间不可，人类。我们已经等这批货等了一个多月。
+34411 := 不过，我想我们该庆幸这批货居然从塔里斯星保留下来了，对吧？总之……把东西交出来，我们把这事了结。
+34412 := 等一下……你不是为戴维克干活的吗？话说回来，你怎么会开着乌木鹰号？
+34413 := 我不是来找你麻烦的，人类。我代表的人和戴维克有一项安排……我只想知道它现在是什么状况。
+34414 := 好吧。老实说，我并不关心戴维克出了什么事，也不关心你怎么弄到这艘船。我感兴趣的是另一件事。
+34415 := 嗯，一颗星球爆掉以后，发生些变化也不奇怪。戴维克死了，是吧？也许你还能帮我一个忙。
+34416 := 我们曾安排几公斤香料通过乌木鹰号运到这里。也许戴维克把它留在船上了？
+34417 := 如果还在，我猜它会放在我们交给他的容器里。上了锁，而且需要密码。你有没有见过这种东西，人类？
+34418 := 你确定？我代表的人可以让你这一趟非常值得。
+34419 := 那就不幸了。我代表的人会……很不高兴。毕竟他们已经失去了在塔里斯星的利益。
+34420 := 但这是你的选择，人类。祈祷没人把你的拒绝当成私人冒犯吧。
+34421 := 很好。把容器上的密码设为“Red-47”。拿到香料后，把它带到这里给我……我会等你。
+34422 := 一千信用点……如果你有兴趣，也许还会有更多。你觉得如何？
+34423 := 我的雇主们无疑会失望。你对这批香料另有用途吗，人类？仔细考虑。
+34424 := 你确实有。那看起来也确实像是戴维克答应交付的数量。很好……用香料换你的 1000 信用点。
+34425 := 当局？你是说西斯？这里是卡里班星，人类……这里的西斯对走私没有兴趣。
+34426 := 但我也不想让你把包裹带回共和国星域。不管是不是勒索，我给你 1500 信用点……不能再多。
+34427 := 你确定？遇到一个对免费信用点没兴趣的人类还真奇怪。不过随你吧。
+34428 := 成交，人类。给你。
+34429 := 让我替你处理掉这批香料吧。我的雇主们会非常满意。告诉我……你有没有兴趣赚更多信用点？
+34430 := 对走私生意没兴趣，是吗？我猜你知道乌木鹰号的来历吧？算了，无所谓。
+34431 := 这是你的决定。祝你顺利，人类，也感谢你提供的服务。
+34432 := 这只是一个简单的送货任务。塔图因星上的赫特人莫塔在等我手里的一个盒子送达。香料是他的，而这个盒子是给他的回款。
+34433 := 没有危险，人类，只要你不试图自己打开盒子。我相信莫塔会按原本答应戴维克的金额酬谢你。我记得约定是 2000 信用点。
+34434 := 他在锚头镇，不过我不确定具体在哪里。他那么胖，应该不难认。
+34435 := *绝对不要*打开盒子。打开盒子会糟得可怕。
+34436 := 这不是炸弹。别打开它……我只能说这么多。只要它保持关闭，就不会对你构成危险。
+34437 := 如果你拒绝，我想我最终还是得亲自送去。不过你已经在这里，而且你有船……由你送这个盒子最方便。
+34438 := 很好。我会让几个手下替你把盒子装上乌木鹰号。它会在那里等着你。记住：不要打开盒子！
+34439 := 现在我必须走了。我的雇主感谢你的协助。
+34440 := [失败] 你也许不是原先安排的一部分，人类，但我们给你的条件没有不同。1000 信用点，不会更多。
+34441 := 你确定要那么做？这可不是能拿到最近的售货亭就卖掉的东西，人类。你有完成这笔买卖的门路吗？
+34442 := 如果这批香料出现在别处，我的雇主们会非常失望。我们给出的价格很公平。
+34443 := 那么你让我别无选择。现在我会收下那批香料，谢谢。
+34444 := [成功] 我……想我们应该……庆幸你至少还在这里履行戴维克的承诺。1500 信用点，人类，不能再多。
+34445 := [成功] 我想我们应该庆幸你至少还在这里履行戴维克的承诺。1500 信用点，人类，不能再多。
+34446 := 给你。你很会讨价还价，人类。
+34447 := 是这样吗？那你可以告诉戴维克，我的人正为这事气得喷等离子。我们已经等这批货等了一个月。
+34448 := 我叫勒兹，不过这并不重要。我不认识你，你也不认识我。重要的是我们已经等这批货等了一个月。
+34449 := 你来了。香料在你身上吗，人类？
+34450 := 没有？能不能劝你继续找找？我的雇主们非常急切地等着它携带的香料。
+34451 := 我没时间谈。
+34452 := 如果你是在暗示这个，那我可不是走私者。
+34453 := 听着，我不想惹麻烦，明白吗？
+34454 := 如果你有兴趣，我相信我们可以谈出点东西。
+34455 := 没有什么安排。乌木鹰号现在属于我。
+34456 := 这关你什么事？乌木鹰号现在是我的。
+34457 := 戴维克应该已经死了。我从他那里偷走了乌木鹰号。
+34458 := 船上没有那种东西。
+34459 := 我不想卷进这件事。
+34460 := 好吧。我会去找找你的容器。
+34461 := 我说过我不想卷进这件事。
+34462 := 到底有多值得？
+34463 := 我可以去找找。
+34464 := 也许见过。它对你来说值多少钱？
+34465 := 如果我拒绝呢？
+34466 := 我已经打开那个容器了。香料就在我这里。
+34467 := 加到 2000 信用点，否则我把这个包裹交给当局。
+34468 := 把香料拿走吧。我不想要它，也不想要你的信用点。
+34469 := 行吧。1000 信用点就 1000。
+34470 := 从我眼前滚开，渣滓。
+34471 := 不，并没有。
+34472 := 也许。说来听听。
+34473 := 算了。没兴趣。
+34474 := 我在哪里能找到这个莫塔？
+34475 := 如果我打开盒子会怎样？
+34476 := 但到底会怎样？它是炸弹吗？
+34477 := 你为什么不自己把它带给他？
+34478 := 好吧。我会做。
+34479 := [说服] 我不为戴维克工作，记得吗？我要更多。
+34480 := 那我猜这批香料就归我了。
+34481 := 我愿意冒这个险。
+34482 := [原力说服] 我觉得你想给我更高的价格。
+34483 := 你显然把我错认成别人了。
+34484 := 交出什么？你在说什么？
+34485 := 对，乌木鹰号是我的船。
+34486 := 谁想知道？
+34487 := 我没找到你的容器。
+34488 := 不，我不这么认为。
+34489 := 我再找找。
+34490 := 哦，等等，它就在我这里……
+34491 := 我决定还是不想卷进这件事。
+34492 := 还没有，但我会去找。
+34493 := 是的，我有。
+34494 := 又见面了。你有帕扎克牌组吗？我很想找点闲暇娱乐，智慧生物。
+34495 := 你还是没有牌组？那你为什么打扰我？拿到牌组之前，我们没什么可谈的。
+34496 := 又见面了。你有帕扎克牌组吗？我很想找点闲暇娱乐，智慧生物。
+34497 := 太好了。我们开始吧。
+34498 := 啊，今天真是个好日子，智慧生物，不是吗？我总觉得自己的技艺得到证明令人愉快。请节哀。
+34499 := 如你所愿。我当然总能用得上信用点。
+34500 := 幸运的一手。下次如果要打败你，我得更努力些……而且我会的，我非常确定。再来一局吗？
+34501 := 看来我在自己的游戏里被击败了。好吧，智慧生物……你是更强的牌手。我想我们不必再玩更多局来继续证明这一点。
+34502 := *叹气* 我输了相当多信用点，智慧生物。老实说，我现在没心情回答你的问题。
+34503 := 还要把更多信用点塞进你的口袋？你在开玩笑吗，智慧生物？我知道自己什么时候输了。
+34504 := 所以拜托……去找别的牌手榨干吧。我自己会找点没那么有挑战性的事。
+34505 := 你好，智慧生物。愿意来一手帕扎克吗？卡里班星上愿意玩的人很少……偶尔找点乐子也不错。
+34506 := 随时回来，智慧生物。我总愿意玩。
+34507 := 好，好，拿着我的信用点走吧。
+34508 := 我明白。抱歉，我没有备用牌组。如果你以后弄到一副牌组，就来找我。
+34509 := 这里有其他人可以回答你的问题，智慧生物。老实说，如果我们不是要玩点有趣的竞技，我宁愿独处。
+34510 := 我叫托尔·阿普卡。如果你非要知道，我很擅长帕扎克。我不想在虚假前提下开局。
+34511 := 啊，今天真是个好日子，智慧生物，不是吗？我总觉得自己的技艺得到证明令人愉快。请节哀。
+34512 := 如你所愿。我当然总能用得上信用点。
+34513 := 幸运的一手。下次如果要打败你，我得更努力些……而且我会的，我非常确定。再来一局吗？
+34514 := 看来我在自己的游戏里被击败了。好吧，智慧生物……你是更强的牌手，这是你的奖励。我想我们不必再玩更多局来继续证明这一点。
+34515 := *叹气* 我输了相当多信用点，智慧生物。老实说，我现在没心情回答你的问题。
+34516 := 还要把更多塞进你的口袋？你在开玩笑吗，智慧生物？我知道自己什么时候输了。
+34517 := 所以拜托……去找别的牌手榨干吧。我自己会找点没那么有挑战性的事。
+34518 := 我还没有牌组。
+34519 := 你又是谁？
+34520 := 抱歉，现在没兴趣。
+34521 := 来玩吧。
+34522 := 发牌吧——我还不走！
+34523 := 你觉得那是运气？再来一次！
+34524 := 那你回答我几个问题怎么样？
+34525 := 哦拜托……再来一局！
+34526 := 再见。
+34527 := 我想玩帕扎克，但我没有牌组。
+34528 := 我想问你几个问题。
+34529 := 你是谁？
+34530 := 发牌吧——我还不走！
+34531 := 你觉得那是运气？再来一次！
+34532 := 那我问你几个问题怎么样？
+34533 := 哦拜托……再来一局！
+34534 := 所以你知道我是什么。
+34535 := 托尔
+34536 := 阿普卡
+34537 := 西斯徽章
+34538 := 这枚徽章上清楚标着西斯徽记，其余部分由类似黑色缟玛瑙的闪亮材料制成。它不太可能很值钱，但非常醒目。
+34539 := 离开德雷什戴
+34540 := 终端 1
+34541 := 终端 2
+34542 := 服务亭 1
+34543 := 服务亭 2
+34544 := 服务亭 3
+34545 := 太空船
+34546 := 告知 1
+34547 := 告知 2
+34548 := 告知 3
+34549 := 沙尔丹结束对话
+34550 := 泽卡商店
+34551 := 酒馆地图注记
+34552 := 酒馆
+34553 := 出口地图注记
+34554 := 离开德雷什戴
+34555 := 乌木鹰号地图注记
+34556 := 前往乌木鹰号
+34557 := 泽卡商店地图注记
+34558 := 泽卡商店
+34559 := 沙尔丹 2 路点
+34560 := 沙尔丹 3 路点
+34561 := 沙尔丹 4 路点
+34562 := 沙尔丹受害者路点
+34563 := 西斯遇害者 1 路点
+34564 := 西斯遇害者 2 路点
+34565 := 西斯遇害者 3 路点
+34566 := 货运船员行走路点
+34567 := 报信者行走路点
+34568 := 机械师行走路点
+34569 := 宇航技工机器人行走路点
+34570 := 礼仪机器人行走路点
+34571 := 登陆台
+34572 := 这枚徽章上清楚标着西斯徽记。它由一种未知的、类似缟玛瑙的材料制成，虽然本身可能不太值钱，但非常醒目。
+34573 := 德雷什戴地图注记
+34574 := 前往德雷什戴
+34575 := 西斯学院地图注记
+34576 := 前往西斯学院
+34577 := 梅克尔路点
+34578 := 宇航技工机器人行走路点
+34579 := 礼仪机器人行走路点
+34580 := 泰伦塔泰克
+34581 := 这些动物粪便散发着令人作呕、类似磷的气味，而且酸性很强。处理这种东西并不愉快，但它可能会有用。
+34582 := 被啃咬的尸体
+34583 := 西斯尸体
+34584 := 捕食者触发器
+34585 := 山谷地图注记
+34586 := 前往黑暗尊主谷
+34587 := 基地标签
+34588 := 捕食者结束
+34589 := 捕食者开始
+34590 := 系统载入中……
+系统状态正常。
+正在验证身份……
+34591 := 身份已验证
+用户状态：待定学生
+剩余战斗次数：<CUSTOM13>
+34592 := 正在退出系统……
+34593 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+34594 := 系统覆盖已接受
+输入命令
+34595 := [失败] 访问被拒！
+计算机切入失败
+请求不兼容
+破解器被拒绝
+……
+本控制台不能再用于超过个人配额
+覆盖授权：UWYNN
+34596 := [失败] 访问被拒！
+计算机切入失败
+请求不兼容
+破解器被拒绝
+……
+必须另寻方法消灭竞争者，学生
+覆盖授权：UWYNN
+34597 := [成功] 数据文件安保已被突破
+正在扫描文件……
+34598 := 未找到有价值的文件……
+输入命令
+34599 := 文件：学生达斯蒂尔·奥纳西
+原力潜能：可观
+同学塞琳正在妨碍进展
+34600 := 更多文件详情已下载至个人数据板
+授权：乌萨尔·温大师
+34601 := 文件：塔莉娅·梅领导的叛乱学生
+处决命令由乌萨尔·温大师下达
+命令尚未执行
+34602 := 近期扫描显示叛乱学生可能藏身夏拉克洞窟
+最近入口位于通往黑暗尊主谷的南侧路径
+尽快调查
+34603 := 未找到其他文件……
+输入命令
+34604 := [成功] 安保摄像头网络已被入侵
+切换到摄像头画面……
+34605 := 输入命令
+34606 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+34607 := [成功] 安保门锁已覆盖
+访问已授权
+输入命令
+34608 := 正在启动战斗准备……
+将给囚犯注射药剂并配备武器
+注意！个人安全不予保证！
+34609 := 正在取消战斗准备……
+34610 := 正在武装囚犯 #<CUSTOM14>
+正在释放囚犯 #<CUSTOM14>
 
-REMINDER: THE ACADEMY FROWNS ON SLOVENLY KILLS
-HAVE A NICE DAY
-34611 := ONE MOMENT PLEASE...
-34612 := NO PRISONERS AVAILABLE
-ALL CELLS VACANT
-CANNOT PROVIDE MATCH
-HAVE A NICE DAY
-34613 := Log out.
-34614 := [Computer] Slice the console. (1 spike)
-34615 := Log out.
-34616 := [Computer] Attempt to open all cages and free the prisoners. (50 spike(s))
-34617 := [Computer] Reprogram academy sentry droids to hunt a target. (30 spike(s))
-34618 := [Computer] Hack into the academy's datafiles. (<CUSTOM32> spike(s))
-34619 := [Computer] Hack into the academy's security cameras. (<CUSTOM33> spike(s))
-34620 := [Computer] Open all security doors in the academy. (<CUSTOM31> spike(s))
-34621 := Start combat with a prisoner.
-34622 := Stop the procedure.
-34623 := Continue to the fight.
-34624 := It seems that I have little hope in competing against you and the others. Master Uthar did not even speak to me during his speech.
-34625 := Congratulations on your victory, human. It seems I shall have to wait another year.
-34626 := I have been told that Yuthura Ban has been killed. Do you think they will allow more students, now, or no?
-34627 := The Twi'lek, Yuthura, is now the master of the academy. I wonder if she will admit more students, now.
-34628 := [A day has passed in preparation.]
-34629 := [The Mandalorian is imprisoned and cannot respond.]
-34630 := I'll think about it.
-34631 := I changed my mind. Tell me where the cache is... now!
-34632 := This datapad contains coded instructions from Master Uthar to someone by the name of Adrenas. You are not sure what the instructions detail, save that he requires the chamberlain to go to Dreshdae to gather the ingredients.
-34633 := This small electronic device appears to be completely self-operating. Once attached to a specific surface, it will begin deploying whatever trap is inside. Yuthura has not explained exactly what the device does... simply that it must be placed inside Master Uthar's bed in order to function.
-34634 := This is a small identification card marking you as a student within the Sith monastery on Korriban. It will allow you to come and go as you wish.
-34635 := Passcard
-34636 := These passcards act as keys to the academy bedrooms... this one specifically meant for the bedroom of Master Uthar.
-34637 := Guard Room
-34638 := Interrogation Room
-34639 := Dueling Room
-34640 := Dreshdae
-34641 := the Valley of the Dark Lords
-34642 := Button Panel
-34643 := Test Crate
-34644 := Torture Initiate Trigger 2
-34645 := End Module Trigger
-34646 := To Dreshdae Map Note
-34647 := Dueling Room Map Note
-34648 := Sith Academy Dueling Room
-34649 := Library Map Note
-34650 := Sith Academy Library
-34651 := To Valley Map Note
-34652 := Lashowe Leave Waypoint
-34653 := Mekel Leave Waypoint
-34654 := Bedroom
-34655 := Party 1 Bedroom
-34656 := Party 2 Bedroom
-34657 := Hijata Leave Waypoint
-34658 := Shaardan Leave Waypoint
-34659 := Uthar Leave Waypoint
-34660 := Yuthura Leave Waypoint
-34661 := Sith Guard 3 Walk Waypoint
+提醒：学院不赞成草率的杀戮
+祝你愉快
+34611 := 请稍候……
+34612 := 无可用囚犯
+所有牢房空置
+无法提供对战
+祝你愉快
+34613 := 注销。
+34614 := [计算机] 切入控制台。（1 个计算机破解器）
+34615 := 注销。
+34616 := [计算机] 尝试打开所有牢笼并释放囚犯。（50 个计算机破解器）
+34617 := [计算机] 重编程学院哨戒机器人去猎杀目标。（30 个计算机破解器）
+34618 := [计算机] 入侵学院数据文件。（<CUSTOM32> 个计算机破解器）
+34619 := [计算机] 入侵学院安保摄像头。（<CUSTOM33> 个计算机破解器）
+34620 := [计算机] 打开学院内所有安保门。（<CUSTOM31> 个计算机破解器）
+34621 := 与一名囚犯开始战斗。
+34622 := 停止程序。
+34623 := 继续战斗。
+34624 := 看来我几乎没希望和你们其他人竞争。乌萨尔大师演讲时甚至都没和我说话。
+34625 := 恭喜你获胜，人类。看来我得再等一年了。
+34626 := 有人告诉我尤苏拉·班被杀了。你觉得他们现在会允许更多学生入学吗，还是不会？
+34627 := 那个提列克人尤苏拉现在成了学院的主人。不知道她现在会不会招收更多学生。
+34628 := [一天准备时间过去了。]
+34629 := [曼达洛人被囚禁，无法回应。]
+34630 := 我会考虑一下。
+34631 := 我改变主意了。告诉我藏匿处在哪儿……现在！
+34632 := 这块数据板包含乌萨尔大师发给一个名叫阿德雷纳斯的人的加密指令。除了他要求总管去德雷什戴收集材料外，你不确定指令的具体内容。
+34633 := 这个小型电子装置似乎完全自动运行。一旦附着到指定表面，它就会开始部署内部的某种陷阱。尤苏拉没有确切解释这个装置的作用……只说必须把它放在乌萨尔大师床里才能起效。
+34634 := 这是一张小型身份证，标明你是卡里班星西斯修道院的学生。它允许你随意进出。
+34635 := 通行卡
+34636 := 这些通行卡充当学院卧室钥匙……这一张专门用于乌萨尔大师的卧室。
+34637 := 警卫室
+34638 := 审讯室
+34639 := 决斗室
+34640 := 德雷什戴
+34641 := 黑暗尊主谷
+34642 := 按钮面板
+34643 := 测试箱
+34644 := 拷问启动触发器 2
+34645 := 结束模块触发器
+34646 := 前往德雷什戴地图注记
+34647 := 决斗室地图注记
+34648 := 西斯学院决斗室
+34649 := 图书馆地图注记
+34650 := 西斯学院图书馆
+34651 := 前往山谷地图注记
+34652 := 拉肖维离开路点
+34653 := 梅克尔离开路点
+34654 := 卧室
+34655 := 队伍 1 卧室
+34656 := 队伍 2 卧室
+34657 := 希贾塔离开路点
+34658 := 沙尔丹离开路点
+34659 := 乌萨尔离开路点
+34660 := 尤苏拉离开路点
+34661 := 西斯卫兵 3 行走路点
 34662 := K_EXIT
-34663 := Sentry Walk Waypoint
-34664 := Sith Guard 2 Walk Waypoint
-34665 := Sith Guard 4 Walk Waypoint
-34666 := Sith Patrol
-34667 := This small crystal supposedly holds holographic recordings of the ancient Sith... information which could be incredibly valuable. There's no telling how long the holocron has been lost in the area, nor how well it works.
-34668 := Entrance to Academy
-34669 := Tomb of Ajunta Pall
-34670 := Tomb of Marka Ragnos
-34671 := Tomb of Tulak Hord
-34672 := Tomb of Naga Sadow
-34673 := Site 1
-34674 := Site 2
-34675 := To Caves Map Note
-34676 := To Caves
-34677 := To Final Tomb Map Note
-34678 := To Final Tomb
-34679 := To First Tomb Map Note
-34680 := To First Tomb
-34681 := To Second Tomb Map Note
-34682 := To Second Tomb
-34683 := To Sith Academy Map Note
-34684 := To Third Tomb Map Note
-34685 := To Third Tomb
-34686 := Student Female Walk Waypoint
-34687 := Student Male Walk Waypoint
-34688 := Home Base Waypoint
-34689 := SYSTEM ON LINE
-SYSTEM STATUS PENDING
-[CONTINUE]
-34690 := SYSTEM STATUS
-ACCESS DOOR #27: OPEN
-34691 := ACCESS DOOR #27 CLOSING
-...
-ERROR
-34692 := CANNOT CLOSE ACCESS DOOR #27
-PLEASE INFORM DAMAGE CONTROL
-34693 := SYSTEM STATUS
-ACCESS DOOR #27: CLOSED
-34694 := Close the door.
-34695 := Leave the console alone.
-34696 := [Nothing happens.]
-34697 := [Step away from the statue.]
-34698 := ATTEMPTING TO REROUTE POWER
-...
-POWER REROUTE SUCCESSFUL
-PLEASE INFORM DAMAGE CONTROL
-34699 := SYSTEM ON LINE
-SYSTEM STATUS PENDING
-[CONTINUE]
-34700 := SYSTEM STATUS
-CAUSEWAY SECURITY SYSTEM: ACTIVE
-CAUSEWAY SHIELD GRID: ACTIVE
-SHIELD SETTINGS INITIALIZED
-34701 := SHIELDS RESET SYSTEM SHUTTING DOWN
-34702 := SETTING WRONG START AGAIN
-34703 := OBELISK MUST BE REMOVED TO OPEN CAUSEWAY
-WARNING!
-CAUSEWAY SECURITY FATAL IF SHIELDS SET INCORRECTLY
-REMOVE OBELISK?
-34704 := REMOVING OBELISK
-CAUSEWAY OPEN
-34705 := Leave the console alone
-34706 := Remove the obelisk.
-34707 := [This door is held closed by some great power, and cannot be opened at the moment.]
-34708 := [This door is locked and must be opened by some other means.]
-34709 := [give him the Vibro Blade]
-34710 := ATTEMPTING TO REROUTE POWER
-...
-POWER REROUTE SUCCESSFUL
-PLEASE INFORM DAMAGE CONTROL
-34711 := SYSTEM ON LINE
-SYSTEM STATUS PENDING
-[CONTINUE]
-34712 := SYSTEM STATUS
-CAUSEWAY SECURITY SYSTEM: ACTIVE
-CAUSEWAY SHIELD GRID: ACTIVE
-SHIELD SETTINGS INITIALIZED
-34713 := OBELISK MUST BE REMOVED TO OPEN CAUSEWAY
-WARNING!
-CAUSEWAY SECURITY FATAL IF SHIELDS SET INCORRECTLY
-REMOVE OBELISK?
-34714 := OBELISK NOT REMOVED
-CAUSEWAY CLOSED
-SYSTEM OFFLINE
-34715 := REMOVING OBELISK
-CAUSEWAY OPEN
-34716 := Leave the console alone.
-34717 := Remove the obelisk.
-34718 := The datapad appears to be the journal of a Sith archaeologist by the name of Veren Gal. Most of it consists of uninteresting notes on the geology of the tomb's caverns, but the final entry is as follows:
+34663 := 哨戒行走路点
+34664 := 西斯卫兵 2 行走路点
+34665 := 西斯卫兵 4 行走路点
+34666 := 西斯巡逻队
+34667 := 这块小水晶据称保存着古代西斯的全息记录……这些信息可能极其宝贵。没人知道这个全息记录仪在这个区域遗失了多久，也不知道它还能运作得多好。
+34668 := 学院入口
+34669 := 阿君塔·帕尔墓
+34670 := 马卡·拉格诺斯墓
+34671 := 图拉克·霍德墓
+34672 := 纳迦·萨多墓
+34673 := 地点 1
+34674 := 地点 2
+34675 := 前往洞穴地图注记
+34676 := 前往洞穴
+34677 := 前往最终墓穴地图注记
+34678 := 前往最终墓穴
+34679 := 前往第一墓穴地图注记
+34680 := 前往第一墓穴
+34681 := 前往第二墓穴地图注记
+34682 := 前往第二墓穴
+34683 := 前往西斯学院地图注记
+34684 := 前往第三墓穴地图注记
+34685 := 前往第三墓穴
+34686 := 女学生行走路点
+34687 := 男学生行走路点
+34688 := 基地路点
+34689 := 系统在线
+系统状态待定
+[继续]
+34690 := 系统状态
+通道门 #27：开启
+34691 := 通道门 #27 正在关闭
+……
+错误
+34692 := 无法关闭通道门 #27
+请通知损管部门
+34693 := 系统状态
+通道门 #27：关闭
+34694 := 关门。
+34695 := 别碰控制台。
+34696 := [没有任何反应。]
+34697 := [离开雕像。]
+34698 := 正在尝试重新路由电力
+……
+电力重新路由成功
+请通知损管部门
+34699 := 系统在线
+系统状态待定
+[继续]
+34700 := 系统状态
+通道安保系统：激活
+通道护盾网格：激活
+护盾设置已初始化
+34701 := 护盾已重置，系统正在关闭
+34702 := 设置错误，重新开始
+34703 := 必须移除方尖碑才能开启通道
+警告！
+如果护盾设置错误，通道安保会致命
+移除方尖碑？
+34704 := 正在移除方尖碑
+通道开启
+34705 := 别碰控制台
+34706 := 移除方尖碑。
+34707 := [这扇门被某种强大力量封住，目前无法打开。]
+34708 := [这扇门已锁住，必须用其他方式打开。]
+34709 := [给他震动刀]
+34710 := 正在尝试重新路由电力
+……
+电力重新路由成功
+请通知损管部门
+34711 := 系统在线
+系统状态待定
+[继续]
+34712 := 系统状态
+通道安保系统：激活
+通道护盾网格：激活
+护盾设置已初始化
+34713 := 必须移除方尖碑才能开启通道
+警告！
+如果护盾设置错误，通道安保会致命
+移除方尖碑？
+34714 := 方尖碑未移除
+通道关闭
+系统离线
+34715 := 正在移除方尖碑
+通道开启
+34716 := 别碰控制台。
+34717 := 移除方尖碑。
+34718 := 这块数据板看起来像是一位名叫维伦·盖尔的西斯考古学家的日志。其中大部分是关于墓穴洞窟地质的无趣记录，但最后一条如下：
 
-"Strangely enough, I've found traces of Therangen in the tomb. This is an unstable black rock used as fuel by lesser races... perhaps the ancient Sith on Korriban used it as a power source? It is a volatile and dangerous substance, and reacts violently to fire. I will have to be careful."
-34719 := This datapad seems to have once belonged to an enterprising young Sith student who had ventured into the tomb in search of Ajunta Pall's sword. One of his entries is of particular note:
+“说来也怪，我在墓穴里发现了泰伦根的痕迹。这是一种不稳定的黑色岩石，被低等种族用作燃料……也许卡里班星上的古代西斯把它当成能源？它是一种挥发性且危险的物质，会与火发生剧烈反应。我得小心。”
+34719 := 这块数据板似乎曾属于一名有进取心的年轻西斯学生，他进入墓穴寻找阿君塔·帕尔之剑。其中一条记录特别值得注意：
 
-"There has got to be a way to get past this obelisk blocking the bridge! It seems to be made of some kind of unstable material... I'm willing to bet some kind of energy discharge will set it off. Blaster fire isn't doing the trick, however. I'll have to try some kind of explosive. I just hope that guard droid over there is as defunct as it looks."
+“肯定有办法绕过这座挡住桥的方尖碑！它似乎由某种不稳定材料构成……我敢打赌某种能量放电会引爆它。不过爆能枪火不起作用。我得试试某种爆炸物。希望那边的守卫机器人真的像看起来那样报废。”
 34720 := k37_enc_tukata
-34721 := Activate Cutscene
-34722 := Corsoven Cutscene
-34723 := Corsoven Obelisk
-34724 := Deactivate Cutscene
-34725 := Falling Boulders
-34726 := Therangen Cutscene
-34727 := Lever Cutscene
-34728 := Rune Covered Obelisk
-34729 := Therangen Obelisk
-34730 := Ajunta Pall Init Trigger
-34731 := Activate Droid Trigger
-34732 := Shaardan Init Trigger
-34733 := Shaardan Spawn Trigger
-34734 := Boulder 2 Trigger
-34735 := Boulder 1 Trigger
-34736 := Freedon Nadd 2 Waypoint
-34737 := Player Waypoint 1
-34738 := Player Waypoint 2
-34739 := [Door locked down due to blaster fire.]
-34740 := [This door is being held closed by some force, and will not open at this time.]
-34741 := SYSTEM ON LINE
-SYSTEM STATUS PENDING
-[CONTINUE]
-34742 := SYSTEM STATUS
-ACCESS DOOR #44: OPEN
-34743 := CLOSING ACCESS DOOR #44
-LOCKING ACCESS DOOR #44
-34744 := SYSTEM STATUS
-ACCESS DOOR #44: CLOSED
-34745 := Close the door.
-34746 := Leave the console alone.
-34747 := [This door is locked and must be opened by some other means.]
-34748 := [This door is held closed by some great power, and cannot be opened at the moment.]
-34749 := This droid is damaged and inactive.
-34750 := The droid engages its patrol mode and moves off to carry out your programmed instructions.
-34751 := You leave the droid alone for now.
-34752 := [Failure] You don't have any repair parts. You leave the droid alone for now.
-34753 := The droid is now active. It will attack any enemies that come in range.
-34754 := [Failure] You do not have enough repair parts.
-34755 := [Success] Patrol mode engaged. Once you end this session the droid will begin patrol and destroy any enemies it encounters. 
-34756 := WARNING: Once you end this session the droid's program will be locked in. You will not be able to modifiy the droid anymore.
-34757 := [Success] The droid's shields are now active.
-34758 := [Success] The droid is now set for maximum accuracy.
-34759 := [Success] The droid is now set for maximum firepower.
-34760 := The droid is now active. It will attack any enemies that come in range.
-34761 := The droid is actively engaged in its patrol route. You cannot reprogram it anymore.
-34762 := Leave it alone.
-34763 := Reactivate the droid. (1 repair part)
-34764 := Leave it alone.
-34765 := Engage droid in patrol mode. (<CUSTOM45> repair part(s))
-34766 := Activate droid's shields. (<CUSTOM44> repair part(s))
-34767 := Optimize droid's targeting systems. (<CUSTOM43> repair part(s))
-34768 := Optimize droid's weaponry. (<CUSTOM42> repair part(s))
-34769 := [Noxious fumes surround you.]
-34770 := [Your party chokes and falls over.]
-34771 := I think you must have cheated a little, but there's nothing wrong with a Sith cheating a little. I'll keep my word.
-34772 := This thick stone tablet is covered with ancient runes of an unknown language. It is extremely cold to the touch and has almost a sinister aura about it.
-Recently carved into the side of the tablet appears to be a primer... no doubt intended to provide a means to translate the runes.
-34773 := Noxious Gas
-34774 := Jorak Trigger
-34775 := Jorak Trigger 1
-34776 := Gas Waypoint
-34777 := Jorak 1 Waypoint
-34778 := Droid Patrol 2
-34779 := Droid Patrol 3
-34780 := Droid Patrol 4
-34781 := Droid Patrol 5
-34782 := Droid Patrol 1
-34783 := Predator End Waypoint
-34784 := Predator Start Waypoint
-34785 := [Too late you realize the fumes are poisonous.]
-34786 := [A day passes in preparation. Uthar then takes you and Yuthura to the Sith tomb. Your companions are not permitted to join you.]
-34787 := [This door is locked and will not open at the moment.]
-34788 := [This door is held closed by some great power, and cannot be opened at the moment.]
-34789 := [A day passes in preperation. Uthar then takes you and Yuthura to the Sith tomb.]
-34790 := Sith Lightsaber
-34791 := This lightsaber is quite intricate in its design, the hilt covered in delicate runes and inlaid with black markings. No doubt the purpose of the weapon is primarily ceremonial, though it certainly seems to perform as a lightsaber should.
-34792 := This is an incredibly large and powerful version of a standard cold grenade. When used, its blast will likely affect quite a large area.
-34793 := This is an incredibly large and powerful version of a standard fire grenade. When used, its blast will likely affect quite a large area.
-34794 := This datapad appears to be the journal of a Sith who quite obviously did not make it past this portion of his final test. Most of the journal consists of the Sith's account of gaining enough prestige with Master Uthar to take this test... only the final entry appears to concern the test, itself:
+34721 := 激活过场
+34722 := 科尔索文过场
+34723 := 科尔索文方尖碑
+34724 := 停用过场
+34725 := 落石
+34726 := 泰伦根过场
+34727 := 拉杆过场
+34728 := 覆满符文的方尖碑
+34729 := 泰伦根方尖碑
+34730 := 阿君塔·帕尔初始化触发器
+34731 := 激活机器人触发器
+34732 := 沙尔丹初始化触发器
+34733 := 沙尔丹生成触发器
+34734 := 巨石 2 触发器
+34735 := 巨石 1 触发器
+34736 := 弗里登·纳德 2 路点
+34737 := 玩家路点 1
+34738 := 玩家路点 2
+34739 := [因爆能枪火，门已锁死。]
+34740 := [这扇门被某种力量封住，此时无法打开。]
+34741 := 系统在线
+系统状态待定
+[继续]
+34742 := 系统状态
+通道门 #44：开启
+34743 := 正在关闭通道门 #44
+正在锁定通道门 #44
+34744 := 系统状态
+通道门 #44：关闭
+34745 := 关门。
+34746 := 别碰控制台。
+34747 := [这扇门已锁住，必须用其他方式打开。]
+34748 := [这扇门被某种强大力量封住，目前无法打开。]
+34749 := 这个机器人已损坏并处于停用状态。
+34750 := 机器人启用巡逻模式，离开去执行你编程的指令。
+34751 := 你暂时不去管这个机器人。
+34752 := [失败] 你没有任何修理零件。你暂时不去管这个机器人。
+34753 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+34754 := [失败] 你的修理零件不足。
+34755 := [成功] 巡逻模式已启用。你结束本次会话后，机器人将开始巡逻，并摧毁它遇到的任何敌人。
+34756 := 警告：一旦你结束本次会话，机器人的程序将被锁定。你将无法再修改这个机器人。
+34757 := [成功] 机器人的护盾现已激活。
+34758 := [成功] 机器人现已设为最高精度。
+34759 := [成功] 机器人现已设为最大火力。
+34760 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+34761 := 机器人正在执行巡逻路线。你无法再重编程它。
+34762 := 别管它。
+34763 := 重新激活机器人。（1 个修理零件）
+34764 := 别管它。
+34765 := 启用机器人的巡逻模式。（<CUSTOM45> 个修理零件）
+34766 := 激活机器人的护盾。（<CUSTOM44> 个修理零件）
+34767 := 优化机器人的瞄准系统。（<CUSTOM43> 个修理零件）
+34768 := 优化机器人的武器系统。（<CUSTOM42> 个修理零件）
+34769 := [毒气环绕着你。]
+34770 := [你的队伍窒息倒下。]
+34771 := 我觉得你肯定稍微作弊了，但西斯稍微作弊也没什么错。我会信守承诺。
+34772 := 这块厚重石板覆满未知语言的古代符文。摸起来极其冰冷，几乎带着一种邪恶的气息。
+最近刻在石板侧面的似乎是一份入门说明……无疑是为了提供翻译符文的方法。
+34773 := 毒气
+34774 := 乔拉克触发器
+34775 := 乔拉克触发器 1
+34776 := 毒气路点
+34777 := 乔拉克 1 路点
+34778 := 机器人巡逻 2
+34779 := 机器人巡逻 3
+34780 := 机器人巡逻 4
+34781 := 机器人巡逻 5
+34782 := 机器人巡逻 1
+34783 := 捕食者结束路点
+34784 := 捕食者开始路点
+34785 := [你太晚才意识到这些烟气有毒。]
+34786 := [一天准备时间过去了。随后乌萨尔带你和尤苏拉前往西斯墓穴。你的同伴不允许加入。]
+34787 := [这扇门已锁住，目前不会打开。]
+34788 := [这扇门被某种强大力量封住，目前无法打开。]
+34789 := [一天准备时间过去了。随后乌萨尔带你和尤苏拉前往西斯墓穴。]
+34790 := 西斯光剑
+34791 := 这把光剑设计相当精巧，剑柄覆盖着细致的符文，并嵌有黑色纹饰。毫无疑问，这件武器主要是礼仪用途，不过它显然也能像光剑一样正常使用。
+34792 := 这是标准寒冷手雷极其巨大且强力的版本。使用时，它的爆炸很可能影响相当大的区域。
+34793 := 这是标准火焰手雷极其巨大且强力的版本。使用时，它的爆炸很可能影响相当大的区域。
+34794 := 这块数据板看起来像属于一名西斯，他显然没能通过最终测试的这一部分。日志的大部分内容记录了这名西斯如何在乌萨尔大师那里获得足够威望以参加这项测试……只有最后一条似乎涉及测试本身：
 
-"It seems I need to get across the pool of acid in the central chamber if I am to complete my test, here, but that is not going to be easy. The runes name one obelisk the 'Pillar of Fire'... while the other is the 'Pillar of Ice'. I can only assume that one of the pillars leads to a way to remove the acid pool. Fire or ice... wouldn't fire create toxic fumes? I'm not sure. Maybe freezing the pool would be safer. Well... I'll worry about that once I bypass the terentatek beasts. If I can. I suppose it's now or never."
-34795 := OOC Backpack
-34796 := Gas Cloud
-34797 := Acid Pool
-34798 := Tomb of Naga Sadow
-34799 := Ceiling
+“看来如果我想完成这里的测试，就必须穿过中央大厅里的酸池，但这不会容易。符文把一座方尖碑称为‘火焰之柱’……另一座则称为‘寒冰之柱’。我只能推测，其中一座柱子通向移除酸池的方法。火还是冰……火不会产生有毒烟气吗？我不确定。也许冻结酸池会更安全。好吧……等我绕过那些泰伦塔泰克兽再操心这个。如果我办得到。我想现在不是成功就是死。”
+34795 := OOC 背包
+34796 := 毒气云
+34797 := 酸池
+34798 := 纳迦·萨多墓
+34799 := 天花板
 34800 := End Game Initiate Trigger
 34801 := Acid Pool Initiate Trigger
 34802 := Walk Backwards Waypoint
