@@ -39933,659 +39933,659 @@ C8-42 则稍微没有那么……热情。
 
 36999 := 受伤哼声 - 非实际文本，无需翻译
 
-37000 := Pain Grunt - not actual text to be translated
+37000 := 受伤哼声 - 非实际文本，无需翻译
 
-37001 := Attack Grunt - not actual text to be translated
+37001 := 攻击哼声 - 非实际文本，无需翻译
 
-37002 := Pain Grunt - not actual text to be translated
+37002 := 受伤哼声 - 非实际文本，无需翻译
 
-37003 := Pain Grunt - not actual text to be translated
+37003 := 受伤哼声 - 非实际文本，无需翻译
 
-37004 := Attack Cry - not actual text to be translated
-37005 := Attack Grunt - not actual text to be translated
+37004 := 攻击喊声 - 非实际文本，无需翻译
+37005 := 攻击哼声 - 非实际文本，无需翻译
 
-37006 := Pain Grunt - not actual text to be translated
+37006 := 受伤哼声 - 非实际文本，无需翻译
 
-37007 := Pain Grunt - not actual text to be translated
+37007 := 受伤哼声 - 非实际文本，无需翻译
 
-37008 := For the Sith!
-37009 := Attack Grunt - not actual text to be translated
+37008 := 为了西斯！
+37009 := 攻击哼声 - 非实际文本，无需翻译
 
-37010 := Pain Grunt - not actual text to be translated
+37010 := 受伤哼声 - 非实际文本，无需翻译
 
-37011 := Pain Grunt - not actual text to be translated
+37011 := 受伤哼声 - 非实际文本，无需翻译
 
-37013 := Attack Cry - not actual text to be translated
+37013 := 攻击喊声 - 非实际文本，无需翻译
 
-37014 := Attack Grunt - not actual text to be translated
+37014 := 攻击哼声 - 非实际文本，无需翻译
 
-37015 := Pain Grunt - not actual text to be translated
+37015 := 受伤哼声 - 非实际文本，无需翻译
 
-37016 := Pain Grunt - not actual text to be translated
+37016 := 受伤哼声 - 非实际文本，无需翻译
 
-37017 := Attack Cry - not actual text to be translated
+37017 := 攻击喊声 - 非实际文本，无需翻译
 
-37018 := Attack Cry - not actual text to be translated
+37018 := 攻击喊声 - 非实际文本，无需翻译
 
-37019 := Attack Grunt - not actual text to be translated
+37019 := 攻击哼声 - 非实际文本，无需翻译
 
-37020 := Attack Grunt - not actual text to be translated
+37020 := 攻击哼声 - 非实际文本，无需翻译
 
-37021 := Attack Grunt - not actual text to be translated
+37021 := 攻击哼声 - 非实际文本，无需翻译
 
-37022 := Pain Grunt - not actual text to be translated
+37022 := 受伤哼声 - 非实际文本，无需翻译
 
-37023 := Pain Grunt - not actual text to be translated
+37023 := 受伤哼声 - 非实际文本，无需翻译
 
-37024 := Pain Grunt - not actual text to be translated
+37024 := 受伤哼声 - 非实际文本，无需翻译
 
-37026 := Attack Cry - not actual text to be translated
+37026 := 攻击喊声 - 非实际文本，无需翻译
 
-37027 := Attack Grunt - not actual text to be translated
+37027 := 攻击哼声 - 非实际文本，无需翻译
 
-37028 := Pain Grunt - not actual text to be translated
+37028 := 受伤哼声 - 非实际文本，无需翻译
 
-37029 := Pain Grunt - not actual text to be translated
+37029 := 受伤哼声 - 非实际文本，无需翻译
 
-37030 := Sleymo!
-37031 := Attack Grunt - not actual text to be translated
+37030 := 混蛋！
+37031 := 攻击哼声 - 非实际文本，无需翻译
 
-37032 := Pain Grunt - not actual text to be translated
+37032 := 受伤哼声 - 非实际文本，无需翻译
 
-37033 := Pain Grunt - not actual text to be translated
+37033 := 受伤哼声 - 非实际文本，无需翻译
 
-37034 := Attack Grunt - not actual text to be translated
+37034 := 攻击哼声 - 非实际文本，无需翻译
 
-37035 := Pain Grunt - not actual text to be translated
+37035 := 受伤哼声 - 非实际文本，无需翻译
 
-37036 := Pain Grunt - not actual text to be translated
+37036 := 受伤哼声 - 非实际文本，无需翻译
 
-37037 := Attack Grunt - not actual text to be translated
+37037 := 攻击哼声 - 非实际文本，无需翻译
 
-37038 := Pain Grunt - not actual text to be translated
+37038 := 受伤哼声 - 非实际文本，无需翻译
 
-37039 := Pain Grunt - not actual text to be translated
+37039 := 受伤哼声 - 非实际文本，无需翻译
 
-37040 := Attack Cry - not actual text to be translated
+37040 := 攻击喊声 - 非实际文本，无需翻译
 
-37041 := Attack Cry - not actual text to be translated
+37041 := 攻击喊声 - 非实际文本，无需翻译
 
-37042 := Attack Grunt - not actual text to be translated
+37042 := 攻击哼声 - 非实际文本，无需翻译
 
-37043 := Attack Grunt - not actual text to be translated
-37044 := Attack Grunt - not actual text to be translated
+37043 := 攻击哼声 - 非实际文本，无需翻译
+37044 := 攻击哼声 - 非实际文本，无需翻译
 
-37045 := Pain Grunt - not actual text to be translated
+37045 := 受伤哼声 - 非实际文本，无需翻译
 
-37046 := Pain Grunt - not actual text to be translated
+37046 := 受伤哼声 - 非实际文本，无需翻译
 
-37047 := Pain Grunt - not actual text to be translated
+37047 := 受伤哼声 - 非实际文本，无需翻译
 
-37048 := Attack Cry - not actual text to be translated
+37048 := 攻击喊声 - 非实际文本，无需翻译
 
-37049 := Attack Grunt - not actual text to be translated
+37049 := 攻击哼声 - 非实际文本，无需翻译
 
-37050 := Pain Grunt - not actual text to be translated
+37050 := 受伤哼声 - 非实际文本，无需翻译
 
-37051 := Pain Grunt - not actual text to be translated
+37051 := 受伤哼声 - 非实际文本，无需翻译
 
-37052 := Attack Cry - not actual text to be translated
+37052 := 攻击喊声 - 非实际文本，无需翻译
 
-37053 := Attack Grunt - not actual text to be translated
+37053 := 攻击哼声 - 非实际文本，无需翻译
 
-37054 := Pain Grunt - not actual text to be translated
+37054 := 受伤哼声 - 非实际文本，无需翻译
 
-37055 := Pain Grunt - not actual text to be translated
+37055 := 受伤哼声 - 非实际文本，无需翻译
 
-37056 := Attack Cry - not actual text to be translated
+37056 := 攻击喊声 - 非实际文本，无需翻译
 
-37057 := Attack Cry - not actual text to be translated
+37057 := 攻击喊声 - 非实际文本，无需翻译
 
-37058 := Attack Grunt - not actual text to be translated
+37058 := 攻击哼声 - 非实际文本，无需翻译
 
-37059 := Attack Grunt - not actual text to be translated
+37059 := 攻击哼声 - 非实际文本，无需翻译
 
-37060 := Attack Grunt - not actual text to be translated
+37060 := 攻击哼声 - 非实际文本，无需翻译
 
-37061 := Pain Grunt - not actual text to be translated
+37061 := 受伤哼声 - 非实际文本，无需翻译
 
-37062 := Pain Grunt - not actual text to be translated
+37062 := 受伤哼声 - 非实际文本，无需翻译
 
-37063 := Pain Grunt - not actual text to be translated
+37063 := 受伤哼声 - 非实际文本，无需翻译
 
-37064 := Attack Cry - not actual text to be translated
+37064 := 攻击喊声 - 非实际文本，无需翻译
 
-37065 := Sith Monastery Ambient
-37066 := Attack Grunt - not actual text to be translated
+37065 := 西斯修道院环境音
+37066 := 攻击哼声 - 非实际文本，无需翻译
 
-37067 := Pain Grunt - not actual text to be translated
+37067 := 受伤哼声 - 非实际文本，无需翻译
 
-37068 := Pain Grunt - not actual text to be translated
+37068 := 受伤哼声 - 非实际文本，无需翻译
 
-37069 := Attack Cry - not actual text to be translated
+37069 := 攻击喊声 - 非实际文本，无需翻译
 
-37070 := Main Tomb Ambient
+37070 := 主墓室环境音
 
-37071 := Attack Grunt - not actual text to be translated
+37071 := 攻击哼声 - 非实际文本，无需翻译
 
-37072 := Pain Grunt - not actual text to be translated
+37072 := 受伤哼声 - 非实际文本，无需翻译
 
-37073 := Pain Grunt - not actual text to be translated
+37073 := 受伤哼声 - 非实际文本，无需翻译
 
-37074 := Attack Cry - not actual text to be translated
+37074 := 攻击喊声 - 非实际文本，无需翻译
 
-37075 := For Mandalor!
-37076 := Manaan Main Interior Ambient
+37075 := 为了曼达洛！
+37076 := 马南主室内环境音
 
-37077 := Attack Grunt - not actual text to be translated
+37077 := 攻击哼声 - 非实际文本，无需翻译
 
-37078 := Attack Grunt - not actual text to be translated
+37078 := 攻击哼声 - 非实际文本，无需翻译
 
-37079 := Attack Grunt - not actual text to be translated
+37079 := 攻击哼声 - 非实际文本，无需翻译
 
-37080 := Pain Grunt - not actual text to be translated
+37080 := 受伤哼声 - 非实际文本，无需翻译
 
-37081 := Pain Grunt - not actual text to be translated
+37081 := 受伤哼声 - 非实际文本，无需翻译
 
-37082 := Pain Grunt - not actual text to be translated
+37082 := 受伤哼声 - 非实际文本，无需翻译
 
-37083 := Sith Base Main Ambient
+37083 := 西斯基地主环境音
 
-37084 := Attack Cry - not actual text to be translated
+37084 := 攻击喊声 - 非实际文本，无需翻译
 
-37085 := Attack Cry - not actual text to be translated
+37085 := 攻击喊声 - 非实际文本，无需翻译
 
-37086 := Attack Grunt - not actual text to be translated
+37086 := 攻击哼声 - 非实际文本，无需翻译
 
-37087 := Attack Grunt - not actual text to be translated
+37087 := 攻击哼声 - 非实际文本，无需翻译
 
-37088 := Attack Grunt - not actual text to be translated
+37088 := 攻击哼声 - 非实际文本，无需翻译
 
-37089 := Pain Grunt - not actual text to be translated
+37089 := 受伤哼声 - 非实际文本，无需翻译
 
-37090 := Pain Grunt - not actual text to be translated
+37090 := 受伤哼声 - 非实际文本，无需翻译
 
-37091 := Pain Grunt - not actual text to be translated
+37091 := 受伤哼声 - 非实际文本，无需翻译
 
-37092 := Attack Cry - not actual text to be translated
+37092 := 攻击喊声 - 非实际文本，无需翻译
 
-37093 := Attack Grunt - not actual text to be translated
+37093 := 攻击哼声 - 非实际文本，无需翻译
 
-37094 := Pain Grunt - not actual text to be translated
+37094 := 受伤哼声 - 非实际文本，无需翻译
 
-37095 := Pain Grunt - not actual text to be translated
+37095 := 受伤哼声 - 非实际文本，无需翻译
 
-37096 := Attack Cry - not actual text to be translated
+37096 := 攻击喊声 - 非实际文本，无需翻译
 
-37097 := Attack Grunt - not actual text to be translated
+37097 := 攻击哼声 - 非实际文本，无需翻译
 
-37098 := Pain Grunt - not actual text to be translated
+37098 := 受伤哼声 - 非实际文本，无需翻译
 
-37099 := Pain Grunt - not actual text to be translated
+37099 := 受伤哼声 - 非实际文本，无需翻译
 
-37100 := Kolto Station main ambient
+37100 := 科尔托站主环境音
 
-37101 := Attack Cry - not actual text to be translated
+37101 := 攻击喊声 - 非实际文本，无需翻译
 
-37102 := Attack Grunt - not actual text to be translated
+37102 := 攻击哼声 - 非实际文本，无需翻译
 
-37103 := Pain Grunt - not actual text to be translated
+37103 := 受伤哼声 - 非实际文本，无需翻译
 
-37104 := Pain Grunt - not actual text to be translated
+37104 := 受伤哼声 - 非实际文本，无需翻译
 
-37106 := Plot a course for Dantooine! There's a Jedi enclave there where we can find refuge!
-37107 := Incoming fighters!
-37108 := Quickly, to the gun turrets! You have to hold the Sith fighters off until we get those hyperspace coordinates punched in.
+37106 := 设定前往丹图因星的航线！那里有一处绝地飞地，我们可以在那里避难！
+37107 := 敌方战机来袭！
+37108 := 快，到炮塔去！在我们输入超空间坐标之前，你必须挡住那些西斯战机。
 
-37109 := We're coming aboard! Nobody try anything or we'll vaporize your entire ship!
-37110 := These are the three we were supposed to watch out for, Commander. But there's more inside.
-37111 := Bring them all. Throw them in the prison. Lord Malak will want to speak with them.
+37109 := 我们要登船了！谁也别乱动，否则我们就把整艘船蒸发掉！
+37110 := 指挥官，这三个人就是我们奉命留意的目标。但里面还有更多人。
+37111 := 全部带走。把他们扔进监狱。马拉克尊主会想和他们谈谈。
 
-37112 := For the Sith!
+37112 := 为了西斯！
 
-37113 := Attack Grunt - not actual text to be translated
+37113 := 攻击哼声 - 非实际文本，无需翻译
 
-37114 := Pain Grunt - not actual text to be translated
+37114 := 受伤哼声 - 非实际文本，无需翻译
 
-37115 := Pain Grunt - not actual text to be translated
+37115 := 受伤哼声 - 非实际文本，无需翻译
 
-37116 := For the Sith!
-37117 := Attack Grunt - not actual text to be translated
+37116 := 为了西斯！
+37117 := 攻击哼声 - 非实际文本，无需翻译
 
-37118 := Pain Grunt - not actual text to be translated
+37118 := 受伤哼声 - 非实际文本，无需翻译
 
-37119 := Pain Grunt - not actual text to be translated
+37119 := 受伤哼声 - 非实际文本，无需翻译
 
-37121 := Attack Cry - not actual text to be translated
+37121 := 攻击喊声 - 非实际文本，无需翻译
 
-37122 := Attack Grunt - not actual text to be translated
+37122 := 攻击哼声 - 非实际文本，无需翻译
 
-37123 := Pain Grunt - not actual text to be translated
+37123 := 受伤哼声 - 非实际文本，无需翻译
 
-37124 := Pain Grunt - not actual text to be translated
+37124 := 受伤哼声 - 非实际文本，无需翻译
 
-37125 := Attack Cry - not actual text to be translated
+37125 := 攻击喊声 - 非实际文本，无需翻译
 
-37126 := Attack Grunt - not actual text to be translated
+37126 := 攻击哼声 - 非实际文本，无需翻译
 
-37127 := Pain Grunt - not actual text to be translated
+37127 := 受伤哼声 - 非实际文本，无需翻译
 
-37128 := Pain Grunt - not actual text to be translated
+37128 := 受伤哼声 - 非实际文本，无需翻译
 
-37129 := Attack Cry - not actual text to be translated
+37129 := 攻击喊声 - 非实际文本，无需翻译
 
-37130 := Attack Grunt - not actual text to be translated
+37130 := 攻击哼声 - 非实际文本，无需翻译
 
-37131 := Pain Grunt - not actual text to be translated
+37131 := 受伤哼声 - 非实际文本，无需翻译
 
-37132 := Pain Grunt - not actual text to be translated
+37132 := 受伤哼声 - 非实际文本，无需翻译
 
-37133 := Attack Cry - not actual text to be translated
+37133 := 攻击喊声 - 非实际文本，无需翻译
 
-37134 := Attack Grunt - not actual text to be translated
+37134 := 攻击哼声 - 非实际文本，无需翻译
 
-37135 := Pain Grunt - not actual text to be translated
+37135 := 受伤哼声 - 非实际文本，无需翻译
 
-37136 := Pain Grunt - not actual text to be translated
+37136 := 受伤哼声 - 非实际文本，无需翻译
 
-37137 := Attack Cry - not actual text to be translated
+37137 := 攻击喊声 - 非实际文本，无需翻译
 
-37138 := Attack Cry - not actual text to be translated
+37138 := 攻击喊声 - 非实际文本，无需翻译
 
-37139 := Attack Grunt - not actual text to be translated
+37139 := 攻击哼声 - 非实际文本，无需翻译
 
-37140 := Attack Grunt - not actual text to be translated
+37140 := 攻击哼声 - 非实际文本，无需翻译
 
-37141 := Attack Grunt - not actual text to be translated
+37141 := 攻击哼声 - 非实际文本，无需翻译
 
-37142 := Pain Grunt - not actual text to be translated
+37142 := 受伤哼声 - 非实际文本，无需翻译
 
-37143 := Pain Grunt - not actual text to be translated
+37143 := 受伤哼声 - 非实际文本，无需翻译
 
-37144 := Pain Grunt - not actual text to be translated
+37144 := 受伤哼声 - 非实际文本，无需翻译
 
-37145 := Attack Cry - not actual text to be translated
+37145 := 攻击喊声 - 非实际文本，无需翻译
 
-37146 := Attack Cry - not actual text to be translated
+37146 := 攻击喊声 - 非实际文本，无需翻译
 
-37147 := Attack Grunt - not actual text to be translated
+37147 := 攻击哼声 - 非实际文本，无需翻译
 
-37148 := Attack Grunt - not actual text to be translated
+37148 := 攻击哼声 - 非实际文本，无需翻译
 
-37149 := Attack Grunt - not actual text to be translated
+37149 := 攻击哼声 - 非实际文本，无需翻译
 
-37150 := Pain Grunt - not actual text to be translated
+37150 := 受伤哼声 - 非实际文本，无需翻译
 
-37151 := Pain Grunt - not actual text to be translated
+37151 := 受伤哼声 - 非实际文本，无需翻译
 
-37152 := Pain Grunt - not actual text to be translated
+37152 := 受伤哼声 - 非实际文本，无需翻译
 
-37153 := Attack Cry - not actual text to be translated
+37153 := 攻击喊声 - 非实际文本，无需翻译
 
-37154 := Attack Cry - not actual text to be translated
+37154 := 攻击喊声 - 非实际文本，无需翻译
 
-37155 := Attack Grunt - not actual text to be translated
+37155 := 攻击哼声 - 非实际文本，无需翻译
 
-37156 := Attack Grunt - not actual text to be translated
+37156 := 攻击哼声 - 非实际文本，无需翻译
 
-37157 := Attack Grunt - not actual text to be translated
+37157 := 攻击哼声 - 非实际文本，无需翻译
 
-37158 := Pain Grunt - not actual text to be translated
+37158 := 受伤哼声 - 非实际文本，无需翻译
 
-37159 := Pain Grunt - not actual text to be translated
+37159 := 受伤哼声 - 非实际文本，无需翻译
 
-37160 := Pain Grunt - not actual text to be translated
+37160 := 受伤哼声 - 非实际文本，无需翻译
 
-37161 := Attack Cry - not actual text to be translated
+37161 := 攻击喊声 - 非实际文本，无需翻译
 
-37162 := Attack Grunt - not actual text to be translated
+37162 := 攻击哼声 - 非实际文本，无需翻译
 
-37163 := Pain Grunt - not actual text to be translated
+37163 := 受伤哼声 - 非实际文本，无需翻译
 
-37164 := Pain Grunt - not actual text to be translated
+37164 := 受伤哼声 - 非实际文本，无需翻译
 
-37165 := Attack Cry - not actual text to be translated
+37165 := 攻击喊声 - 非实际文本，无需翻译
 
-37166 := Attack Cry - not actual text to be translated
+37166 := 攻击喊声 - 非实际文本，无需翻译
 
-37167 := Attack Grunt - not actual text to be translated
+37167 := 攻击哼声 - 非实际文本，无需翻译
 
-37168 := Attack Grunt - not actual text to be translated
+37168 := 攻击哼声 - 非实际文本，无需翻译
 
-37169 := Attack Grunt - not actual text to be translated
+37169 := 攻击哼声 - 非实际文本，无需翻译
 
-37170 := Pain Grunt - not actual text to be translated
+37170 := 受伤哼声 - 非实际文本，无需翻译
 
-37171 := Pain Grunt - not actual text to be translated
+37171 := 受伤哼声 - 非实际文本，无需翻译
 
-37172 := Pain Grunt - not actual text to be translated
+37172 := 受伤哼声 - 非实际文本，无需翻译
 
-37174 := The dark side is strong in this place - I can feel its power!
-37175 := Is this wise? The ancient Jedi sealed the archway. If we pass beyond this door, we can never go back. The Order will surely banish us.
-37176 := Attack Cry - not actual text to be translated
+37174 := 这个地方的黑暗面非常强大，我能感觉到它的力量！
+37175 := 这样明智吗？古代绝地封住了这道拱门。如果我们越过这扇门，就再也回不去了。武士团一定会放逐我们。
+37176 := 攻击喊声 - 非实际文本，无需翻译
 
-37177 := Attack Cry - not actual text to be translated
+37177 := 攻击喊声 - 非实际文本，无需翻译
 
-37178 := Attack Grunt - not actual text to be translated
+37178 := 攻击哼声 - 非实际文本，无需翻译
 
-37179 := Attack Grunt - not actual text to be translated
+37179 := 攻击哼声 - 非实际文本，无需翻译
 
-37180 := Attack Grunt - not actual text to be translated
+37180 := 攻击哼声 - 非实际文本，无需翻译
 
-37181 := Pain Grunt - not actual text to be translated
+37181 := 受伤哼声 - 非实际文本，无需翻译
 
-37182 := Pain Grunt - not actual text to be translated
+37182 := 受伤哼声 - 非实际文本，无需翻译
 
-37183 := Pain Grunt - not actual text to be translated
+37183 := 受伤哼声 - 非实际文本，无需翻译
 
-37184 := Attack Cry - not actual text to be translated
+37184 := 攻击喊声 - 非实际文本，无需翻译
 
-37185 := Attack Grunt - not actual text to be translated
+37185 := 攻击哼声 - 非实际文本，无需翻译
 
-37186 := Pain Grunt - not actual text to be translated
+37186 := 受伤哼声 - 非实际文本，无需翻译
 
-37187 := Pain Grunt - not actual text to be translated
+37187 := 受伤哼声 - 非实际文本，无需翻译
 
-37189 := Rubble 1
-37190 := Rubble 2
-37191 := Rubble 3
-37192 :=  Oh, great!
+37189 := 瓦砾 1
+37190 := 瓦砾 2
+37191 := 瓦砾 3
+37192 :=  哦，好极了！
 
-37193 := Time to rumble!
+37193 := 该大闹一场了！
 
-37194 := Kolto Harvester 1
-37195 := You asked for this!
+37194 := 科尔托采收机 1
+37195 := 这是你自找的！
 
-37196 := Down you go!
+37196 := 给我倒下！
 
-37197 := Let's go!
+37197 := 上吧！
 
-37198 := Aaahhh!
+37198 := 啊啊啊！
 
-37199 := What?
+37199 := 什么？
 
-37200 := Kolto Harvester 2
-37201 := Uh-huh?
+37200 := 科尔托采收机 2
+37201 := 嗯哼？
 
-37202 := Invisible Ebon Container
-37203 := Ready.
+37202 := 隐形乌木鹰号容器
+37203 := 准备好了。
 
-37204 := Attack Grunt - not actual text to be translated
+37204 := 攻击哼声 - 非实际文本，无需翻译
 
-37205 := Attack Grunt - not actual text to be translated
+37205 := 攻击哼声 - 非实际文本，无需翻译
 
-37206 := Attack Grunt - not actual text to be translated
+37206 := 攻击哼声 - 非实际文本，无需翻译
 
-37207 := Pain Grunt - not actual text to be translated
+37207 := 受伤哼声 - 非实际文本，无需翻译
 
-37208 := Pain Grunt - not actual text to be translated
+37208 := 受伤哼声 - 非实际文本，无需翻译
 
-37209 := Can't take much more of this!
+37209 := 我快撑不住了！
 
-37210 := Repair Table 1
-37211 := Pain Grunt - not actual text to be translated
+37210 := 修理台 1
+37211 := 受伤哼声 - 非实际文本，无需翻译
 
-37212 := Hah! How'd you like that?!
+37212 := 哈！这下感觉如何？！
 
-37213 := I'm not making a dent!
+37213 := 我连个凹痕都打不出来！
 
-37214 := One nasty surprise. Check.
+37214 := 一个恶毒惊喜。完成。
 
-37215 := That one's taken care of.
+37215 := 那个处理好了。
 
-37216 := Repair Table 2
-37217 := Time to stay out of sight.
+37216 := 修理台 2
+37217 := 是时候避开视线了。
 
-37218 := White Box
-37219 := End Corpse Container
-37220 := Speeder Blur
-37221 := Manaan Table 1
-37222 := Manaan Table 2
-37223 := I'm keeping my eyes open.
+37218 := 白色箱子
+37219 := 恩达尖塔号尸体容器
+37220 := 飞梭模糊效果
+37221 := 马南桌子 1
+37222 := 马南桌子 2
+37223 := 我会睁大眼睛。
 
-37224 := On it.
+37224 := 交给我。
 
-37225 := Land Speeder 3
-37226 := Damn!
+37225 := 陆地飞梭 3
+37226 := 该死！
 
-37227 := Force Cage 2
-37228 := It's open.
+37227 := 原力笼 2
+37228 := 打开了。
 
-37229 := Hang back here for a minute.
+37229 := 在这里稍微退后一下。
 
-37230 := Endar Spire Screen
-37231 := Okay, let's stick together.
+37230 := 恩达尖塔号屏幕
+37231 := 好，我们还是待在一起吧。
 
-37232 := Damn! Feel... sick...
+37232 := 该死！感觉……恶心……
 
-37233 := Prejudice set to maximum.
-37234 := Termination required.
-37235 := Combat mode active.
-37236 := Powering weapons.
-37237 := Engaging.
-37238 := Homing in on target.
-37239 := Ready.
-37240 := Master?
-37241 := Acknowledgement.
-37242 := Attack Grunt - not actual text to be translated
+37233 := 偏见设为最大值。
+37234 := 需要终止。
+37235 := 战斗模式激活。
+37236 := 武器供能中。
+37237 := 正在交战。
+37238 := 正在锁定目标。
+37239 := 准备就绪。
+37240 := 主人？
+37241 := 已确认。
+37242 := 攻击哼声 - 非实际文本，无需翻译
 
-37243 := Attack Grunt - not actual text to be translated
+37243 := 攻击哼声 - 非实际文本，无需翻译
 
-37244 := Attack Grunt - not actual text to be translated
+37244 := 攻击哼声 - 非实际文本，无需翻译
 
-37245 := Pain Grunt - not actual text to be translated
+37245 := 受伤哼声 - 非实际文本，无需翻译
 
-37246 := Pain Grunt - not actual text to be translated
+37246 := 受伤哼声 - 非实际文本，无需翻译
 
-37247 := Warning! Excessive damage sustained!
-37248 := Pain Grunt - not actual text to be translated
+37247 := 警告！已承受过量伤害！
+37248 := 受伤哼声 - 非实际文本，无需翻译
 
-37249 := Droid efficiency at its best.
+37249 := 机器人效率的最佳体现。
 
-37250 := Target appears immune to assault.
+37250 := 目标似乎对攻击免疫。
 
-37251 := Mine successfully laid.
-37252 := Disarmed.
-37253 := Stealth mode active.
-37254 := All sensors set to maximum sensitivity.
-37257 := Affirmative.
-37258 := Unsuccessful attempt.
-37259 := Successful entry.
-37260 := Reconnaisance mode active.
-37261 := Rejoining group.
-37262 := Foreign toxin detected.
-37263 := Not this again!
-37264 := Let's see what you got!
-37265 := Now you'll get it!
-37266 := Never too old for this!
-37267 := Take that!
-37268 := Ha-ha!
-37269 := Mmm?
-37270 := And you need...?
-37271 := Yes?
+37251 := 地雷已成功布设。
+37252 := 已解除。
+37253 := 潜行模式激活。
+37254 := 全部传感器设为最高灵敏度。
+37257 := 确认。
+37258 := 尝试失败。
+37259 := 成功进入。
+37260 := 侦察模式激活。
+37261 := 正在重新加入队伍。
+37262 := 检测到外来毒素。
+37263 := 怎么又来！
+37264 := 让我看看你有什么本事！
+37265 := 现在有你好受了！
+37266 := 老了也还能打！
+37267 := 看招！
+37268 := 哈哈！
+37269 := 嗯？
+37270 := 你需要……？
+37271 := 是？
 
-37272 := Attack Grunt - not actual text to be translated
+37272 := 攻击哼声 - 非实际文本，无需翻译
 
-37273 := Attack Grunt - not actual text to be translated
+37273 := 攻击哼声 - 非实际文本，无需翻译
 
-37274 := Attack Grunt - not actual text to be translated
+37274 := 攻击哼声 - 非实际文本，无需翻译
 
-37275 := Pain Grunt - not actual text to be translated
+37275 := 受伤哼声 - 非实际文本，无需翻译
 
-37276 := Pain Grunt - not actual text to be translated
+37276 := 受伤哼声 - 非实际文本，无需翻译
 
-37277 := Ahhh! Not doing well, here!
-37278 := Pain Grunt - not actual text to be translated
-37279 := I still got it!
-37280 := I'm not exactly leaving a mark on this one!
-37281 := Well, now, that one looks ready.
-37282 := You can dance on this one, now.
-37283 := Time for sneaking. Got it.
-37284 := Time to pay attention. Got it.
-37285 := Let's see.
-37286 := Ah, phooey!
-37287 := Hah! Did it!
-37288 := I'm going to go on ahead.
-37289 := Okay, we're back together.
-37290 := Ah! Deadly toxins?
-37291 := Attack Cry - not actual text to be translated
+37277 := 啊啊！我这边情况不好！
+37278 := 受伤哼声 - 非实际文本，无需翻译
+37279 := 我还没老！
+37280 := 我可没有在这家伙身上留下什么痕迹！
+37281 := 嗯，现在那个看起来准备好了。
+37282 := 现在可以在这个上面跳舞了。
+37283 := 该潜行了。明白。
+37284 := 该注意了。明白。
+37285 := 我看看。
+37286 := 啊，倒霉！
+37287 := 哈！搞定了！
+37288 := 我先往前走。
+37289 := 好，我们又聚在一起了。
+37290 := 啊！致命毒素？
+37291 := 攻击喊声 - 非实际文本，无需翻译
 
-37292 := Attack Grunt - not actual text to be translated
+37292 := 攻击哼声 - 非实际文本，无需翻译
 
-37293 := Pain Grunt - not actual text to be translated
-37294 := Pain Grunt - not actual text to be translated
+37293 := 受伤哼声 - 非实际文本，无需翻译
+37294 := 受伤哼声 - 非实际文本，无需翻译
 
-37295 := Attack Cry - not actual text to be translated
+37295 := 攻击喊声 - 非实际文本，无需翻译
 
-37296 := Attack Cry - not actual text to be translated
+37296 := 攻击喊声 - 非实际文本，无需翻译
 
-37297 := Attack Grunt - not actual text to be translated
+37297 := 攻击哼声 - 非实际文本，无需翻译
 
-37298 := Attack Grunt - not actual text to be translated
+37298 := 攻击哼声 - 非实际文本，无需翻译
 
-37299 := Attack Grunt - not actual text to be translated
+37299 := 攻击哼声 - 非实际文本，无需翻译
 
-37300 := Pain Grunt - not actual text to be translated
-37301 := Pain Grunt - not actual text to be translated
+37300 := 受伤哼声 - 非实际文本，无需翻译
+37301 := 受伤哼声 - 非实际文本，无需翻译
 
-37302 := Pain Grunt - not actual text to be translated
+37302 := 受伤哼声 - 非实际文本，无需翻译
 
-37303 := Attack Cry - not actual text to be translated
+37303 := 攻击喊声 - 非实际文本，无需翻译
 
-37304 := Attack Grunt - not actual text to be translated
+37304 := 攻击哼声 - 非实际文本，无需翻译
 
-37305 := Pain Grunt - not actual text to be translated
+37305 := 受伤哼声 - 非实际文本，无需翻译
 
-37306 := Pain Grunt - not actual text to be translated
-37307 := You asked for it!
-37308 := Ha-ha!
+37306 := 受伤哼声 - 非实际文本，无需翻译
+37307 := 这是你自找的！
+37308 := 哈哈！
 
-37309 := This should be fun!
-37310 := Rakatan Settlemen Ambient
+37309 := 这应该会很有趣！
+37310 := 拉卡塔定居点环境音
 
-37311 := You want some?
-37312 := Short and sweet!
-37313 := Time for action!
-37314 := Hmmm?
-37315 := You got it.
-37316 := Yep?
-37317 := Rakatan Temple Ambient
-37318 := City Exterior
-37319 := Attack Grunt - not actual text to be translated
+37311 := 想来点吗？
+37312 := 短平快！
+37313 := 行动时间到了！
+37314 := 嗯？
+37315 := 没问题。
+37316 := 嗯？
+37317 := 拉卡塔神庙环境音
+37318 := 城市外部
+37319 := 攻击哼声 - 非实际文本，无需翻译
 
-37320 := Attack Grunt - not actual text to be translated
+37320 := 攻击哼声 - 非实际文本，无需翻译
 
-37321 := Attack Grunt - not actual text to be translated
-37322 := Pain Grunt - not actual text to be translated
+37321 := 攻击哼声 - 非实际文本，无需翻译
+37322 := 受伤哼声 - 非实际文本，无需翻译
 
-37323 := Pain Grunt - not actual text to be translated
+37323 := 受伤哼声 - 非实际文本，无需翻译
 
-37324 := I can't take much more of this!
+37324 := 我快撑不住了！
 
-37325 := Pain Grunt - not actual text to be translated
+37325 := 受伤哼声 - 非实际文本，无需翻译
 
-37326 := Now that must have hurt!
+37326 := 这下一定很疼！
 
-37327 := I'm not even leaving a scratch!
+37327 := 我连一道划痕都没留下！
 
-37328 := Under Ground Ambience
+37328 := 地下环境音
 
-37329 := Add one to the dud pile.
-37330 := Quiet as a whisper.
+37329 := 废堆再添一个。
+37330 := 像耳语一样安静。
 
-37331 := Nothing will get by me.
+37331 := 什么都别想从我眼前溜过去。
 
-37332 := I'll do it.
+37332 := 我来。
 
-37333 := Shoot! Can't do it.
+37333 := 见鬼！做不到。
 
-37334 := Star Port Ambient
+37334 := 太空港环境音
 
-37335 := Hah! Easy.
+37335 := 哈！简单。
 
-37336 := You guys wait here a second.
-37337 := Okay, I'm back.
+37336 := 你们在这儿等一下。
+37337 := 好，我回来了。
 
-37338 := Feels like... poison.
-37339 := Sith Military Base Ambient
+37338 := 感觉像……中毒。
+37339 := 西斯军事基地主环境音
 
-37340 := One nasty surprise coming up.
+37340 := 一个恶毒惊喜就要来了。
 
-37341 := Dantooine Exterior Main Ambient
+37341 := 丹图因外部主环境音
 
-37342 := You asked for it!
-37343 := Down you go!
-37344 := Aaaahh!
-37345 := Dantooine Exterior Ambient Singles
+37342 := 这是你自找的！
+37343 := 给我倒下！
+37344 := 啊啊！
+37345 := 丹图因外部单次环境音
 
-37346 := Oh no you don't!
-37347 := Hah!
-37348 := You got it!
-37349 := Hmmm?
-37350 := I'm here.
-37351 := What?
-37352 := Attack Grunt - not actual text to be translated
+37346 := 哦不，你休想！
+37347 := 哈！
+37348 := 没问题！
+37349 := 嗯？
+37350 := 我在。
+37351 := 什么？
+37352 := 攻击哼声 - 非实际文本，无需翻译
 
-37353 := Attack Grunt - not actual text to be translated
+37353 := 攻击哼声 - 非实际文本，无需翻译
 
-37354 := Attack Grunt - not actual text to be translated
+37354 := 攻击哼声 - 非实际文本，无需翻译
 
-37355 := Pain Grunt - not actual text to be translated
+37355 := 受伤哼声 - 非实际文本，无需翻译
 
-37356 := Pain Grunt - not actual text to be translated
+37356 := 受伤哼声 - 非实际文本，无需翻译
 
-37357 := I'm going to black out if I take much more...
-37358 := A grunt or moan given when the character is knocked unconscious.
+37357 := 再这样下去我就要昏过去了……
+37358 := 角色被击昏时发出的哼声或呻吟。
 
-37359 := Now that must have hurt!
-37360 := Sith Lieutenant1
-37361 := I'm wasting my attacks, here.
+37359 := 这下一定很疼！
+37360 := 西斯中尉1
+37361 := 我这是在白白浪费攻击。
 
-37362 := Mine laid and ready.
-37363 := Disarm successful.
-37364 := Out of sight, out of mind.
-37365 := I'll keep an eye out.
-37366 := On it.
-37367 := Damn!
-37368 := Done!
-37369 := I'll go on ahead.
-37370 := Large Upper Class Chamber Ambient
+37362 := 地雷已布设并就绪。
+37363 := 解除成功。
+37364 := 眼不见，心不烦。
+37365 := 我会留意。
+37366 := 交给我。
+37367 := 该死！
+37368 := 完成了！
+37369 := 我先往前走。
+37370 := 上层阶级大房间环境音
 
-37371 := Let's move together.
-37372 := Damn it! Poison!
-37373 := Czerka Corporation is allowing you to enter the Dune Sea on the condition that you stop the Sand People raids, bringing them the chieftain's gaffi stick as proof. An alien conservationist has suggested there might be a better way to stop the conflict if a sophisticated translation droid could be taken on the task.
-37374 := Die!
-37375 := This should be easy!
-37376 := You're going down!
-37377 := Czerka Corporation wants someone to put an end to a community of Sand People that has been attacking their mining interests. An alien Conservationist suggested there might be a peaceful solution if a sophisticated translation droid could be taken on the task, but no one leaves the city without Czerka permission, so people will likely just do what the company wants.
-37378 := You're gonna regret this!
-37379 := Sticking it to ya!
-37380 := Sandral Estate Main Ambient
+37371 := 我们一起行动吧。
+37372 := 该死！中毒了！
+37373 := 泽卡公司允许你进入沙丘海，条件是你必须阻止沙人袭击，并把酋长加菲杖带回来作为证明。一位外星保护主义者提出，如果能让一台高级翻译机器人承担任务，或许有更好的办法终止冲突。
+37374 := 去死！
+37375 := 这应该很容易！
+37376 := 你要倒下了！
+37377 := 泽卡公司想找人终结一个一直袭击其采矿利益的沙人群落。一位外星保护主义者提出，如果能让一台高级翻译机器人承担任务，也许有和平解决方案；但没有泽卡许可，没人能离开城市，所以人们很可能只会照公司想要的去做。
+37378 := 你会后悔的！
+37379 := 扎你一下！
+37380 := 桑德拉尔庄园主环境音
 
-37381 := Ha-HA!
-37382 := Yeah?
-37383 := What?
-37384 := Huh?
-37385 := Attack Grunt - not actual text to be translated
-37386 := Attack Grunt - not actual text to be translated
+37381 := 哈哈！
+37382 := 嗯？
+37383 := 什么？
+37384 := 啊？
+37385 := 攻击哼声 - 非实际文本，无需翻译
+37386 := 攻击哼声 - 非实际文本，无需翻译
 
-37387 := Attack Grunt - not actual text to be translated
+37387 := 攻击哼声 - 非实际文本，无需翻译
 
-37388 := Pain Grunt - not actual text to be translated
+37388 := 受伤哼声 - 非实际文本，无需翻译
 
-37389 := Pain Grunt - not actual text to be translated
+37389 := 受伤哼声 - 非实际文本，无需翻译
 
-37390 := I'm in a lot of pain right now.
-37391 := Pain Grunt - not actual text to be translated
+37390 := 我现在疼得厉害。
+37391 := 受伤哼声 - 非实际文本，无需翻译
 
-37392 := Ooh. You'll feel that for sure!
-37393 := It's not doing anything!
-37394 := Disarmed.
-37395 := Silent and deadly.
-37396 := I won't miss a thing.
-37397 := Got it.
-37398 := Damn!
-37399 := Opened.
+37392 := 哦。这下你肯定有感觉！
+37393 := 它一点作用都没有！
+37394 := 已解除。
+37395 := 无声又致命。
+37396 := 我不会漏看任何东西。
+37397 := 明白。
+37398 := 该死！
+37399 := 已打开。
 37400 := I need to go alone for a bit.
 37401 := We're back together.
 37402 := I think... something got me... sick...
