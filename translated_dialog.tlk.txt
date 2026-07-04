@@ -43905,234 +43905,234 @@ DC 20 免除震慑
 40797 := 塔里斯04共和国士兵
 40798 := 塔里斯04重置生成
 40799 := 塔里斯04重生
-40800 := tar04_sithwalk
-40801 := tar04_rakspawn
-40802 := Village Gate
-40803 := Escape Pod
-40804 := To Sewers
-40805 := [ZAALBAR has joined your party. Remember, you can only have two party members with you at any time. The others will wait for you back at the apartment.]
-40806 := [You can switch party members using the PARTY SELECTION screen, accessible by pressing <abutton> while on the map screen. This button is disabled in areas that are considered dangerous.]
-40807 := [Press <abutton> to go to PARTY SELECTION screen.]
-40808 := Gamorrean Elite
-40809 := Gamorrean Patrol
-40810 := Blocked Door
-40811 := tar05_zaaljunk
-40812 := Gamorrean Compound
-40813 := Force Field
-40814 := Stampy Hide
-40815 := To Lower Sewers
-40816 := Davik's Visor
-40817 := Davik's visor is designed to enhance the user's ability to target and deal damage when using a blaster.
-40818 := Falling Roof m08aa
-40819 := Throne Room
-40820 := Hangar
-40821 := [FAILURE] ASSAULT DROID SHIELDS CAN ONLY BE DISABLED FROM MAIN SECURITY TERMINAL
-40822 := Disable assault droid shields.
-40823 := SYSTEM LOADING...
-COMPLETE
-ENTER COMMAND
-40824 := EXITING SYSTEM...
-40825 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-40826 := SYSTEM OVERRIDE ACCEPTED
-ENTER COMMAND
-40827 := [SUCCESS] SENTRY DROID REPROGRAMMING COMPLETE
-AUTO-TARGETTING ENGAGED
-SWITCHING TO SECURITY CAMERA
-40828 := [SUCCESS] SENTRY DROIDS DEACTIVATED
-SWITCHING TO SECURITY CAMERA
-40829 := [SUCCESS] SENTRY TURRETS DEACTIVATED
-SWITCHING TO SECURITY CAMERA
-40830 := [SUCCESS] POWER OVERLOAD
-SWITCHING TO SECURITY CAMERA
-40831 := ENTER COMMAND
-40832 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-40833 := [SUCCESS] ELEVATOR LOCK OVERRIDDEN
-ACCESS GRANTED
-ENTER COMMAND
-40834 := DATABASE SEARCH FAILED!
-PLANETARY LAUNCH CODES
-NOT STORED IN SYSTEM
-40835 := SHIELDS DISABLED
-SWITCHING TO SECURITY CAMERA
-40836 := ENTER COMMAND
-40837 := Log out.
-40838 := [Computer] Slice the computer. (1 spike)
-40839 := Log out.
-40840 := [Computer] Reprogram sentry droids to target everything. (<CUSTOM34> spike(s))
-40841 := [Computer] Deactivate sentry droids. (<CUSTOM33> spike(s))
-40842 := [Computer] Deactivate sentry guns. (<CUSTOM33> spike(s))
-40843 := [Computer] Overload power conduit in barracks. (<CUSTOM32> spike(s))
-40844 := [Computer] Open security elevator. (<CUSTOM31> spike(s))
+40800 := 塔里斯04西斯行走
+40801 := 塔里斯04拉克生成
+40802 := 村门
+40803 := 救生舱
+40804 := 前往下水道
+40805 := [扎尔巴已加入你的队伍。记住，你任意时候最多只能带两名队伍成员。其他人会在公寓等你。]
+40806 := [你可以通过队伍选择画面切换队伍成员；在地图画面按 <abutton> 即可进入。此按钮在被视为危险的区域中会被禁用。]
+40807 := [按 <abutton> 前往队伍选择画面。]
+40808 := 加莫人精英
+40809 := 加莫人巡逻队
+40810 := 堵住的门
+40811 := 塔里斯05扎尔巴杂物
+40812 := 加莫人营地
+40813 := 力场
+40814 := 斯坦皮兽皮
+40815 := 前往下层下水道
+40816 := 戴维克的目镜
+40817 := 戴维克的目镜旨在增强使用者在使用爆能枪时瞄准和造成伤害的能力。
+40818 := 坠落屋顶08甲甲
+40819 := 王座室
+40820 := 机库
+40821 := [失败] 突击机器人护盾只能从主安保终端停用
+40822 := 停用突击机器人护盾。
+40823 := 系统载入中……
+完成
+输入命令
+40824 := 正在退出系统……
+40825 := [失败] 访问被拒
+破解器不足
+输入命令
+40826 := 系统覆盖已接受
+输入命令
+40827 := [成功] 哨戒机器人重编程完成
+自动瞄准已启用
+正在切换至安保摄像机
+40828 := [成功] 哨戒机器人已停用
+正在切换至安保摄像机
+40829 := [成功] 哨戒炮塔已停用
+正在切换至安保摄像机
+40830 := [成功] 动力过载
+正在切换至安保摄像机
+40831 := 输入命令
+40832 := [失败] 访问被拒
+破解器不足
+输入命令
+40833 := [成功] 电梯锁已覆盖
+访问获准
+输入命令
+40834 := 数据库搜索失败！
+行星发射代码
+未存于系统
+40835 := 护盾已停用
+正在切换至安保摄像机
+40836 := 输入命令
+40837 := 注销。
+40838 := [计算机] 切入计算机。（1 个破解器）
+40839 := 注销。
+40840 := [计算机] 重编程哨戒机器人，使其瞄准一切目标。（<CUSTOM34> 个破解器）
+40841 := [计算机] 停用哨戒机器人。（<CUSTOM33> 个破解器）
+40842 := [计算机] 停用哨戒炮。（<CUSTOM33> 个破解器）
+40843 := [计算机] 使兵营中的动力导管过载。（<CUSTOM32> 个破解器）
+40844 := [计算机] 打开安保电梯。（<CUSTOM31> 个破解器）
 
-40845 := Search database for planetary launch codes.
-40846 := Disable assault droid shields.
-40847 := Thank you, human. I do not know what you are doing inside this military base, but I am grateful. Once again I owe you a debt I can never repay.
-40848 := Now I must leave this place before the Sith discover I have escaped. If you are wise, you will do the same. If the Sith capture you I doubt anyone else will come by to set you free.
-40849 := You have returned, human. Please, release me from my cage.
-40850 := You there - human. Remember me? You helped me once before when the Sith were trying to arrest me. Outside your apartment. Do you remember?
-40851 := I suppose all of us Duros look alike to you, human. In any case, it doesn't matter whether you remember helping me before or not.
-40852 := I am in need of your help once again. The Sith are going to execute me for removing the Sith corpse from your apartment complex. Please, help me get out of this cage.
-40853 := No, human, please! I beg you not to leave me here. Just set all the panels on the wall to the red "off" position to release me. Is that so much to ask?
-40854 := Is there nothing I can say to persuade you, human? Please, have pity on me. Reconsider, I beg you.
-40855 := I have nothing to offer you, other than my gratitude. Please, human, have pity on me.
-40856 := Switch all the panels on the wall to the red "off" position and I will be released. It is not as simple as it sounds - switching a panel will also switch the panel beside it.
-40857 := You must be careful as you do this, human. If you set all the panels to the green "on" position my cell's termination program will engage and I will be executed. 
-40858 := How do I release you, again?
-40859 := Sorry, I don't remember who you are.
-40860 := Right. I remember you.
-40861 := I think I'll just leave you there.
-40862 := Forget it.
-40863 := Fine, I'll help you.
-40864 := What's in this for me?
-40865 := How do I get you out?
-40866 := Transformer
-40867 := Main Security Terminal
-40868 := tar09_traptalker
-40869 := To Governor's Office
-40870 := Power Room
-40871 := Governor's Robe
-40872 := Disabled Sentry
-40873 := Vulkar Lieutenant
-40874 := BFG9000
-40875 := Pass Card
-40876 := tar03_spawnkandon2
-40877 := To Garage
-40878 := Garage Security
-40879 := Barracks
-40880 := SYSTEM LOADING...
-COMPLETE
-ENTER COMMAND
-40881 := EXITING SYSTEM...
-40882 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-40883 := SYSTEM OVERRIDE ACCEPTED
-ENTER COMMAND
-40884 := [SUCCESS] ENGINE SET TO OVERLOAD, SOUNDING ALARM
-40885 := ENTER COMMAND
-40886 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-40887 := [SUCCESS] SECURITY DOOR LOCKS OVERRIDDEN
-ACCESS GRANTED
-ENTER COMMAND
-40888 := Log out.
-40889 := [Computer] Slice the computer. (1 spike)
-40890 := Log out.
-40891 := [Computer] Overload swoop bike in garage bay. (<CUSTOM32> spikes)
-40892 := [Computer] Open all security doors. (<CUSTOM31> spikes)
-40893 := Garage Computer
-40894 := Garage Head's Desk
-40895 := To Main Base
-40896 := They still think Bastila is just a Republic Officer. That could work to our advantage. Maybe she'll even figure out a way to escape from the Vulkar base on her own.
-40897 := Is there something wrong with your eyes?
-40898 := Control Room
-40899 := To Gadon's Office
-40900 := Power Belt
-40901 := Primarily designed for those doing heavy lifting, the power belt has also found use as an enhancement for melee fighters.
-40902 := [Success] [His face turns an ashen white. He is suddenly very, very afraid of you, and could not speak even if he wanted to.]
-40903 := [This man fearfully avoids your eyes. He couldn't say anything to you even if he wanted.]
-40904 := [Force Persuade] Never speak to me again, worm. Never.
-40905 := This nothing but wanton greed and cruelty! Beware, lest these things lead you to the dark side.
-40906 := I do not approve of this. This is not how a Jedi should behave.
-40907 := I know Jawas don't have the best reputation, but that doesn't mean we can just treat them like this!
-40908 := Hey, why are you being so mean to this little guy? What did he ever do to you?
-40909 := Oh, I get it. He's small and helpless so we can just do whatever we want, right? Sometimes I just don't know about you, kid.
-40910 := Request: Let me deal with him, master. It would be so much fun!
-40911 := That's the way - squeeze that little guy for every credit he's got!
-40912 := Don't you believe a word of what Czerka Corporation said in there, there is always a peaceful solution to conflict. They are just lazy.
-40913 := I'm sure you do. Czerka probably hired you to kill the Sand People in retaliation for a few attacks. Just another bloodthirsty fool.
-40914 := The Sand People aren't animals. I've watched them, and they are intelligent. There must be a way to peacefully stop the attacks... I know it.
-40915 := But no one will try, of course. You can't even leave the city without Czerka approval and they want the Sand People dead.
-40916 := Perhaps I'm no expert on diplomatic situations, but I know when there is a lack of due care for the evironment and the residents of it.
-40917 := Yes they have, but Czerka Corporation deployed numerous giant sandcrawlers to tear up the desert with ion shovels and whatever else.
-40918 := Well, yes they did. They attacked the Czerka, who deployed numerous giant sandcrawlers and started tearing up the desert with ion shovels and whatever else.
-40919 := What would you have done? To the Sand People, it must have seemed like an invasion. There were no negotiations for territory or resources.
-40920 := I don't think the killing has been justified, but as a conservationist I'm hoping someone at least tries to talk this out.
-40921 := Go on then, but you're just like the Czerka. Shortsighted fool. If you could just talk to them... maybe get a true translation droid...
-40922 := Ah, I'm wasting my time. Go on, get out of here.
-40923 := That's what the infuriating Czerka Protocol officer said, but I'm not foolish enough to believe it. Everyone just wants to wipe the Sand People out.
-40924 := Well, there is the small matter that they don't seem to speak a language that your average translator can understand. Is that their fault?
-40925 := There was even a Jedi here a few years ago that couldn't seem to get through to them. I... think that ended in blood too.
-40926 := I'm not saying it would be easy, but someone has to try. Maybe with a real translation droid, not these old protocol scrap heaps walking around.
-40927 := Someone else has to! I've got no influence with Czerka Corporation, I can't afford what Yuka Laka charges for his droids, and I wouldn't survive...
-40928 := Well, what I mean is, whoever tries to deal with the Sand People would first have to survive their initial attacks. I wouldn't.
-40929 := Someone could maybe get into their enclave if they could disguise themselves, but you'd have to get real desert robes and that would be dangerous too.
-40930 := They are pretty rare, even on well-stocked worlds, but I'm sure I heard something about an unusual droid in the shop here on Tatooine. 
-40931 := Well, *you* do, don't you? You bought that strange old droid off of Yuka Laka, didn't you? He said it was quite sophisticated.
-40932 := I'm sure I heard Yuka Laka say that it could speak a Sand People dialect. Although he'd say rust is gold to make a sale...
-40933 := With that droid, maybe you could talk to them. I wouldn't survive... maybe with desert robes as a disguise someone could get into their enclave.
-40934 := Sure, that's what Czerka Corporation keeps saying, and then they just start shooting again. The fighting won't stop until they are all dead.
-40935 := Or until the Czerka leave. The one is as likely as the other with the way things are going. Bah, what do I know.
-40936 := I suppose you could take them off of the warrior raiders in the Dune Sea, but there's no way I'd survive anything like that.
-40937 := Plus you would have to explain why you killed their warriors if you are trying to make peace... but I suppose there is no other way.
-40938 := What? It's no secret where they are. The attacks get worse the further southwest in the Dune Sea you go. Then people die on both sides.
-40939 := Communication. If we could just speak to them... but they don't talk. At least, not in any language an average translator can understand.
-40940 := So, you are the killer that they hired. Just going to walk out there and wipe them out? I'd expect no less from fools.
-40941 := Czerka miners have been attacked by Sand People, so the company Czerka Corporation wants them killed. They didn't ask you to do it?
-40942 := Move aside, I have things to do.
-40943 := Why would you know any better?
-40944 := Intelligent or not, the Sand People have killed people.
-40945 := The Czerka said that the Sand People attacked first.
-40946 := I don't care. Get out of my way.
-40947 := I will deal with the matter as I see fit.
-40948 := Why hasn't anyone tried talking to them?
-40949 := Why don't *you* do something? Why should I?
-40950 := Who would have a capable droid?
-40951 := Maybe I'll look into it.
-40952 := Where would you get robes to match theirs?
-40953 := Where would that enclave you mentioned be?
-40954 := What would you suggest, then?
-40955 := Is this about Czerka wanting the Sand People chieftain killed?
-40956 := What do you mean? What are you talking about?
-40957 := You! You're the one! You beat Zoriis Bafka's time? I have to get your autoprint.
-40958 := No? Why not? I just wanted to get a mark from the best new racer on the circuit. What is wrong with that?
-40959 := If you are so full of yourself now, I would hate to see what you would be like if the pro tour was back up. Keep your print, then.
-40960 := Sure I am! You are fast for a human, and once the races are running regular again, you'll be famous. Well, maybe you will.
-40961 := If you start winning on the real tour, I want to be able to say I saw you when you were just starting out. How about it?
-40962 := Really? That is great of you. You will be a fan favorite. Some of the racers sell their prints, but that is just rude.
-40963 := Here, just put your hand on this pad. Thanks again. I know I'll be seeing more of you, human.
-40964 := Go away, I don't have time for you.
-40965 := What? My autoprint? Are you serious?
-40966 := Sure, why not? Scan away.
-40967 := We scavenge for everyone, but Giants of Sand never trade fair.
-40968 := You come, you go, we scavenge, you come back, you go, we scavenge.
-40969 := There are many of us, but not where you can see.
-40970 := We will remember you when you are sand too. 
-40971 := Sand stays. All else changes.
-40972 := We trade and scavenge when people will buy. Not so good now.
-40973 := Giants in the Sand will be here long after you. So will Jawa.
-40974 := Trade is small now. You will all be gone soon.
-40975 := There won't be many of my kind coming here. You don't need extra senses to see this place won't last.
-40976 := There's little reason for my kind to come here. It's dry enough, but there are no more credits to be made.
-40977 := It is too bad this outpost won't last. Czerka is not providing reasons for new business to come here.
-40978 := The deserts agree with me. If I want water, I'll go to the cantina.
-40979 := It's safe and dry in the walls of Anchorhead, but very few credits going around.
-40980 := I see eye to eye with Jawas, but the smell is beyond what four nostrils can bear.
-40981 := Dry winds carry the smell of battle. Sandcrawlers burn out on the desert.
-40982 := Little water here. We like that in a world. Safety of a sort.
-40983 := Dayso
-40984 := Cooh
-40985 := Ganda
-40986 := Kaitoova
-40987 := Chadra-Fan Surveyor
-40988 := This datapad contains detailed descriptions of you and Bastila. It also has a brief message:
-Bastila has escaped Taris. Whoever can find and dispose of her and her Jedi companion will be greatly rewarded by Lord Malak himself.
-40989 := This is the incredibly dense bone skull plate of a Tatooine desert wraid.
-40990 := By showing how to interpret ancient marker stones, this map can be used to find a safe route through the Eastern Dune Sea. Only intimate local knowledge could take the place of such a document.
-40991 := Dayso Trigger
-40992 := Ganda Trigger
-40993 := Dayso Exit
-40994 := Dayso Spawn
-40995 := Ganda Exit
-40996 := Ganda Spawn
-40997 := Sharina Exit
-40998 := Citizen Patrol
-40999 := Dewback Patrol
+40845 := 在数据库中搜索行星发射代码。
+40846 := 停用突击机器人护盾。
+40847 := 谢谢你，人类。我不知道你在这座军事基地里做什么，但我很感激。我又欠了你一笔永远无法偿还的债。
+40848 := 现在我必须在西斯发现我逃走前离开这里。如果你聪明，也会这么做。如果西斯抓住你，我怀疑不会有别人来放你自由。
+40849 := 你回来了，人类。请把我从笼子里放出去。
+40850 := 你，那边的人类。还记得我吗？西斯想逮捕我时，你曾经帮过我一次。就在你的公寓外。你记得吗？
+40851 := 我猜你觉得我们杜罗人看起来都一样，人类。无论如何，你记不记得以前帮过我都不重要。
+40852 := 我又需要你的帮助了。西斯要因为我把西斯尸体从你的公寓区移走而处决我。请帮我从这个笼子出去。
+40853 := 不，人类，求你！我求你别把我留在这里。只要把墙上所有面板都调到红色“关”位置，我就会被释放。这要求很多吗？
+40854 := 我说什么都不能说服你吗，人类？求你可怜我。再考虑一下，我求你。
+40855 := 除了感激，我没有什么能给你的。求你，人类，可怜我。
+40856 := 把墙上所有面板都切换到红色“关”位置，我就会被释放。它不像听起来那么简单——切换一个面板也会切换它旁边的面板。
+40857 := 你这么做时必须小心，人类。如果你把所有面板都调到绿色“开”位置，我牢房的终止程序就会启动，我会被处决。
+40858 := 再说一次，我要怎么放你出来？
+40859 := 抱歉，我不记得你是谁。
+40860 := 对。我记得你。
+40861 := 我看我就把你留在那里。
+40862 := 算了。
+40863 := 好吧，我会帮你。
+40864 := 这对我有什么好处？
+40865 := 我要怎么把你弄出来？
+40866 := 变压器
+40867 := 主安保终端
+40868 := 塔里斯09陷阱谈话者
+40869 := 前往总督办公室
+40870 := 动力室
+40871 := 总督长袍
+40872 := 失能哨兵
+40873 := 火神帮副官
+40874 := 巨型枪9000
+40875 := 通行卡
+40876 := 塔里斯03生成坎登2
+40877 := 前往车库
+40878 := 车库安保
+40879 := 兵营
+40880 := 系统载入中……
+完成
+输入命令
+40881 := 正在退出系统……
+40882 := [失败] 访问被拒
+破解器不足
+输入命令
+40883 := 系统覆盖已接受
+输入命令
+40884 := [成功] 引擎设为过载，正在鸣响警报
+40885 := 输入命令
+40886 := [失败] 访问被拒
+破解器不足
+输入命令
+40887 := [成功] 安保门锁已覆盖
+访问获准
+输入命令
+40888 := 注销。
+40889 := [计算机] 切入计算机。（1 个破解器）
+40890 := 注销。
+40891 := [计算机] 使车库舱内的飞梭摩托过载。（<CUSTOM32> 个破解器）
+40892 := [计算机] 打开所有安保门。（<CUSTOM31> 个破解器）
+40893 := 车库计算机
+40894 := 车库主管的桌子
+40895 := 前往主基地
+40896 := 他们仍然以为巴丝蒂拉只是共和国军官。这可能对我们有利。也许她甚至能自己想办法从火神帮基地逃出来。
+40897 := 你的眼睛有什么毛病吗？
+40898 := 控制室
+40899 := 前往加登的办公室
+40900 := 动力腰带
+40901 := 动力腰带主要为搬运重物的人设计，也被用作近战战士的增强装备。
+40902 := [成功] [他的脸变成灰白。他突然非常、非常害怕你，即使想说话也说不出来。]
+40903 := [这个男人害怕地避开你的目光。即使他想对你说什么，也说不出来。]
+40904 := [原力说服] 永远别再和我说话，虫子。永远。
+40905 := 这只不过是放纵的贪婪和残酷！小心，免得这些东西把你引向黑暗面。
+40906 := 我不赞同这样。这不是绝地应有的行为。
+40907 := 我知道贾瓦人名声不算好，但这不代表我们可以这样对待他们！
+40908 := 嘿，你为什么对这个小家伙这么刻薄？他到底对你做了什么？
+40909 := 哦，我懂了。他又小又无助，所以我们想怎么对他都行，对吧？有时候我真看不懂你，孩子。
+40910 := 请求：让我处理他，主人。那会非常有趣！
+40911 := 就是这样——把这个小家伙的每一个信用点都榨出来！
+40912 := 泽卡公司在里面说的话，一个字也别信；冲突总有和平解决方案。他们只是懒。
+40913 := 我相信你当然会这么说。泽卡大概雇你去杀沙人，报复几次袭击。又一个嗜血的蠢货。
+40914 := 沙人不是动物。我观察过他们，他们很聪明。一定有办法和平阻止袭击……我知道有。
+40915 := 但当然，没有人会尝试。不经泽卡批准，你甚至不能离开城市，而他们想要沙人死。
+40916 := 我也许不是外交局势专家，但我知道什么时候缺乏对环境及其居民的应有照顾。
+40917 := 是，他们确实袭击了，但泽卡公司部署了许多巨型沙漠爬行车，用离子铲和其他东西撕裂沙漠。
+40918 := 嗯，是的，他们确实袭击了。他们袭击了泽卡，而泽卡部署了许多巨型沙漠爬行车，开始用离子铲和其他东西撕裂沙漠。
+40919 := 你会怎么做？对沙人来说，那一定像是一场入侵。没有关于领土或资源的谈判。
+40920 := 我不认为杀戮有正当理由，但作为保护主义者，我希望至少有人尝试通过谈话解决。
+40921 := 那就去吧，但你和泽卡没什么两样。短视的蠢货。如果你能和他们谈谈……也许弄到一个真正的翻译机器人……
+40922 := 啊，我是在浪费时间。走吧，离开这里。
+40923 := 那个令人恼火的泽卡礼宾官也是这么说的，但我没蠢到相信它。所有人都只想把沙人消灭干净。
+40924 := 嗯，还有个小问题，他们似乎不说普通翻译器能理解的语言。这是他们的错吗？
+40925 := 几年前甚至有一名绝地来过这里，似乎也无法和他们沟通。我……想那也以流血告终。
+40926 := 我不是说这会容易，但总得有人尝试。也许要用真正的翻译机器人，而不是这些四处走动的旧礼宾废铁。
+40927 := 必须有别人去做！我对泽卡公司没有影响力，买不起尤卡·拉卡那些机器人要的价钱，而且我活不下来……
+40928 := 嗯，我的意思是，任何想和沙人打交道的人都得先在他们最初的袭击中活下来。我活不下来。
+40929 := 如果有人能伪装自己，也许可以进入他们的飞地，但你得弄到真正的沙漠长袍，那也很危险。
+40930 := 即使在货源充足的世界，它们也相当少见，但我确信自己听说过塔图因星这里的商店里有个不寻常的机器人。
+40931 := 嗯，*你*有，不是吗？你从尤卡·拉卡那里买下那个奇怪的旧机器人了，对吧？他说它相当精密。
+40932 := 我确信自己听尤卡·拉卡说过，它会说一种沙人方言。虽然为了做成生意，他会把铁锈说成黄金……
+40933 := 有那个机器人，也许你可以和他们谈谈。我活不下来……也许有人能用沙漠长袍伪装，进入他们的飞地。
+40934 := 当然，泽卡公司一直就是这么说，然后他们又重新开枪。战斗不会停止，直到他们全死光。
+40935 := 或者直到泽卡离开。照现在这样发展，两者一样不可能。呸，我懂什么呢。
+40936 := 我想你可以从沙丘海的战士袭击者身上拿到它们，但我不可能在那种事里活下来。
+40937 := 而且如果你想求和，还得解释为什么杀了他们的战士……不过我想也没有别的办法。
+40938 := 什么？他们在哪里又不是秘密。你在沙丘海越往西南走，袭击就越严重。然后双方都会死人。
+40939 := 沟通。如果我们能和他们说话……但他们不说。至少，不说普通翻译器能理解的语言。
+40940 := 所以，你就是他们雇来的杀手。就打算走出去把他们消灭干净？蠢货会这么做，我一点也不意外。
+40941 := 泽卡矿工遭到沙人袭击，所以泽卡公司想让他们死。他们没让你去做？
+40942 := 让开，我有事要做。
+40943 := 你为什么会更懂？
+40944 := 不管聪不聪明，沙人杀过人。
+40945 := 泽卡说沙人先发动了袭击。
+40946 := 我不在乎。滚开。
+40947 := 我会按我认为合适的方式处理这件事。
+40948 := 为什么没人试着和他们谈？
+40949 := 你为什么不做点什么？为什么要我来？
+40950 := 谁会有能胜任的机器人？
+40951 := 也许我会调查一下。
+40952 := 哪里能弄到和他们相配的长袍？
+40953 := 你提到的那个飞地会在哪里？
+40954 := 那你有什么建议？
+40955 := 这是关于泽卡想杀沙人酋长的事吗？
+40956 := 什么意思？你在说什么？
+40957 := 你！就是你！你打破了佐里斯·巴夫卡的成绩？我得拿到你的签名手印。
+40958 := 不？为什么？我只是想从赛道上最棒的新车手那里要个印记。这有什么不对？
+40959 := 如果你现在就这么自大，我真不敢想职业巡回赛恢复后你会变成什么样。那就留着你的印记吧。
+40960 := 当然是真的！以人类来说你很快，等比赛重新正常举办，你会出名的。嗯，也许会。
+40961 := 如果你开始在真正的巡回赛上获胜，我就能说我在你刚起步时见过你。怎么样？
+40962 := 真的？你真好。你会成为粉丝最爱的。有些赛车手会卖自己的印记，但那太无礼了。
+40963 := 来，把手放在这块垫子上。再次感谢。我知道我会看到你更多表现的，人类。
+40964 := 走开，我没时间理你。
+40965 := 什么？我的签名手印？你认真的吗？
+40966 := 当然，为什么不？扫描吧。
+40967 := 我们为所有人拾荒，但沙中巨人从不公平交易。
+40968 := 你来，你走，我们拾荒，你回来，你走，我们拾荒。
+40969 := 我们有很多，但不在你能看见的地方。
+40970 := 等你也成了沙，我们也会记得你。
+40971 := 沙会留下。其他一切都会改变。
+40972 := 有人买时，我们就交易和拾荒。现在不太好。
+40973 := 沙中巨人会在你之后存在很久。贾瓦人也会。
+40974 := 现在交易很少。你们很快都会走。
+40975 := 来这里的我族不会很多。不需要额外感官也能看出这地方撑不下去。
+40976 := 我的族人没什么理由来这里。这里足够干燥，但已经没什么信用点可赚。
+40977 := 这个前哨站撑不下去，真可惜。泽卡没给新生意来这里的理由。
+40978 := 沙漠很适合我。如果我想喝水，我会去酒馆。
+40979 := 在锚头镇的围墙内安全又干燥，但流通的信用点很少。
+40980 := 我和贾瓦人看法一致，但那气味超过了四个鼻孔能承受的程度。
+40981 := 干风带来战斗的气味。沙漠爬行车在沙漠中烧毁。
+40982 := 这里水少。我们喜欢这样的世界。某种安全。
+40983 := 戴索
+40984 := 库
+40985 := 甘达
+40986 := 凯图瓦
+40987 := 查德拉范勘测员
+40988 := 这块数据板包含你和巴丝蒂拉的详细描述。上面还有一条简短消息：
+巴丝蒂拉已经逃离塔里斯星。谁能找到并除掉她和她的绝地同伴，就会由马拉克尊主本人给予丰厚奖赏。
+40989 := 这是塔图因沙漠莱德兽极其致密的骨质头骨板。
+40990 := 这张地图说明了如何解读古老标记石，可用来寻找穿越东部沙丘海的安全路线。只有深入的本地知识才能取代这样的文件。
+40991 := 戴索触发器
+40992 := 甘达触发器
+40993 := 戴索出口
+40994 := 戴索生成
+40995 := 甘达出口
+40996 := 甘达生成
+40997 := 莎丽娜出口
+40998 := 市民巡逻队
+40999 := 露背兽巡逻队
 41000 := Rodian Patrol
 41001 := Ronto Patrol
 41002 := Astromech Droid Patrol
