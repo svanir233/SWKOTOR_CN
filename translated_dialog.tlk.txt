@@ -44936,270 +44936,270 @@ DC 20 免除震慑
 41797 := 乔利路点
 41798 := 茱哈妮路点
 41799 := 主区
-41800 := To Main Level
-41801 := SYSTEM LOGGING OFF...
-41802 := Log out.
-41803 := bastila's hide
-41804 := host
-41805 := testtrig
-41806 := bast1
-41807 := bast2
-41808 := bastend
-41809 := Heap of Garbage 2
-41810 := Sensor
-41811 := Utility
-41812 := Shield
-41813 := Plating
-41814 := Special Weapon
-41815 := You have not spent all of your skill points.  These will be saved and you may spend them the next time you gain a level.  Do you wish to continue?
-41816 := You must spend all of your points. Use the left thumbstick or D-pad to assign points (left/right) or to switch attributes (up/down).
-41817 := Statue with Sword
-41818 := Quest Items
-41819 := Utility Items
-41820 := Useable Items
-41821 := Equippable Items
-41822 := All Items
-41823 := Sitting Commoner - Male
-41824 := Sitting Commoner - Female
-41825 := Sitting Alien
-41826 := Sitting Alien 2
-41827 := Well, I guess the course proved too much for you at this level. Better luck next time.
-41828 := No offence, but I could have done better than you on that last race. As a true fan, I know how to do these things right.
-41829 := You didn't look too good out there on that last run. I guess everyone has their bad days.
-41830 := You sure you're cut out for this league of racing? Maybe the stress of it is getting to you.
-41831 := I don't believe it! Who'd have thought Queedle had it in him?
-41832 := A new Champion! And it's Queedle! I knew he could do it with a decent swoop under him.
-41833 := How about that? Queedle, a local racer, showing those pros how it's done!
-41834 := I cheer for Queedle now that he's winning. It would take an amazing racer to win me away.
-41835 := You here to cheer Casandra? She's a fine racer. I hope she knocks Hukta out of the running.
-41836 := Hukta Jax is insane. He just smashes through everything to the finish. I guess we should expect that from a Gamorrean?
-41837 := We need more rules about overpowered bikes. Hukta just rides over everything. It's boring watching him.
-41838 := Queedle is the local favorite. You should cheer along with us. He needs the encouragement.
-41839 := You're pretty good. Maybe I should start putting some credits on your races.
-41840 := I guess you've got what it takes to advance. The odds against you winning are getting better.
-41841 := The second round always has experienced riders. You'll be up against some tough times.
-41842 := You're up against the second round times now. That's a hard round to beat.
-41843 := Some of the racers are having a bad time here on Manaan. Seems like you have all the luck right now.
-41844 := Some of the other fans didn't think you could reach the second round, but I knew you would all along.
-41845 := Are you sure you're up to challenging the third round time? I mean, you're good, but are you that good?
-41846 := I'm putting all my credits on you. You're a sure thing.
-41847 := Whew, that was an exciting time you turned in. Noboby else had a chance.
-41848 := Good race, Sector Champion. I guess you'll be off to the big tracks, once the circuit is back up.
-41849 := Wow, I bet you could have won on Taris with times like that. It's a shame we'll never know.
-41850 := Could I get an autoprint? You've just had the quickest rise to Sector Champion that I've ever seen.
-41851 := It's amazing what you've accomplished here, and you've done it with such style. I've never met a woman like you.
-41852 := You sure put Hukta in his place. I don't have to say that you are a much more appealing champion.
-41853 := I haven't seen a race like that in years. Well, there was Gandroff on Coruscant, but he lacked your... charms.
-41854 := You are amazing out on the course... and in person. Congratulations.
-41855 := [Steam vents have been deactivated.]
-41856 := Disguise
-41858 := Dueling
-41859 := Improved Dueling
-41860 := Master Dueling
-41861 := Force Sensitive
-41862 := Sub droid - Broken
-41863 := Sub droid
-41864 := Corpse - Rancor
-41865 := Corpse - Krayt Dragon
-41866 := [Access to Ahto City denied.]
-41867 := Now that you have been accepted as a Padawan, the Jedi Council might tell you more about the bigger picture and what you must do.
-41868 := <abutton> activates a highlighted combat feat. A character's available combat feats appear in the second icon of the ACTION MENU.
-41869 := When a grenade is highlighted in your ACTION MENU, pressing <abutton> will throw it at the selected target. Anyone caught in the blast area of a grenade will be affected, including allies.
-41870 := Pushing <abutton> while a mine is highlighted in your ACTION MENU will place a mine. You can also disable and recover enemy mines and add them to your own inventory for later use.
-41871 := Push <abutton> to activate a defensive Force Power highlighted in the fifth icon of the ACTION MENU. Some Force powers affect only the Jedi using them, others affect the entire party.
-41872 := Push <abutton> to activate an offensive Force Power highlighted in the third icon of the ACTION MENU. Some Force powers affect only a single target, others affect all enemies within the specified range of the target.
-41873 := You can have multiple skills, feats or powers in each icon of the ACTION MENU. Scroll up or down with the D-pad to cycle through the various options.
-41874 := Pressing <whbutton> will pause the game. While paused, you can issue commands to your party. Press <whbutton> when you want to unpause the game.
-41875 := "START" gives you access to your character record sheet, inventory, map, journal and other menus. Use the left and right triggers to cycle through the menu screens. Press "START" to exit the menus and return to normal gameplay.
-41876 := The left and right triggers cycle through eligible targets. While in combat, only hostiles will be targetable.
-41877 := Press <abutton> to accelerate and shift gears. Use the left thumbstick to avoid obstacles and hit accelerator pads.
-41878 := The default behavior of each party member can be adjusted using the SCRIPTS screen.
-41879 := Pressing <abutton> on the EQUIP screen brings up a list of items you can equip in the highlighted inventory slot.
-41880 := The MESSAGES screen shows game related data such as experience points gained, attack and damage rolls and  dark side/light side shifts.
-41881 := The Map screen shows the explored area of the level and your party's location. It also contains map notes designating important areas. Some levels (such as city areas) are fully mapped before you explore them.
-41882 := The ACTIVE QUESTS screen includes important information related to your ongoing adventures. Refer to this journal for hints and guidance throughout the game.
-41883 := One of your party is down! Party members who go down in combat will be revived at the end of the battle. If your entire party goes down the game is over.
-41884 := The attributes of your character apply bonuses or penalties to everything from combat to skill checks to Force powers. Check each attribute to see what aspects of game play it can affect.
-41885 := Each of your character's skills has a number associated with it. This is the skill 'rank' and determines how good the character is with that skill. When using a skill to perform an action, the rank is compared against a Difficulty Check (DC) number. For example, to open a lock with a DC of 15, take your skill rank in Security + Wisdom modifier +d20 roll. If the total is 15 or greater, the lock is opened.
-41886 := Some feats allow you to use special items like heavy armor or implants. Other feats modify saving throws and skill checks during the game. And some feats (POWER ATTACK) are used during combat. Check the description for details on a specific feat.
-41887 := Using a Force Power requires Force Points. Your light/dark side rating affects the Force point cost of some powers. The further you stray to the dark side, the more expensive light side powers become, and the less expensive dark side powers become and vice versa.
-41888 := When you use the "Return To... " function you will be instantly transported back to your base and your entire party will be healed. This function is disabled in most action and combat areas.
-41889 := Penalty
-41890 := Dark Side
-41891 := Light Side
-41892 := Unique Ability:
-Main character Jedi
+41800 := 前往主层
+41801 := 系统正在注销……
+41802 := 注销。
+41803 := 巴丝蒂拉隐藏处
+41804 := 主机
+41805 := 测试触发器
+41806 := 巴丝蒂拉1
+41807 := 巴丝蒂拉2
+41808 := 巴丝蒂拉结束
+41809 := 垃圾堆2
+41810 := 传感器
+41811 := 实用
+41812 := 护盾
+41813 := 装甲板
+41814 := 特殊武器
+41815 := 你还没有花完所有技能点。这些点数会被保留，你可以在下次升级时花费。你想继续吗？
+41816 := 你必须花完所有点数。使用左摇杆或十字键分配点数（左/右）或切换属性（上/下）。
+41817 := 持剑雕像
+41818 := 任务物品
+41819 := 实用物品
+41820 := 可使用物品
+41821 := 可装备物品
+41822 := 全部物品
+41823 := 坐着的平民 - 男性
+41824 := 坐着的平民 - 女性
+41825 := 坐着的外星人
+41826 := 坐着的外星人2
+41827 := 嗯，我猜你现在的水平还应付不了这条赛道。下次好运。
+41828 := 无意冒犯，但上一场比赛我都能比你跑得更好。作为真正的粉丝，我知道这种事该怎么做。
+41829 := 你上一次跑得不太好看。我猜每个人都有状态差的时候。
+41830 := 你确定自己适合这个级别的比赛吗？也许压力开始影响你了。
+41831 := 我不敢相信！谁会想到奎德尔有这本事？
+41832 := 新冠军！而且是奎德尔！我就知道，只要有辆像样的飞梭，他就能做到。
+41833 := 怎么样？奎德尔，一个本地赛车手，给那些职业车手上了一课！
+41834 := 既然奎德尔赢了，我现在为他加油。要让我转而支持别人，得有个了不起的赛车手才行。
+41835 := 你是来为卡珊德拉加油的吗？她是个优秀赛车手。我希望她把胡克塔淘汰出局。
+41836 := 胡克塔·贾克斯疯了。他一路撞开所有东西冲向终点。我猜加莫人就是这样？
+41837 := 我们需要更多限制超强飞梭摩托的规则。胡克塔只是一路碾过去。看他比赛很无聊。
+41838 := 奎德尔是本地人最喜欢的车手。你应该和我们一起为他加油。他需要鼓励。
+41839 := 你相当不错。也许我该开始在你的比赛上下点信用点。
+41840 := 我猜你有晋级所需的实力。你获胜的赔率越来越好了。
+41841 := 第二轮总有经验丰富的车手。你会遇到些艰难的成绩。
+41842 := 你现在要挑战第二轮成绩了。那一轮很难击败。
+41843 := 有些赛车手在马南这里过得不太顺。看来你现在运气全占了。
+41844 := 有些其他粉丝觉得你进不了第二轮，但我一直知道你能做到。
+41845 := 你确定自己有本事挑战第三轮成绩吗？我是说，你很厉害，但真有那么厉害吗？
+41846 := 我把所有信用点都押在你身上。你赢定了。
+41847 := 呼，你跑出的成绩真刺激。其他人根本没机会。
+41848 := 跑得好，星区冠军。我猜等巡回赛恢复，你就要去大赛道了。
+41849 := 哇，以这样的成绩，你在塔里斯也能赢。可惜我们永远不会知道了。
+41850 := 我能要个签名手印吗？你刚刚完成了我见过最快的星区冠军崛起。
+41851 := 你在这里取得的成就令人惊叹，而且还这么有风格。我从没见过像你这样的女人。
+41852 := 你真是把胡克塔狠狠摆回了他的位置。不用我说，你是个顺眼得多的冠军。
+41853 := 我好多年没见过这样的比赛了。嗯，科洛桑的甘德罗夫倒是有过一次，但他缺少你的……魅力。
+41854 := 你在赛道上很惊人……本人也一样。恭喜。
+41855 := [蒸汽喷口已停用。]
+41856 := 伪装
+41858 := 决斗
+41859 := 强化决斗
+41860 := 大师级决斗
+41861 := 原力敏感
+41862 := 潜水机器人 - 损坏
+41863 := 潜水机器人
+41864 := 尸体 - 兰克兽
+41865 := 尸体 - 克雷特龙
+41866 := [阿赫托城访问被拒。]
+41867 := 既然你已经被接纳为绝地学徒，绝地委员会也许会告诉你更多大局，以及你必须做什么。
+41868 := <abutton> 会激活高亮的战斗专长。角色可用的战斗专长会显示在动作菜单的第二个图标中。
+41869 := 当手雷在动作菜单中高亮时，按 <abutton> 会把它投向选定目标。任何处在手雷爆炸范围内的人都会受到影响，包括盟友。
+41870 := 当地雷在动作菜单中高亮时，按 <abutton> 会放置一枚地雷。你也可以解除并回收敌方地雷，把它们加入自己的物品栏以便之后使用。
+41871 := 按 <abutton> 可激活动作菜单第五个图标中高亮的防御性原力能力。有些原力能力只影响使用它们的绝地，另一些则影响整个队伍。
+41872 := 按 <abutton> 可激活动作菜单第三个图标中高亮的攻击性原力能力。有些原力能力只影响单一目标，另一些则影响目标指定范围内的所有敌人。
+41873 := 动作菜单的每个图标中都可以有多个技能、专长或能力。用十字键上下滚动，可在不同选项之间循环切换。
+41874 := 按 <whbutton> 会暂停游戏。暂停时，你可以向队伍下达命令。想取消暂停时再次按 <whbutton>。
+41875 := "START" 可让你进入角色记录表、物品栏、地图、日志和其他菜单。使用左、右扳机在菜单画面之间循环切换。按 "START" 退出菜单并返回正常游戏。
+41876 := 左、右扳机会在符合条件的目标之间循环切换。战斗中，只有敌对目标可以被选中。
+41877 := 按 <abutton> 可加速并换挡。使用左摇杆避开障碍并撞上加速板。
+41878 := 每名队伍成员的默认行为都可以在脚本画面中调整。
+41879 := 在装备画面按 <abutton> 会打开一份清单，列出你可以装备到高亮物品栏槽位中的物品。
+41880 := 消息画面会显示游戏相关数据，例如获得的经验点数、攻击和伤害掷骰，以及黑暗面/光明面变化。
+41881 := 地图画面会显示本层已探索区域和队伍所在位置。它还包含标出重要区域的地图注记。有些层级（例如城市区域）在你探索前就已经有完整地图。
+41882 := 进行中任务画面包含与你当前冒险相关的重要信息。游戏过程中可查阅此日志获取提示和指引。
+41883 := 你的一名队员倒下了！在战斗中倒下的队伍成员会在战斗结束后复苏。如果整个队伍都倒下，游戏就结束。
+41884 := 角色的属性会给从战斗到技能检定再到原力能力的各种事项施加加值或惩罚。查看每项属性，了解它会影响游戏玩法的哪些方面。
+41885 := 你角色的每项技能都有一个对应数值。这就是技能“级数”，决定角色使用该技能的熟练程度。当使用技能执行动作时，级数会与难度等级（DC）数值比较。例如，要打开一个 DC 为 15 的锁，需要取你的安保技能级数 + 感知调整值 + d20 掷骰。如果总和为 15 或更高，锁就会打开。
+41886 := 有些专长允许你使用重甲或植入体等特殊物品。其他专长会在游戏中调整豁免和技能检定。还有一些专长（强力攻击）会在战斗中使用。查看说明以了解具体专长的细节。
+41887 := 使用原力能力需要原力点数。你的光明面/黑暗面倾向会影响某些能力的原力点数消耗。你偏离到黑暗面越远，光明面能力就越昂贵，黑暗面能力就越便宜，反之亦然。
+41888 := 使用“返回至……”功能时，你会立刻传送回基地，整个队伍都会得到治疗。此功能在多数动作和战斗区域中被禁用。
+41889 := 惩罚
+41890 := 黑暗面
+41891 := 光明面
+41892 := 独特能力：
+主角绝地
 
-Jedi training affects each Padawan uniquely, allowing them to grow in ability while addressing personal flaws. On rare occasions, however, exceptional individuals open doors to strengths they did not know they had. This feat represents a heightened connection to the Force previously unseen in a newly trained Jedi. This feat grants 40 additional Force Points to the character's base total.
-41893 := Rock Fall Type 2
-41894 := PRESS <whbutton> TO CONTINUE
-41895 := ENEMY SIGHTED!
-<whbutton> to continue
-<abutton> to engage
-41896 := Unable to load party information.  Press "A" to continue.
-41897 := Invisible Calo Nord rubble
-41898 := Vulnerability
-41899 := Uses
-41900 := unlimited
-41901 := Taris - Upper City North
-41902 := poison <CUSTOM0>
-41903 := Poison
-41904 := Total Rank
-41905 := Cost Per Use
-41906 := Minion
-41907 := Lower Saves, All 2
-41908 := Lower Saves, All 4
-41909 := Lower Saves, All 5
-41911 := Lower Saves, Fortitude 2
-41912 := Lower Saves, Fortitude 4
-41913 := Lower Saves, Fortitude 5
-41914 := Lower Saves, Reflex 2
-41915 := Lower Saves, Reflex 4
-41916 := Lower Saves, Reflex 5
-41917 := Lower Saves, Will 2
-41918 := Lower Saves, Will 4
-41919 := Lower Saves, Will 5
-41920 := Endar Spire - Starboard Section
-41921 := a great deal closer to
-41922 := much closer to
-41923 := closer to
-41924 := the light side of the Force
-41925 := the dark side of the Force
-41926 := Saving game. 
-Please don't turn off your Xbox console.
-41928 := Unknown Force Power
-41929 := Mind Affecting Ability
-41930 := Force Resist
-41931 := Prerequisites:
-None
+绝地训练会以独特方式影响每名绝地学徒，让他们在弥补个人缺陷的同时提升能力。然而，在罕见情况下，杰出个体会打开通往自身未知力量的大门。此专长代表一种在新受训绝地身上前所未见的、更强烈的原力联结。此专长使角色基础总量额外获得 40 点原力点数。
+41893 := 岩石坠落类型2
+41894 := 按 <whbutton> 继续
+41895 := 发现敌人！
+<whbutton> 继续
+<abutton> 交战
+41896 := 无法载入队伍信息。按 "A" 继续。
+41897 := 隐形卡洛·诺德碎石
+41898 := 脆弱性
+41899 := 使用次数
+41900 := 无限
+41901 := 塔里斯 - 上层城北区
+41902 := 毒素 <CUSTOM0>
+41903 := 毒素
+41904 := 总级数
+41905 := 每次使用消耗
+41906 := 仆从
+41907 := 降低豁免，全部2
+41908 := 降低豁免，全部4
+41909 := 降低豁免，全部5
+41911 := 降低豁免，强韧2
+41912 := 降低豁免，强韧4
+41913 := 降低豁免，强韧5
+41914 := 降低豁免，反射2
+41915 := 降低豁免，反射4
+41916 := 降低豁免，反射5
+41917 := 降低豁免，意志2
+41918 := 降低豁免，意志4
+41919 := 降低豁免，意志5
+41920 := 恩达尖塔号 - 右舷区
+41921 := 大幅接近
+41922 := 更接近
+41923 := 接近
+41924 := 原力光明面
+41925 := 原力黑暗面
+41926 := 正在保存游戏。
+请不要关闭你的 Xbox 主机。
+41928 := 未知原力能力
+41929 := 影响心智能力
+41930 := 原力抵抗
+41931 := 先决条件：
+无
 
-Characters that focus on using single one-handed weapons in battle gain +1 to attack and +1 to defense due to the efficiency of this form of combat. This applies to both ranged and melee weapons.
-41932 := Prerequisites:
-Level 4
+在战斗中专注使用单手单持武器的角色，会因这种战斗形式的效率获得 +1 攻击和 +1 防御值。此效果适用于远程和近战武器。
+41932 := 先决条件：
+等级4
 
-Continued focus on the use of single one-handed weapons grants a character +2 to attack and +2 to defense. This applies to both ranged and melee weapons.
-41933 := Prerequisites:
-Level 8
+继续专注使用单手单持武器，会使角色获得 +2 攻击和 +2 防御值。此效果适用于远程和近战武器。
+41933 := 先决条件：
+等级8
 
-Characters that have mastered the use of single one-handed weapons gain +3 to attack and +3 to defense. This applies to both ranged and melee weapons.
-41934 := Restricted to
-41935 := Saves
-41936 := Skills
-41937 := Show Buy List
-41938 := Show Sell List
-41939 := Czerka Corporation maintains a well-stocked armory, although for general goods you will need to speak with the vendor in the docking area.
-41940 := I need supplies. What do you have available?
-41941 := What weapons do you have available?
-41942 := Czerka maintains a well-stocked armory that is open to all our valued customers. You may browse it at your leisure.
-41943 := Item Cost
-41945 := Item Value
-41946 := That was a good run. You would do well in a tournament. Would you like another unofficial run? It would require another 20 credit positioning fee.
-41947 := Very good, though I should expect no less from the Sector Champion. Would you like to race again? It would require another 20 credit positioning fee.
-41948 := Well raced. You would do well in our local tournament. Did you want to have another go? The fee is 20 credits, as you know.
-41949 := A good result. I can see how you beat everyone in the official races. Did you want to have another go? The fee is 20 credits, as you know.
-41950 := You do not have enough credits to purchase this item.
-41951 := Infinite
-41952 := Level Information Terminal
-41953 := Restricted:
-not useable by Wookiees
+精通单手单持武器使用的角色获得 +3 攻击和 +3 防御值。此效果适用于远程和近战武器。
+41934 := 限定于
+41935 := 豁免
+41936 := 技能
+41937 := 显示购买列表
+41938 := 显示出售列表
+41939 := 泽卡公司维持着库存充足的军械库，不过若要购买普通商品，你需要和停靠区的商人交谈。
+41940 := 我需要补给。你有什么可用的？
+41941 := 你有什么武器可用？
+41942 := 泽卡维持着一座库存充足的军械库，向所有尊贵客户开放。你可以随意浏览。
+41943 := 物品费用
+41945 := 物品价值
+41946 := 那一趟跑得不错。你在锦标赛里会有好表现。想再跑一趟非正式赛吗？这需要再付 20 信用点定位费。
+41947 := 很好，不过星区冠军本来就该如此。想再比赛一次吗？这需要再付 20 信用点定位费。
+41948 := 跑得不错。你在我们的本地锦标赛里会有好表现。想再来一次吗？费用是 20 信用点，你知道的。
+41949 := 好成绩。我能看出你是怎么在正式比赛中击败所有人的。想再来一次吗？费用是 20 信用点，你知道的。
+41950 := 你没有足够的信用点购买此物品。
+41951 := 无限
+41952 := 等级信息终端
+41953 := 限制：
+伍基人不可使用
 
-The targeting software inherent in this visor uses predictive algorithms to direct the wearer's gaze, allowing them to function more efficiently in combat.
-41954 := Combat Sensor
-41955 := Demolitions Sensor
-41957 := Restricted:
-not useable by Wookiees
+这副目镜内置的瞄准软件使用预测算法来引导佩戴者的视线，使他们能在战斗中更高效地行动。
+41954 := 战斗传感器
+41955 := 爆破传感器
+41957 := 限制：
+伍基人不可使用
 
-This item uses advanced processors to assist the wearer in the visual analysis of microelectronics commonly used in demolitions. The acuity granted also serves to improve general awareness.
-41958 := Echani Fiber Armor
-41959 := Special:
-Upgradeable, Armor
+此物品使用高级处理器，协助佩戴者对爆破中常用的微电子装置进行视觉分析。它提供的敏锐度也能提升一般察觉。
+41958 := 埃查尼纤维护甲
+41959 := 特殊：
+可升级，护甲
 
-Many elite Echani duelists use armor of this type, though its adaptability has made it popular with professional soldiers and bounty hunters alike.
-41960 := Mandalorian Assault Armor
-41961 := Interface Band
-41962 := Restricted:
-not useable by Wookiees
+许多精英埃查尼决斗者使用这种护甲，不过它的适应性也使它同样受到职业士兵和赏金猎人的欢迎。
+41960 := 曼达洛突击护甲
+41961 := 接口头环
+41962 := 限制：
+伍基人不可使用
 
-This item provides a mental interface to a store of information on electronic systems common to security, demolitions, and general computing functions.
-41963 := Interface Visor
-41964 := Restricted:
-not useable by Wookiees
+此物品为安保、爆破和一般计算功能常见的电子系统信息库提供心智接口。
+41963 := 接口目镜
+41964 := 限制：
+伍基人不可使用
 
-This visor combines mental and visual interfaces to aid in the analysis of electronic systems common to security, demolitions, and general computing functions.
-41965 := Republic Mod Armor
-41966 := Special:
-Upgradeable, Armor
+这副目镜结合心智和视觉接口，帮助分析安保、爆破和一般计算功能常见的电子系统。
+41965 := 共和国模块护甲
+41966 := 特殊：
+可升级，护甲
 
-The Republic has prospered militarily by keeping its troops well supplied with modular armor, ensuring they are always prepared for a variety of battle conditions.
-41967 := Sith Mask
-41968 := This mask blocks outside mental influence and other sensory noise, allowing the user to focus their abilities inward with no distraction.
-41969 := Stabilizer Mask
-41970 := Restricted:
-not useable by Wookiees
+共和国在军事上兴盛，靠的是让部队充分配备模块化护甲，确保他们始终能应对各种战斗状况。
+41967 := 西斯面具
+41968 := 这副面具会阻隔外部心智影响和其他感官噪声，让使用者可以不受干扰地向内集中自己的能力。
+41969 := 稳定面具
+41970 := 限制：
+伍基人不可使用
 
-This mask uses micro-bursts of electricity to regulate the user's mental patterns. It effectively fortifies both mind and body against attack.
-41971 := Stealth Field Enhancer
-41972 := Restricted:
-not useable by Wookiees
+这副面具使用微型电脉冲调节使用者的心智模式。它能有效强化心智和身体，使其抵御攻击。
+41971 := 潜行力场增强器
+41972 := 限制：
+伍基人不可使用
 
-A specialized espionage unit designed to get the most out of a stealth field generator by improving the user's perception of the field while in Stealth Mode.
-41973 := Stealth Field Reinforcement
-41974 := Restricted:
-not useable by Wookiees
+一种专用间谍装置，通过改善使用者在潜行模式下对力场的感知，让潜行力场发生器发挥最大效果。
+41973 := 潜行力场强化器
+41974 := 限制：
+伍基人不可使用
 
-A very powerful item designed to both regulate stealth field emissions and improve the user's perception of the field while in Stealth Mode.
-41975 := Zaalbar's Bowcaster
-41976 := Special:
-Upgradeable, Ranged
+一件非常强大的物品，既能调节潜行力场发射，也能改善使用者在潜行模式下对力场的感知。
+41975 := 扎尔巴的弩枪
+41976 := 特殊：
+可升级，远程
 
-This is Zaalbar's personal bowcaster. He has made modifications to it over the years, but it still tightly conforms to the traditions of his people.
-41977 := Carth's Blaster
-41978 := Special:
-Upgradeable, Ranged
+这是扎尔巴的私人弩枪。他多年来对它做过改装，但它依然严格符合其族人的传统。
+41977 := 卡斯的爆能枪
+41978 := 特殊：
+可升级，远程
 
-Carth's personal blaster is based on an old Arkanian design, but he has adapted it to incorporate all of the latest modular technology available to the Republic.
-41979 := Special:
-Upgradeable, Ranged
+卡斯的私人爆能枪基于一种古老的阿卡尼亚设计，但他已经改装它，加入了共和国可用的所有最新模块化技术。
+41979 := 特殊：
+可升级，远程
 
-This prototype heavy repeater was developed during the latter part of the Mandalorian War and never saw general production.
-41980 := Ordo's Repeating Blaster
-41981 := Mission's Vibroblade
-41982 := Special:
-Upgradeable, Melee
+这种原型重型连发枪开发于曼达洛战争后期，从未进入普遍量产。
+41980 := 奥多的连发爆能枪
+41981 := 米申的震动刀
+41982 := 特殊：
+可升级，近战
 
-Working with few resources, Mission Vao turned this basic vibroblade into an exceptional weapon almost as adaptable as she is.
-41983 := Prototype Vibroblade
-41984 := Special:
-Upgradeable, Melee
+在资源有限的情况下，米申·沃把这把基础震动刀改造成了一件几乎和她本人一样适应性出色的非凡武器。
+41983 := 原型震动刀
+41984 := 特殊：
+可升级，近战
 
-This is a very adaptable model of vibroblade, made for the user on a budget that will be purchasing upgrades as resources or finances become available.
-41985 := This item is worth more than <CUSTOM0> credits.  Do you still wish to sell?
-41986 := Improved Toughness
-41987 := Master Toughness
-41989 := Prerequisites:
-Level 4
+这是一种适应性很强的震动刀型号，为预算有限、会在资源或资金允许时购买升级的使用者打造。
+41985 := 此物品价值超过 <CUSTOM0> 信用点。你仍然想出售吗？
+41986 := 强化坚韧
+41987 := 大师级坚韧
+41989 := 先决条件：
+等级4
 
-The character is very resilient. This feat subtracts 2 points from any damage suffered. The character retains the +1 vitality point per level granted by Toughness.
-41992 := Prerequisites:
-Level 8
+角色非常坚韧。此专长会从任何受到的伤害中减去 2 点。角色仍保留坚韧所赋予的每级 +1 活力点数。
+41992 := 先决条件：
+等级8
 
-The character is further fortified against damage. The character gains an additional +1 vitality point at each level up, retroactive for levels previously gained. This is in addition to the +1 vitality point per level granted by Toughness, and the 2-point physical damage resistance granted by Improved Toughness.
-41993 := Master Caution
-41994 := Improved Caution
-41995 := Improved Empathy
-41996 := Master Empathy
-41997 := Prerequisites:
-Level 4
+角色进一步强化了对伤害的抵抗。角色每次升级都会额外获得 +1 活力点数，并追溯适用于已获得的等级。这是在坚韧赋予的每级 +1 活力点数，以及强化坚韧赋予的 2 点物理伤害抗性之外的加成。
+41993 := 大师级谨慎
+41994 := 强化谨慎
+41995 := 强化同理心
+41996 := 大师级同理心
+41997 := 先决条件：
+等级4
 
-This feat gives a +2 skill point bonus to Persuade, Awareness and Treat Injury. This feat replaces the +1 bonus given by Empathy.
-41998 := Prerequisites:
-Level 8
+此专长给予说服、察觉和治疗伤势 +2 技能点数加值。此专长会取代同理心给予的 +1 加值。
+41998 := 先决条件：
+等级8
 
-This feat gives a +3 skill point bonus to Persuade, Awareness and Treat Injury. This feat replaces the +2 bonus given by Improved Empathy.
-41999 := Prerequisites:
-Level 4
+此专长给予说服、察觉和治疗伤势 +3 技能点数加值。此专长会取代强化同理心给予的 +2 加值。
+41999 := 先决条件：
+等级4
 
-This feat gives a +2 skill point bonus to both Demolitions and Stealth. This replaces the +1 bonus given by Caution.
+此专长给予爆破和潜行各 +2 技能点数加值。此效果会取代谨慎给予的 +1 加值。
 42000 := Prerequisites:
 Level 8
 
