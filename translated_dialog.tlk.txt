@@ -37346,340 +37346,340 @@ C8-42 则稍微没有那么……热情。
 34797 := 酸池
 34798 := 纳迦·萨多墓
 34799 := 天花板
-34800 := End Game Initiate Trigger
-34801 := Acid Pool Initiate Trigger
-34802 := Walk Backwards Waypoint
-34803 := Gas Cloud Waypoint
-34804 := Grenade Waypoint
-34805 := Yuthura Exit Waypoint
-34806 := Leviathan - Prison Block
-34807 := SYSTEM LOADING...
-COMPLETE
-ENTER COMMAND
-34808 := EXITING SYSTEM...
-34809 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-34810 := SYSTEM OVERRIDE ACCEPTED
-ENTER COMMAND
-34811 := [FAILURE] ACCESS DENIED!
-SPIKES REJECTED
-HANGAR DOORS CAN ONLY
-BE OPENED FROM BRIDGE
-ENTER COMMAND
+34800 := 结局启动触发器
+34801 := 酸池启动触发器
+34802 := 后退行走路点
+34803 := 毒气云路点
+34804 := 手雷路点
+34805 := 尤苏拉离开路点
+34806 := 利维坦号 - 监狱区
+34807 := 系统载入中……
+完成
+输入命令
+34808 := 正在退出系统……
+34809 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+34810 := 系统覆盖已接受
+输入命令
+34811 := [失败] 访问被拒！
+计算机破解器被拒绝
+机库门只能
+从舰桥打开
+输入命令
 
 
-34812 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-34813 := [SUCCESS] GAS VENTED
-SWITCHING TO SECURITY CAMERA
-34814 := ENTER COMMAND
-34815 := CELLS UNLOCKED
-WARNING!
-AFT BRIG UNSECURED!
-34816 := Log out.
-34817 := [Computer] Slice the computer. (1 spike)
-34818 := Log out.
-34819 := [Computer] Open hangar bay doors. (<CUSTOM34> spike(s))
+34812 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+34813 := [成功] 毒气已排出
+切换到安保摄像头
+34814 := 输入命令
+34815 := 牢房已解锁
+警告！
+后部禁闭区未封锁！
+34816 := 注销。
+34817 := [计算机] 切入计算机。（1 个计算机破解器）
+34818 := 注销。
+34819 := [计算机] 打开机库舱门。（<CUSTOM34> 个计算机破解器）
 
-34820 := [Computer] Vent gas into aft guard barracks. (<CUSTOM32> spike(s))
-34821 := Unlock aft holding cells and equipment storage.
-34822 := SYSTEM LOADING...
-COMPLETE
-ENTER COMMAND
-34823 := EXITING SYSTEM...
-34824 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-34825 := SYSTEM OVERRIDE ACCEPTED
-ENTER COMMAND
-34826 := [FAILURE] ACCESS DENIED!
-SPIKES REJECTED
-HANGAR DOORS CAN ONLY
-BE OPENED FROM BRIDGE
-ENTER COMMAND
-
-
-34827 := [SUCCESS] GAS VENTED
-SWITCHING TO SECURITY CAMERA
-34828 := ENTER COMMAND
-34829 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-34830 := Log out.
-34831 := [Computer] Slice the computer. (1 spike)
-34832 := Log out.
-34833 := [Computer] Open hangar bay doors. (<CUSTOM34> spike(s))
-
-34834 := [Computer] Vent gas into port guard barracks. (<CUSTOM32> spike(s))
-34835 := SYSTEM LOADING...
-COMPLETE
-ENTER COMMAND
-34836 := EXITING SYSTEM...
-34837 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-34838 := SYSTEM OVERRIDE ACCEPTED
-ENTER COMMAND
-34839 := [FAILURE] ACCESS DENIED!
-SPIKES REJECTED
-HANGAR DOORS CAN ONLY
-BE OPENED FROM BRIDGE
-ENTER COMMAND
+34820 := [计算机] 向后部警卫营房排放毒气。（<CUSTOM32> 个计算机破解器）
+34821 := 解锁后部拘押牢房和装备仓库。
+34822 := 系统载入中……
+完成
+输入命令
+34823 := 正在退出系统……
+34824 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+34825 := 系统覆盖已接受
+输入命令
+34826 := [失败] 访问被拒！
+计算机破解器被拒绝
+机库门只能
+从舰桥打开
+输入命令
 
 
-34840 := [SUCCESS] CONDUIT OVERLOAD
-SWITCHING TO SECURITY CAMERA
-34841 := ENTER COMMAND
-34842 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-34843 := CELLS UNLOCKED
-WARNING: STARBOARD
-BRIG UNSECURED!
+34827 := [成功] 毒气已排出
+切换到安保摄像头
+34828 := 输入命令
+34829 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+34830 := 注销。
+34831 := [计算机] 切入计算机。（1 个计算机破解器）
+34832 := 注销。
+34833 := [计算机] 打开机库舱门。（<CUSTOM34> 个计算机破解器）
 
-34844 := Log out.
-34845 := [Computer] Slice the computer. (1 spike)
-34846 := Log out.
-34847 := [Computer] Open hangar bay doors. (<CUSTOM34> spike(s))
+34834 := [计算机] 向左舷警卫营房排放毒气。（<CUSTOM32> 个计算机破解器）
+34835 := 系统载入中……
+完成
+输入命令
+34836 := 正在退出系统……
+34837 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+34838 := 系统覆盖已接受
+输入命令
+34839 := [失败] 访问被拒！
+计算机破解器被拒绝
+机库门只能
+从舰桥打开
+输入命令
 
-34848 := [Computer] Overload electrical conduit in starboard barracks. (<CUSTOM32> spike(s))
-34849 := [Computer] Unlock starboard brig cells. (<CUSTOM31> spike(s))
-34850 := This droid is damaged and inactive.
-34851 := The droid engages its patrol mode and moves off to carry out your programmed instructions.
-34852 := You leave the droid alone for now.
-34853 := [Failure] You don't have any repair parts. You leave the droid alone for now.
-34854 := The droid is now active. It will attack any enemies that come in range.
-34855 := [Failure] You do not have enough repair parts.
-34856 := [Success] Patrol mode engaged. Once you end this session the droid will begin patrol and destroy any enemies it encounters. 
-34857 := WARNING: Once you end this session the droid's program will be locked in. You will not be able to modifiy the droid anymore.
-34858 := [Success] The droid's shields are now active.
-34859 := [Success] The droid is now set for maximum accuracy.
-34860 := [Success] The droid is now set for maximum firepower.
-34861 := The droid is now active. It will attack any enemies that come in range.
-34862 := The droid is actively engaged in its patrol route. You cannot reprogram it anymore.
-34863 := Leave it alone.
-34864 := Reactivate the droid. (1 repair part)
-34865 := Leave it alone.
-34866 := Engage droid in patrol mode. (<CUSTOM45> repair part(s))
-34867 := Activate droid's shields. (<CUSTOM44> repair part(s))
-34868 := Optimize droid's targeting systems. (<CUSTOM43> repair part(s))
-34869 := Optimize droid's weaponry. (<CUSTOM42> repair part(s))
-34870 := SYSTEM LOGGING OFF...
-34871 := [It would be a good idea to rescue the rest of your party before you use this elevator to leave the level.]
-34872 := Decommisioned Droid
-34873 := Torturer
-34874 := Impounded Item Lockup
+
+34840 := [成功] 导管过载
+切换到安保摄像头
+34841 := 输入命令
+34842 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+34843 := 牢房已解锁
+警告：右舷
+禁闭区未封锁！
+
+34844 := 注销。
+34845 := [计算机] 切入计算机。（1 个计算机破解器）
+34846 := 注销。
+34847 := [计算机] 打开机库舱门。（<CUSTOM34> 个计算机破解器）
+
+34848 := [计算机] 使右舷营房内的电力导管过载。（<CUSTOM32> 个计算机破解器）
+34849 := [计算机] 解锁右舷禁闭区牢房。（<CUSTOM31> 个计算机破解器）
+34850 := 这个机器人已损坏并处于停用状态。
+34851 := 机器人启用巡逻模式，离开去执行你编程的指令。
+34852 := 你暂时不去管这个机器人。
+34853 := [失败] 你没有任何修理零件。你暂时不去管这个机器人。
+34854 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+34855 := [失败] 你的修理零件不足。
+34856 := [成功] 巡逻模式已启用。你结束本次会话后，机器人将开始巡逻，并摧毁它遇到的任何敌人。
+34857 := 警告：一旦你结束本次会话，机器人的程序将被锁定。你将无法再修改这个机器人。
+34858 := [成功] 机器人的护盾现已激活。
+34859 := [成功] 机器人现已设为最高精度。
+34860 := [成功] 机器人现已设为最大火力。
+34861 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+34862 := 机器人正在执行巡逻路线。你无法再重编程它。
+34863 := 别管它。
+34864 := 重新激活机器人。（1 个修理零件）
+34865 := 别管它。
+34866 := 启用机器人的巡逻模式。（<CUSTOM45> 个修理零件）
+34867 := 激活机器人的护盾。（<CUSTOM44> 个修理零件）
+34868 := 优化机器人的瞄准系统。（<CUSTOM43> 个修理零件）
+34869 := 优化机器人的武器系统。（<CUSTOM42> 个修理零件）
+34870 := 系统正在注销……
+34871 := [在使用这部电梯离开本层前，最好先救出队伍的其他成员。]
+34872 := 退役机器人
+34873 := 拷问者
+34874 := 扣押物品锁库
 34875 := AftGas
 34876 := Portgas
 34877 := starboardgas
-34878 := Bandoleer
-34879 := Droid Upgrades
-34880 := Torture Cage
-34881 := Torture Control
-34882 := Storage Cylinder
-34883 := Storage Box
+34878 := 弹带
+34879 := 机器人升级件
+34880 := 拷问笼
+34881 := 拷问控制
+34882 := 储物圆筒
+34883 := 储物箱
 34884 := lev40_gas04
 34885 := lev40_gas10
 34886 := lev40_gas11
-34887 := Leviathan - Bridge
-34888 := [These security doors are sealed because of the intruder lockdown. You will have to find another way to get onto the bridge.]
-34889 := SYSTEM LOADING...
-COMPLETE
-34890 := WARNING! INTRUDERS DETECTED
-MAIN BRIDGE ACCESS SEALED
-ENTER COMMAND
-34891 := EXITING SYSTEM...
-34892 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-34893 := SYSTEM OVERRIDE ACCEPTED
-ENTER COMMAND
-34894 := [FAILURE] ACCESS DENIED!
-SPIKES REJECTED
-CANNOT OVERRIDE SECURITY
-DOOR FROM REMOTE TERMINAL
-ENTER COMMAND
-34895 := [FAILURE] ACCESS DENIED!
-SPIKES REJECTED
-HANGAR DOORS CAN ONLY
-BE OPENED FROM BRIDGE
-ENTER COMMAND
+34887 := 利维坦号 - 舰桥
+34888 := [由于入侵者封锁，这些安保门已经封死。你得另找办法进入舰桥。]
+34889 := 系统载入中……
+完成
+34890 := 警告！检测到入侵者
+主舰桥通道已封闭
+输入命令
+34891 := 正在退出系统……
+34892 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+34893 := 系统覆盖已接受
+输入命令
+34894 := [失败] 访问被拒！
+计算机破解器被拒绝
+无法从远程终端
+覆盖安保门
+输入命令
+34895 := [失败] 访问被拒！
+计算机破解器被拒绝
+机库门只能
+从舰桥打开
+输入命令
 
 
-34896 := BRIDGE HULL DAMAGED
-MAINTENANCE CORRIDOR COULD PROVIDE ALTERNATE ACCESS
-34897 := MAINTENANCE CORRIDOR ACCESSIBLE
-VIA SPACEWALK THROUGH STORAGE ROOM AIRLOCK
-34898 := [SUCCESS] STORAGE ROOM
-LOCKS OVERRIDDEN
-ACCESS GRANTED
-ENTER COMMAND
-34899 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-34900 := [SUCCESS] ARMORY LOCKS OVERRIDDEN
-ACCESS GRANTED
-ENTER COMMAND
-34901 := Log out.
-34902 := [Computer] Slice the computer. (1 spike)
-34903 := Log out.
-34904 := [Computer] Unlock Bridge security door. (<CUSTOM33> spike(s))
-34905 := [Computer] Open hangar bay doors. (<CUSTOM33> spike(s))
-34906 := [Computer] Search for alternate bridge access. (1 spike)
-34907 := [Computer] Unlock storage room. (<CUSTOM32> spike(s))
-34908 := [Computer] Unlock armory. (<CUSTOM32> spike(s))
-34909 := LOADING...
-AUXILIARY BRIDGE COMMAND
-SYSTEM ONLINE
-34910 := WARNING! INTRUDERS DETECTED
-MAIN BRIDGE ACCESS SEALED
-ENTER COMMAND
-34911 := EXITING SYSTEM...
-34912 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-34913 := SYSTEM OVERRIDE ACCEPTED
-ENTER COMMAND
-34914 := [FAILURE] ACCESS DENIED!
-SPIKES REJECTED
-CANNOT OVERRIDE SECURITY
-DOOR FROM REMOTE TERMINAL
-ENTER COMMAND
-34915 := [FAILURE] ACCESS DENIED!
-SPIKES REJECTED
-HANGAR DOORS CAN ONLY
-BE OPENED FROM BRIDGE
-ENTER COMMAND
-34916 := [FAILURE] ACCESS DENIED!
-DROID TARGETING SYSTEMS
-CONTROLLED BY MAIN
-BRIDGE SYSTEM
-ENTER COMMAND
+34896 := 舰桥船体受损
+维护走廊可能提供替代通道
+34897 := 可通过储藏室气闸
+进行太空行走进入维护走廊
+34898 := [成功] 储藏室
+门锁已覆盖
+访问已授权
+输入命令
+34899 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+34900 := [成功] 军械库门锁已覆盖
+访问已授权
+输入命令
+34901 := 注销。
+34902 := [计算机] 切入计算机。（1 个计算机破解器）
+34903 := 注销。
+34904 := [计算机] 解锁舰桥安保门。（<CUSTOM33> 个计算机破解器）
+34905 := [计算机] 打开机库舱门。（<CUSTOM33> 个计算机破解器）
+34906 := [计算机] 搜索进入舰桥的替代通道。（1 个计算机破解器）
+34907 := [计算机] 解锁储藏室。（<CUSTOM32> 个计算机破解器）
+34908 := [计算机] 解锁军械库。（<CUSTOM32> 个计算机破解器）
+34909 := 正在载入……
+辅助舰桥指挥
+系统在线
+34910 := 警告！检测到入侵者
+主舰桥通道已封闭
+输入命令
+34911 := 正在退出系统……
+34912 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+34913 := 系统覆盖已接受
+输入命令
+34914 := [失败] 访问被拒！
+计算机破解器被拒绝
+无法从远程终端
+覆盖安保门
+输入命令
+34915 := [失败] 访问被拒！
+计算机破解器被拒绝
+机库门只能
+从舰桥打开
+输入命令
+34916 := [失败] 访问被拒！
+机器人瞄准系统
+由主舰桥系统
+控制
+输入命令
 
-34917 := [FAILURE] ACCESS DENIED!
-BRIDGE LIFE SUPPORT SYSTEMS
-CANNOT BE OVERRIDEN
-ENTER COMMAND
+34917 := [失败] 访问被拒！
+舰桥生命维持系统
+无法被覆盖
+输入命令
 
-34918 := BRIDGE HULL DAMAGED
-MAINTENANCE CORRIDOR COULD PROVIDE ALTERNATE ACCESS
-34919 := MAINTENANCE CORRIDOR ACCESSIBLE
-VIA SPACEWALK THROUGH STORAGE ROOM AIRLOCK
-34920 := [SUCCESS] DROIDS DEACTIVATED
-CANNOT SWITCH TO CAMERA VIEW
-SECURITY CAMERA CONTROLLED
-BY MAIN BRIDGE SYSTEM
-ENTER COMMAND
-34921 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-34922 := [SUCCESS] TURRETS DEACTIVATED
-CANNOT SWITCH TO CAMERA VIEW
-SECURITY CAMERA CONTROLLED
-BY MAIN BRIDGE SYSTEM
-ENTER COMMAND
-34923 := Log out.
-34924 := [Computer] Slice the computer. (1 spike)
-34925 := Log out.
-34926 := [Computer] Unlock Bridge security door. (<CUSTOM33> spike(s))
-34927 := [Computer] Open hangar bay doors. (<CUSTOM33> spike(s))
-34928 := [Computer] Reprogram sentry droids to target everything. (<CUSTOM34> spike(s))
-34929 := [Computer] Vent gas into bridge. (<CUSTOM32> spike(s))
-34930 := [Computer] Search for alternate bridge access. (1 spike)
-34931 := [Computer] Deactivate sentry droids. (<CUSTOM33> spike(s))
-34932 := [Computer] Deactivate blaster turrets. (<CUSTOM33> spike(s))
-34933 := This inactive droid is in need of repairs. Though quite old it still appears fully functional.
-34934 := The droid engages its patrol mode and moves off to carry out your programmed instructions.
-34935 := You leave the droid alone for now.
-34936 := [Failure] You don't have any repair parts. You leave the droid alone for now.
-34937 := The droid is now active. It will attack any enemies that come in range.
-34938 := [Failure] You do not have enough repair parts.
-34939 := [Success] Patrol mode engaged. Once you end this session the droid will begin patrol and destroy any enemies it encounters. 
-34940 := WARNING: Once you end this session the droid's program will be locked in. You will not be able to modifiy the droid anymore.
-34941 := [Success] The droid's shields are now active.
-34942 := [Success] The droid is now set for maximum accuracy.
-34943 := [Success] The droid is now set for maximum firepower.
-34944 := The droid is now active. It will attack any enemies that come in range.
-34945 := The droid is actively engaged in its patrol route. You cannot reprogram it anymore.
-34946 := Leave it alone.
-34947 := Reactivate the droid. (1 repair part)
-34948 := Leave it alone.
-34949 := Engage droid in patrol mode. (<CUSTOM45> repair part(s))
-34950 := Activate droid's shields. (<CUSTOM44> repair part(s))
-34951 := Optimize droid's targeting systems. (<CUSTOM43> repair part(s))
-34952 := Optimize droid's weaponry. (<CUSTOM42> repair part(s))
-34953 := This inactive droid is in need of repairs. Though quite old it still appears fully functional.
-34954 := The droid engages its patrol mode and moves off to carry out your programmed instructions.
-34955 := You leave the droid alone for now.
-34956 := [Failure] You don't have any repair parts. You leave the droid alone for now.
-34957 := The droid is now active. It will attack any enemies that come in range.
-34958 := [Failure] You do not have enough repair parts.
-34959 := [Success] Patrol mode engaged. Once you end this session the droid will begin patrol and destroy any enemies it encounters. 
-34960 := WARNING: Once you end this session the droid's program will be locked in. You will not be able to modifiy the droid anymore.
-34961 := [Success] The droid's shields are now active.
-34962 := [Success] The droid is now set for maximum accuracy.
-34963 := [Success] The droid is now set for maximum firepower.
-34964 := [Success] The droid moves off to carry out your instructions. 
-34965 := The droid is now active. It will attack any enemies that come in range.
-34966 := The droid is actively engaged in its patrol route. You cannot reprogram it anymore.
-34967 := The droid is busy carrying out the instructions you programmed into it earlier. It cannot be reprogrammed again.
-34968 := Leave it alone.
-34969 := Reactivate the droid. (1 repair part)
-34970 := Leave it alone.
-34971 := Engage droid in patrol mode. (<CUSTOM45> repair part(s))
-34972 := Activate droid's shields. (<CUSTOM44> repair part(s))
-34973 := Optimize droid's targeting systems. (<CUSTOM43> repair part(s))
-34974 := Optimize droid's weaponry. (<CUSTOM42> repair part(s))
-34975 := Program droid to ram storage room doors. (<CUSTOM45> repair part(s))
-34976 := You don't have to kill me! Just... just give me a shot of kolto! That'll knock me out for hours! Please, I don't want to die like this... injured and helpless on a hospital bed!
-34977 := Decomissioned Droid
-34978 := Datapad entry: 
-We've set up a repair station at the storage room airlock to fix the damage to the bridge hull. Get the space suits from the armory and send a team out as soon as possible.
-34979 := Bridge
-34980 := static
-34981 := Bridge Storage
-34982 := Armory
-34983 := Security Equipment
-34984 := Armor Locker
-34985 := Grenades
-34986 := Gun Locker
-34987 := Space Suit
+34918 := 舰桥船体受损
+维护走廊可能提供替代通道
+34919 := 可通过储藏室气闸
+进行太空行走进入维护走廊
+34920 := [成功] 机器人已停用
+无法切换到摄像头画面
+安保摄像头由
+主舰桥系统控制
+输入命令
+34921 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+34922 := [成功] 炮塔已停用
+无法切换到摄像头画面
+安保摄像头由
+主舰桥系统控制
+输入命令
+34923 := 注销。
+34924 := [计算机] 切入计算机。（1 个计算机破解器）
+34925 := 注销。
+34926 := [计算机] 解锁舰桥安保门。（<CUSTOM33> 个计算机破解器）
+34927 := [计算机] 打开机库舱门。（<CUSTOM33> 个计算机破解器）
+34928 := [计算机] 重编程哨戒机器人攻击一切目标。（<CUSTOM34> 个计算机破解器）
+34929 := [计算机] 向舰桥排放毒气。（<CUSTOM32> 个计算机破解器）
+34930 := [计算机] 搜索进入舰桥的替代通道。（1 个计算机破解器）
+34931 := [计算机] 停用哨戒机器人。（<CUSTOM33> 个计算机破解器）
+34932 := [计算机] 停用爆能炮塔。（<CUSTOM33> 个计算机破解器）
+34933 := 这个停用机器人需要修理。虽然相当老旧，但看起来仍然功能完好。
+34934 := 机器人启用巡逻模式，离开去执行你编程的指令。
+34935 := 你暂时不去管这个机器人。
+34936 := [失败] 你没有任何修理零件。你暂时不去管这个机器人。
+34937 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+34938 := [失败] 你的修理零件不足。
+34939 := [成功] 巡逻模式已启用。你结束本次会话后，机器人将开始巡逻，并摧毁它遇到的任何敌人。
+34940 := 警告：一旦你结束本次会话，机器人的程序将被锁定。你将无法再修改这个机器人。
+34941 := [成功] 机器人的护盾现已激活。
+34942 := [成功] 机器人现已设为最高精度。
+34943 := [成功] 机器人现已设为最大火力。
+34944 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+34945 := 机器人正在执行巡逻路线。你无法再重编程它。
+34946 := 别管它。
+34947 := 重新激活机器人。（1 个修理零件）
+34948 := 别管它。
+34949 := 启用机器人的巡逻模式。（<CUSTOM45> 个修理零件）
+34950 := 激活机器人的护盾。（<CUSTOM44> 个修理零件）
+34951 := 优化机器人的瞄准系统。（<CUSTOM43> 个修理零件）
+34952 := 优化机器人的武器系统。（<CUSTOM42> 个修理零件）
+34953 := 这个停用机器人需要修理。虽然相当老旧，但看起来仍然功能完好。
+34954 := 机器人启用巡逻模式，离开去执行你编程的指令。
+34955 := 你暂时不去管这个机器人。
+34956 := [失败] 你没有任何修理零件。你暂时不去管这个机器人。
+34957 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+34958 := [失败] 你的修理零件不足。
+34959 := [成功] 巡逻模式已启用。你结束本次会话后，机器人将开始巡逻，并摧毁它遇到的任何敌人。
+34960 := 警告：一旦你结束本次会话，机器人的程序将被锁定。你将无法再修改这个机器人。
+34961 := [成功] 机器人的护盾现已激活。
+34962 := [成功] 机器人现已设为最高精度。
+34963 := [成功] 机器人现已设为最大火力。
+34964 := [成功] 机器人离开去执行你的指令。
+34965 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+34966 := 机器人正在执行巡逻路线。你无法再重编程它。
+34967 := 机器人正忙于执行你之前编程的指令。它无法再次被重编程。
+34968 := 别管它。
+34969 := 重新激活机器人。（1 个修理零件）
+34970 := 别管它。
+34971 := 启用机器人的巡逻模式。（<CUSTOM45> 个修理零件）
+34972 := 激活机器人的护盾。（<CUSTOM44> 个修理零件）
+34973 := 优化机器人的瞄准系统。（<CUSTOM43> 个修理零件）
+34974 := 优化机器人的武器系统。（<CUSTOM42> 个修理零件）
+34975 := 编程机器人撞开储藏室门。（<CUSTOM45> 个修理零件）
+34976 := 你不用杀我！只要……只要给我打一针科尔托！那会让我昏睡好几个小时！求你了，我不想这样死……受伤又无助地躺在病床上！
+34977 := 退役机器人
+34978 := 数据板条目：
+我们在储藏室气闸处设了一个维修站，用来修复舰桥船体损伤。从军械库取出太空服，尽快派一队人出去。
+34979 := 舰桥
+34980 := 静电
+34981 := 舰桥储藏室
+34982 := 军械库
+34983 := 安保装备
+34984 := 护甲储物柜
+34985 := 手雷
+34986 := 枪械储物柜
+34987 := 太空服
 34988 := lev40_gas23
-34989 := Leviathan - Hangar
-34990 := AIRLOCK STATUS: CLOSED.
-34991 := AIRLOCK SEQUENCE INITIATED, 9 SECONDS UNTIL DECOMPRESSION.
-34992 := AIRLOCK SEQUENCE ENGAGED.
-34993 := AIRLOCK SEQUENCE TERMINATED.
-34994 := Log off.
-34995 := Abort airlock sequence.
-34996 := *Grunt*
+34989 := 利维坦号 - 机库
+34990 := 气闸状态：关闭。
+34991 := 气闸序列已启动，9 秒后减压。
+34992 := 气闸序列已接合。
+34993 := 气闸序列已终止。
+34994 := 注销。
+34995 := 中止气闸序列。
+34996 := *咕哝*
 34997 := lev40_combattalk
 34998 := lev40_ambush
 34999 := lev40_finalfight
 35000 := lev40_malfight
-35001 := Damaged Space Suit
+35001 := 损坏的太空服
 35002 := lev40_bdgunlock
 35003 := lev40_spacewalk
-35004 := I hope so.
-35005 := I hope so.
-35006 := I hope so.
-35007 := Ahto City Prison
-35008 := West Central Courtyard
-35009 := Shealas inits
-35010 := Nilko inits
-35011 := Sith recruiter
-35012 := Ahto High Court
-35013 := Mercenary Enclave
-35014 := To Ahto City Central
-35015 := Cleaning Droid
-35016 := Swoop Racers Only
-35017 := Swoop Registration
-35018 := Yortal's Second-Hand Store
-35019 := Sith Embassy
-35020 := East Central Courtyard
-35021 := Shop
+35004 := 希望如此。
+35005 := 希望如此。
+35006 := 希望如此。
+35007 := 阿赫托城监狱
+35008 := 西部中央庭院
+35009 := 希拉斯初始化
+35010 := 尼尔科初始化
+35011 := 西斯招募员
+35012 := 阿赫托高等法院
+35013 := 雇佣兵飞地
+35014 := 前往阿赫托城中央区
+35015 := 清洁机器人
+35016 := 仅限飞梭赛车手
+35017 := 飞梭赛登记
+35018 := 约塔尔二手商店
+35019 := 西斯大使馆
+35020 := 东部中央庭院
+35021 := 商店
 35022 := man_yortal
 35023 := from26e
 35024 := WP_man_litedrd01_01
@@ -37691,17 +37691,17 @@ We've set up a repair station at the storage room airlock to fix the damage to t
 35030 := WP_man_litedrd02_04
 35031 := WP_man_litedrd02_05
 35032 := WP_man_litedrd02_06
-35033 := Swoop Track Registration
-35034 := Sith Base
-35035 := To Ahto City East Central
-35036 := Republic Enclave Key
-35037 := An access key to the outer doors of the Republic Enclave in Ahto City.
-35038 := Visitor's Area
-35039 := Kolto Distribution Center
-35040 := West Courtyard
-35041 := Docking Bay
-35042 := Ahto City
-35043 := Raw Kolto
+35033 := 飞梭赛道登记
+35034 := 西斯基地
+35035 := 前往阿赫托城东部中央区
+35036 := 共和国飞地钥匙
+35037 := 一把用于打开阿赫托城共和国飞地外门的通行钥匙。
+35038 := 访客区
+35039 := 科尔托配送中心
+35040 := 西庭院
+35041 := 停泊舱
+35042 := 阿赫托城
+35043 := 原生科尔托
 35044 := wp_repkol_end
 35045 := wp_sithkol_end
 35046 := wp_sithkol_start
@@ -37712,134 +37712,134 @@ We've set up a repair station at the storage room airlock to fix the damage to t
 35051 := WP_man26c_litedrd02_01
 35052 := WP_man26c_litedrd02_02
 35053 := WP_man26c_litedrd02_03
-35054 := To Docking Bay
-35055 := Port Official
-35056 := To Ahto West
-35057 := Greetings again, off-worlder. Have you happened upon any exotic species since we last spoke?
-35058 := Poor, to tell the truth. I am beginning to think we shall have no species at all in our zoological exhibit. *sigh*
-35059 := Greetings! Forgive me if this seems an odd question, off-worlder, but might you have any exotic species for sale? Nothing dangerous, mind you.
-35060 := Well, if you do come across something potentially interesting, please remember me. My name is Nubassa. I hope to see you again!
-35061 := Gizka? You speak of the small, bipedal amphibians with the overly high reproductive rate, correct? Oh, no, I am afraid I cannot take those.
-35062 := A compatriot of mine made the mistake of purchasing a pair of such creatures several months ago. Within weeks our storage facilities were nearly overrun.
-35063 := If you are in possession of such creatures, I hope you keep them separated. If not, then you have my condolences.
-35064 := My pleasure. Should you encounter some other exotic species, do please let me know.
-35065 := [Success] Hmm. But maybe we could use these gizka, after all. It is better then having nothing at all to show, I suppose.
-35066 := Since they are so difficult to maintain, however, I would ask that you provide 100 credits. Then I will take them off your hands.
-35067 := [Failure] That is unfair of you to ask, off-worlder. You are attempting to sell me something I have already stated I do not need.
-35068 := [Success] I... suppose it is natural for off-worlders to desire commerce, even when it is unfair. Very well, I shall do as you ask, in the interest of peace.
-35069 := Here are your credits. I shall send someone by to remove the gizka from your vessel. Good day, off-worlder.
-35070 := [Failure] The cost of maintaining such creatures is very high. I would be removing pests for you at my own expense?
-35071 := [Success] *sigh* I suppose it is better than nothing. We must have some creatures in our exhibit, after all.
-35072 := I shall send some of my people by to remove the gizka on your vessel. Thank you for your co-operation.
-35073 := [Failure] I... I do not... no, I am afraid that you are mistaken. I do require coin to compensate for my aid. These gizka are not easy to manage.
-35074 := [Success] What am I thinking? It is impertinent of me to ask you for credits when you are attempting to make a sale. My apologies.
-35075 := You do not even have 100 credits? Then you are in dire straits, indeed. You certainly do not need these pests on your vessel.
-35076 := In the interest of maintaining peace, I shall remove them and use what I can. Thank you for your assistance, off-worlder... I hope your situation improves soon.
-35077 := Very well. It is a pleasure doing business with you... I will have my people show up to remove your gizka as soon as possible.
-35078 := Thank you very much. For an off-worlder, interacting with you has been most pleasant.
-35079 := [Failure] I have never heard of such a creature. I suspect you are merely desperate to offload your difficult circumstance onto another. Shame on you, off-worlder!
-35080 := [Success] They do not? Well, that is marvelous news! We would have the benefit of obtaining the gizka without the inconvenience of their numbers!
-35081 := If you wish, I will send some others over to your vessels right away to remove the gizka.
-35082 := [Failure] I am willing to take these gizka off your hands because of their unusual nature... I certainly will not purchase them!
-35083 := As you wish. Our negotiation is hereby suspended.
-35084 := [Success] Ah. I hope 100 credits will be sufficient, then? I realize that such a rare strain of gizka might be worth more, but it is all I can afford.
-35085 := Thank you for your assistance, off-worlder. Dealing with you has proven far more pleasureable than I anticipated.
-35086 := [Failure] I do not think so, no. They have proven to be far too much trouble in the past.
-35087 := [Success] *sigh* I suppose it would. I am not looking forward to the trouble this will cause, but if it will help you out... I will do what I can.
-35088 := I shall send some people by your vessel shortly to remove the gizka. Good day to you, off-worlder.
-35089 := [Success] I... suppose having a few of the creatures would not be of harm. We do have experience handling them now, I suppose.
-35090 := I am sure you would. They are practically a nuisance. I have no need of them, however, as I stated.
-35091 := Ah, good question. The Selkath have little exposure to life from other planets, you see, but our government hopes to change that.
-35092 := We are setting up a zoological compound for visitation by the public, and are hoping to stock it with non-offensive foreign creatures of all types.
-35093 := The only problem right now is actually procuring the exotic species we need. Selkath import restrictions are quite prohibitive, to say the least.
-35094 := I would not use such a harsh word, off-worlder. Let us say that I am interested in engaging in private trade. That is allowed, according to our laws.
-35095 := Finding off-worlders that deal in such trade is most difficult, however. I have become quite desperate. Might you have what I seek?
-35096 := Anything non-sentient and non-carnivorous will do, though creatures that are easy to manage are preferred. Is that understandable?
-35097 := How has the hunt been?
-35098 := I don't have time for questions.
-35099 := I have some gizka, if you're interested.
-35100 := Thanks anyway, then.
-35101 := [Force Persuade] But you want to take these gizka off my hands.
-35102 := [Persuade] You want me to *pay* you? How about you give me 100 credits?
-35103 := [Persuade] I was hoping to sell them. How about we just call it even?
-35104 := Fine. 100 credits it is.
-35105 := [Force Persuade] You don't need any credits to take them.
-35106 := But... I actually don't have 100 credits.
-35107 := Deal. I want those things off my ship as soon as possible.
-35108 := [Persuade/Lie] But these are special gizka. They don't reproduce like the others do.
-35109 := Sounds good to me.
-35110 := [Persuade] The gizka are for *sale*... they aren't free.
-35111 := Forget it. No deal.
-35112 := Fine, take them, then.
-35113 := [Persuade] Is there no way I can convince you to take them off my hands?
-35114 := [Persuade] How about if I paid you 100 credits as well? Would that help?
-35115 := Actually, I would *really* like to get rid of these creatures.
-35116 := No, I don't have anything for you.
-35117 := Why would you want to buy animals?
-35118 := So you want to smuggle them in?
-35119 := Exotic species? What sorts of exotic species?
-35120 := Entering Ahto City security zone. Cameras activated.
-35121 := Entering Ahto City security zone. Cameras activated.
-35122 := Entering Ahto City security zone. Cameras activated.
-35123 := Entering Ahto City security zone. Cameras activated.
-35124 := How is it that the Ahto City Provisional Company can help you today?
-35125 := Rest assured that as long as Manaan is here, the Ahto City Provisional Company will be here to serve your needs. Good day to you, sentient.
-35126 := Of course. The Ahto City Visitor's Provisional Stand is here to service you, the customer.
-35127 := Manaan is the homeworld of we Selkath. It is here that our race has lived and thrived for uncounted millenia. With our valuable supply of kolto, we have become an important player in intragalactic politics.
-35128 := We have taken a neutral stance in the current galactic war between the Sith and the Republic as we believe that violence is not a permanent solution.
-35129 := Is there another way in which I can assist you?
-35130 := Ahto City is the center of trade and commerce for all of Manaan. Indeed, for this entire sector! It is the only known source of kolto in the galaxy, and thus one of its most important worlds.
-35131 := This city was constructed by we Selkath so that other races and cultures could experience the wonders that Manaan has to offer.
-35132 := Greetings human, and welcome to the Ahto City Visitor's Provisional Stand. We are here to provide visitors with all manner of indigenous treats and products produced right here on Manaan.
-35133 := We carry all manner of foods and provisions, and have contacts with resellers across the world to provide you, the customer, with the best shopping experience possible.
-35134 := Nothing for now.
-35135 := I would like to sell you something.
-35136 := Let me see your inventory.
-35137 := Tell me about Manaan.
-35138 := Tell me about Ahto City.
-35139 := I will be leaving now.
-35140 := Merchant
-35141 := Docking Bay 1
-35142 := Docking Bay 2
-35143 := Docking Bay 3
-35144 := Docking Bay 4
-35145 := camera4
-35146 := camera5
-35147 := camera6
-35148 := camera7
-35149 := Entering/Exiting Manaan 5
-35150 := Entering/Exiting Manaan 4
-35151 := Entering/Exiting Manaan 6
-35152 := Entering/Exiting Manaan 7
+35054 := 前往停泊舱
+35055 := 港务官
+35056 := 前往阿赫托西区
+35057 := 又见面了，外来者。自从上次谈话后，你有遇到什么异域物种吗？
+35058 := 说实话，很糟。我开始觉得我们的动物展览里可能一种物种都没有了。*叹气*
+35059 := 你好！外来者，请原谅这个问题听起来有些古怪，但你是否有异域物种出售？注意，不要危险的。
+35060 := 好吧，如果你真的遇到可能有趣的东西，请记得我。我的名字是努巴萨。希望还能再见到你！
+35061 := 吉兹卡？你说的是那种繁殖率过高的小型双足两栖动物，对吗？哦，不，恐怕我不能收下那些。
+35062 := 我的一位同胞几个月前犯了错，买了一对这样的生物。几周内，我们的储藏设施几乎就被它们占满了。
+35063 := 如果你拥有这种生物，我希望你把它们分隔开。否则，我向你致哀。
+35064 := 荣幸之至。如果你遇到其他异域物种，请务必告诉我。
+35065 := [成功] 嗯。不过也许我们终究能用这些吉兹卡。我想，总比什么都没有可展示要好。
+35066 := 不过，由于它们很难照料，我得请你支付 100 信用点。之后我会替你收下它们。
+35067 := [失败] 你这样要求不公平，外来者。你正试图把我已经声明不需要的东西卖给我。
+35068 := [成功] 我……想外来者渴望交易是自然的，即便这并不公平。很好，为了和平，我会照你说的做。
+35069 := 这是你的信用点。我会派人去你的船上移除那些吉兹卡。祝你日安，外来者。
+35070 := [失败] 维持这种生物的成本很高。我还要自掏腰包替你清除害虫吗？
+35071 := [成功] *叹气* 我想总比什么都没有好。毕竟我们的展览总得有些生物。
+35072 := 我会派几个人去你的船上移除那些吉兹卡。感谢合作。
+35073 := [失败] 我……我并不……不，恐怕你弄错了。我确实需要费用来补偿我的帮助。这些吉兹卡并不好管理。
+35074 := [成功] 我在想什么？你试图出售东西时，我向你索要信用点是不合礼数的。请原谅。
+35075 := 你连 100 信用点都没有？那你的处境确实很困难。你的船上当然不需要这些害虫。
+35076 := 为了维护和平，我会移除它们，并尽量利用能用的部分。感谢你的协助，外来者……希望你的处境很快好转。
+35077 := 很好。和你做生意很愉快……我会让我的人尽快到场移除你的吉兹卡。
+35078 := 非常感谢。以外来者来说，和你互动真是非常愉快。
+35079 := [失败] 我从没听说过这种生物。我怀疑你只是急着把自己的困难处境转嫁给别人。真该羞愧，外来者！
+35080 := [成功] 它们不会？哦，那真是好消息！我们可以得到吉兹卡的好处，又不用承受它们数量上的麻烦！
+35081 := 如果你愿意，我马上派其他人去你的船上移除吉兹卡。
+35082 := [失败] 我愿意接手这些吉兹卡，是因为它们不同寻常……但我绝不会购买它们！
+35083 := 如你所愿。我们的谈判就此暂停。
+35084 := [成功] 啊。那么我希望 100 信用点足够？我知道这种稀有品系的吉兹卡也许更值钱，但这是我所能负担的全部。
+35085 := 感谢你的协助，外来者。和你打交道比我预期愉快得多。
+35086 := [失败] 我不这么认为，不。过去事实证明它们麻烦太多。
+35087 := [成功] *叹气* 我想是会有帮助。我并不期待这会带来的麻烦，但如果这能帮到你……我会尽力。
+35088 := 我很快会派一些人到你的船上移除吉兹卡。祝你日安，外来者。
+35089 := [成功] 我……想养几只这种生物也不会有害。毕竟我想我们现在已经有处理它们的经验了。
+35090 := 我相信你会这样想。它们几乎就是祸害。不过，如我所说，我不需要它们。
+35091 := 啊，好问题。你看，塞尔卡斯人很少接触其他星球的生命，但我们的政府希望改变这一点。
+35092 := 我们正在建立一座面向公众参观的动物园区，希望用各种没有攻击性的外来生物充实其中。
+35093 := 现在唯一的问题其实是采购我们需要的异域物种。塞尔卡斯人的进口限制至少可以说相当严格。
+35094 := 我不会用那么刺耳的词，外来者。我们不妨说，我有兴趣进行私人贸易。根据我们的法律，这是允许的。
+35095 := 不过，要找到从事这种贸易的外来者非常困难。我已经相当绝望。你是否有我寻找的东西？
+35096 := 任何非智慧且非食肉的都可以，不过最好是易于管理的生物。这样明白吗？
+35097 := 狩猎怎么样了？
+35098 := 我没时间回答问题。
+35099 := 我有一些吉兹卡，如果你感兴趣的话。
+35100 := 那还是谢谢了。
+35101 := [原力说服] 但你想替我收下这些吉兹卡。
+35102 := [说服] 你想让我*付钱*给你？不如你给我 100 信用点？
+35103 := [说服] 我原本希望卖掉它们。不如我们算扯平？
+35104 := 好。100 信用点就 100。
+35105 := [原力说服] 你不需要任何信用点就会收下它们。
+35106 := 但……我其实没有 100 信用点。
+35107 := 成交。我想尽快把那些东西弄下我的船。
+35108 := [说服/撒谎] 但这些是特殊吉兹卡。它们不像其他吉兹卡那样繁殖。
+35109 := 听起来不错。
+35110 := [说服] 吉兹卡是*出售*的……它们不是免费的。
+35111 := 算了。没交易。
+35112 := 好吧，那你拿走吧。
+35113 := [说服] 难道没有办法让我说服你替我收下它们吗？
+35114 := [说服] 如果我也付你 100 信用点呢？那会有帮助吗？
+35115 := 其实，我*真的*很想摆脱这些生物。
+35116 := 不，我没有东西给你。
+35117 := 你为什么想买动物？
+35118 := 所以你想走私它们进来？
+35119 := 异域物种？什么样的异域物种？
+35120 := 正在进入阿赫托城安保区。摄像头已激活。
+35121 := 正在进入阿赫托城安保区。摄像头已激活。
+35122 := 正在进入阿赫托城安保区。摄像头已激活。
+35123 := 正在进入阿赫托城安保区。摄像头已激活。
+35124 := 阿赫托城临时公司今天能怎样帮助你？
+35125 := 请放心，只要马南还在，阿赫托城临时公司就会在这里为你服务。祝你日安，智慧生物。
+35126 := 当然。阿赫托城访客临时摊位在这里为你这位顾客服务。
+35127 := 马南是我们塞尔卡斯人的母星。我们的种族在这里生活并繁荣了无数千年。凭借宝贵的科尔托供应，我们已成为银河系内政治的重要参与者。
+35128 := 我们在当前西斯与共和国之间的银河战争中保持中立，因为我们相信暴力不是长久的解决办法。
+35129 := 我还能以其他方式帮助你吗？
+35130 := 阿赫托城是整个马南的贸易与商业中心。事实上，也是整个星区的中心！它是银河中唯一已知的科尔托来源，因此也是最重要的世界之一。
+35131 := 这座城市由我们塞尔卡斯人建造，让其他种族和文化能够体验马南所能提供的奇观。
+35132 := 你好，人类，欢迎来到阿赫托城访客临时摊位。我们在这里向访客提供各种本土食品和产品，全都产自马南本地。
+35133 := 我们供应各类食物和补给，并与全球各地的转售商保持联系，为你这位顾客提供尽可能最好的购物体验。
+35134 := 暂时不用。
+35135 := 我想卖给你一些东西。
+35136 := 让我看看你的库存。
+35137 := 告诉我马南的事。
+35138 := 告诉我阿赫托城的事。
+35139 := 我要走了。
+35140 := 商人
+35141 := 停泊舱 1
+35142 := 停泊舱 2
+35143 := 停泊舱 3
+35144 := 停泊舱 4
+35145 := 摄像头 4
+35146 := 摄像头 5
+35147 := 摄像头 6
+35148 := 摄像头 7
+35149 := 进入/离开马南 5
+35150 := 进入/离开马南 4
+35151 := 进入/离开马南 6
+35152 := 进入/离开马南 7
 35153 := man_merch
 35154 := WP_man26_reparg_01
 35155 := WP_man26_reparg_02
 35156 := WP_man26_reparg_03
-35157 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-COMMAND QUERY?
-35158 := Log off.
-35159 := Log off.
-35160 := Log off.
-35161 := Log off.
-35162 := Log off.
-35163 := Log off.
-35164 := [This submersible can be used to descend to the deep ocean Hrakert research station.]
-35165 := [Step away from the submersible.]
-35166 := [Use the submersible.]
-35167 := Elassa
-35168 := Submersible Bay Key
-35169 := Key to the Submarine Bay in the Republic Enclave in Ahto City.
-35170 := Murder Recording
-35171 := A recording of an older man murdering a young Sith woman.
-35172 := A passcard used to enter the Sith Base in Ahto City.
-35173 := Sith Hangar Key
-35174 := A key card to the Sith Reserved Hangar in Ahto City.
-35175 := Visitor's Hotel
-35176 := Republic Embassy
-35177 := Restricted Access
-35178 := East Courtyard
-35179 := Submersible
+35157 := [失败] 访问被拒
+计算机破解器不足
+命令查询？
+35158 := 注销。
+35159 := 注销。
+35160 := 注销。
+35161 := 注销。
+35162 := 注销。
+35163 := 注销。
+35164 := [这艘潜水器可用于下潜至深海的赫拉克特研究站。]
+35165 := [离开潜水器。]
+35166 := [使用潜水器。]
+35167 := 埃拉莎
+35168 := 潜水器舱钥匙
+35169 := 阿赫托城共和国飞地潜艇舱的钥匙。
+35170 := 谋杀录音
+35171 := 一段年长男子谋杀年轻西斯女子的录音。
+35172 := 一张用于进入阿赫托城西斯基地的通行卡。
+35173 := 西斯机库钥匙
+35174 := 一张用于进入阿赫托城西斯专用机库的钥匙卡。
+35175 := 访客酒店
+35176 := 共和国大使馆
+35177 := 限制进入区
+35178 := 东庭院
+35179 := 潜水器
 35180 := man_tyvark
 35181 := from28a
 35182 := man26_wp_myst03
@@ -37856,494 +37856,494 @@ COMMAND QUERY?
 35193 := WP_man26_litedrd03_05
 35194 := WP_man26_litedrd03_06
 35195 := WP_man26_litedrd03_01
-35196 := Manaan - Sith Base
-35197 := PRESSURE EXCHANGE CONTROL
-35198 := WARNING!
-FLOODING AN OCCUPIED ROOM MAY RESULT IN DEATH!
-CONFIRM PRESSURE CHANGE?
-35199 := PRESSURE CHANGE ABORTED
-35200 := PRESSURE CHANGE COMMENCING...
-35201 := Abort.
-35202 := Confirm.
-35203 := SYSTEM LOADING...
-COMPLETE
-COMMAND?
-35204 := EXITING SYSTEM...
-35205 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-COMMAND?
-35206 := SYSTEM OVERRIDE ACCEPTED
-COMMAND?
-35207 := [FAILURE] ACCESS DENIED
-PHYSICAL LOCKDOWN IN EFFECT
-SPIKES REJECTED
-35208 := [SUCCESS] SENTRY DROID REPROGRAMMING COMPLETE
-AUTO-TARGETTING ENGAGED
-SWITCHING TO SECURITY CAMERA
-35209 := [SUCCESS] SENTRY DROIDS DEACTIVATED
-SWITCHING TO SECURITY CAMERA
-35210 := [SUCCESS] CONDUIT OVERLOADED
-SWITCHING TO SECURITY CAMERA
-35211 := COMMAND?
-35212 := [SUCCESS] CONDUITS OVERLOADED
-SWITCHING TO SECURITY CAMERA
-35213 := COMMAND?
-35214 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-COMMAND?
-35215 := [SUCCESS] SECURITY DOOR LOCKS OVERRIDDEN
-ACCESS GRANTED
-COMMAND?
-35216 := Log out.
-35217 := [Computer] Slice the computer. (<CUSTOM35> spike(s))
-35218 := Log out.
-35219 := [Computer] Deactivate base security system. (30 spike(s))
-35220 := [Computer] Reprogram flow control room sentry droids to target everything. (<CUSTOM34> spike(s))
-35221 := [Computer] Deactivate flow control room sentry droids. (<CUSTOM33> spike(s))
-35222 := [Computer] Overload east barracks power conduit. (<CUSTOM32> spike(s))
-35223 := [Computer] Overload flow control conduits. (<CUSTOM32> spike(s))
-35224 := [Computer] Open all security doors. (<CUSTOM31> spike(s))
-35225 := SYSTEM LOADING...
-COMPLETE
-COMMAND?
-35226 := EXITING SYSTEM...
-35227 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-35228 := SYSTEM OVERRIDE ACCEPTED
-COMMAND?
-35229 := [FAILURE] ACCESS DENIED
-PHYSICAL LOCKDOWN IN EFFECT
-SPIKES REJECTED
-35230 := [SUCCESS] SENTRY DROID REPROGRAMMING COMPLETE
-AUTO-TARGETTING ENGAGED
-SWITCHING TO SECURITY CAMERA
-35231 := [SUCCESS] SENTRY DROIDS DEACTIVATED
-SWITCHING TO SECURITY CAMERA
-35232 := [SUCCESS] CONDUIT OVERLOADED
-SWITCHING TO SECURITY CAMERA
-35233 := ENTER COMMAND
-35234 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-COMMAND?
-35235 := [SUCCESS] SECURITY DOOR LOCKS OVERRIDDEN
-ACCESS GRANTED
-COMMAND?
-35236 := Log out.
-35237 := [Computer] Slice the computer. (1 spike)
-35238 := Log out.
-35239 := [Computer] Deactivate base security system. (30 spike(s))
-35240 := [Computer] Reprogram disassembly room sentry droids to target everything. (<CUSTOM34> spike(s))
-35241 := [Computer] Deactivate disassembly room sentry droids. (<CUSTOM33> spike(s))
-35242 := [Computer] Overload west barracks power conduit. (<CUSTOM32> spike(s))
-35243 := [Computer] Open all security doors. (<CUSTOM31> spike(s))
-35244 := This droid is damaged and inactive.
-35245 := The droid engages its patrol mode and moves off to carry out your programmed instructions.
-35246 := You leave the droid alone for now.
-35247 := [Failure] You don't have any repair parts. You leave the droid alone for now.
-35248 := The droid is now active. It will attack any enemies that come in range.
-35249 := [Failure] You do not have enough repair parts.
-35250 := [Success] Patrol mode engaged. Once you end this session the droid will begin patrol and destroy any enemies it encounters. 
-35251 := WARNING: Once you end this session the droid's program will be locked in. You will not be able to modifiy the droid anymore.
-35252 := [Success] The droid's shields are now active.
-35253 := [Success] The droid is now set for maximum accuracy.
-35254 := [Success] The droid is now set for maximum firepower.
-35255 := The droid is now active. It will attack any enemies that come in range.
-35256 := The droid is actively engaged in its patrol route. You cannot reprogram it anymore.
-35257 := Leave it alone.
-35258 := Reactivate the droid. (1 repair part)
-35259 := Leave it alone.
-35260 := Engage droid in patrol mode. (<CUSTOM45> repair part(s))
-35261 := Activate droid's shields. (<CUSTOM44> repair part(s))
-35262 := Optimize droid's targeting systems. (<CUSTOM43> repair part(s))
-35263 := Optimize droid's weaponry. (<CUSTOM42> repair part(s))
-35264 := This droid is damaged and inactive.
-35265 := The droid engages its patrol mode and moves off to carry out your programmed instructions.
-35266 := You leave the droid alone for now.
-35267 := [Failure] You don't have any repair parts. You leave the droid alone for now.
-35268 := The droid is now active. It will attack any enemies that come in range.
-35269 := [Failure] You do not have enough repair parts.
-35270 := [Success] Patrol mode engaged. Once you end this session the droid will begin patrol and destroy any enemies it encounters. 
-35271 := WARNING: Once you end this session the droid's program will be locked in. You will not be able to modifiy the droid anymore.
-35272 := [Success] The droid's shields are now active.
-35273 := [Success] The droid is now set for maximum accuracy.
-35274 := [Success] The droid is now set for maximum firepower.
-35275 := The droid is now active. It will attack any enemies that come in range.
-35276 := The droid is actively engaged in its patrol route. You cannot reprogram it anymore.
-35277 := Leave it alone.
-35278 := Reactivate the droid. (1 repair part)
-35279 := Leave it alone.
-35280 := Engage droid in patrol mode. (<CUSTOM45> repair part(s))
-35281 := Activate droid's shields. (<CUSTOM44> repair part(s))
-35282 := Optimize droid's targeting systems. (<CUSTOM43> repair part(s))
-35283 := Optimize droid's weaponry. (<CUSTOM42> repair part(s))
-35284 := Water Pump Analysis
-35285 :=   In regards to the system in place to cycle water from the ocean to the thermal heaters:
-  What were you thinking?!? What made you put that airlock mechanism on the only other path to the north side of the base?? Now everyone has to know how to cycle the water out of one room and into the adjoining one for each of the three rooms in sequence without accidental flooding the room they're in. We lost seven troopers just this week!
-  Next time I'm there you better show me how to do it properly! I can't afford to lose any more of my aides while trying to get to the Selkath!
-35286 := Data Module
-35287 := This is an encrypted data module retrieved from the remains of a Republic droid.
-35288 :=   These appear to be the personal notes of the Dark Jedi Master in charge of the Sith base on Manaan. It seems that the Sith have been trying to turn impressionable young Selkath over to the dark side.
-  After reading the lengthy progress reports on this topic, it seems that the final plan was to use these young Selkath to overthrow the current government and install a puppet government that the Sith would dominate.
-35289 := Water door
-35290 := Flow Control Room
-35291 := East Barracks
-35292 := Medical Room
-35293 := Information Analysis Room
-35294 := West Barracks
-35295 := Disassembly Room
-35296 := South Computer Room
-35297 := West Lounge
-35298 := Diagnostic Room
-35299 := Dormitory
-35300 := North Computer Room
-35301 := Fallen Bag
-35302 := Desk
-35303 := Door Control
-35304 := Flow Control
-35305 := Master node
-35306 := Steam vent
+35196 := 马南 - 西斯基地
+35197 := 压强交换控制
+35198 := 警告！
+淹没有人占用的房间可能导致死亡！
+确认压强变更？
+35199 := 压强变更已中止
+35200 := 压强变更开始……
+35201 := 中止。
+35202 := 确认。
+35203 := 系统载入中……
+完成
+命令？
+35204 := 正在退出系统……
+35205 := [失败] 访问被拒
+计算机破解器不足
+命令？
+35206 := 系统覆盖已接受
+命令？
+35207 := [失败] 访问被拒
+物理封锁生效
+计算机破解器被拒绝
+35208 := [成功] 哨戒机器人重编程完成
+自动瞄准已启用
+切换到安保摄像头
+35209 := [成功] 哨戒机器人已停用
+切换到安保摄像头
+35210 := [成功] 导管已过载
+切换到安保摄像头
+35211 := 命令？
+35212 := [成功] 导管已过载
+切换到安保摄像头
+35213 := 命令？
+35214 := [失败] 访问被拒
+计算机破解器不足
+命令？
+35215 := [成功] 安保门锁已覆盖
+访问已授权
+命令？
+35216 := 注销。
+35217 := [计算机] 切入计算机。（<CUSTOM35> 个计算机破解器）
+35218 := 注销。
+35219 := [计算机] 停用基地安保系统。（30 个计算机破解器）
+35220 := [计算机] 重编程流量控制室哨戒机器人攻击一切目标。（<CUSTOM34> 个计算机破解器）
+35221 := [计算机] 停用流量控制室哨戒机器人。（<CUSTOM33> 个计算机破解器）
+35222 := [计算机] 使东营房动力导管过载。（<CUSTOM32> 个计算机破解器）
+35223 := [计算机] 使流量控制导管过载。（<CUSTOM32> 个计算机破解器）
+35224 := [计算机] 打开所有安保门。（<CUSTOM31> 个计算机破解器）
+35225 := 系统载入中……
+完成
+命令？
+35226 := 正在退出系统……
+35227 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+35228 := 系统覆盖已接受
+命令？
+35229 := [失败] 访问被拒
+物理封锁生效
+计算机破解器被拒绝
+35230 := [成功] 哨戒机器人重编程完成
+自动瞄准已启用
+切换到安保摄像头
+35231 := [成功] 哨戒机器人已停用
+切换到安保摄像头
+35232 := [成功] 导管已过载
+切换到安保摄像头
+35233 := 输入命令
+35234 := [失败] 访问被拒
+计算机破解器不足
+命令？
+35235 := [成功] 安保门锁已覆盖
+访问已授权
+命令？
+35236 := 注销。
+35237 := [计算机] 切入计算机。（1 个计算机破解器）
+35238 := 注销。
+35239 := [计算机] 停用基地安保系统。（30 个计算机破解器）
+35240 := [计算机] 重编程拆解室哨戒机器人攻击一切目标。（<CUSTOM34> 个计算机破解器）
+35241 := [计算机] 停用拆解室哨戒机器人。（<CUSTOM33> 个计算机破解器）
+35242 := [计算机] 使西营房动力导管过载。（<CUSTOM32> 个计算机破解器）
+35243 := [计算机] 打开所有安保门。（<CUSTOM31> 个计算机破解器）
+35244 := 这个机器人已损坏并处于停用状态。
+35245 := 机器人启用巡逻模式，离开去执行你编程的指令。
+35246 := 你暂时不去管这个机器人。
+35247 := [失败] 你没有任何修理零件。你暂时不去管这个机器人。
+35248 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+35249 := [失败] 你的修理零件不足。
+35250 := [成功] 巡逻模式已启用。你结束本次会话后，机器人将开始巡逻，并摧毁它遇到的任何敌人。
+35251 := 警告：一旦你结束本次会话，机器人的程序将被锁定。你将无法再修改这个机器人。
+35252 := [成功] 机器人的护盾现已激活。
+35253 := [成功] 机器人现已设为最高精度。
+35254 := [成功] 机器人现已设为最大火力。
+35255 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+35256 := 机器人正在执行巡逻路线。你无法再重编程它。
+35257 := 别管它。
+35258 := 重新激活机器人。（1 个修理零件）
+35259 := 别管它。
+35260 := 启用机器人的巡逻模式。（<CUSTOM45> 个修理零件）
+35261 := 激活机器人的护盾。（<CUSTOM44> 个修理零件）
+35262 := 优化机器人的瞄准系统。（<CUSTOM43> 个修理零件）
+35263 := 优化机器人的武器系统。（<CUSTOM42> 个修理零件）
+35264 := 这个机器人已损坏并处于停用状态。
+35265 := 机器人启用巡逻模式，离开去执行你编程的指令。
+35266 := 你暂时不去管这个机器人。
+35267 := [失败] 你没有任何修理零件。你暂时不去管这个机器人。
+35268 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+35269 := [失败] 你的修理零件不足。
+35270 := [成功] 巡逻模式已启用。你结束本次会话后，机器人将开始巡逻，并摧毁它遇到的任何敌人。
+35271 := 警告：一旦你结束本次会话，机器人的程序将被锁定。你将无法再修改这个机器人。
+35272 := [成功] 机器人的护盾现已激活。
+35273 := [成功] 机器人现已设为最高精度。
+35274 := [成功] 机器人现已设为最大火力。
+35275 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+35276 := 机器人正在执行巡逻路线。你无法再重编程它。
+35277 := 别管它。
+35278 := 重新激活机器人。（1 个修理零件）
+35279 := 别管它。
+35280 := 启用机器人的巡逻模式。（<CUSTOM45> 个修理零件）
+35281 := 激活机器人的护盾。（<CUSTOM44> 个修理零件）
+35282 := 优化机器人的瞄准系统。（<CUSTOM43> 个修理零件）
+35283 := 优化机器人的武器系统。（<CUSTOM42> 个修理零件）
+35284 := 水泵分析
+35285 :=   关于目前用于将水从海洋循环至热能加热器的系统：
+  你们到底在想什么？！为什么要把那个气闸机制装在通往基地北侧的唯一另一条路上？？现在每个人都必须知道如何按顺序把三个房间里的水从一个房间循环到相邻房间，还不能意外淹没自己所在的房间。光这周我们就损失了七名士兵！
+  下次我到那里时，你最好给我演示正确做法！我可承受不起为了去见那些塞尔卡斯人又损失更多助手！
+35286 := 数据模块
+35287 := 这是一个从共和国机器人残骸中取回的加密数据模块。
+35288 :=   这些似乎是负责马南西斯基地的黑暗绝地大师的私人笔记。看起来西斯一直试图把容易受影响的年轻塞尔卡斯人引向黑暗面。
+  读完关于此事的冗长进度报告后，最终计划似乎是利用这些年轻塞尔卡斯人推翻现政府，并扶植一个受西斯支配的傀儡政府。
+35289 := 水门
+35290 := 流量控制室
+35291 := 东营房
+35292 := 医疗室
+35293 := 信息分析室
+35294 := 西营房
+35295 := 拆解室
+35296 := 南计算机室
+35297 := 西休息室
+35298 := 诊断室
+35299 := 宿舍
+35300 := 北计算机室
+35301 := 掉落的袋子
+35302 := 桌子
+35303 := 门控制
+35304 := 流量控制
+35305 := 主节点
+35306 := 蒸汽口
 35307 := man27_waterlvl01
-35308 := Steam Vent 1
-35309 := Steam Vent 2
-35310 := Steam Vent 3
-35311 := Steam Vent 4
-35312 := Steam Vent 5
-35313 := Steam Vent 6
-35314 := Steam Vent 7
-35315 := Shasa Initiates
-35316 := Master initiates
+35308 := 蒸汽口 1
+35309 := 蒸汽口 2
+35310 := 蒸汽口 3
+35311 := 蒸汽口 4
+35312 := 蒸汽口 5
+35313 := 蒸汽口 6
+35314 := 蒸汽口 7
+35315 := 莎莎初始化
+35316 := 大师初始化
 35317 := POST_man27_seljed6
-35318 := SYSTEM LOADING...
-COMPLETE
-COMMAND?
-35319 := EXITING SYSTEM...
-35320 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-35321 := SYSTEM OVERRIDE ACCEPTED
-COMMAND?
-35322 := [FAILURE] SYSTEM ERROR
-CABLE CONNECTION DAMAGED
-SPIKES REJECTED
-35323 := [SUCCESS] SENTRY DROID REPROGRAMMING COMPLETE
-AUTO-TARGETTING ENGAGED
-SWITCHING TO SECURITY CAMERA
-35324 := [SUCCESS] SENTRY DROID SHIELD DEACTIVATED
-SWITCHING TO SECURITY CAMERA
-35325 := [SUCCESS] SENTRY TURRETS DEACTIVATED
-SWITCHING TO SECURITY CAMERA
-35326 := [SUCCESS] GAS VENTED
-SWITCHING TO SECURITY CAMERA
-35327 := COMMAND?
-35328 := [SUCCESS] GAS VENTED
-SWITCHING TO SECURITY CAMERA
-35329 := COMMAND?
-35330 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-COMMAND?
-35331 := [SUCCESS] SECURITY DOOR LOCKS OVERRIDDEN
-ACCESS GRANTED
-COMMAND?
-35332 := Log out.
-35333 := [Computer] Slice the computer. (<CUSTOM35> spike(s))
-35334 := Log out.
-35335 := [Computer] Remotely access kolto harvesting machinery. (50 spike(s))
-35336 := [Computer] Reprogram patrol droids to target everything. (<CUSTOM34> spike(s))
-35337 := [Computer] Deactivate shield on heavy sentry droid. (<CUSTOM33> spike(s))
-35338 := [Computer] Deactivate sentry turrets. (<CUSTOM33> spike(s))
-35339 := [Computer] Vent gas in west storage room. (<CUSTOM32> spike(s))
-35340 := [Computer] Vent gas in central storage room. (<CUSTOM32> spike(s))
-35341 := [Computer] Open all security doors. (<CUSTOM31> spike(s))
-35342 := This droid is damaged and inactive.
-35343 := The droid engages its patrol mode and moves off to carry out your programmed instructions.
-35344 := You leave the droid alone for now.
-35345 := [Failure] You don't have any repair parts. You leave the droid alone for now.
-35346 := The droid is now active. It will attack any enemies that come in range.
-35347 := [Failure] You do not have enough repair parts.
-35348 := [Success] Patrol mode engaged. Once you end this session the droid will begin patrol and destroy any enemies it encounters. 
-35349 := WARNING: Once you end this session the droid's program will be locked in. You will not be able to modifiy the droid anymore.
-35350 := [Success] The droid's shields are now active.
-35351 := [Success] The droid is now set for maximum accuracy.
-35352 := [Success] The droid is now set for maximum firepower.
-35353 := The droid is now active. It will attack any enemies that come in range.
-35354 := The droid is actively engaged in its patrol route. You cannot reprogram it anymore.
-35355 := Leave it alone.
-35356 := Reactivate the droid. (1 repair part)
-35357 := Leave it alone.
-35358 := Engage droid in patrol mode. (<CUSTOM45> repair part(s))
-35359 := Activate droid's shields. (<CUSTOM44> repair part(s))
-35360 := Optimize droid's targeting systems. (<CUSTOM43> repair part(s))
-35361 := Optimize droid's weaponry. (<CUSTOM42> repair part(s))
-35362 := This droid is damaged and inactive.
-35363 := The droid engages its patrol mode and moves off to carry out your programmed instructions.
-35364 := You leave the droid alone for now.
-35365 := [Failure] You don't have any repair parts. You leave the droid alone for now.
-35366 := The droid is now active. It will attack any enemies that come in range.
-35367 := [Failure] You do not have enough repair parts.
-35368 := [Success] Patrol mode engaged. Once you end this session the droid will begin patrol and destroy any enemies it encounters. 
-35369 := WARNING: Once you end this session the droid's program will be locked in. You will not be able to modifiy the droid anymore.
-35370 := [Success] The droid's shields are now active.
-35371 := [Success] The droid is now set for maximum accuracy.
-35372 := [Success] The droid is now set for maximum firepower.
-35373 := The droid is now active. It will attack any enemies that come in range.
-35374 := The droid is actively engaged in its patrol route. You cannot reprogram it anymore.
-35375 := Leave it alone.
-35376 := Reactivate the droid. (1 repair part)
-35377 := Leave it alone.
-35378 := Engage droid in patrol mode. (<CUSTOM45> repair part(s))
-35379 := Activate droid's shields. (<CUSTOM44> repair part(s))
-35380 := Optimize droid's targeting systems. (<CUSTOM43> repair part(s))
-35381 := Optimize droid's weaponry. (<CUSTOM42> repair part(s))
-35382 := [This submersible can be used to ascend to Ahto City.]
-35383 := [Step away from the submersible.]
-35384 := [Use the submersible.]
-35385 := Faulty Patrol Droid
-35386 := Heavy Sentry Droid
-35387 := Sentry Turret
-35388 := Scientist's Memo
-35389 :=   In response to those firaxan sharks outside I managed to whip up a little something in one of the workrooms. This is a sonic emitter which should scare them off. The sound seems to work a lot better underwater than through the air and if you fix it on the outside of an envirosuit, just push the button every time they get near and you'll have no problems.
-  So I was just wondering... when am I going to get that raise?
-                      -- Caal Jordan
-35390 := Body Parts
-35391 := The mangled and bloody remains of humans, Twi'leks and less identifiable species.
-35392 := This is a variant of a standard model envirosuit used to protect its occupant from hostile environmental conditions. In this case it has been specifically modified to withstand tremendous undersea pressures.
-35393 := Sonic Emitter
-35394 := This device emits a powerful sonic pulse useful for scaring off or stunning various wildlife. It normally has an extremely limited range, but in an underwater environment the signal would travel quite a distance. It has proven quite lethal to several species of firaxan sharks.
+35318 := 系统载入中……
+完成
+命令？
+35319 := 正在退出系统……
+35320 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+35321 := 系统覆盖已接受
+命令？
+35322 := [失败] 系统错误
+电缆连接受损
+计算机破解器被拒绝
+35323 := [成功] 哨戒机器人重编程完成
+自动瞄准已启用
+切换到安保摄像头
+35324 := [成功] 哨戒机器人护盾已停用
+切换到安保摄像头
+35325 := [成功] 哨戒炮塔已停用
+切换到安保摄像头
+35326 := [成功] 毒气已排出
+切换到安保摄像头
+35327 := 命令？
+35328 := [成功] 毒气已排出
+切换到安保摄像头
+35329 := 命令？
+35330 := [失败] 访问被拒
+计算机破解器不足
+命令？
+35331 := [成功] 安保门锁已覆盖
+访问已授权
+命令？
+35332 := 注销。
+35333 := [计算机] 切入计算机。（<CUSTOM35> 个计算机破解器）
+35334 := 注销。
+35335 := [计算机] 远程访问科尔托采收机械。（50 个计算机破解器）
+35336 := [计算机] 重编程巡逻机器人攻击一切目标。（<CUSTOM34> 个计算机破解器）
+35337 := [计算机] 停用重型哨戒机器人的护盾。（<CUSTOM33> 个计算机破解器）
+35338 := [计算机] 停用哨戒炮塔。（<CUSTOM33> 个计算机破解器）
+35339 := [计算机] 向西储藏室排放毒气。（<CUSTOM32> 个计算机破解器）
+35340 := [计算机] 向中央储藏室排放毒气。（<CUSTOM32> 个计算机破解器）
+35341 := [计算机] 打开所有安保门。（<CUSTOM31> 个计算机破解器）
+35342 := 这个机器人已损坏并处于停用状态。
+35343 := 机器人启用巡逻模式，离开去执行你编程的指令。
+35344 := 你暂时不去管这个机器人。
+35345 := [失败] 你没有任何修理零件。你暂时不去管这个机器人。
+35346 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+35347 := [失败] 你的修理零件不足。
+35348 := [成功] 巡逻模式已启用。你结束本次会话后，机器人将开始巡逻，并摧毁它遇到的任何敌人。
+35349 := 警告：一旦你结束本次会话，机器人的程序将被锁定。你将无法再修改这个机器人。
+35350 := [成功] 机器人的护盾现已激活。
+35351 := [成功] 机器人现已设为最高精度。
+35352 := [成功] 机器人现已设为最大火力。
+35353 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+35354 := 机器人正在执行巡逻路线。你无法再重编程它。
+35355 := 别管它。
+35356 := 重新激活机器人。（1 个修理零件）
+35357 := 别管它。
+35358 := 启用机器人的巡逻模式。（<CUSTOM45> 个修理零件）
+35359 := 激活机器人的护盾。（<CUSTOM44> 个修理零件）
+35360 := 优化机器人的瞄准系统。（<CUSTOM43> 个修理零件）
+35361 := 优化机器人的武器系统。（<CUSTOM42> 个修理零件）
+35362 := 这个机器人已损坏并处于停用状态。
+35363 := 机器人启用巡逻模式，离开去执行你编程的指令。
+35364 := 你暂时不去管这个机器人。
+35365 := [失败] 你没有任何修理零件。你暂时不去管这个机器人。
+35366 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+35367 := [失败] 你的修理零件不足。
+35368 := [成功] 巡逻模式已启用。你结束本次会话后，机器人将开始巡逻，并摧毁它遇到的任何敌人。
+35369 := 警告：一旦你结束本次会话，机器人的程序将被锁定。你将无法再修改这个机器人。
+35370 := [成功] 机器人的护盾现已激活。
+35371 := [成功] 机器人现已设为最高精度。
+35372 := [成功] 机器人现已设为最大火力。
+35373 := 机器人现在已激活。它会攻击任何进入范围的敌人。
+35374 := 机器人正在执行巡逻路线。你无法再重编程它。
+35375 := 别管它。
+35376 := 重新激活机器人。（1 个修理零件）
+35377 := 别管它。
+35378 := 启用机器人的巡逻模式。（<CUSTOM45> 个修理零件）
+35379 := 激活机器人的护盾。（<CUSTOM44> 个修理零件）
+35380 := 优化机器人的瞄准系统。（<CUSTOM43> 个修理零件）
+35381 := 优化机器人的武器系统。（<CUSTOM42> 个修理零件）
+35382 := [这艘潜水器可用于上升至阿赫托城。]
+35383 := [离开潜水器。]
+35384 := [使用潜水器。]
+35385 := 故障巡逻机器人
+35386 := 重型哨戒机器人
+35387 := 哨戒炮塔
+35388 := 科学家的备忘录
+35389 :=   针对外面那些费拉克萨鲨，我在一间工作室里赶制出了一点小东西。这是一个音波发射器，应该能吓退它们。声音在水下似乎比在空气中有效得多；如果你把它固定在环境防护服外侧，每次它们靠近时按下按钮，就不会有问题。
+  所以我只是想问问……我什么时候能加薪？
+                      -- 卡尔·乔丹
+35390 := 身体部件
+35391 := 人类、提列克人和更难辨认物种的残破血腥遗骸。
+35392 := 这是标准型号环境防护服的一种变体，用于保护穿戴者免受恶劣环境条件影响。在这个案例中，它经过专门改造，可以承受巨大的海底压强。
+35393 := 音波发射器
+35394 := 这个装置会发出强力音波脉冲，可用于吓退或震慑各种野生生物。通常它的范围极其有限，但在水下环境中，信号可以传播相当远。事实证明，它对若干种费拉克萨鲨具有很强杀伤力。
 35395 := man28a_sel1
 35396 := man28a_sel2
-35397 := Whimpering Locker
-35398 := Sentry pen
+35397 := 呜咽的储物柜
+35398 := 哨戒围栏
 35399 := gas1
 35400 := gas2
 35401 := POST_man28_shield
-35402 := Submersible Bay
-35403 := Security Control
-35404 := Airlock
-35405 := Envirosuit Storage
+35402 := 潜水器舱
+35403 := 安保控制
+35404 := 气闸
+35405 := 环境防护服储藏室
 35406 := 28bstrig
 35407 := 28bwtrig
-35408 := To Hrakert Station
-35409 := 6 seconds to complete depressurization.
-35410 := 12 seconds to complete depressurization.
-35411 := 18 seconds to complete depressurization.
-35412 := 24 seconds to complete depressurization.
-35413 := 30 seconds to complete depressurization.
-35414 := 36 seconds to complete depressurization.
-35415 := 42 seconds to complete depressurization.
-35416 := 48 seconds to complete depressurization.
-35417 := 54 seconds to complete depressurization.
-35418 := 60 seconds to complete depressurization.
-35419 := Chemical Cannister
-35420 := A cannister containing a chemical toxic to firaxan sharks.
-35421 := To Sea Floor
-35422 := To Sea Fllor
+35408 := 前往赫拉克特站
+35409 := 距完成减压还有 6 秒。
+35410 := 距完成减压还有 12 秒。
+35411 := 距完成减压还有 18 秒。
+35412 := 距完成减压还有 24 秒。
+35413 := 距完成减压还有 30 秒。
+35414 := 距完成减压还有 36 秒。
+35415 := 距完成减压还有 42 秒。
+35416 := 距完成减压还有 48 秒。
+35417 := 距完成减压还有 54 秒。
+35418 := 距完成减压还有 60 秒。
+35419 := 化学罐
+35420 := 一个装有对费拉克萨鲨有毒化学品的罐子。
+35421 := 前往海床
+35422 := 前往海床
 35423 := demo_trig_sm
 35424 := man28d_death
-35425 := To Kolto Control
-35426 := Kolto Control Panel
-35427 := Is Zaalbar sane or insane?
-35428 := Insane.
-35429 := Sane
-35430 := Captive Jedi
-35431 := Star Forge - Deck 1
-35432 := Your time is over, Jedi. This is the age of Lord Malak and the Sith!
-35433 := Remember this as you fall beneath the blade of my lightsaber!
-35434 := Ah... more victims for us to slaughter.
-35435 := We don't want the Sith to cut off our escape route. We'll stay here and hold this docking bay. You get in there and find Malak!
-35436 := We don't want the Sith to cut off our escape route. We'll stay here and hold this docking bay. You get in there and find Bastila!
-35437 := You made it! Several Jedi have already gone ahead into the Star Forge. We have to strike while we still have the element of surprise!
-35438 := We have to find Malak! A victory by the Republic fleet won't mean anything if the Dark Lord gets away.
-35439 := If we don't stop Bastila from using her Battle Meditation the entire Republic fleet will be wiped out!
-35440 := Come on, before they...
-35441 := We'll deal with these Sith - you get into the Star Forge and find Malak!
-35442 := We'll deal with these Sith - you get into the Star Forge and find Bastila! Hurry!
-35443 := The Sith will want to cut off our escape. We'll stay here and protect the ships so we can get out of here once Malak's dead!
-35444 := The Sith will want to cut off our escape. We'll stay here and protect the ships so we can get out of here once you stop Bastila!
-35445 := Lord Malak, a team of Jedi have penetrated our defenses! Their fighters have landed on the Star Forge.
-35446 := This is not unexpected. The Jedi are formidable opponents. Send the Star Forge's battle droids to deal with them.
-35447 := Lord Malak, forgive me... but how can mere droids be a match for the Jedi?
-35448 := You underestimate the power of the Star Forge's droid army. Dispatch the droids.
-35449 := Of course, Lord Malak.
-35450 := The Jedi have invaded the Star Forge. Destroy them. Destroy them all.
-35451 := Wait! This... this isn't right. What am I doing here? I know you are evil, but I followed you anyway! What have I done?
-35452 := You tricked me, Revan! You twisted my mind and made me kill Mission! I will avenge her death! RAARGH!
-35453 := [This door is locked and will not open.]
-35454 := [This door is locked and must be opened by some other method.]
-35455 := Sith Jedi
-35456 := East Door
-35457 := Elevator Door
-35458 := West Door
-35459 := Cut Scene 1
-35460 := Cut Scene 2
-35461 := Zaalbar Init Trigger
-35462 := Bastila Spawn Trigger
-35463 := Lock East Trigger
-35464 := Lock West Trigger
-35465 := Cut Scene 1 Trigger
-35466 := Cut Scene 2 Trigger
-35467 := Cut Scene 3 Trigger
-35468 := To East Elevator Map Note
-35469 := To East Elevator
-35470 := To Elevator Map Note
-35471 := To Elevator
-35472 := To West Elevator Map Note
-35473 := To West Elevator
-35474 := End Game Waypoint
-35475 := Darth Malak Leave Waypoint
-35476 := East Entrance Waypoint
-35477 := West Entrance Waypoint
-35478 := East Waypoint
-35479 := Jedi Waypoint
-35480 := Sith Jedi Waypoint
-35481 := West Waypoint
-35482 := Star Forge - Deck 2
-35483 := Why have you disturbed me?
-35484 := I have news, Lord Malak. About the Jedi.
-35485 := Ah, the Jedi. Did my droids pass their test? Did they destroy our enemies?
-35486 := N-no, Lord Malak. The droids could not stop them.
-35487 := Strange. I did not think there were any among the Order who could survive an attack by an army of the Star Forge's battle droids.
-35488 := It... it was Revan, Lord Malak. Your old master is with the Jedi, here on the Star Forge!
-35489 := Yes... that would explain why the droids failed. Revan always was strong in the Force. Very well - send out all available troops. The apprentices, as well.
-35490 := Do you... do you think they can stop Revan, Lord Malak?
-35491 := Of course not! But they will slow Revan down. That will give me the time I need to fully prepare the Star Forge's defenses.
-35492 := I am curious to see the true extent of this space station's capabilities. One as powerful as my old master will make an interesting test subject.
-35493 := SYSTEM LOADING...
-COMPLETE
-35494 := STAR FORGE DEFENSES ENGAGED
-TURRETS ACTIVE
-35495 := EXITING SYSTEM...
-35496 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-35497 := SYSTEM OVERRIDE ACCEPTED
-ENTER COMMAND
-35498 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-35499 := [SUCCESS] SENTRY TURRETS DEACTIVATED
-SWITCHING TO SECURITY CAMERA
-35500 := TURRETS DEACTIVATED
-ENTER COMMAND
-35501 := Log out.
-35502 := [Computer] Slice the computer. (1 spike)
-35503 := Log out.
-35504 := [Computer] Deactivate sentry guns. (<CUSTOM33> spike(s))
-35505 := [This door is locked and will not open.]
-35506 := [This door cannot be opened while the turrets are active.]
-35507 := Star Forge - Trooper Encounter
-35508 := Star Forge - Apprentice Encounter
-35509 := Star Forge Computer Terminal
-35510 := Plastic Cylinder
-35511 := Metal Cylinder
-35512 := Lock East Door Trigger
-35513 := Lock West Door Trigger
-35514 := Elevator Waypoint
-35515 := Malak Leave Waypoint
-35516 := Master Leave Waypoint
-35517 := Star Forge - Command Center
-35518 := The Star Forge is under assault from the entire Republic fleet! If I don't use my Battle Meditation to turn the tide, Admiral Dodonna's capital ships will destroy the Star Forge.
-35519 := I have to stay here in the command center so that I can best use my Battle Meditation against our enemy. If I don't the Star Forge will be lost!
-35520 := You must go to face Malak without me. Find him, kill him and reclaim the title of Dark Lord of the Sith!
-35521 := You summoned us, Lord Malak?
-35522 := Bastila has betrayed me. I must select a new successor to be my apprentice; one who will one day take the mantle of Sith Lord away from me.
-35523 := Of all the Dark Jedi that have sworn allegiance to me, you three are the strongest. One of you will have the honor of becoming my new apprentice... if you prove yourself worthy.
-35524 := Tell me what I must do, Master! Anything!
-35525 := Revan is on the Star Forge, looking to reclaim the title of Dark Lord of the Sith. Wait here for my old master. Whichever one of you deals the killing blow to Revan will become my new apprentice.
-35526 := We will not fail you, Master!
-35527 := Perhaps you will triumph. But even if you fail it will give me the time I need to complete my preparations of the station's defenses.
-35528 := And then we shall see if Revan can stand against the full fury of the Star Forge! Ha-ha-ha!
-35529 := Bastila! You were a fool to betray the Master... and an even bigger fool to return to the Star Forge.
-35530 := The only fools are those who still follow Malak. Open your eyes and see the true Lord of the Sith: Revan has returned!
-35531 := Revan is nothing! Malak earned the title of Dark Lord by defeating his old Master - and now I will become Malak's new apprentice by doing the same!
-35532 := ACCESSING STAR FORGE
-SECURITY SYSTEM...
-35533 := GENERATORS INACTIVE
-CONTROL DECK OPEN
-35534 := DROID GENERATORS ACTIVE
-CONTROL DECK SEALED
-35535 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-35536 := [SUCCESS] SYSTEM OVERRIDE
-SHUTTING DOWN DROID GENERATORS
+35425 := 前往科尔托控制
+35426 := 科尔托控制面板
+35427 := 扎尔巴是清醒还是疯狂？
+35428 := 疯狂。
+35429 := 清醒
+35430 := 被俘绝地
+35431 := 星际锻炉 - 甲板 1
+35432 := 你的时代结束了，绝地。现在是马拉克尊主与西斯的时代！
+35433 := 当你倒在我的光剑剑刃之下时，记住这一点！
+35434 := 啊……又有更多受害者让我们屠宰了。
+35435 := 我们不能让西斯切断我们的撤退路线。我们会留在这里守住这个停泊舱。你进去找到马拉克！
+35436 := 我们不能让西斯切断我们的撤退路线。我们会留在这里守住这个停泊舱。你进去找到巴丝蒂拉！
+35437 := 你成功了！已经有几名绝地先行进入星际锻炉。趁我们还有突袭优势，必须马上出击！
+35438 := 我们必须找到马拉克！如果黑暗尊主逃走，共和国舰队的胜利就毫无意义。
+35439 := 如果不阻止巴丝蒂拉使用战斗冥想，整支共和国舰队都会被消灭！
+35440 := 快，在他们……
+35441 := 我们会处理这些西斯——你进入星际锻炉，找到马拉克！
+35442 := 我们会处理这些西斯——你进入星际锻炉，找到巴丝蒂拉！快！
+35443 := 西斯会想切断我们的退路。我们会留在这里保护飞船，这样等马拉克死后，我们就能离开这里！
+35444 := 西斯会想切断我们的退路。我们会留在这里保护飞船，这样等你阻止巴丝蒂拉后，我们就能离开这里！
+35445 := 马拉克尊主，一队绝地突破了我们的防御！他们的战机已经降落在星际锻炉上。
+35446 := 这并不出乎意料。绝地是强大的对手。派星际锻炉的战斗机器人去对付他们。
+35447 := 马拉克尊主，请原谅我……但区区机器人怎么可能敌得过绝地？
+35448 := 你低估了星际锻炉机器人大军的力量。派出机器人。
+35449 := 当然，马拉克尊主。
+35450 := 绝地已经入侵星际锻炉。摧毁他们。把他们全部摧毁。
+35451 := 等等！这……这不对。我在这里做什么？我知道你是邪恶的，但我还是跟随了你！我都做了什么？
+35452 := 你骗了我，瑞文！你扭曲了我的心智，让我杀了米申！我要为她报仇！吼啊啊！
+35453 := [这扇门已锁住，不会打开。]
+35454 := [这扇门已锁住，必须用其他方法打开。]
+35455 := 西斯绝地
+35456 := 东门
+35457 := 电梯门
+35458 := 西门
+35459 := 过场 1
+35460 := 过场 2
+35461 := 扎尔巴初始化触发器
+35462 := 巴丝蒂拉生成触发器
+35463 := 锁定东门触发器
+35464 := 锁定西门触发器
+35465 := 过场 1 触发器
+35466 := 过场 2 触发器
+35467 := 过场 3 触发器
+35468 := 前往东电梯地图注记
+35469 := 前往东电梯
+35470 := 前往电梯地图注记
+35471 := 前往电梯
+35472 := 前往西电梯地图注记
+35473 := 前往西电梯
+35474 := 结局路点
+35475 := 达斯·马拉克离开路点
+35476 := 东入口路点
+35477 := 西入口路点
+35478 := 东路点
+35479 := 绝地路点
+35480 := 西斯绝地路点
+35481 := 西路点
+35482 := 星际锻炉 - 甲板 2
+35483 := 你为什么打扰我？
+35484 := 我有关于绝地的消息，马拉克尊主。
+35485 := 啊，绝地。我的机器人通过考验了吗？它们摧毁我们的敌人了吗？
+35486 := 不……不，马拉克尊主。机器人没能阻止他们。
+35487 := 奇怪。我没想到武士团里还有人能在星际锻炉战斗机器人大军的攻击下幸存。
+35488 := 是……是瑞文，马拉克尊主。你的旧主人和绝地在一起，就在星际锻炉上！
+35489 := 是的……这就解释了为什么机器人失败。瑞文在原力中一直很强大。很好——派出所有可用部队。学徒们也一起。
+35490 := 你……你认为他们能阻止瑞文吗，马拉克尊主？
+35491 := 当然不能！但他们会拖慢瑞文。那会给我所需的时间，彻底准备好星际锻炉的防御。
+35492 := 我很好奇这座太空站能力的真正极限。像我的旧主人这样强大的存在，会是个有趣的测试对象。
+35493 := 系统载入中……
+完成
+35494 := 星际锻炉防御已启动
+炮塔激活
+35495 := 正在退出系统……
+35496 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+35497 := 系统覆盖已接受
+输入命令
+35498 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+35499 := [成功] 哨戒炮塔已停用
+切换到安保摄像头
+35500 := 炮塔已停用
+输入命令
+35501 := 注销。
+35502 := [计算机] 切入计算机。（1 个计算机破解器）
+35503 := 注销。
+35504 := [计算机] 停用哨戒炮。（<CUSTOM33> 个计算机破解器）
+35505 := [这扇门已锁住，不会打开。]
+35506 := [炮塔激活时，这扇门无法打开。]
+35507 := 星际锻炉 - 士兵遭遇
+35508 := 星际锻炉 - 学徒遭遇
+35509 := 星际锻炉计算机终端
+35510 := 塑料圆筒
+35511 := 金属圆筒
+35512 := 锁定东门触发器
+35513 := 锁定西门触发器
+35514 := 电梯路点
+35515 := 马拉克离开路点
+35516 := 大师离开路点
+35517 := 星际锻炉 - 指挥中心
+35518 := 星际锻炉正在遭到整支共和国舰队攻击！如果我不用战斗冥想扭转战局，多唐纳上将的主力舰就会摧毁星际锻炉。
+35519 := 我必须留在指挥中心，才能最好地用战斗冥想对抗我们的敌人。如果我不这样做，星际锻炉就会失守！
+35520 := 你必须在没有我的情况下去面对马拉克。找到他，杀了他，并夺回西斯黑暗尊主的头衔！
+35521 := 您召唤我们，马拉克尊主？
+35522 := 巴丝蒂拉背叛了我。我必须挑选新的继承者作为我的学徒；有朝一日，他会从我手中继承西斯尊主之位。
+35523 := 在所有向我宣誓效忠的黑暗绝地中，你们三个最强。你们其中一人将有荣幸成为我的新学徒……前提是你证明自己配得上。
+35524 := 告诉我必须做什么，大师！什么都行！
+35525 := 瑞文在星际锻炉上，想夺回西斯黑暗尊主的头衔。在这里等我的旧主人。你们中谁对瑞文打出致命一击，谁就成为我的新学徒。
+35526 := 我们不会让您失望，大师！
+35527 := 也许你们会胜利。但即便你们失败，也会给我所需时间完成这座空间站防御的准备。
+35528 := 然后我们就会看到瑞文能否抵挡星际锻炉的全部怒火！哈-哈-哈！
+35529 := 巴丝蒂拉！你背叛大师是个蠢货……而回到星际锻炉更是蠢上加蠢。
+35530 := 真正的蠢货，是那些仍然追随马拉克的人。睁开眼睛，看看真正的西斯尊主：瑞文回来了！
+35531 := 瑞文什么都不是！马拉克击败旧主人，赢得黑暗尊主头衔——现在我也会这样做，成为马拉克的新学徒！
+35532 := 正在访问星际锻炉
+安保系统……
+35533 := 发生器未激活
+控制甲板开启
+35534 := 机器人发生器激活
+控制甲板封闭
+35535 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+35536 := [成功] 系统覆盖
+正在关闭机器人发生器
 
-35537 := [Computer] Slice into system to open door. (<CUSTOM37> spike(s))
-35538 := Log off.
-35539 := ACCESSING DROID GENERATOR
-INTERNAL SYSTEM
-LOADING STATUS...
-35540 := SYSTEM OVERRIDE DETECTED
-GENERATOR REPROGRAMMED
-DROIDS NOT RESPONDING PROPERLY
+35537 := [计算机] 切入系统以打开门。（<CUSTOM37> 个计算机破解器）
+35538 := 注销。
+35539 := 正在访问机器人发生器
+内部系统
+正在载入状态……
+35540 := 检测到系统覆盖
+发生器已重编程
+机器人响应异常
 
-35541 := ALERT SYSTEM SERVICE IMMEDIATELY
-LOGGING OFF...
+35541 := 请立即通知系统服务部门
+正在注销……
 
 
-35542 := GENERATOR ACTIVE
-35543 := [SUCCESS] SYSTEM OVERRIDE DETECTED
-GENERATOR REPROGRAMMED
-DROIDS NOT RESPONDING PROPERLY
-35544 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-ENTER COMMAND
-35545 := [SUCCESS] SYSTEM SHUTDOWN
-GENERATOR INACTIVE
-LOGGING OFF...
+35542 := 发生器激活
+35543 := [成功] 检测到系统覆盖
+发生器已重编程
+机器人响应异常
+35544 := [失败] 访问被拒
+计算机破解器不足
+输入命令
+35545 := [成功] 系统关闭
+发生器未激活
+正在注销……
 
-35546 := GENERATOR INACTIVE
-35547 := [Computer] Override system to generate a droid to help you. (<CUSTOM36> spike(s))
-35548 := [Computer] Disable generator. (<CUSTOM35> spike(s))
-35549 := Log off.
-35550 := Master, why have you summoned me? Without my Battle Meditation there is a chance the Republic capital ships could break through and attack the Star Forge itself!
-35551 := This will not take long, Bastila. You will be able to resume your Battle Meditation soon enough. I only wanted you to know that Revan is here on the Star Forge.
-35552 := Revan? But...
-35553 := The Force is bringing us towards a confrontation with my old master. The Star Forge has drawn our enemies together so they may all die in a single, glorious day!
-35554 := You must kill Revan to prove yourself worthy of being my apprentice, Bastila. You must finish what began in the Rakatan Temple.
-35555 := Y-yes, Lord Malak.
-35556 := I sense your fear, Bastila. But it is unfounded. The power of the Star Forge will feed the dark side within you, it will give you the strength you need to defeat my old master.
-35557 := Stay here in the command center while you use your Battle Meditation against the Republic fleet. Revan will find you here in due time. It is inevitable.
-35558 := Of course, Master. I will not fail you again.
-35559 := Perhaps you will triumph, Bastila. But even if you fail it will give me the time I need to complete my preparations of the station's defenses.
-35560 := And then we shall see if Revan can stand against the full fury of the Star Forge! Ha-ha-ha!
-35561 := [This elevator door will not open; another method must be found.]
-35562 := [This door is held closed by some great power, and cannot be opened at the moment.]
-35563 := Spyder Droid
-35564 := Elevator Door West
-35565 := Elevator Door East
-35566 := Generator Terminal Assassin
-35567 := Generator Terminal Spyder
-35568 := Generator Terminal Assault 2
-35569 := Generator Terminal Assault 4
-35570 := Generator Terminal Probe
-35571 := Generator Terminal War
-35572 := Cut Scene Dark
-35573 := Cut Scene Light
-35574 := Bastila Evil Init Trigger
-35575 := Sith Init Trigger
-35576 := Droid Faction Trigger
-35577 := Explosives Waypoint
-35578 := Elevator Waypoint East
-35579 := Elevator Waypoint West
-35580 := Bastila Wait Waypoint
-35581 := Jedi 1 Push Waypoint
-35582 := Jedi 2 Push Waypoint
-35583 := Darth Malak 2 Waypoint
-35584 := Sith 1 Waypoint
-35585 := Sith 2 Waypoint
-35586 := Sith 3 Waypoint
-35587 := Sith 2 Walk Waypoint
-35588 := Sith 3 Walk Waypoint
-35589 := Sith Wait Waypoint
-35590 := Wait Waypoint
-35591 := Star Forge Factory
-35592 := [This door is held closed by some great power, and cannot be opened at the moment.]
-35593 := [This elevator is broken; the door will not open.]
-35594 := Cut Scene
-35595 := To Command Center Map Note
-35596 := To Command Center
-35597 := Entrance Waypoint
+35546 := 发生器未激活
+35547 := [计算机] 覆盖系统以生成一个机器人帮助你。（<CUSTOM36> 个计算机破解器）
+35548 := [计算机] 停用发生器。（<CUSTOM35> 个计算机破解器）
+35549 := 注销。
+35550 := 大师，您为什么召唤我？没有我的战斗冥想，共和国主力舰有可能突破防线并攻击星际锻炉本身！
+35551 := 这不会花很久，巴丝蒂拉。你很快就能恢复战斗冥想。我只是想让你知道，瑞文就在星际锻炉上。
+35552 := 瑞文？可是……
+35553 := 原力正在把我们推向与我旧主人的对决。星际锻炉已把我们的敌人聚到一起，让他们能在一个辉煌的日子里全部死去！
+35554 := 你必须杀死瑞文，证明自己配得上成为我的学徒，巴丝蒂拉。你必须完成在拉卡塔神庙开始的一切。
+35555 := 是……是，马拉克尊主。
+35556 := 我感到你的恐惧，巴丝蒂拉。但那毫无根据。星际锻炉的力量会滋养你内心的黑暗面，给予你击败我旧主人所需的力量。
+35557 := 留在指挥中心，用你的战斗冥想对抗共和国舰队。瑞文迟早会在这里找到你。这不可避免。
+35558 := 当然，大师。我不会再让您失望。
+35559 := 也许你会胜利，巴丝蒂拉。但即便你失败，也会给我所需时间完成这座空间站防御的准备。
+35560 := 然后我们就会看到瑞文能否抵挡星际锻炉的全部怒火！哈-哈-哈！
+35561 := [这扇电梯门不会打开；必须找到其他方法。]
+35562 := [这扇门被某种强大力量封住，目前无法打开。]
+35563 := 蜘蛛机器人
+35564 := 西侧电梯门
+35565 := 东侧电梯门
+35566 := 发生器终端刺客
+35567 := 发生器终端蜘蛛
+35568 := 发生器终端突击 2
+35569 := 发生器终端突击 4
+35570 := 发生器终端探测器
+35571 := 发生器终端战争
+35572 := 黑暗过场
+35573 := 光明过场
+35574 := 巴丝蒂拉邪恶初始化触发器
+35575 := 西斯初始化触发器
+35576 := 机器人阵营触发器
+35577 := 爆炸物路点
+35578 := 东电梯路点
+35579 := 西电梯路点
+35580 := 巴丝蒂拉等待路点
+35581 := 绝地 1 推送路点
+35582 := 绝地 2 推送路点
+35583 := 达斯·马拉克 2 路点
+35584 := 西斯 1 路点
+35585 := 西斯 2 路点
+35586 := 西斯 3 路点
+35587 := 西斯 2 行走路点
+35588 := 西斯 3 行走路点
+35589 := 西斯等待路点
+35590 := 等待路点
+35591 := 星际锻炉工厂
+35592 := [这扇门被某种强大力量封住，目前无法打开。]
+35593 := [这部电梯坏了；门不会打开。]
+35594 := 过场
+35595 := 前往指挥中心地图注记
+35596 := 前往指挥中心
+35597 := 入口路点
 35598 :=   
 35599 := m40ad
 35600 :=      

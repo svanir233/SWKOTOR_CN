@@ -156,6 +156,7 @@ star_wars,Builders,建造者,36,review,https://starwars.fandom.com/wiki/Rakata%2
 star_wars,bull dragon,公龙,5,review,tlk=StrRef 30004,,Tatooine 克雷特龙猎物语境；指雄性/大型克雷特龙
 star_wars,C8-42,C8-42,8,review,tlk=StrRef 8725,,Dantooine Elise Montagne 支线机器人；型号保留
 star_wars,C8-69,C8-69,3,review,tlk=StrRef 7778,,Dantooine Elise Montagne 支线机器人型号；型号保留
+star_wars,Caal Jordan,卡尔·乔丹,1,review,tlk=StrRef 35389,,Hrakert Station 科学家备忘录签名；中文译名按项目暂定
 star_wars,Calder,考尔德,81,review,https://starwars.fandom.com/wiki/Calder_Nettic,,Calder Nettic 的简称；中文译名按项目暂定
 star_wars,Calder Nettic,考尔德·耐蒂克,14,review,https://starwars.fandom.com/wiki/Calder_Nettic,,Dantooine 谋杀案支线死者；中文译名按项目暂定
 star_wars,Calin Industries,卡林工业,2,review,tlk=StrRef 5796,,机器人装甲说明中的公司；中文译名按项目暂定
@@ -1019,6 +1020,7 @@ star_wars,Sonic Attachment,音波附件,1,review,tlk=StrRef 20662,,Hrakert Stati
 star_wars,sonic barrier,音波屏障,1,review,tlk=StrRef 12203,,Czerka poachers 营地防护装置；中文译名按项目暂定
 star_wars,sonic emission,音波发射,3,review,tlk=StrRef 11980,,Czerka repulsor field 控制项；中文译名按项目暂定
 star_wars,sonic emitter,音波发射器,3,review,tlk=StrRef 38105,,Czerka poachers 营地防护装置；中文译名按项目暂定
+star_wars,Sonic Emitter,音波发射器,1,review,tlk=StrRef 35393,,Hrakert Station 设备标签；中文译名按项目暂定
 star_wars,sonic emitters,音波发射器,6,review,tlk=StrRef 12202,,sonic emitter 复数；中文译名按项目暂定
 star_wars,Sonic Grenade,音波手雷,2,review,https://starwars.fandom.com/wiki/Sonic_grenade,,KOTOR 武器名；中文译名按项目暂定
 star_wars,Sonic Pistol,音波手枪,4,review,https://starwars.fandom.com/wiki/Sonic_pistol,,KOTOR 武器名；中文译名按项目暂定
@@ -1030,6 +1032,7 @@ star_wars,special fire grenade,特殊火焰手雷,2,review,tlk=StrRef 16040,,Nag
 star_wars,spice,香料,75,review,https://starwars.fandom.com/wiki/Spice,,星战毒品/走私品语境
 star_wars,Spirit of Ajunta Pall,阿君塔·帕尔的灵魂,1,review,tlk=StrRef 15681,,Ajunta Pall tomb 灵魂标签；中文译名按项目暂定
 star_wars,Spirit of Freedon Nadd,弗里登·纳德的灵魂,1,review,tlk=StrRef 15691,,Ajunta Pall tomb 灵魂标签；中文译名按项目暂定
+star_wars,Spyder Droid,蜘蛛机器人,1,review,tlk=StrRef 35563,,Star Forge 敌方机器人标签；中文译名按项目暂定
 star_wars,squellbug,斯奎尔虫,1,review,tlk=StrRef 13571,,尤苏拉对白中的自然比喻生物；中文译名按项目暂定
 star_wars,Sslamoth,斯拉莫斯,1,review,tlk=StrRef 19258,,Manaan NPC 标签；中文译名按项目暂定
 star_wars,stabilizers,稳定器,19,review,tlk=StrRef 30565,,Ebon Hawk 坠毁后需修复/打捞的飞船部件；中文译名按项目暂定
