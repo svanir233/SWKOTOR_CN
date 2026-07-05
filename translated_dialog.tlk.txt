@@ -45200,208 +45200,208 @@ DC 20 免除震慑
 等级4
 
 此专长给予爆破和潜行各 +2 技能点数加值。此效果会取代谨慎给予的 +1 加值。
-42000 := Prerequisites:
-Level 8
+42000 := 先决条件：
+等级8
 
-This feat gives a +3 skill point bonus to both Demolitions and Stealth. This replaces the +2 bonus given by Improved Caution.
-42001 := Improved Gear Head
-42002 := Master Gear Head
-42003 := Prerequisites:
-Level 4
+此专长给予爆破和潜行各 +3 技能点数加值。此效果会取代强化谨慎给予的 +2 加值。
+42001 := 强化机械头脑
+42002 := 大师级机械头脑
+42003 := 先决条件：
+等级4
 
-This feat gives a +2 skill point bonus to Repair, Security and Computer Use. This replaces the +1 bonus given by Gear head.
-42004 := Prerequisites:
-Level 8
+此专长给予修理、安保和计算机操作 +2 技能点数加值。此效果会取代机械头脑给予的 +1 加值。
+42004 := 先决条件：
+等级8
 
-This feat gives a +3 skill point bonus to Repair, Security and Computer Use. This replaces the +2 bonus given by Improved Gear Head.
-42005 := This was the armor of the Mandalorian elite frontline troops, a sight that Republic soldiers were all too familiar with during the war.
-42006 := Force Points spent:
-42008 := alignment adjustment
-42009 := Taris Door 10 - Broken Door
-42010 := Default
-42011 := Set Brightness to Default value
-42012 := Free Blocks
+此专长给予修理、安保和计算机操作 +3 技能点数加值。此效果会取代强化机械头脑给予的 +2 加值。
+42005 := 这是曼达洛精英前线部队的护甲；战争期间，共和国士兵对这种景象再熟悉不过。
+42006 := 已花费原力点数：
+42008 := 阵营调整
+42009 := 塔里斯门10 - 损坏的门
+42010 := 默认
+42011 := 将亮度设为默认值
+42012 := 可用区块
 42014 := <CUSTOM0>,<CUSTOM1>
 42015 := 50,000+
-42016 := roll
-42017 := level
-42018 := Force Resistance
-42019 := <CUSTOM0> (roll <CUSTOM1> + level <CUSTOM2> vs. <CUSTOM3> Force Resistance <CUSTOM4>
-42020 := This item costs more than <CUSTOM0> credits.  Do you still wish to buy?
-42021 := Assemble
-42022 := Ebon Hawk Container
-42023 := Stock Ticker
-42024 := Czerka Ad Banner
-42025 := Upgrade Bench
-42026 := Upgrades:
-42027 := Unable to load saved game.  Press 'A' to continue.
+42016 := 掷骰
+42017 := 等级
+42018 := 原力抗性
+42019 := <CUSTOM0>（掷骰 <CUSTOM1> + 等级 <CUSTOM2> 对抗 <CUSTOM3> 原力抗性 <CUSTOM4>
+42020 := 此物品花费超过 <CUSTOM0> 信用点。你仍然想购买吗？
+42021 := 组装
+42022 := 乌木鹰号容器
+42023 := 股票行情条
+42024 := 泽卡广告横幅
+42025 := 升级工作台
+42026 := 升级：
+42027 := 无法载入已保存游戏。按 'A' 继续。
 42030 := <CUSTOM0> <CUSTOM1>
-42031 := is confused
-42032 := is stunned
-42033 := is choked
-42034 := is Force Pushed
-42035 := is frightened
-42036 := is droid stunned
-42037 := is held
-42038 := is sleeping
-42039 := is caught in a whirlwind
-42040 := is horrified
-42041 := in an unknown state
-42042 := <CUSTOM0> <CUSTOM1> with attack on <CUSTOM2>
-42043 := succeeds
-42044 := fails
-42045 := Look for them where the bodies of my fellows are. They will only attack you if you are not armed. The cowards.
-42046 := <CUSTOM0> used
-42047 := For the Republic!
-42048 := We can't let them take the ship!
-42049 := We have to finish this quickly!
-42050 := Die, Sith scum!
-42051 := Take them down!
-42052 := Yah!
-42053 := Yes?
-42054 := What?
-42055 := Yeah?
-42056 := They hit me pretty bad...
-42057 := Take that!
-42059 := I can't seem to hurt it!
-42060 := This'll give them a big surprise.
-42061 := It should be inactive now.
-42062 := They won't see a thing.
-42063 := I'll keep my eyes open.
-42064 := Let me have a look...
-42065 := It didn't work.
-42066 := Got it.
-42067 := Just hold there for a while.
-42068 := Let's get going.
-42069 := I think I'm... poisoned...
-42072 := is not confused
-42073 := is not stunned
-42074 := is not choked
-42075 := is not Force Pushed
-42076 := is not frightened
-42077 := is not droid stunned
-42078 := is not held
-42079 := is not sleeping
-42080 := is not caught in a whirlwind
-42081 := is not horrified
-42082 := Bastila has been captured by Darth Malak, your old apprentice.
-42083 := Malak has turned Bastila to the dark side. You confronted her atop the Rakatan Temple, but she escaped. No doubt she has fled to the Star Forge.
-42084 := Through your actions you have redeemed Bastila and brought her back to the light, just as you yourself were redemeed from your life as Darth Revan.
-42085 := You have returned to the dark side and embraced your old life. Bastila has joined you so that together you can reclaim the title of Dark Lord of the Sith from Malak, your old apprentice.
-42086 := You experienced a powerful vision upon first meeting Bastila. The vision could be an indication that you have a strong connection with the Force, but Bastila was reluctant to speculate on such matters.
-42087 := Bastila has told you she sees signs that the Force is acting through you. However, she was reluctant to speculate further, feeling such matters are the providence of the Jedi Council.
-42088 := Because of the bond you and Bastila share, she is extremely interested in learning more about your character. However, you get the sense there is something she isn't telling you.
-42089 := Bastila seems to have taken the role of teacher upon herself, choosing to lecture you about the evils of the dark side. Understandable, considering the bond the two of you share.
-42090 := In order to prepare you for your meeting with Darth Malak, Bastila described her own encounter with the Sith Lord Revan. According to Bastila, the Jedi wanted to capture Revan alive but were foiled when Malak betrayed his own master.
-42091 := Bastila told you something of her life before the Jedi. She was very adamant in her support of the Jedi's policy of severing all familial relationships, as emotional attachments are inherently dangerous to a Jedi.
-42092 := Apparently Bastila is still playing the role of mentor. She has been studying your progress carefully, and had much to say about your actions and the perils of the dark side.
-42093 := You've asked Bastila why the Jedi Council sent the two of you - neither fully trained - on this dangerous mission. Based on her answer, Bastila either has blind faith in the Council or she simply prefers to avoid the question.
-42094 := Bastila has apologized to you for her earlier attitude, and has admitted how much she respects and admires you as a person and a Jedi. Whether this will change anything between you remains to be seen.
-42095 := Bastila is having doubts about her own abilities as a Jedi. Hopefully her uncertainty won't work against the mission... or lead her down the path of the dark side.
-42096 := Bastila's doubts about her own abilites continue to grow. She is actually afraid she may now be a detriment to your development as a Jedi.
-42097 := You may want to try talking to Bastila again a little later. She might be more willing to talk at the next planet or once you are more experienced.
-42098 := Bastila wants to talk to you... but in privacy, away from the others. Speak to her again when you have returned to the Ebon Hawk.
-42099 := There's nothing more that needs to be said at the moment. Your relationship with Bastila is going to depend on the outcome of this mission, and perhaps once it is over with the two of you can look at what it is going to become. For now, however, the mission is more important... as is your destiny.
-42100 := There is nothing more to talk about with Bastila, at least for the time being.
-42101 := Bastila is lost to the dark side, and there was nothing you could do to convince her to return to the way of the light.
-42102 := Carth's revenge is complete, Saul Karath is dead. What Carth will do now is anyone's guess.
-42103 := You've discovered that Carth's home world was attacked by the Sith, though he was reluctant to talk about it. Perhaps you can talk more later, after you've gained more experience. 
-42104 := Although he has agreed to work with you, you've learned that Carth is suspicious and mistrustful of others. There is probably a reason behind his mistrust, but he was reluctant to discuss it.
-42105 := Despite being impressed with your abilities, Carth is still not willing to fully open up to you. Maybe if you give him some time he'll finally learn to trust you.
-42106 := It's obvious Carth is emotionally scarred by the betrayals of friends and allies at the start of the Sith war. There's probably more to the story, but he doesn't want to discuss it right now.
-42107 := You've learned that Carth's mentor, Saul Karath, was one of the first to defect to the Sith cause. It's no wonder Carth has trust issues, though he seems reluctant to talk about it right now.
-42108 := Carth feels like he's being left out of the loop where the Jedi Council and Bastila are concerned. Because of the betrayals in his past, he's not reacting to the situation well. Hopefully in time he'll learn to cope with his emotional demons.
-42109 := Carth has apologized for his previous behavior, and has promised to try not to punish his current companions for the betrayals of people in his past. Whether he can accomplish this remains to be seen.
-42110 := You've learned that Carth's wife and son were lost when Saul Karath led the Sith fleet against Carth's homeworld, making him swear vengeance on the man he once admired. Whether he will ever get a chance to make good on his oath remains to be seen.
-42111 := You've learned that Carth's wife and son were lost when Saul Karath led the Sith fleet against Carth's homeworld, making him swear vengeance on the man he once admired. Whether he will ever get a chance to make good on his oath remains to be seen.
-42112 := Carth is worried about you and Bastila. He's afraid the temptation of the dark side might destroy you both. He could be right... or he could just be a typically over-protective male.
-42113 := Once again Carth has vowed to kill Saul Karath for his betrayal. Hopefully Carth's desire for revenge won't jeopardize the mission.
-42114 := Carth has admitted he expects his vengeance against Saul to result in both their deaths. He hasn't even thought about what he will do next if he kills Saul and somehow manages to survive.
-42115 := It seems you've finally won Carth's full trust, though it wasn't easy. How this will affect the mission, or your relationship with Carth, remains to be seen.
-42116 := Carth is devastated after finding out who you truly are. Give him some time. Perhaps once the Star Maps have been found and the mission is nearer to its conclusion, you might want to try talking to him again.
-42117 := There is nothing more that remains to be said. Whatever becomes of you and Carth will have to be determined once your destiny is resolved... one way or the other.
-42118 := Carth and you have nothing more to talk about, for the moment.
-42119 := <CUSTOM0> with <CUSTOM1> vs. Defense <CUSTOM2> for damage <CUSTOM3>. 
-42120 := Do you wish to return to the Ebon Hawk?
-42121 := Damaged
-Game
-42122 := <CUSTOM0> Stealth Breakdown: <CUSTOM1> = roll <CUSTOM2> + stealth skill rank <CUSTOM3>
-42123 := <CUSTOM0> Awareness Breakdown: <CUSTOM1> = roll <CUSTOM2> + awareness skill rank <CUSTOM3>
-42124 := Press START
-42125 := standing still modifier <CUSTOM0>
-42126 := distance modifier <CUSTOM0>
-42127 := rear arc modifier <CUSTOM0>
-42128 := run modifier <CUSTOM0>
-42129 := combat modifier <CUSTOM0>
-42130 := Please reconnect the controller and press START to continue.
-42131 := The One is dead, allowing you to search the salvage of the Black Rakata for the parts you need to repair the Ebon Hawk. The disruptor field still surrounds this world, though, meaning you cannot leave until you have found a way to disable it. Perhaps the Red Rakata the One had mentioned could have answers...
-42132 := <CUSTOM0> successfully detects <CUSTOM1>: awareness <CUSTOM2> vs. DC <CUSTOM3>
-42133 := Hit
-42134 := Miss
-42135 := Do you wish to open the dashboard? 
+42031 := 处于困惑
+42032 := 处于震慑
+42033 := 被锁喉
+42034 := 被原力推击
+42035 := 处于惊惧
+42036 := 处于机器人震慑
+42037 := 被定身
+42038 := 正在睡眠
+42039 := 被卷入旋风
+42040 := 处于恐惧
+42041 := 处于未知状态
+42042 := <CUSTOM0> <CUSTOM1> 对 <CUSTOM2> 发动攻击
+42043 := 成功
+42044 := 失败
+42045 := 去我同伴尸体所在的地方找它们。只有在你没有武装时，它们才会攻击你。这些懦夫。
+42046 := 已使用 <CUSTOM0>
+42047 := 为了共和国！
+42048 := 不能让他们夺走这艘船！
+42049 := 我们必须快点结束！
+42050 := 死吧，西斯渣滓！
+42051 := 放倒他们！
+42052 := 呀！
+42053 := 什么事？
+42054 := 什么？
+42055 := 嗯？
+42056 := 他们把我打得很惨……
+42057 := 接招！
+42059 := 我好像伤不了它！
+42060 := 这会给他们一个大惊喜。
+42061 := 现在它应该失效了。
+42062 := 他们什么也看不见。
+42063 := 我会留神的。
+42064 := 让我看看……
+42065 := 没起作用。
+42066 := 搞定。
+42067 := 你就在那里待一会儿吧。
+42068 := 我们走吧。
+42069 := 我觉得我……中毒了……
+42072 := 未处于困惑
+42073 := 未处于震慑
+42074 := 未被锁喉
+42075 := 未被原力推击
+42076 := 未处于惊惧
+42077 := 未处于机器人震慑
+42078 := 未被定身
+42079 := 未在睡眠
+42080 := 未被卷入旋风
+42081 := 未处于恐惧
+42082 := 巴丝蒂拉已被你的旧徒弟达斯·马拉克俘虏。
+42083 := 马拉克已经让巴丝蒂拉转向黑暗面。你在拉卡塔神庙顶端与她对峙，但她逃走了。毫无疑问，她已经逃往星际锻炉。
+42084 := 通过你的行动，你救赎了巴丝蒂拉，把她带回了光明，就像你自己也从达斯·瑞文的人生中被救赎出来一样。
+42085 := 你已经回归黑暗面，拥抱了自己过去的人生。巴丝蒂拉加入了你，这样你们就能一起从你的旧徒弟马拉克手中夺回西斯黑暗尊主的头衔。
+42086 := 第一次见到巴丝蒂拉时，你经历了一个强烈的幻象。这个幻象可能表明你与原力有强烈联结，但巴丝蒂拉不愿对此类事情作出推测。
+42087 := 巴丝蒂拉告诉你，她看到了原力正在通过你行动的迹象。然而，她不愿进一步推测，认为此类事务属于绝地委员会的权限。
+42088 := 因为你和巴丝蒂拉共享的联结，她非常有兴趣进一步了解你的性格。然而，你感觉她还有什么事没有告诉你。
+42089 := 巴丝蒂拉似乎主动承担起教师角色，选择向你讲授黑暗面的邪恶。考虑到你们两人共享的联结，这可以理解。
+42090 := 为了让你准备好与达斯·马拉克会面，巴丝蒂拉描述了她自己与西斯尊主瑞文的遭遇。据巴丝蒂拉说，绝地本想活捉瑞文，却因马拉克背叛自己的大师而受挫。
+42091 := 巴丝蒂拉告诉了你一些她成为绝地之前的生活。她非常坚定地支持绝地切断一切家庭关系的政策，因为情感依附对绝地来说本质上很危险。
+42092 := 看来巴丝蒂拉仍在扮演导师角色。她一直仔细研究你的进展，并且对你的行动和黑暗面的危险说了很多。
+42093 := 你问过巴丝蒂拉，为什么绝地委员会会派你们两个尚未完全受训的人执行这项危险任务。根据她的回答，巴丝蒂拉不是盲目信任委员会，就是单纯更愿意避开这个问题。
+42094 := 巴丝蒂拉已经为她之前的态度向你道歉，并承认她作为一个人和一名绝地都非常尊重并钦佩你。这是否会改变你们之间的任何事，还有待观察。
+42095 := 巴丝蒂拉开始怀疑自己作为绝地的能力。希望她的不确定不会妨碍任务……也不会把她引上黑暗面道路。
+42096 := 巴丝蒂拉对自己能力的怀疑继续增长。她实际上害怕自己现在可能会妨碍你作为绝地的发展。
+42097 := 你也许应该稍后再试着和巴丝蒂拉谈谈。到下一个星球，或者等你更有经验后，她可能更愿意交谈。
+42098 := 巴丝蒂拉想和你谈谈……但要私下谈，远离其他人。等你回到乌木鹰号后再和她说话。
+42099 := 眼下没有更多需要说的了。你和巴丝蒂拉的关系将取决于这次任务的结果，也许等一切结束后，你们两人可以看看它究竟会变成什么样。然而现在，任务更重要……你的命运也是。
+42100 := 至少目前，你和巴丝蒂拉没有更多可谈的了。
+42101 := 巴丝蒂拉已经迷失于黑暗面，而你无法说服她回归光明之道。
+42102 := 卡斯的复仇已经完成，索尔·卡拉斯已死。卡斯接下来会做什么，谁也说不准。
+42103 := 你发现卡斯的家园曾遭西斯袭击，尽管他不愿谈这件事。也许等你获得更多经验后，可以稍后再多谈谈。
+42104 := 虽然他已经同意与你合作，但你了解到卡斯对他人多疑且不信任。他的不信任背后大概有原因，但他不愿讨论。
+42105 := 尽管他对你的能力印象深刻，卡斯仍不愿完全向你敞开心扉。也许给他一些时间，他最终会学会信任你。
+42106 := 很明显，卡斯因西斯战争开始时朋友和盟友的背叛而留下了情感创伤。故事背后大概还有更多内容，但他现在不想讨论。
+42107 := 你了解到卡斯的导师索尔·卡拉斯是最早投向西斯事业的人之一。难怪卡斯有信任问题，尽管他现在似乎不愿谈这件事。
+42108 := 在涉及绝地委员会和巴丝蒂拉的事情上，卡斯感觉自己被排除在外。由于过去的背叛，他对这种情况反应并不好。希望随着时间推移，他能学会应对自己的情感阴影。
+42109 := 卡斯已经为他之前的行为道歉，并承诺尽量不因过去那些人的背叛而惩罚现在的同伴。他能否做到，还有待观察。
+42110 := 你了解到，当索尔·卡拉斯率领西斯舰队攻击卡斯家园时，卡斯的妻子和儿子失踪了，这让他发誓要向这个曾经敬仰的人复仇。他是否有机会履行誓言，还有待观察。
+42111 := 你了解到，当索尔·卡拉斯率领西斯舰队攻击卡斯家园时，卡斯的妻子和儿子失踪了，这让他发誓要向这个曾经敬仰的人复仇。他是否有机会履行誓言，还有待观察。
+42112 := 卡斯担心你和巴丝蒂拉。他害怕黑暗面的诱惑可能毁掉你们两人。他也许是对的……也可能只是典型的保护过度男性。
+42113 := 卡斯再次发誓要因索尔·卡拉斯的背叛杀死他。希望卡斯的复仇欲不会危及任务。
+42114 := 卡斯承认，他预期自己对索尔的复仇会以两人同归于尽告终。他甚至没想过，如果他杀死索尔并设法活下来，之后该做什么。
+42115 := 看来你终于赢得了卡斯完全的信任，虽然这并不容易。这会如何影响任务，或者你与卡斯的关系，还有待观察。
+42116 := 卡斯得知你的真实身份后大受打击。给他一点时间。也许等星图都被找到、任务接近尾声时，你可以试着再和他谈谈。
+42117 := 已经没有更多需要说的了。你和卡斯会变成怎样，只能等你的命运得到解决后再决定……无论结果如何。
+42118 := 目前，你和卡斯没有更多可谈的了。
+42119 := <CUSTOM0> 使用 <CUSTOM1> 对抗防御值 <CUSTOM2>，造成伤害 <CUSTOM3>。
+42120 := 你想返回乌木鹰号吗？
+42121 := 损坏
+游戏
+42122 := <CUSTOM0> 潜行明细：<CUSTOM1> = 掷骰 <CUSTOM2> + 潜行技能级数 <CUSTOM3>
+42123 := <CUSTOM0> 察觉明细：<CUSTOM1> = 掷骰 <CUSTOM2> + 察觉技能级数 <CUSTOM3>
+42124 := 按 START
+42125 := 静止调整值 <CUSTOM0>
+42126 := 距离调整值 <CUSTOM0>
+42127 := 后方弧线调整值 <CUSTOM0>
+42128 := 奔跑调整值 <CUSTOM0>
+42129 := 战斗调整值 <CUSTOM0>
+42130 := 请重新连接控制器，然后按 START 继续。
+42131 := 唯一者已死，让你可以搜寻黑拉卡塔的打捞物，寻找修理乌木鹰号所需的零件。不过干扰场仍环绕着这个世界，这意味着你在找到停用它的方法前无法离开。也许唯一者提到过的红拉卡塔会有答案……
+42132 := <CUSTOM0> 成功侦测到 <CUSTOM1>：察觉 <CUSTOM2> 对抗 DC <CUSTOM3>
+42133 := 命中
+42134 := 未命中
+42135 := 你想打开控制面板吗？
 
-Press 'A' to continue or 
-press 'B' to return to the previous screen.
+按 'A' 继续，或
+按 'B' 返回上一画面。
 
-42136 := The PARTY INVENTORY screen shows a list of all the items not currently equipped by other party members or the companions back at your base. This inventory is shared by all party members.
-42137 := The game pauses when you sight an enemy, and the selection reticle will show up in red. You can cycle through hostile targets using the left and right triggers. This auto-pause option can be disabled on the Options screen.
-42139 := Do you wish to open the dashboard? 
+42136 := 队伍物品栏画面会列出当前没有被其他队伍成员或基地同伴装备的所有物品。此物品栏由所有队伍成员共享。
+42137 := 当你发现敌人时，游戏会暂停，选择准星会显示为红色。你可以使用左、右扳机在敌对目标之间循环切换。此自动暂停选项可在选项画面中禁用。
+42139 := 你想打开控制面板吗？
 
-Any unsaved games will be lost.
+任何未保存的游戏都会丢失。
 
-Press 'A' to go to the dashboard or 
-press 'B' to return to the previous screen.
+按 'A' 前往控制面板，或
+按 'B' 返回上一画面。
 
-42140 := You need to free <CUSTOM0> more blocks to save to a new slot.
+42140 := 你需要再释放 <CUSTOM0> 个区块，才能保存到新槽位。
 
-You will need to delete or overwrite an existing save game.
-42141 := Your Xbox doesn't have enough free blocks to save games. You need to free <CUSTOM0> more blocks. Press <abutton> to continue without saving or <bbutton> to free more blocks.
-42142 := Show Feedback
-42143 := Show Dialog
-42144 := Max Dexterity Bonus
-42145 := Balanced: +2/+0 vs. two-weapon penalty if used in the off hand
-42146 := Attack Breakdown: <CUSTOM0> <CUSTOM1> =
-42148 := Threat Breakdown: Roll <CUSTOM0> vs. required <CUSTOM1> - 20, threat <CUSTOM2> with Attack <CUSTOM3> vs. Defense <CUSTOM4>.
-42149 := Defense Breakdown: <CUSTOM0> = base 10
-42150 := Damage Breakdown: <CUSTOM0> = <CUSTOM1>
-42151 := Czerka Neon Sign
-42152 := Swoop Race Monitor
-42153 := Lage Cage - Empty (Impassable)
-42154 :=  + strength mod <CUSTOM0>
-42155 := bonus damage <CUSTOM0>
-42156 := sneak attack damage <CUSTOM0>
-42157 := Effect Application Breakdown:
+你需要删除或覆盖一个现有存档。
+42141 := 你的 Xbox 没有足够可用区块来保存游戏。你需要再释放 <CUSTOM0> 个区块。按 <abutton> 不保存并继续，或按 <bbutton> 释放更多区块。
+42142 := 显示反馈
+42143 := 显示对话
+42144 := 最大敏捷加值
+42145 := 平衡：若用于副手，双武器惩罚为 +2/+0
+42146 := 攻击明细：<CUSTOM0> <CUSTOM1> =
+42148 := 威胁明细：掷骰 <CUSTOM0> 对抗所需 <CUSTOM1> - 20，威胁 <CUSTOM2>，攻击 <CUSTOM3> 对抗防御值 <CUSTOM4>。
+42149 := 防御值明细：<CUSTOM0> = 基础10
+42150 := 伤害明细：<CUSTOM0> = <CUSTOM1>
+42151 := 泽卡霓虹招牌
+42152 := 飞梭赛监视器
+42153 := 大笼子 - 空（不可通行）
+42154 :=  + 力量调整值 <CUSTOM0>
+42155 := 额外伤害 <CUSTOM0>
+42156 := 偷袭伤害 <CUSTOM0>
+42157 := 效果应用明细：
 42158 := <CUSTOM0> <CUSTOM1>
-42159 := <CUSTOM0> was not <CUSTOM1>
-42160 := <CUSTOM0> resisted <CUSTOM1>
-42161 := Ring of Hanoi 1
-42162 := Ring of Hanoi 2
-42163 := Ring of Hanoi 3
-42164 := Ring of Hanoi 4
-42165 := New Items
-42166 := Gameplay
-42167 := Feedback
-42168 := Auto-Pause
-42169 := Graphics / Sound
-42170 := Sound
-42171 := Download Content
-42172 := Quit
-42174 := Some locked doors and containers can be opened by bashing or blasting them with a weapon until they open. Not all doors or containers can be successfully bashed.
-42178 := Class skills can have a maximum skill rank of <CUSTOM0> (current level + 3).
-42179 := Cross-class skills can have a maximum skill rank of <CUSTOM0> ((current level + 3) / 2).
-42180 := Attribute scores cannot be reduced below 8.
-42181 := Attribute scores cannot be raised above 18 during character generation.
-42182 := You cannot deselect a feat you already have.
-42183 := You gain this feat automatically at this level. You cannot deselect it.
-42184 := You do not yet have the necessary prerequisites to select this feat, or you have not yet selected the previous feat in this progression.
-42185 := You cannot deselect a power you already have.
-42186 := You do not yet have the necessary prerequisites to select this power, or you have not yet selected the previous power in this progression.
-42187 := You have gained new feats. You must use <xbutton> to select your new feats before continuing.
-42188 := You have gained new powers. You must use <xbutton> to select your new powers before continuing.
-42190 := PROGRAMMING
+42159 := <CUSTOM0> 不是 <CUSTOM1>
+42160 := <CUSTOM0> 抵抗了 <CUSTOM1>
+42161 := 河内环1
+42162 := 河内环2
+42163 := 河内环3
+42164 := 河内环4
+42165 := 新物品
+42166 := 游戏玩法
+42167 := 反馈
+42168 := 自动暂停
+42169 := 图像/声音
+42170 := 声音
+42171 := 下载内容
+42172 := 退出
+42174 := 有些上锁的门和容器可以用武器猛击或射击，直到它们打开。并非所有门或容器都能被成功砸开。
+42178 := 职业技能的最高技能级数为 <CUSTOM0>（当前等级 + 3）。
+42179 := 跨职业技能的最高技能级数为 <CUSTOM0>（（当前等级 + 3）/ 2）。
+42180 := 属性值不能降到 8 以下。
+42181 := 角色生成期间，属性值不能提升到 18 以上。
+42182 := 你不能取消选择已经拥有的专长。
+42183 := 你会在此等级自动获得此专长。你不能取消选择它。
+42184 := 你尚不具备选择此专长所需的先决条件，或尚未选择此进阶序列中的前一个专长。
+42185 := 你不能取消选择已经拥有的能力。
+42186 := 你尚不具备选择此能力所需的先决条件，或尚未选择此进阶序列中的前一个能力。
+42187 := 你获得了新专长。继续前必须使用 <xbutton> 选择你的新专长。
+42188 := 你获得了新能力。继续前必须使用 <xbutton> 选择你的新能力。
+42190 := 程序
 
 
-Programmers
+程序员
 MARC AUDY
 ROBERT BABIAK
 SOPHIA CHAN
@@ -45415,24 +45415,24 @@ RYAN HOYLE
 JANICE THOMS
 CRAIG WELBURN
 
-Graphics Programmers
+图形程序员
 JOHN BIBLE
 PAT CHAN
 PETER WOYTIUK
 
-BioWare Lead Tools Programmer
+BioWare 首席工具程序员
 DON MOAR
 
-Tools Programmers
+工具程序员
 OWEN BORSTAD
 TIM SMITH
 KRIS TAN
 SYDNEY TANG
 
-BioWare Director of Programming
+BioWare 程序总监
 SCOTT GREIG
 
-Additional Programming
+其他程序
 BROOK BAKAY
 KORIN BAMPTON
 ROB BOYD
@@ -45442,12 +45442,12 @@ CHARLES RANDALL
 DON YAKIELASHEK
 
 
-DESIGN
+设计
 
-Senior Writer
+高级编剧
 DREW KARPYSHYN
 
-Designers
+设计师
 JASON BOOTH
 DAVID GAIDER
 LUKE KRISTJANSON
@@ -45460,20 +45460,20 @@ JOHN WINSKI
 
 
 
-AUDIO
+音频
 
 
-Sound Implementation / Additional Sound Design
+声音实现 / 其他声音设计
 DAVID CHAN
 JOHN HENKE
 STEVE SIM
 
 
 
-ART
+美术
 
 
-3D Artists
+3D 美术
 DEAN ANDERSEN
 NOLAN CUNNINGHAM
 MIKE GRILLS
@@ -45486,48 +45486,48 @@ MIKE SPALDING
 JASON SPYKERMAN
 MICHAEL TROTTIER
 
-2D Artists
+2D 美术
 SUNG KIM
 MIKE LEONARD
 ROB SUGAMA
 RION SWANSON
 
-Technical Artists
+技术美术
 HARVEY FONG
 TOBYN MANTHORPE
 
-3D Visual Effects Artist
+3D 视觉特效美术
 ALEX SCOTT
 
-2D GUI Art
+2D 界面美术
 ROB SUGAMA
 
-Additional Art
+其他美术
 MATT GOLDMAN
 
-Concept Art
+概念美术
 JOHN GALLAGHER
 CASEY HUDSON
 SEAN SMAILES
 MIKE SPALDING
 DEREK WATTS
 
-BioWare Director of Concept Art
+BioWare 概念美术总监
 JOHN GALLAGHER
 
-BioWare Director of Promotional Art
+BioWare 宣传美术总监
 MIKE SASS
 
-Promotional Artists
+宣传美术
 TODD GRENIER
 MIKE SASS
 
 
 
-ANIMATION
+动画
 
 
-In-Game Animation
+游戏内动画
 CARMAN CHEUNG
 CHRIS HALE
 MARK HOW
@@ -45537,19 +45537,19 @@ JOHN SANTOS
 LARRY STEVENS
 HENRIK VASQUEZ
 
-Cutscene Director / BioWare Director of Art
+过场动画导演 / BioWare 美术总监
 DAVID HIBBELN
 
-Lead Cutscene Animator
+首席过场动画师
 TONY DE WAAL
 
-Pre-Rendered Cutscene Artists
+预渲染过场美术
 CHRIS MANN
 SHERRIDON ROUTLEY
 GINA WELBOURN
 SHANE WELBOURN
 
-In-Game Cutscene Animators
+游戏内过场动画师
 CARMAN CHEUNG
 MARK HOW
 RICK LI
@@ -45559,10 +45559,10 @@ HENRIK VASQUEZ
 
 
 
-QUALITY ASSURANCE
+质量保证
 
 
-Quality Assurance
+质量保证
 ALAIN BAXTER
 DERRICK COLLINS
 NATHAN FREDERICK
@@ -45576,85 +45576,85 @@ CHRIS PRIESTLY
 IAIN STEVENS-GUILLE
 STANLEY WOO
 
-Additional QA
+其他质量保证
 JONATHAN EPP
 BRUCE VENNE
 
-BioWare Director of Quality Assurance 
+BioWare 质量保证总监
 PHILLIP DEROSA
 
 
 
-BIOWARE MARKETING / COMMUNICATIONS
+BIOWARE 市场 / 传播
 
 
-Director of Marketing
+市场总监
 SCOTT MCLAUGHLAN
 
-Communications Coordinator
+传播协调员
 TERESA COTESTA
 
-Communications Associate
+传播助理
 TOM OHLE
 
-Communications Manager
+传播经理
 BRAD GRIER
 
-Senior Web Developer
+高级网页开发
 ROBIN MAYNE
 
-Web Developers
+网页开发
 JEFF MARVIN
 DULEEPA "DUPS" WIJAYAWARDHANA
 
-Community Manager
+社区经理
 JAY WATAMANIUK
 
-Live Team Producer
+在线团队制作人
 DEREK FRENCH
 
-Client Care Specialist
+客户关怀专员
 DAVID MCGRUTHER
 
 
 
-BIOWARE ADMIN
+BIOWARE 行政
 
 
-Joint CEOs
+联合首席执行官
 RAY MUZYKA       GREG ZESCHUK
 
-Director of Finance
+财务总监
 RICHARD IWANIUK
 
-Director of Human Resources
+人力资源总监
 MARK KLUCHKY
 
-Accountant
+会计
 JO-MARIE LANGKOW
 
-Payroll/Benefits Administrator
+薪资/福利管理员
 KELLEY GRAINGER
 
-Human Resources Coordinator
+人力资源协调员
 THERESA BAXTER
 
-Human Resources Assistant
+人力资源助理
 LEANNE KOROTASH
 
-Senior Systems Administrators
+高级系统管理员
 CHRIS ZESCHUK
 CRAIG MILLER
 
-Systems Administrators
+系统管理员
 BRETT TOLLEFSON
 JULIAN KARST
 NILS KUHNERT
 
-Receptionist
+接待员
 AGNES GOLDMAN
 
-Special Thanks
+特别鸣谢
 SCOTT GREIG
 DIARMID CLARKE
 JONATHAN EPP
@@ -45674,26 +45674,26 @@ NOBLE HOUSE KENJUTSU
 
 
 
-Producer
+制作人
 MICHAEL GALLO
 
-Assistant Producer
+助理制作人
 JULIO TORRES
 
-Content Coordinator
+内容协调员
 JUSTIN LAMBROS
 
 
 
-QUALITY ASSURANCE
+质量保证
 
-Lead Tester
+首席测试员
 KIP "TWENTYSEVEN" BUNYEA
 
-Assistant Lead Tester
+助理首席测试员
 ADAM "MAN OF VISION" GOODWIN
 
-Testers
+测试员
 NICK "EYE OF THE TIGER" DENGLER
 CLAY "RULES LAWYER" NORMAN
 TONY "CHUUUCH" CHRISTOPHER
@@ -45707,12 +45707,12 @@ IAN "HAP" PARHAM
 
 
 
-COMPATIBILITY
+兼容性
 
-Compatibility Supervisor / Lead Technical Writer
+兼容性主管 / 首席技术文档作者
 LYNN TAYLOR
  
-Compatibility Technicians
+兼容性技术员
 DARRYL COBB
 BENJAMIN ESTABROOK
 BRIAN DEKSNYS
@@ -45720,43 +45720,43 @@ KRISTIE GARBER
 KIM JARDIN
 DAN MARTINEZ
 
-Additional Compatibility Testing
+其他兼容性测试
 MICHAEL BLAIR
 BRYAN FINOKI
 ERIC KNUDSON
 SCOTT TAYLOR
  
-Quality Services Computer Technician
+质量服务计算机技术员
 JOHN CARSEY
 
 
-SOUND
+声音
 
 
-Lead Sound Designer
+首席声音设计师
 JULIAN KWASNESKI
 
-Additional Sound Design
+其他声音设计
 PAUL GORMAN
 TODD DAVIES
 CLINT BAJAKIAN
 
-Cutscene Mixing
+过场混音
 JORY PRUM
 
-Original Star Wars sound effects
+星球大战原始音效
 BEN BURTT
 
 
 
-MUSIC
+音乐
  
 
-Original Music Composed By
+原创音乐作曲
 JEREMY SOULE 
 ARTISTRY ENTERTAINMENT INC. 
 
-Original Star Wars Music Composed By 
+星球大战原创音乐作曲
 JOHN WILLIAMS (P) AND (C) LUCASFILM
 & TM. ALL RIGHTS RESERVED.
 USED UNDER AUTHORIZATION. PUBLISHED BY
@@ -45766,28 +45766,28 @@ PUBLISHING CORP.
 
 
 
-VOICE
+配音
 
 
-VO Director
+配音导演
 DARRAGH O'FARRELL
  
-Senior Voice Editor
+高级配音编辑
 CINDY WONG
  
-Assistant Voice Editors
+助理配音编辑
 HARRISON DEUTSCH
 COYA ELLIOTT
  
-Voice and International Coordinator
+配音与国际协调员
 JENNIFER SLOAN
  
-Voices Recorded At
+配音录制地点
 SCREEN MUSIC STUDIOS
  
-Cast
+演员
  
-MAIN CHARACTERS
+主要角色
  
 Bastila Shan
 JENNIFER HALE
@@ -45816,7 +45816,7 @@ CAT TABER
 Master Vrook
 ED ASNER
  
-Additional Voices Provided By
+其他配音
 ANDRE SOGLIUZZO
 APRIL STEWART
 BILL E. MARTIN
@@ -45863,103 +45863,103 @@ TOM KANE
 
 
 
-INTERNATIONAL LOCALIZATION
+国际本地化
 
 
-Manager of International Production
+国际制作经理
 DARREN HEDGES
 
-International Producer
+国际制作人
 BRYAN DAVIS
 
-International Lead Tester
+国际首席测试员
 DAVID CHAPMAN
 
 
 
-MARKETING AND PUBLIC RELATIONS
+市场与公共关系
 
 
-Product Marketing Manager
+产品市场经理
 DAVID ZEMKE
 
-Director of Public Relations
+公共关系总监
 TOM SARRIS
 
-Public Relations Manager
+公共关系经理
 HEATHER TWIST PHILLIPS
 
-Public Relations Specialist
+公共关系专员
 ALEXIS MERVIN
 
-Internet Community Relations Specialist
+互联网社区关系专员
 RONDA SCOTT
 
-Internet Marketing
+互联网市场
 JIM PASSALACQUA
 MELISSA FEDEROFF
 TONY DEWEESE
 
-International Marketing / PR
+国际市场 / 公关
 KATHY APOSTOLI-GREENE
 
-Manual Editor
+手册编辑
 BRETT RECTOR
 
-Manual Writers
+手册作者
 MICHAEL GALLO
 JAMES OHLEN
 LUKE KRISTJANSON
 DREW KARPYSHYN
 
-Manual Design
+手册设计
 BEELINE GROUP
 
 
 
-SALES AND OPERATIONS
+销售与运营
 
 
-Director of Sales
+销售总监
 MEREDITH CAHILL 
 
-Sales Coordinator
+销售协调员
 MIKE MAGUIRE
 
-Sales Analyst
+销售分析师
 GREG ROBLES
 
-Channel Marketing Manager
+渠道市场经理
 TIM MOORE
 
-Channel Marketing Specialist
+渠道市场专员
 KATY WALDEN
 
-Director of Sales Operations
+销售运营总监
 JASON HORSTMAN
 
-Materials Manager
+物料经理
 EVELYNE BOLLING
 
 
 
-QUALITY SERVICES
+质量服务
 
 
-Manager of Quality Services
+质量服务经理
 PAUL PURDY
 
-Quality Assurance Supervisor
+质量保证主管
 CHIP HINNENBERG
 
-Product Support Supervisor
+产品支持主管
 JAY GERACI
 
-DVD / CD Burning Goddesses
+DVD / CD 刻录女神
 WENDY KAPLAN
 KELLIE WALKER
 
-LucasArts I.S.
+LucasArts 信息系统
 CHRIS BRODY
 JIM CARPENTER
 JOHN DOAK
@@ -45974,13 +45974,13 @@ VICTOR TANCREDI-BALLUGERA
 CHAD WILLIAMS
 
 
-Lucasfilm Licensing
+Lucasfilm 授权
 STACY CHEREGOTIS
 CHRIS GOLLAHER
 KRISTI KAUFMAN
 
 
-Special Thanks
+特别鸣谢
 ADRIA WILSON
 ANDY ALAMANO
 BRENT OSTER
@@ -46022,15 +46022,15 @@ STEVE MATULAC
 TINA CARTER
 TOM MCCARTHY
 
-Very Special Thanks
+特别特别鸣谢
 GEORGE LUCAS
-42192 := Tatooine Vision
-42193 := Manaan Vision
-42194 := Kashyyyk Vision
-42195 := Korriban Vision
-42197 := Intro
-42198 := Escape Pod
-42199 := A Strange Dream
+42192 := 塔图因星幻象
+42193 := 马南幻象
+42194 := 卡希克星幻象
+42195 := 卡里班星幻象
+42197 := 序章
+42198 := 救生舱
+42199 := 一个奇怪的梦
 42200 := Swoop Bike Crash
 42201 := Revan's Death
 42202 := The Leviathan
