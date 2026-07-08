@@ -46031,69 +46031,69 @@ GEORGE LUCAS
 42197 := 序章
 42198 := 救生舱
 42199 := 一个奇怪的梦
-42200 := Swoop Bike Crash
-42201 := Revan's Death
-42202 := The Leviathan
-42203 := The Leviathan in Position
-42204 := Taris Destroyed
-42205 := Escaping Taris
-42206 := Dantooine Arrival
-42207 := Dantooine Departure
-42208 := Tatooine Arrival
-42209 := Tatooine Departure
-42210 := Kashyyyk Arrival
-42211 := Kashyyyk Departure
-42212 := Manaan Arrival
-42213 := Manaan Departure
-42214 := Korriban Arrival
-42215 := Korriban Departure
-42216 := Unknown World Arrival
-42217 := Unknown World Departure
-42218 := Bastila's Flight
-42219 := Battle Above the Unknown World
-42220 := Ebon Hawk Flyby 1
-42221 := Ebon Hawk Flyby 2
-42222 := Ebon Hawk is Hit 1
-42223 := Ebon Hawk is Hit 2
-42224 := Hyperspace
-42225 := Dantooine Vision
-42226 := Incoming Fighters
-42227 := The Ebon Hawk Victorious
-42228 := Captured by the Leviathan
-42229 := Escaping the Leviathan
-42230 := Shadowlands Descent
-42231 := Shadowlands Ascent
-42232 := Sub Descent
-42233 := Sub Ascent
-42234 := Harvester Destroyed
-42235 := Ancient Firaxa Poisoned
-42236 := Revelation
-42237 := The Star Forge
-42238 := Boarding the Star Forge
-42239 := Capitol Ships Under Attack
-42240 := The Sith Defenses Collapse
-42241 := Defending the Star Forge
-42242 := Sith Onslaught
-42243 := The Republic Defeated
-42244 := Dodonna's End
-42245 := The Infinite Fleet
-42246 := Assault on the Star Forge
-42247 := The Star Forge Destroyed
-42248 := Producer / Project Director
+42200 := 飞梭摩托坠毁
+42201 := 瑞文之死
+42202 := 利维坦号
+42203 := 利维坦号就位
+42204 := 塔里斯星毁灭
+42205 := 逃离塔里斯星
+42206 := 抵达丹图因星
+42207 := 离开丹图因星
+42208 := 抵达塔图因星
+42209 := 离开塔图因星
+42210 := 抵达卡希克星
+42211 := 离开卡希克星
+42212 := 抵达马南
+42213 := 离开马南
+42214 := 抵达卡里班星
+42215 := 离开卡里班星
+42216 := 抵达未知世界
+42217 := 离开未知世界
+42218 := 巴丝蒂拉逃离
+42219 := 未知世界上空之战
+42220 := 乌木鹰号飞掠 1
+42221 := 乌木鹰号飞掠 2
+42222 := 乌木鹰号中弹 1
+42223 := 乌木鹰号中弹 2
+42224 := 超空间
+42225 := 丹图因星幻象
+42226 := 来袭战机
+42227 := 乌木鹰号获胜
+42228 := 被利维坦号俘获
+42229 := 逃离利维坦号
+42230 := 进入暗影之地
+42231 := 离开暗影之地
+42232 := 潜艇下潜
+42233 := 潜艇上浮
+42234 := 采集器被摧毁
+42235 := 古代费拉克萨鲨中毒
+42236 := 真相揭露
+42237 := 星际锻炉
+42238 := 登上星际锻炉
+42239 := 主力舰遭到攻击
+42240 := 西斯防线崩溃
+42241 := 保卫星际锻炉
+42242 := 西斯猛攻
+42243 := 共和国战败
+42244 := 多唐纳的结局
+42245 := 无限舰队
+42246 := 进攻星际锻炉
+42247 := 星际锻炉被摧毁
+42248 := 制作人 / 项目总监
 CASEY HUDSON
-42249 := Executive Producers
-RAY MUZYKA 
-GREG ZESCHUK 
-42250 := Lead Programmers
+42249 := 执行制作人
+RAY MUZYKA
+GREG ZESCHUK
+42250 := 首席程序员
 DAVID FALKNER
 MARK BROCKINGTON
-42251 := Lead Designer
+42251 := 首席设计师
 JAMES OHLEN
-42252 := Art Director
+42252 := 美术总监
 DEREK WATTS
-42253 := Assistant Producer
+42253 := 助理制作人
 NATHAN PLEWES
-42254 := Core Game Design
+42254 := 核心游戏设计
 CASEY HUDSON
 DREW KARPYSHYN
 JAMES OHLEN
@@ -46102,224 +46102,224 @@ DEREK WATTS
 DAVID FALKNER
 STEVE GILMOUR
 
-42256 := The following feat(s) have been recommended.
-42257 := The following power(s) have been recommended.
-42258 := You have been granted the following feat(s) this level.
-42259 := to Cancel Live Feed and Return to Interface.
-42260 := It's obvious now that this tach wasn't Rulan Prolik in disguise. How many more of these creatures must you slaughter before you find your true quarry?
-42261 := Gameplay Options
-42262 := Easy
-42263 := Normal
-42264 := Difficulty
-42265 := This option changes the difficulty level of combat. 
-The game is designed to be played using the NORMAL setting.
-Adjusting the setting will have a significant effect on combat and damage from enemy attacks.
-42266 := ON: Party members automatically level up when they have enough experience with no input from the player.
+42256 := 推荐以下专长。
+42257 := 推荐以下原力能力。
+42258 := 你在本等级获得了以下专长。
+42259 := 以取消实时画面并返回界面。
+42260 := 现在很明显，这只塔奇并不是鲁兰·普罗利克伪装成的。你还要屠杀多少只这种生物，才能找到真正的猎物？
+42261 := 游戏选项
+42262 := 简单
+42263 := 普通
+42264 := 难度
+42265 := 此选项会改变战斗难度等级。
+游戏设计以“普通”设置进行游玩。
+调整此设置会对战斗和敌人攻击造成的伤害产生显著影响。
+42266 := 开：队伍成员经验足够时会自动升级，无需玩家输入。
 
-OFF: Level up for party members must be activated by the player, though the Recommended and Auto-Level features can still be used.
-42267 := Camera Autocenter
-42268 := This option controls the camera in non-combat situations.
+关：队伍成员升级必须由玩家手动启动，不过仍可使用推荐和自动升级功能。
+42267 := 镜头自动居中
+42268 := 此选项控制非战斗状态下的镜头。
 
-ON: The camera automatically repositions itself behind the player whenever they remain stationary for a short period.
-OFF: The camera is controlled manually using the right thumbstick.
-42269 := Auto-Level
-42270 := Auto-Level OFF
-42271 := You cannot equip this weapon while an incompatible weapon is equipped in your other hand.
-42273 := Combat Difficulty
-Auto-Level Up Options
-Camera Auto-Centering
-Autosave
-Reverse Mini-game Y Axis
-Combat Movement
-42274 := Hide Unequippable Items
-Tutorial Popups
-Subtitles
-Mini-Map
-Controller Vibration
-Floating Numbers
-Status Summary
-42275 := Auto-Pause Options
-42276 := Brightness Setting
-Music Volume
-Voice-Over Volume
-Sound Effects Volume
-42277 := Launch Xbox Content Downloader
+开：玩家短暂停止移动时，镜头会自动回到玩家身后。
+关：使用右摇杆手动控制镜头。
+42269 := 自动升级
+42270 := 自动升级关
+42271 := 另一只手装备不兼容武器时，无法装备这件武器。
+42273 := 战斗难度
+自动升级选项
+镜头自动居中
+自动保存
+反转小游戏 Y 轴
+战斗移动
+42274 := 隐藏不可装备物品
+教程弹窗
+字幕
+小地图
+控制器震动
+浮动数字
+状态摘要
+42275 := 自动暂停选项
+42276 := 亮度设置
+音乐音量
+语音音量
+音效音量
+42277 := 启动 Xbox 内容下载器
 
-Go to the webpages listed in the credits to find HINTS, EASTER EGGS and other information about the game.
-42278 := Feedback Options
-42279 := Hide Unequippable
-42280 := Tutorial Popups
-42281 := Subtitles
-42282 := International
-42283 := Mini Map
-42284 := Controller Vibration
-42285 := Floating Numbers
-42286 := ON: The EQUIP screen only shows items that the selected party member can equip.
+前往制作人员名单中列出的网页，查找提示、彩蛋和其他游戏信息。
+42278 := 反馈选项
+42279 := 隐藏不可装备
+42280 := 教程弹窗
+42281 := 字幕
+42282 := 国际
+42283 := 小地图
+42284 := 控制器震动
+42285 := 浮动数字
+42286 := 开：装备界面只显示所选队伍成员可以装备的物品。
 
-OFF: The EQUIP screen shows all items for all characters. Unequippable items are highlighted in red.
-42287 := ON: Tutorial popup windows will appear when certain game features are used for the first time.
+关：装备界面显示所有角色的全部物品。不可装备物品会以红色高亮显示。
+42287 := 开：首次使用某些游戏功能时，会显示教程弹窗。
 
-OFF: No tutorial popup windows will be shown.
-42288 := ON: Show all dialog with text subtitles.
+关：不会显示教程弹窗。
+42288 := 开：所有对话都显示文字字幕。
 
-OFF: Only player replies, non-verbal text and movie dialog will be subtitled.
-42289 := ON: Show Mini Map.
+关：只有玩家回应、非语音文本和影片对白会显示字幕。
+42289 := 开：显示小地图。
 
-OFF: Mini Map is not visible.
-42290 := ON: Controller vibration enabled
+关：小地图不可见。
+42290 := 开：启用控制器震动
 
-OFF: Controller vibration disabled
-42291 := ON: Experience Point (XP) changes, Vitality Point (VP) changes and Missed Attack notifications appear as floating text above creatures' heads.
+关：禁用控制器震动
+42291 := 开：经验值（XP）变化、活力点数（VP）变化和攻击未命中提示会以浮动文字显示在生物头顶。
 
-OFF: No floating text notifications.
-42292 := Quest Items Display
-42293 := Script Selection
-42294 := Upgrade Item
-42295 := Upgrade Items
-42296 := Ranged
-42297 := Melee
-42298 := Armor
-42299 := Sith Force Field
-42300 := Load a saved game
-42301 := Save the current game
-42302 := Quit the game
-42303 := Death Blow!
-42304 := + <CUSTOM0> Mod <CUSTOM1>
-42305 := Graphics and Sound Options
-42306 := Brightness
-42307 := Music Volume
-42308 := Voice-over Volume
-42309 := Sound Effects Volume
-42310 := Change the brightness of the entire screen.
-42311 := Change the volume of the music track.
-42312 := Change the volume of the voice-over track.
-42313 := Change the volume of sound effects.
-42314 := Mainhand
-42315 := Offhand
-42316 :=  roll <CUSTOM0>
-42317 :=  + melee on ranged <CUSTOM0>
+关：不显示浮动文字提示。
+42292 := 任务物品显示
+42293 := 脚本选择
+42294 := 升级物品
+42295 := 升级物品
+42296 := 远程
+42297 := 近战
+42298 := 护甲
+42299 := 西斯力场
+42300 := 载入已保存的游戏
+42301 := 保存当前游戏
+42302 := 退出游戏
+42303 := 致命一击！
+42304 := + <CUSTOM0> 调整值 <CUSTOM1>
+42305 := 图像和声音选项
+42306 := 亮度
+42307 := 音乐音量
+42308 := 语音音量
+42309 := 音效音量
+42310 := 更改整个屏幕的亮度。
+42311 := 更改音乐轨道音量。
+42312 := 更改语音轨道音量。
+42313 := 更改音效音量。
+42314 := 主手
+42315 := 副手
+42316 :=  掷骰 <CUSTOM0>
+42317 :=  + 近战攻击远程目标 <CUSTOM0>
 42318 :=  + <CUSTOM0> <CUSTOM1>
-42319 := Prerequisites:
-Level 3 Scoundrel
+42319 := 先决条件：
+等级 3 无赖
 
-Sneak Attack II adds 2-12 points of extra damage to attacks when the target can't respond to the attacker. The extra damage is applied to attacks made from behind the target, attacks against stunned or otherwise immobilized targets, and any attacks made while in Stealth Mode (combat cancels Stealth Mode, but the first attack receives the bonus).
-Sneak Attack only works if the target is within 10 meters. The extra damage is not multiplied in the case of a critical hit.
-42320 := Prerequisites:
-Level 5 Scoundrel
+偷袭 II 会在目标无法应对攻击者时，为攻击增加 2-12 点额外伤害。从目标背后发动的攻击、对被震慑或以其他方式无法行动的目标发动的攻击，以及在潜行模式中发动的任何攻击，都会应用这项额外伤害（战斗会取消潜行模式，但第一次攻击仍会获得加值）。
+偷袭只有在目标位于 10 米内时才有效。发生重击时，额外伤害不会倍增。
+42320 := 先决条件：
+等级 5 无赖
 
-Sneak Attack III adds 3-18 points of extra damage to attacks when the target can't respond to the attacker. The extra damage is applied to attacks made from behind the target, attacks against stunned or otherwise immobilized targets, and any attacks made while in Stealth Mode (combat cancels Stealth Mode, but the first attack receives the bonus).
-Sneak Attack only works if the target is within 10 meters. The extra damage is not multiplied in the case of a critical hit.
-42321 := Prerequisites:
-Level 7 Scoundrel
+偷袭 III 会在目标无法应对攻击者时，为攻击增加 3-18 点额外伤害。从目标背后发动的攻击、对被震慑或以其他方式无法行动的目标发动的攻击，以及在潜行模式中发动的任何攻击，都会应用这项额外伤害（战斗会取消潜行模式，但第一次攻击仍会获得加值）。
+偷袭只有在目标位于 10 米内时才有效。发生重击时，额外伤害不会倍增。
+42321 := 先决条件：
+等级 7 无赖
 
-Sneak Attack IV adds 4-24 points of extra damage to attacks when the target can't respond to the attacker. The extra damage is applied to attacks made from behind the target, attacks against stunned or otherwise immobilized targets, and any attacks made while in Stealth Mode (combat cancels Stealth Mode, but the first attack receives the bonus).
-Sneak Attack only works if the target is within 10 meters. The extra damage is not multiplied in the case of a critical hit.
-42322 := Prerequisites:
-Level 9 Scoundrel
+偷袭 IV 会在目标无法应对攻击者时，为攻击增加 4-24 点额外伤害。从目标背后发动的攻击、对被震慑或以其他方式无法行动的目标发动的攻击，以及在潜行模式中发动的任何攻击，都会应用这项额外伤害（战斗会取消潜行模式，但第一次攻击仍会获得加值）。
+偷袭只有在目标位于 10 米内时才有效。发生重击时，额外伤害不会倍增。
+42322 := 先决条件：
+等级 9 无赖
 
-Sneak Attack V adds 5-30 points of extra damage to attacks when the target can't respond to the attacker. The extra damage is applied to attacks made from behind the target, attacks against stunned or otherwise immobilized targets, and any attacks made while in Stealth Mode (combat cancels Stealth Mode, but the first attack receives the bonus).
-Sneak Attack only works if the target is within 10 meters. The extra damage is not multiplied in the case of a critical hit.
-42323 := Prerequisites:
-Level 11 Scoundrel
+偷袭 V 会在目标无法应对攻击者时，为攻击增加 5-30 点额外伤害。从目标背后发动的攻击、对被震慑或以其他方式无法行动的目标发动的攻击，以及在潜行模式中发动的任何攻击，都会应用这项额外伤害（战斗会取消潜行模式，但第一次攻击仍会获得加值）。
+偷袭只有在目标位于 10 米内时才有效。发生重击时，额外伤害不会倍增。
+42323 := 先决条件：
+等级 11 无赖
 
-Sneak Attack VI adds 6-36 points of extra damage to attacks when the target can't respond to the attacker. The extra damage is applied to attacks made from behind the target, attacks against stunned or otherwise immobilized targets, and any attacks made while in Stealth Mode (combat cancels Stealth Mode, but the first attack receives the bonus).
-Sneak Attack only works if the target is within 10 meters. The extra damage is not multiplied in the case of a critical hit.
-42324 := Prerequisites:
-Level 13 Scoundrel
+偷袭 VI 会在目标无法应对攻击者时，为攻击增加 6-36 点额外伤害。从目标背后发动的攻击、对被震慑或以其他方式无法行动的目标发动的攻击，以及在潜行模式中发动的任何攻击，都会应用这项额外伤害（战斗会取消潜行模式，但第一次攻击仍会获得加值）。
+偷袭只有在目标位于 10 米内时才有效。发生重击时，额外伤害不会倍增。
+42324 := 先决条件：
+等级 13 无赖
 
-Sneak Attack VII adds 7-42 points of extra damage to attacks when the target can't respond to the attacker. The extra damage is applied to attacks made from behind the target, attacks against stunned or otherwise immobilized targets, and any attacks made while in Stealth Mode (combat cancels Stealth Mode, but the first attack receives the bonus).
-Sneak Attack only works if the target is within 10 meters. The extra damage is not multiplied in the case of a critical hit.
-42325 := Prerequisites:
-Level 15 Scoundrel
+偷袭 VII 会在目标无法应对攻击者时，为攻击增加 7-42 点额外伤害。从目标背后发动的攻击、对被震慑或以其他方式无法行动的目标发动的攻击，以及在潜行模式中发动的任何攻击，都会应用这项额外伤害（战斗会取消潜行模式，但第一次攻击仍会获得加值）。
+偷袭只有在目标位于 10 米内时才有效。发生重击时，额外伤害不会倍增。
+42325 := 先决条件：
+等级 15 无赖
 
-Sneak Attack VIII adds 8-48 points of extra damage to attacks when the target can't respond to the attacker. The extra damage is applied to attacks made from behind the target, attacks against stunned or otherwise immobilized targets, and any attacks made while in Stealth Mode (combat cancels Stealth Mode, but the first attack receives the bonus).
-Sneak Attack only works if the target is within 10 meters. The extra damage is not multiplied in the case of a critical hit.
-42326 := Prerequisites:
-Level 17 Scoundrel
+偷袭 VIII 会在目标无法应对攻击者时，为攻击增加 8-48 点额外伤害。从目标背后发动的攻击、对被震慑或以其他方式无法行动的目标发动的攻击，以及在潜行模式中发动的任何攻击，都会应用这项额外伤害（战斗会取消潜行模式，但第一次攻击仍会获得加值）。
+偷袭只有在目标位于 10 米内时才有效。发生重击时，额外伤害不会倍增。
+42326 := 先决条件：
+等级 17 无赖
 
-Sneak Attack IX adds 9-54 points of extra damage to attacks when the target can't respond to the attacker. The extra damage is applied to attacks made from behind the target, attacks against stunned or otherwise immobilized targets, and any attacks made while in Stealth Mode (combat cancels Stealth Mode, but the first attack receives the bonus).
-Sneak Attack only works if the target is within 10 meters. The extra damage is not multiplied in the case of a critical hit.
-42327 := Prerequisites:
-Level 19 Scoundrel
+偷袭 IX 会在目标无法应对攻击者时，为攻击增加 9-54 点额外伤害。从目标背后发动的攻击、对被震慑或以其他方式无法行动的目标发动的攻击，以及在潜行模式中发动的任何攻击，都会应用这项额外伤害（战斗会取消潜行模式，但第一次攻击仍会获得加值）。
+偷袭只有在目标位于 10 米内时才有效。发生重击时，额外伤害不会倍增。
+42327 := 先决条件：
+等级 19 无赖
 
-Sneak Attack X adds 10-60 points of extra damage to attacks when the target can't respond to the attacker. The extra damage is applied to attacks made from behind the target, attacks against stunned or otherwise immobilized targets, and any attacks made while in Stealth Mode (combat cancels Stealth Mode, but the first attack receives the bonus).
-Sneak Attack only works if the target is within 10 meters. The extra damage is not multiplied in the case of a critical hit.
-42328 := Prerequisites:
-Level 7 Droid
+偷袭 X 会在目标无法应对攻击者时，为攻击增加 10-60 点额外伤害。从目标背后发动的攻击、对被震慑或以其他方式无法行动的目标发动的攻击，以及在潜行模式中发动的任何攻击，都会应用这项额外伤害（战斗会取消潜行模式，但第一次攻击仍会获得加值）。
+偷袭只有在目标位于 10 米内时才有效。发生重击时，额外伤害不会倍增。
+42328 := 先决条件：
+等级 7 机器人
 
-As a droid gains experience, its programming becomes more adaptable to new situations. This allows it to accommodate more sophisticated upgrades. Droid Upgrade Class 2 allows the use of level 1 and level 2 upgrades.
-42329 := Prerequisites:
-Level 13 Droid
+随着机器人获得经验，它的程序会变得更能适应新情况。这让它能够容纳更复杂的升级。机器人升级等级 2 允许使用 1 级和 2 级升级物品。
+42329 := 先决条件：
+等级 13 机器人
 
-As a droid gains experience, its programming becomes more adaptable to new situations. This allows it to accommodate more sophisticated upgrades. Droid Upgrade Class 3 allows the use of level 1, level 2 and level 3 upgrades.
-42330 :=  + Close Proximity Ranged Bonus <CUSTOM0>
-42331 :=  + Weapon Focus Bonus <CUSTOM0>
-42332 :=  + Effect Bonus <CUSTOM0>
-42333 :=  + Dual Wield Penalty <CUSTOM0>
-42334 :=  + Small Offhand Bonus <CUSTOM0>
-42335 := Easy
-42336 := Normal
-42337 := Difficult
-42338 :=  + armor <CUSTOM0>
-42339 :=  + dex mod <CUSTOM0>
-42340 :=  + class <CUSTOM0>
-42341 :=  + natural <CUSTOM0>
-42342 :=  + feats and effects mod <CUSTOM0>
-42343 :=  + feat <CUSTOM0>
-42344 := You cannot equip any items to this slot while you have a two-handed weapon equipped.
-42345 := You have no items that can be equipped in this slot.
-42346 := You cannot equip or use any items while wearing an enviro-suit.
-42347 := When travelling between worlds, it's worth taking the time to talk to your party members. You might be surprised what you'll find out.
-42348 := Do you really want to quit?
-42349 := Play Movie
-42350 := Standard
-42351 := Your entire party has been killed.
-Return to Main Menu.
-42352 := The green 'book' icon at the top of the screen indicates that an entry has been added to your journal.
-42353 := The green icon at the top of the screen indicates that you have received some credits.
-42354 := The blue icon at the top of the screen indicates you have gained experience points.
-42355 := The red icon at the top of the page indicates you have shifted to the dark side.
-42356 := The blue icon at the top of the screen indicates you have shifted towards the light side.
-42357 := The blue 'addition' icon at the top of the screen indicates that you have gained an item.
-42358 := The blue 'subtraction' icon at the top of the screen indicates that you have lost an item.
-42359 := Show
-42360 := You must specify a name.
-42361 := Your name may only be 16 characters long.
-42363 :=  + weapon specialization <CUSTOM0>
-42364 := Ebon Hawk - Turret
-42366 := Dashboard
-42367 := Camera Autocenter OFF
-42368 := Terantanak
+随着机器人获得经验，它的程序会变得更能适应新情况。这让它能够容纳更复杂的升级。机器人升级等级 3 允许使用 1 级、2 级和 3 级升级物品。
+42330 :=  + 近距离远程加值 <CUSTOM0>
+42331 :=  + 武器专攻加值 <CUSTOM0>
+42332 :=  + 效果加值 <CUSTOM0>
+42333 :=  + 双持惩罚 <CUSTOM0>
+42334 :=  + 小型副手加值 <CUSTOM0>
+42335 := 简单
+42336 := 普通
+42337 := 困难
+42338 :=  + 护甲 <CUSTOM0>
+42339 :=  + 敏捷调整值 <CUSTOM0>
+42340 :=  + 职业 <CUSTOM0>
+42341 :=  + 天生 <CUSTOM0>
+42342 :=  + 专长和效果调整值 <CUSTOM0>
+42343 :=  + 专长 <CUSTOM0>
+42344 := 装备双手武器时，无法在此栏位装备任何物品。
+42345 := 你没有可以装备在此栏位的物品。
+42346 := 穿着环境防护服时，无法装备或使用任何物品。
+42347 := 在星球之间旅行时，花点时间和队伍成员谈谈是值得的。你可能会对自己发现的事感到惊讶。
+42348 := 你真的想退出吗？
+42349 := 播放影片
+42350 := 标准
+42351 := 你的整支队伍都已阵亡。
+返回主菜单。
+42352 := 屏幕顶部的绿色“书本”图标表示你的日志新增了一条条目。
+42353 := 屏幕顶部的绿色图标表示你获得了一些信用点。
+42354 := 屏幕顶部的蓝色图标表示你获得了经验值。
+42355 := 页面顶部的红色图标表示你已经偏向黑暗面。
+42356 := 屏幕顶部的蓝色图标表示你已经偏向光明面。
+42357 := 屏幕顶部的蓝色“加号”图标表示你获得了一件物品。
+42358 := 屏幕顶部的蓝色“减号”图标表示你失去了一件物品。
+42359 := 显示
+42360 := 你必须指定一个名字。
+42361 := 你的名字最多只能有 16 个字符。
+42363 :=  + 武器专精 <CUSTOM0>
+42364 := 乌木鹰号 - 炮塔
+42366 := 仪表板
+42367 := 镜头自动居中关
+42368 := 泰伦塔泰克
 42369 := Battlecry 1 - Do not translate this text
 42370 := Attack 1 - Do not translate this text
-42371 := Pain Grunt 1
+42371 := 痛苦呻吟 1
 42372 := Death - Do not translate this text
 42373 := Selected - Do not translate this text
-42374 := Hide Unequippable OFF
-42375 :=  + dexterity mod <CUSTOM0>
-42376 := The party member you have selected is currently unable to join the party.
-42377 := That seems very easy. What aren't you telling me?
-42378 := There is one added threat. The Sand People regard banthas as sacred. Attempting to feed the herd in this area will likely lead to an attack.
-42379 := We are far from the weakened tribes around Anchorhead. The Sand People of this region are strong, fierce, and will think nothing of killing you. Be careful.
-42380 := I am an ally of the Sand People.
-42381 := You likely mean the tribe that has been harassing Czerka Corporation. We are far from that region. This group will not honor that allegiance.
-42382 := They posed no real threat to me before.
-42383 := You likely mean the tribe that has been harassing Czerka Corporation. This group is used to the deep desert. They appear to be much more dangerous.
-42384 := Yet more Sand People? I've dealt with their kind before.
-42385 := If it were as simple as that you'd have done it yourself.
-42386 := Critical x<CUSTOM0> for 
-42387 :=  + base <CUSTOM0>
-42388 :=  + mod <CUSTOM0>
-42390 := Automatic Hit!
-42391 := Automatic Miss!
-42392 :=  + base <CUSTOM0>
-42393 := Wager
-42394 := End of Combat Round
-42395 := Combat Round
-42396 := Enemy Sighted
-42397 := Party Member Down
-42398 := Horizontal Action Menu Used
-42399 := Vertical Action Menu Used
+42374 := 隐藏不可装备关
+42375 :=  + 敏捷调整值 <CUSTOM0>
+42376 := 你选择的队伍成员目前无法加入队伍。
+42377 := 听起来很简单。你还有什么没告诉我？
+42378 := 还有一个额外威胁。沙人将班萨视为神圣之物。试图喂养这片区域的兽群，很可能会引来攻击。
+42379 := 我们离锚头镇附近那些衰弱的部落很远。这个地区的沙人强壮、凶猛，而且杀你时不会有任何顾虑。小心。
+42380 := 我是沙人的盟友。
+42381 := 你大概是指一直骚扰泽卡公司的那个部落。我们离那片区域很远。这群人不会承认那份盟约。
+42382 := 他们以前对我构不成真正威胁。
+42383 := 你大概是指一直骚扰泽卡公司的那个部落。这群人适应了深沙漠。他们似乎危险得多。
+42384 := 又是沙人？我以前对付过他们这种人。
+42385 := 如果事情真有那么简单，你自己早就做了。
+42386 := 重击 x<CUSTOM0>：
+42387 :=  + 基础 <CUSTOM0>
+42388 :=  + 调整值 <CUSTOM0>
+42390 := 自动命中！
+42391 := 自动未命中！
+42392 :=  + 基础 <CUSTOM0>
+42393 := 赌注
+42394 := 战斗轮结束
+42395 := 战斗轮
+42396 := 发现敌人
+42397 := 队伍成员倒下
+42398 := 使用横向动作菜单
+42399 := 使用纵向动作菜单
 42400 := Auto-Pause Options
 42402 := You cannot enter the Ebon Hawk while in combat.
 42403 := Spotted

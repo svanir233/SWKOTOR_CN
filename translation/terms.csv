@@ -898,6 +898,8 @@ star_wars,Rilka,丽尔卡,3,review,https://starwars.fandom.com/wiki/Rilka,,Danto
 star_wars,Rodian,罗迪亚人,35,review,https://starwars.fandom.com/wiki/Rodian,,物种
 star_wars,Rodians,罗迪亚人,6,review,https://starwars.fandom.com/wiki/Rodian,,Rodian 复数不额外标复数
 star_wars,Rodians,罗迪亚人,6,review,https://starwars.fandom.com/wiki/Rodian,,物种复数；中文译名不额外标复数
+star_wars,Rulan,鲁兰,32,review,tlk=StrRef 42260,,热那哈拉丹赏金目标 Rulan Prolik 的简称；中文译名按项目暂定
+star_wars,Rulan Prolik,鲁兰·普罗利克,11,review,tlk=StrRef 42260,,热那哈拉丹赏金目标；中文译名按项目暂定
 star_wars,Rogue Assassin Droid,叛逃刺客机器人,3,review,tlk=StrRef 15835,,Marka Ragnos tomb 敌人标签；中文译名按项目暂定
 star_wars,Rogue Droid,叛逃机器人,1,review,tlk=StrRef 32864,,KOTOR 任务标题；中文译名按项目暂定
 star_wars,Roland,罗兰,21,review,https://starwars.fandom.com/wiki/Roland_Wann,,Roland Wann 的简称；中文译名按项目暂定
@@ -1134,6 +1136,7 @@ star_wars,Temple,神庙,145,review,https://starwars.fandom.com/wiki/Temple_of_th
 star_wars,Temple of the Ancients,古代神庙,40,review,https://starwars.fandom.com/wiki/Temple_of_the_Ancients,,Lehon 主线地点
 star_wars,Temple Shield,神庙护盾,1,review,tlk=StrRef 30842,,Lehon 古代神庙护盾标签；中文译名按项目暂定
 star_wars,Temporary Force Field,临时力场,1,review,tlk=StrRef 12330,,Kashyyyk 临时力场标签；中文译名按项目暂定
+star_wars,Terantanak,泰伦塔泰克,1,review,tlk=StrRef 42368,,KOTOR 原文拼写变体；按 Terentatek 统一译名
 star_wars,Terantenek,泰伦塔泰克,1,review,tlk=StrRef 34580,,KOTOR 原文拼写变体；按 Terentatek 统一译名
 star_wars,Terentatek,泰伦塔泰克,19,review,https://starwars.fandom.com/wiki/Terentatek,,生物名
 star_wars,Teta's Blade,泰塔之刃,1,review,https://starwars.fandom.com/wiki/Teta%27s_Blade,,KOTOR 武器名；中文译名按项目暂定
