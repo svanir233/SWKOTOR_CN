@@ -201,7 +201,7 @@ def render_font(name: str, point_size: int, glyphs: list[Glyph], font_path: path
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--font", required=True, type=pathlib.Path)
-    parser.add_argument("--out", default=pathlib.Path("Override"), type=pathlib.Path)
+    parser.add_argument("--out", default=pathlib.Path("fonts"), type=pathlib.Path)
     parser.add_argument("texts", nargs="+", type=pathlib.Path)
     args = parser.parse_args()
 

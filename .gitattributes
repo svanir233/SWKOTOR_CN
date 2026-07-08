@@ -1,0 +1,5 @@
+*.tga binary
+*.tlk binary
+
+fonts/*.txi linguist-generated=true
+fonts/*.otf binary
