@@ -1,0 +1,8 @@
+Noto Sans CJK is licensed under the SIL Open Font License, Version 1.1.
+
+Source font used for generated assets:
+https://github.com/notofonts/noto-cjk
+
+The generated KOTOR font textures in this repository are derived from
+Noto Sans CJK SC Regular. Keep this license notice with redistributed font
+assets.
