@@ -52075,136 +52075,136 @@ INSUFFICIENT SPIKES
 47739 := Return to System Override Menu.
 47740 := [Computer] Overload computer power conduit. (<CUSTOM31> spike(s))
 47741 := View camera feed.
-47742 := SYSTEM LOADING...
-COMPLETE
-ENTER COMMAND
-47743 := EXITING SYSTEM...
-47744 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-COMMAND?
-47745 := SYSTEM OVERRIDE ACCEPTED
-COMMAND?
-47746 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-COMMAND?
-47747 := [SUCCESS] AUTHORIZATION GRANTED
-UPLOADING AREA SCHEMATICS...
-47748 := PERSONAL AREA MAP UPDATED
-DATA TRANSFER COMPLETE
-47749 := ACCESSING...
-47750 := SOUTH CORRIDOR
-COMMAND?
-47751 := ACCESSING...
-47752 := NORTH CORRIDOR
-COMMAND?
-47753 := ACCESSING...
-47754 := OBELISK CORRIDOR
-COMMAND?
-47755 := ACCESSING...
-47756 := PROTOTYPE DROID COMMAND ROOM
-COMMAND?
-47757 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-47758 := [SUCCESS] OVERLOADING CONDUIT...
-47759 := ACCESSING...
-47760 := ARMORY EXTERIOR
-COMMAND?
-47761 := ACCESSING...
-47762 := ARMORY INTERIOR
-COMMAND?
-47763 := ACCESSING...
-47764 := WEST GUARD POST
-COMMAND?
-47765 := ACCESSING...
-47766 := EAST GUARD POST
-COMMAND?
-47767 := [FAILURE] ACCESS DENIED
-COMPUTER SLICE FAILED
-SPIKES REJECTED
-47768 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-47769 := [SUCCESS] REPROGRAMMING COMPLETE
-PROTOTYPE ASSAULT DROID
-AUTO-TARGETTING ENGAGED
-SWITCHING TO SECURITY CAMERA
-47770 := [FAILURE] ACCESS DENIED
-INSUFFICIENT SPIKES
-47771 := [SUCCESS] PROTOTYPE DROID SHIELDS DEACTIVATED
-SWITCHING TO SECURITY CAMERA
-47772 := ACCESSING...
-47773 := SOUTH SECURITY COMPUTER ROOM
-COMMAND?
-47774 := ACCESSING...
-47775 := NORTH SECURITY COMPUTER ROOM
-COMMAND?
-47776 := COMMAND?
-47777 := Log out.
-47778 := [Computer] Slice the computer. (<CUSTOM35> spike(s))
-47779 := Log out.
-47780 := Download Area Schematic. (<CUSTOM32> spike(s))
-47781 := View South corridor.
-47782 := Return to System Override Menu.
-47783 := View camera feed.
-47784 := View North corridor.
-47785 := Return to System Override Menu.
-47786 := View camera feed.
-47787 := View Obelisk corridor.
-47788 := Return to System Override Menu.
-47789 := View camera feed.
-47790 := View Prototype Droid Command Room.
-47791 := Return to System Override Menu.
-47792 := [Computer] Overload computer power conduit. (<CUSTOM31> spike(s))
-47793 := View camera feed.
-47794 := View Armory exterior.
-47795 := Return to System Override Menu.
-47796 := View camera feed.
-47797 := View Armory interior.
-47798 := Return to System Override Menu.
-47799 := View camera feed.
-47800 := View West Guard Post.
-47801 := Return to System Override Menu.
-47802 := View camera feed.
-47803 := View East Guard Post.
-47804 := Return to System Override Menu.
-47805 := [Computer] Disable prototype droids. (<CUSTOM36> spike(s))
-47806 := [Computer] Corrupt prototype droid targetting program. (<CUSTOM34> spike(s))
-47807 := [Computer] Disable prototype droid shields. (<CUSTOM34> spike(s))
-47808 := View camera feed.
-47809 := View South Security Computer Room.
-47810 := Return to System Override Menu.
-47811 := View camera feed.
-47812 := View North Security Computer Room.
-47813 := Return to System Override Menu.
-47814 := View camera feed.
+47742 := 系统载入中……
+完成
+输入命令
+47743 := 正在退出系统……
+47744 := [失败] 访问被拒绝
+破解器不足
+命令？
+47745 := 系统覆盖已接受
+命令？
+47746 := [失败] 访问被拒绝
+破解器不足
+命令？
+47747 := [成功] 授权已授予
+正在上传区域示意图……
+47748 := 个人区域地图已更新
+数据传输完成
+47749 := 正在访问……
+47750 := 南侧走廊
+命令？
+47751 := 正在访问……
+47752 := 北侧走廊
+命令？
+47753 := 正在访问……
+47754 := 方尖碑走廊
+命令？
+47755 := 正在访问……
+47756 := 原型机器人指挥室
+命令？
+47757 := [失败] 访问被拒绝
+破解器不足
+47758 := [成功] 正在使导管过载……
+47759 := 正在访问……
+47760 := 军械库外部
+命令？
+47761 := 正在访问……
+47762 := 军械库内部
+命令？
+47763 := 正在访问……
+47764 := 西侧岗哨
+命令？
+47765 := 正在访问……
+47766 := 东侧岗哨
+命令？
+47767 := [失败] 访问被拒绝
+计算机破解失败
+破解器被拒绝
+47768 := [失败] 访问被拒绝
+破解器不足
+47769 := [成功] 重编程完成
+原型突击机器人
+自动瞄准已启用
+正在切换到安保摄像头
+47770 := [失败] 访问被拒绝
+破解器不足
+47771 := [成功] 原型机器人护盾已停用
+正在切换到安保摄像头
+47772 := 正在访问……
+47773 := 南侧安保计算机室
+命令？
+47774 := 正在访问……
+47775 := 北侧安保计算机室
+命令？
+47776 := 命令？
+47777 := 注销。
+47778 := [计算机] 破解计算机。（<CUSTOM35> 个破解器）
+47779 := 注销。
+47780 := 下载区域示意图。（<CUSTOM32> 个破解器）
+47781 := 查看南侧走廊。
+47782 := 返回系统覆盖菜单。
+47783 := 查看摄像头画面。
+47784 := 查看北侧走廊。
+47785 := 返回系统覆盖菜单。
+47786 := 查看摄像头画面。
+47787 := 查看方尖碑走廊。
+47788 := 返回系统覆盖菜单。
+47789 := 查看摄像头画面。
+47790 := 查看原型机器人指挥室。
+47791 := 返回系统覆盖菜单。
+47792 := [计算机] 使计算机动力导管过载。（<CUSTOM31> 个破解器）
+47793 := 查看摄像头画面。
+47794 := 查看军械库外部。
+47795 := 返回系统覆盖菜单。
+47796 := 查看摄像头画面。
+47797 := 查看军械库内部。
+47798 := 返回系统覆盖菜单。
+47799 := 查看摄像头画面。
+47800 := 查看西侧岗哨。
+47801 := 返回系统覆盖菜单。
+47802 := 查看摄像头画面。
+47803 := 查看东侧岗哨。
+47804 := 返回系统覆盖菜单。
+47805 := [计算机] 停用原型机器人。（<CUSTOM36> 个破解器）
+47806 := [计算机] 破坏原型机器人瞄准程序。（<CUSTOM34> 个破解器）
+47807 := [计算机] 停用原型机器人护盾。（<CUSTOM34> 个破解器）
+47808 := 查看摄像头画面。
+47809 := 查看南侧安保计算机室。
+47810 := 返回系统覆盖菜单。
+47811 := 查看摄像头画面。
+47812 := 查看北侧安保计算机室。
+47813 := 返回系统覆盖菜单。
+47814 := 查看摄像头画面。
 47815 := ocean loop area
 47816 := old comp singles
 47817 := dan15_compon3
 47818 := eg
-47819 := East Guard Post
+47819 := 东侧岗哨
 47820 := mastwp
 47821 := nc
-47822 := North Security Computer
+47822 := 北侧安保计算机
 47823 := nco
-47824 := North Corridor
+47824 := 北侧走廊
 47825 := ob
-47826 := Obelisk Room
+47826 := 方尖碑室
 47827 := pt
-47828 := Prototype Droid Command Room
+47828 := 原型机器人指挥室
 47829 := ar
-47830 := South Security Computer
-47831 := South Corridor
+47830 := 南侧安保计算机
+47831 := 南侧走廊
 47832 := t7
 47833 := t8
 47834 := wg
-47835 := West Guard Post
-47836 := My storage banks contain significant quantities of information on this subject, compiled through hundreds of years of research and study.
-47837 := Please wait while I load the information onto a data pad for your future reference. Processing...
-47838 := Information transfer complete. Is there anything else you require, Revan?
-47839 := I'm looking for genetic data on the Rakata.
-47840 := This data pad contains information from many genetics studies conducted by the Rakata during their technological peak.
+47835 := 西侧岗哨
+47836 := 我的存储库中保存了大量关于这一主题的信息，它们来自数百年的研究与研习。
+47837 := 请稍候，我会将信息载入一块数据板，方便你日后查阅。处理中……
+47838 := 信息传输完成。你还需要别的东西吗，瑞文？
+47839 := 我在寻找拉卡塔人的遗传数据。
+47840 := 这块数据板包含拉卡塔人在技术鼎盛时期开展的许多遗传学研究资料。
 47841 := electbuzz
 47842 := old comp
-47843 := [This craft is too small for you and Bastila together. You will have to use the Ebon Hawk to leave.]
+47843 := [这艘飞船太小，无法让你和巴丝蒂拉一起乘坐。你必须使用乌木鹰号离开。]
 47844 := ambient life
 47845 := ocean waves LOW
 47846 := Area01
@@ -52220,321 +52220,321 @@ COMMAND?
 47856 := Area11
 47857 := Area12
 47858 := Area13
-47859 := The path to your target is blocked.
-47860 := Unable to load game options, resetting to default settings.  Press 'A' to continue.
-47861 := Only 15 mines can be set in an area at any one time.  You must recover or set off some of your mines to be able to set more.
-47862 := [The prisoner looks dazed.  He has been injected with a dose of truth serum by the Republic officer. It's up to you to try to persuade him to talk with you now.]
-47863 := Press <abutton> to skip
-47864 := Skipping movie...
-47865 := Lead Animator
+47859 := 通往目标的道路被挡住了。
+47860 := 无法载入游戏选项，正在重置为默认设置。按“A”继续。
+47861 := 一个区域内同时只能布设 15 枚地雷。你必须回收或引爆一些地雷，才能布设更多。
+47862 := [囚犯看起来神志恍惚。共和国军官给他注射了一剂吐真剂。现在就看你能否说服他与你交谈了。]
+47863 := 按 <abutton> 跳过
+47864 := 正在跳过影片……
+47865 := 首席动画师
 STEVE GILMOUR
-47866 := Assistant Lead Programmer
+47866 := 助理首席程序员
 RYAN HOYLE
-47867 := Audio Producer
+47867 := 音频制作人
 DAVID CHAN
-47868 := Lead Tools Programmers
+47868 := 首席工具程序员
 DARREN WONG
 TOM ZAPLACHINSKI
-47869 := Lead Graphics Programmer
+47869 := 首席图形程序员
 JASON KNIPE
-47870 := Quality Assurance Lead
+47870 := 质量保证负责人
 SCOTT LANGEVIN
-47872 := With XBox Live you can download new content for the game, like additional weapons and armor!
-47873 := <CUSTOM0> has been affected by <CUSTOM1>
-47874 := The following content package(s) downloaded from Xbox Live are damaged and will not be loaded:  <CUSTOM0>
-47876 := Computer Room
-47878 := seconds
-47879 := To Lower Level
-47880 := Meeting Place
-47881 := Attack Cry - not actual text to be translated
+47872 := 使用 Xbox Live 可以为游戏下载新内容，例如额外的武器和护甲！
+47873 := <CUSTOM0> 受到了 <CUSTOM1> 的影响
+47874 := 从 Xbox Live 下载的以下内容包已损坏，将不会载入：<CUSTOM0>
+47876 := 计算机室
+47878 := 秒
+47879 := 前往下层
+47880 := 会面地点
+47881 := 攻击叫喊 - 不是实际要翻译的文本
 
-47882 := The common Badger is a small but fierce mammal. Its strong forelimbs are armed with long claws, used for both digging and self-defense.
-47883 := Badger
-47884 := Switch To
-47885 := Give Item
-47886 := In most areas you can use the PARTY SELECTION screen to quickly switch party members in and out as you need them. This is done instantly and without having to return to your base. Characters switched out of your party will wait for you back at your base.
-47887 := Remember: any equipped items will remain on the character, so these items will not show up in your inventory when a character is removed from the party. You will have to add the character to your party again if you want access to their equipped items.
-47888 := Adjustment
-47889 := When selecting Feats and Powers, read the descriptions carefully so you can choose the ones you want.
-47890 := ACCESSING USER RECOGNITION...
-USER IDENTITY CONFIRMED...
-BEGINNING TRAINING ORIENTATION...
-[CONTINUE]
-47891 := Welcome, <FullName>. As one recently accepted for training here at the Academy, it is important you fully understand the many paths now available to you as a servant of the light.
-[CONTINUE]
-47892 := Jedi Guardians train for battle and physical prowess. In contrast, Jedi Consulars seek to master the awesome power of the Force. Jedi Sentinels seek to find a balance between these two extremes.
-47893 := Tell me more about the Jedi Guardian.
-47894 := Jedi Guardians battle against the forces of evil and the dark side. They focus on combat training and masterful use of the lightsaber.
-[CONTINUE]
-47895 := Basic Class Attributes: 10 vitality / level, 4 Force points / level, slow skill progression, fast feat progression
-[CONTINUE]
-47896 := Jedi Guardians gain the Force Jump feat automatically. This feat allows them to instantly close the distance and attack an opponent within 10 metres.
-47897 := Tell me more about the Jedi Consular.
-47898 := Jedi Consulars seek to bring balance to the universe. They focus less on physical combat and more on mental disciplines in order to augment their mastery of the Force.
-[CONTINUE]
-47899 := Basic Class Attributes: 6 vitality / level, 8 Force points / level, slow skill progression, slow feat progression
-[CONTINUE]
-47900 := Jedi Consulars gain the Force Focus feat automatically. This feat makes it harder for opponents to resist their Force Powers.
-47901 := Tell me more about the Jedi Sentinel.
-47902 := Jedi Sentinels ferret out deceit and injustice, bringing them to light. They strike a balance between the physical and mental disciplines of the Jedi Order.
-[CONTINUE]
-47903 := Basic Class Attributes: 8 vitality / level, 6 Force points /level, average skill progression, slow feat progression
-[CONTINUE]
-47904 := Jedi Sentinels gain the Jedi Immunity feat automatically. This makes them immune to fear.
-47905 := Show me a statistical comparison of all 3 classes.
-47906 := Guardian: 10 vitality/ 4 Force points/ level 
-Consular: 6 vitality/ 8 Force points/ level
-Sentinel: 8 vitality/ 6 Force points/ level
-47907 := Log off.
-47908 := EXITING ORIENTATION...
-LOGGING OFF...
-47909 := Remember: disruptor pistols are a good way to get past an opponent's energy shields.
-47910 := Orbital Laser
-47911 := Repair Spike
-47912 := Rakghoul Serum
-47913 := This appears to be a high security passcard for the detention area.
-47915 := Player debilitated. Cancelling combat actions.
-47917 := There's a problem with the disc you're using.  It may be dirty or damaged.
-47918 := Credits
-47919 := Gladius Trailer
-47920 := Movie Volume
-47921 := Change the volume of the movie audio track.
-47922 := DEVELOPED BY BIOWARE
+47882 := 普通獾是一种小而凶猛的哺乳动物。它强壮的前肢长有长爪，可用于挖掘和自卫。
+47883 := 獾
+47884 := 切换到
+47885 := 给予物品
+47886 := 在大多数区域，你可以使用队伍选择界面按需要快速更换队友。这个操作会立即完成，无需返回基地。被换出队伍的角色会在基地等待你。
+47887 := 请记住：任何已装备物品都会留在角色身上，因此角色离队后，这些物品不会出现在你的物品栏中。如果你想取用他们装备的物品，必须再次把该角色加入队伍。
+47888 := 调整
+47889 := 选择专长和原力能力时，请仔细阅读说明，以便选出你想要的内容。
+47890 := 正在访问用户识别……
+用户身份已确认……
+开始训练导览……
+[继续]
+47891 := 欢迎你，<FullName>。作为最近被学院接纳接受训练的人，你必须充分了解身为光明仆从如今可选择的许多道路。
+[继续]
+47892 := 绝地卫士接受战斗与身体能力训练。相比之下，绝地领事追求掌握原力的强大力量。绝地哨兵则寻求在这两个极端之间取得平衡。
+47893 := 进一步了解绝地卫士。
+47894 := 绝地卫士与邪恶和黑暗面的势力战斗。他们专注于战斗训练和对光剑的精湛运用。
+[继续]
+47895 := 基础职业属性：每级 10 点活力、每级 4 点原力点数、技能成长慢、专长成长快
+[继续]
+47896 := 绝地卫士会自动获得原力跳跃专长。该专长允许他们瞬间拉近距离，并攻击 10 米内的对手。
+47897 := 进一步了解绝地领事。
+47898 := 绝地领事寻求为宇宙带来平衡。他们较少关注身体战斗，而更注重精神修习，以增强自己对原力的掌握。
+[继续]
+47899 := 基础职业属性：每级 6 点活力、每级 8 点原力点数、技能成长慢、专长成长慢
+[继续]
+47900 := 绝地领事会自动获得原力专注专长。该专长使对手更难抵抗他们的原力能力。
+47901 := 进一步了解绝地哨兵。
+47902 := 绝地哨兵揭露欺瞒与不公，使其暴露在光明之下。他们在绝地武士团的身体修习与精神修习之间取得平衡。
+[继续]
+47903 := 基础职业属性：每级 8 点活力、每级 6 点原力点数、技能成长中等、专长成长慢
+[继续]
+47904 := 绝地哨兵会自动获得绝地免疫专长。这使他们免疫恐惧。
+47905 := 显示全部 3 个职业的属性对比。
+47906 := 卫士：每级 10 点活力 / 4 点原力点数
+领事：每级 6 点活力 / 8 点原力点数
+哨兵：每级 8 点活力 / 6 点原力点数
+47907 := 注销。
+47908 := 正在退出导览……
+正在注销……
+47909 := 请记住：裂解手枪是穿透对手能量护盾的好办法。
+47910 := 轨道激光炮
+47911 := 修理破解器
+47912 := 拉克食尸鬼血清
+47913 := 这似乎是一张用于拘禁区域的高安保通行卡。
+47915 := 玩家失去行动能力。正在取消战斗动作。
+47917 := 你正在使用的光盘有问题。它可能脏了或已损坏。
+47918 := 制作人员名单
+47919 := 《Gladius》预告片
+47920 := 影片音量
+47921 := 更改影片音轨的音量。
+47922 := 由 BIOWARE 开发
 www.bioware.com
 
-PUBLISHED BY LUCASARTS
+由 LUCASARTS 发行
 www.lucasarts.com
 
 STAR WARS:
 KNIGHTS OF THE OLD REPUBLIC
 www.swkotor.com
-47923 := Board Ebon Hawk
-47924 := [Do you wish to board the Ebon Hawk?]
-47925 := [Board the Ebon Hawk.]
-47926 := [Step away from the boarding ramp.]
-47927 := Type A Spike Bin
-47928 := Type B Spike Bin
-47929 := Type C Spike Bin
-47930 := Type D Spike Bin
-47931 := Type E Spike Bin
-47932 := Type F Spike Bin
-47933 := Net Change: 
-47934 := Net Dark Side Shift
-47935 := Net Light Side Shift
-47936 := PC Dead
+47923 := 登上乌木鹰号
+47924 := [你想登上乌木鹰号吗？]
+47925 := [登上乌木鹰号。]
+47926 := [离开登船坡道。]
+47927 := A 型破解器箱
+47928 := B 型破解器箱
+47929 := C 型破解器箱
+47930 := D 型破解器箱
+47931 := E 型破解器箱
+47932 := F 型破解器箱
+47933 := 净变化：
+47934 := 黑暗面净偏移
+47935 := 光明面净偏移
+47936 := 玩家角色死亡
 47937 := - BIOWARE -
-47938 := Validating
-47939 := Validating content package(s) downloaded from Xbox Live...
-47940 := LucasArts and the LucasArts logo are registered trademarks of Lucasfilm Ltd.  BioWare, the BioWare Odyssey Engine and the BioWare logo are registered trademarks of BioWare Corp.  # 2003 Lucasfilm Entertainment Company Ltd. or Lucasfilm Ltd. & # or TM as indicated. All rights reserved.  BioWare Odyssey Engine # 2001 - 2003 BioWare Corp. All rights reserved.  
-47941 := TRAINING COMPUTER
-47942 := Wipe this pathetic planet from the face of the galaxy!
-47943 := Get on those gun turrets!
-47944 := An Age of War
-47945 := Between Darkness and Light
-47946 := All Republic forces pull back!
-47947 := It is too late for us to retreat, Admiral. There is no escape for us.
-47948 := Choose Your Path
-47949 := This is but a taste of the dark side!
-47950 := Shadows
-47951 := ON: Turn Shadows on.
+47938 := 正在验证
+47939 := 正在验证从 Xbox Live 下载的内容包……
+47940 := LucasArts 和 LucasArts 标志是 Lucasfilm Ltd. 的注册商标。BioWare、BioWare Odyssey Engine 和 BioWare 标志是 BioWare Corp. 的注册商标。# 2003 Lucasfilm Entertainment Company Ltd. 或 Lucasfilm Ltd.，并按标示拥有 # 或 TM。保留所有权利。BioWare Odyssey Engine # 2001 - 2003 BioWare Corp. 保留所有权利。
+47941 := 训练计算机
+47942 := 把这颗可悲的星球从银河系中抹去！
+47943 := 上那些炮塔！
+47944 := 战争年代
+47945 := 黑暗与光明之间
+47946 := 所有共和国部队撤退！
+47947 := 上将，撤退已经太晚了。我们无路可逃。
+47948 := 选择你的道路
+47949 := 这不过是黑暗面的一点滋味！
+47950 := 阴影
+47951 := 开启：打开阴影。
 
-OFF: Turn Shadows off.
+关闭：关闭阴影。
 
-Turning Shadows off may help the game run smoother.
-47952 := Soft Shadows
-47953 := ON: Show Soft Shadows.
+关闭阴影可能有助于游戏运行更流畅。
+47952 := 柔和阴影
+47953 := 开启：显示柔和阴影。
 
-OFF: Do not show Soft Shadows.
+关闭：不显示柔和阴影。
 
-Turning off Soft Shadows may help the game run smoother.
-47954 := Grass
-47955 := ON: Grass is shown.
+关闭柔和阴影可能有助于游戏运行更流畅。
+47954 := 草地
+47955 := 开启：显示草地。
 
-OFF: Grass is not shown.
+关闭：不显示草地。
 
-Turning Grass off may help the game run smoother.
-47956 := Frame Buffer Effects
-47957 := ON: Show per pixel flares, noise, and speed blur.
+关闭草地可能有助于游戏运行更流畅。
+47956 := 帧缓冲效果
+47957 := 开启：显示逐像素光晕、噪点和速度模糊。
 
-OFF: Do not show per pixel flares, noise, and speed blur.
+关闭：不显示逐像素光晕、噪点和速度模糊。
 
-Turning on Frame Buffer Effects improves the visual quality of the game while turning off Frame Buffer Effects may help the game run smoother.
-47958 := Emitters
-47959 := ON: Show visual effects such as blaster bolts and certain force powers.
+开启帧缓冲效果会提升游戏的视觉质量，关闭帧缓冲效果可能有助于游戏运行更流畅。
+47958 := 特效发射器
+47959 := 开启：显示爆能束和某些原力能力等视觉效果。
 
-OFF: Do not show visual effects such as blaster bolts and certain force powers.
+关闭：不显示爆能束和某些原力能力等视觉效果。
 
-Turning off Emitters may help the game run smoother on older video cards.
-47960 := Anisotropy
-47961 := Anisotropy - 8X: for the best visual experience
+关闭特效发射器可能有助于游戏在较旧显卡上运行更流畅。
+47960 := 各向异性
+47961 := 各向异性 - 8X：最佳视觉体验
 
-Anisotropy - 4X: better visual experience
+各向异性 - 4X：较好视觉体验
 
-Anisotropy - 2X: a blend of game performance and visual quality
+各向异性 - 2X：兼顾游戏性能和视觉质量
 
-Anisotropy - Off: Anisotropic Filtering is turned off
+各向异性 - 关闭：各向异性过滤已关闭
 
-Using Anisotropic Texture Filtering makes the textures look better in the game. Turning off Anisotropic Filtering may help the game run smoother.
-47962 := Texture Controllers
-47963 := ON: Texture controllers are on.
+使用各向异性纹理过滤会让游戏中的纹理看起来更好。关闭各向异性过滤可能有助于游戏运行更流畅。
+47962 := 纹理控制器
+47963 := 开启：纹理控制器开启。
 
-OFF: Texture controllers are off.
-47964 := Texture Quality
-47965 := Texture Quality
+关闭：纹理控制器关闭。
+47964 := 纹理质量
+47965 := 纹理质量
 
-High: for the best visual experience
+高：最佳视觉体验
 
-Medium: a blend of game performance and visual quality
+中：兼顾游戏性能和视觉质量
 
-Low: suggested for older video cards
+低：建议较旧显卡使用
 
-Selecting Medium or Low may help the game run smoother.
-47966 := Screen Resolution
-47967 := Set the screen resolution and refresh rate.
-47968 := V-Sync
-47969 := ON: V-Sync is on.
+选择中或低可能有助于游戏运行更流畅。
+47966 := 屏幕分辨率
+47967 := 设置屏幕分辨率和刷新率。
+47968 := 垂直同步
+47969 := 开启：垂直同步开启。
 
-OFF: V-Sync is off.
+关闭：垂直同步关闭。
 
-Turning V-Sync off may introduce graphical display issues however certain systems may be capable of smoother gameplay.
-47970 := Anti-Aliasing
-47971 := 8 sample AA: for the best visual experience
+关闭垂直同步可能会带来图像显示问题，但某些系统或许能获得更流畅的游戏体验。
+47970 := 抗锯齿
+47971 := 8 样本抗锯齿：最佳视觉体验
 
-6 sample AA: for high visual quality
+6 样本抗锯齿：高视觉质量
 
-4 sample AA: for improved visual quality
+4 样本抗锯齿：提升视觉质量
 
-2 sample AA: a blend of game performance and visual quality
+2 样本抗锯齿：兼顾游戏性能和视觉质量
 
-No Anti-aliasing: Anti-aliasing is turned off
+无抗锯齿：抗锯齿已关闭
 
-Turning on Anti-aliasing smooths the jagged edges or "stair-step" look of the game. Selecting 2 sample AA or No Anti-aliasing may help the game run smoother.
-47972 := Advanced Graphics Options
-47973 := No systems active
-47974 := Top System
-47975 := Mid-Upper System
-47976 := Mid-Upper System, Top System
-47977 := Mid-Lower System
-47978 := Mid-Lower System, Top System
-47979 := Mid-Lower System, Mid-Upper System
-47980 := Mid-Lower System, Mid-Upper System, Top System
-47981 := Base System
-47982 := Base System, Top System
-47983 := Base System, Mid-Upper System
-47984 := Base System, Mid-Upper System, Top System
-47985 := Base System, Mid-Lower System
-47986 := Base System, Mid-Lower System, Top System
-47987 := Base System, Mid-Lower System, Mid-Upper System
-47988 := Base System, Mid-Lower System, Mid-Upper System, Top System
-47989 := You need to free <CUSTOM0> more MB to save to a new slot.
+开启抗锯齿会平滑游戏中的锯齿边缘或“阶梯状”外观。选择 2 样本抗锯齿或无抗锯齿可能有助于游戏运行更流畅。
+47972 := 高级图像选项
+47973 := 没有活动系统
+47974 := 顶部系统
+47975 := 中上系统
+47976 := 中上系统，顶部系统
+47977 := 中下系统
+47978 := 中下系统，顶部系统
+47979 := 中下系统，中上系统
+47980 := 中下系统，中上系统，顶部系统
+47981 := 基础系统
+47982 := 基础系统，顶部系统
+47983 := 基础系统，中上系统
+47984 := 基础系统，中上系统，顶部系统
+47985 := 基础系统，中下系统
+47986 := 基础系统，中下系统，顶部系统
+47987 := 基础系统，中下系统，中上系统
+47988 := 基础系统，中下系统，中上系统，顶部系统
+47989 := 你需要再释放 <CUSTOM0> MB，才能保存到新栏位。
 
-You will need to delete or overwrite an existing save game.
-47990 := A vial of greenish, bubbling liquid
-47991 := Quick Save
-47992 := Your computer doesn't have enough free space to save games. You need to free <CUSTOM0> MB. 
-47994 := Graphics
-47995 := Sound
-47996 := No Anti-aliasing
-47997 := 2 sample AA
-47998 := Quincunx AA
-47999 := 4 sample AA
-48000 := Nice 4 sample AA
-48001 := 9 sample supersampling
-48003 := Low
-48004 := Medium
-48005 := High
-48006 := Combat Difficulty
-Auto Level Up
-Mouse Look
-Autosave
-Reverse Mini-Game Y Axis
-Combat Movement
-Mouse Settings
-Key Mapping
-48007 := Mouse Sensitivity
-48008 := Mouse Look
-48009 := Graphics Options
-48010 := Brightness
-Screen Resolution
-Shadows
-Grass
+你需要删除或覆盖一个现有存档。
+47990 := 一小瓶泛绿、冒泡的液体
+47991 := 快速保存
+47992 := 你的计算机没有足够可用空间保存游戏。你需要释放 <CUSTOM0> MB。
+47994 := 图像
+47995 := 声音
+47996 := 无抗锯齿
+47997 := 2 样本抗锯齿
+47998 := 五点采样抗锯齿
+47999 := 4 样本抗锯齿
+48000 := 优质 4 样本抗锯齿
+48001 := 9 样本超级采样
+48003 := 低
+48004 := 中
+48005 := 高
+48006 := 战斗难度
+自动升级
+鼠标视角
+自动保存
+反转小游戏 Y 轴
+战斗移动
+鼠标设置
+按键映射
+48007 := 鼠标灵敏度
+48008 := 鼠标视角
+48009 := 图像选项
+48010 := 亮度
+屏幕分辨率
+阴影
+草地
 
-Advanced Graphics Options
-48011 := Sound Options
-48012 := Music Volume
-Voice-over Volume
-Sound Effects Volume
-Movie Volume
+高级图像选项
+48011 := 声音选项
+48012 := 音乐音量
+语音音量
+音效音量
+影片音量
 
-Advanced Sound Options
-48013 := Adjust the mouse movement sensitivity.
-48014 := ON: Mouse movement always controls the camera and the cursor is not visible.  Holding down CTRL or Right-Click will make the mouse cursor appear.
+高级声音选项
+48013 := 调整鼠标移动灵敏度。
+48014 := 开启：鼠标移动始终控制镜头，光标不可见。按住 CTRL 或右键单击会显示鼠标光标。
 
-OFF: Mouse cursor is always visible.  Holding down CTRL or Right-Click will dismiss the cursor and mouse movement will control the camera.
+关闭：鼠标光标始终可见。按住 CTRL 或右键单击会隐藏光标，鼠标移动将控制镜头。
 
-While in mouse movement, Left-Clicking will cause the player to run forward.
-48015 := Key
-48016 := Keyboard Configuration
-48017 := Free look
-48018 := This key will toggle the camera to free look mode 
-48019 := Pause Game
-48020 := This key will pause the game
-48021 := Select Previous (Left)
-48022 := This key will select the next object to the left of your character
-48023 := Select Next (Right)
-48024 := This key will select the next object to the right of your character
-48025 := Move Forward
-48026 := This key will cause your character to run away from the camera
-48027 := Move Backwards
-48028 := This key will cause your character to run towards the camera
-48029 := Move Left
-48030 := This key will cause your character to run towards the left side of the screen
-48031 := Move Right
-48032 := This key will cause your character to run towards the right side of the screen
-48033 := Change Leader
-48034 := This key will switch your control to the next character in the party
-48035 := Solo Mode
-48036 := This key will toggle Solo Mode, where party members do not follow the lead character
-48037 := Equipment Screen
-48038 := This key is a shortcut to the character equipment screen
-48039 := Inventory Screen
-48040 := This key is a shortcut to the character inventory screen
-48041 := Character Screen
-48042 := This key is a shortcut to the character information screen
-48043 := Skills and Feats
-48044 := This key is a shortcut to the character skills and feats screen
-48045 := Messages Screen
-48047 := This key is a shortcut to the messages screen
-48048 := Map Screen
-48049 := This key is a shortcut to the map screen and the party selection screen
-48050 := Quest Screen
-48051 := This key is a shortcut to the quests screen
-48052 := Options Screen
-48053 := This key is a shortcut to the options screen
-48054 := Quick Save
-48055 := This key will quick save the game
-48056 := Look About
-48057 := This key will switch between moving the mouse to the screen edges to rotate the camera, and using the mouse directly to rotate the camera
-48058 := Alternate Action
-48059 := This key switches between performing the default action and the alternate action when clicking on creatures, doors, or containers in the world
-48060 := Return
-48061 := Left Arrow
-48062 := Right Arrow
-48063 := Up Arrow
-48064 := Down Arrow
-48065 := Num-pad 1
-48066 := Num-pad 2
-48067 := Num-pad 3
-48068 := Num-pad 4
-48069 := Num-pad 5
-48070 := Num-pad 6
-48071 := Num-pad 7
-48072 := Num-pad 8
-48073 := Num-pad 9
-48074 := Num-pad 0
-48075 := Num-pad Decimal
-48076 := Num-pad Minus
-48077 := Num-pad Plus
+在鼠标移动模式下，左键单击会使玩家向前奔跑。
+48015 := 按键
+48016 := 键盘配置
+48017 := 自由视角
+48018 := 此按键会将镜头切换到自由视角模式
+48019 := 暂停游戏
+48020 := 此按键会暂停游戏
+48021 := 选择上一个（左）
+48022 := 此按键会选择你角色左侧的下一个对象
+48023 := 选择下一个（右）
+48024 := 此按键会选择你角色右侧的下一个对象
+48025 := 向前移动
+48026 := 此按键会使你的角色背离镜头奔跑
+48027 := 向后移动
+48028 := 此按键会使你的角色朝镜头奔跑
+48029 := 向左移动
+48030 := 此按键会使你的角色朝屏幕左侧奔跑
+48031 := 向右移动
+48032 := 此按键会使你的角色朝屏幕右侧奔跑
+48033 := 切换队长
+48034 := 此按键会把你的控制切换到队伍中的下一个角色
+48035 := 单人模式
+48036 := 此按键会切换单人模式；在该模式下，队友不会跟随领队角色
+48037 := 装备界面
+48038 := 此按键是角色装备界面的快捷键
+48039 := 物品栏界面
+48040 := 此按键是角色物品栏界面的快捷键
+48041 := 角色界面
+48042 := 此按键是角色信息界面的快捷键
+48043 := 技能与专长
+48044 := 此按键是角色技能与专长界面的快捷键
+48045 := 消息界面
+48047 := 此按键是消息界面的快捷键
+48048 := 地图界面
+48049 := 此按键是地图界面和队伍选择界面的快捷键
+48050 := 任务界面
+48051 := 此按键是任务界面的快捷键
+48052 := 选项界面
+48053 := 此按键是选项界面的快捷键
+48054 := 快速保存
+48055 := 此按键会快速保存游戏
+48056 := 环顾
+48057 := 此按键会在“将鼠标移到屏幕边缘旋转镜头”和“直接用鼠标旋转镜头”之间切换
+48058 := 替代动作
+48059 := 在世界中点击生物、门或容器时，此按键会在执行默认动作和替代动作之间切换
+48060 := 回车
+48061 := 左方向键
+48062 := 右方向键
+48063 := 上方向键
+48064 := 下方向键
+48065 := 小键盘 1
+48066 := 小键盘 2
+48067 := 小键盘 3
+48068 := 小键盘 4
+48069 := 小键盘 5
+48070 := 小键盘 6
+48071 := 小键盘 7
+48072 := 小键盘 8
+48073 := 小键盘 9
+48074 := 小键盘 0
+48075 := 小键盘小数点
+48076 := 小键盘减号
+48077 := 小键盘加号
 48078 := Shift
 48079 := Alt
 48080 := CTRL
@@ -52595,915 +52595,915 @@ While in mouse movement, Left-Clicking will cause the player to run forward.
 48135 := 8
 48136 := 9
 48137 := 0
-48138 := Space
-48139 := Num-pad Enter
-48140 := Caps-Lock
+48138 := 空格
+48139 := 小键盘 Enter
+48140 := Caps Lock
 48141 := Pause
-48142 := Key Mapping
-48143 := View and edit the key map settings
-48144 := None Set
-48145 := Invalid Key
-48146 := Key already used
-48147 := Game Menu
-48148 := This key is used to display the game options and other information about your character and party
-48149 := Advanced Stabilizer Gloves
-48150 := These gloves contain an advanced fire control and trajectory analysis system which links to held ranged weapons. This allows the user greater accuracy when aiming their own weapons, and also gives warning when incoming fire would likely hit the wearer.
-48151 := Advanced Sensory Implant
-48152 := By assisting the areas of the user's brain dedicated to sensory-interpretation, this implant greatly heightens the user's awareness of their surroundings, as well as spatial perception and analysis.
-48153 := Advanced Bio-Stabilizer Implant
-48155 := This detailed micro-computer analyzes the contents of the user's circulatory system, as well as surges and drops in nerve transmission rates. It attempts to stabilize the user's system, and remove undesirable elements from it.
-48156 := Light Exoskeleton
-48157 := Special:
-Upgradeable, Armor
+48142 := 按键映射
+48143 := 查看并编辑按键映射设置
+48144 := 未设置
+48145 := 无效按键
+48146 := 按键已被使用
+48147 := 游戏菜单
+48148 := 此按键用于显示游戏选项，以及关于你的角色和队伍的其他信息
+48149 := 高级稳定手套
+48150 := 这副手套内置先进火控与弹道分析系统，可与手持远程武器连接。这能让使用者瞄准自己的武器时更加精准，并在来袭火力可能命中佩戴者时发出警告。
+48151 := 高级感官植入体
+48152 := 这个植入体会辅助使用者大脑中负责感官解读的区域，大幅提升使用者对周围环境的察觉能力，以及空间感知与分析能力。
+48153 := 高级生物稳定植入体
+48155 := 这台精密微型计算机会分析使用者循环系统中的成分，以及神经传导速率的激增与下降。它会尝试稳定使用者的身体系统，并清除其中的不良成分。
+48156 := 轻型外骨骼
+48157 := 特殊：
+可升级，护甲
 
-A relatively new type of power-assisted armor, this suit mimics the major muscle movements of the wearer with mechanical impulses, resulting in greater strength and faster reaction times.
+这是一种相对较新的动力辅助护甲。该护甲会以机械脉冲模拟穿戴者主要肌肉的动作，从而带来更强的力量和更快的反应时间。
 
-48158 := Baragwin Shadow Armor
-48159 := Special:
-Upgradeable, Armor
+48158 := 巴拉格温暗影护甲
+48159 := 特殊：
+可升级，护甲
 
-A specialty of the Baragwin, this modifiable suit has advanced adaptive camouflage technology that, when combined with a stealth generator, allows it to blend in nearly seamlessly with the background when viewed from any direction. It is generally only sold to respected governments, but a number have found their way into more disreputable distribution channels.
+这是巴拉格温人的特产。这套可改装护甲拥有先进的自适应伪装技术，配合潜行发生器使用时，从任何方向观察都几乎能与背景无缝融合。它通常只出售给受尊敬的政府，但也有一批流入了不那么体面的分销渠道。
 
-48160 := Baragwin Assault Blade
-48161 := Special:
-Upgradeable, Melee
+48160 := 巴拉格温突击刃
+48161 := 特殊：
+可升级，近战
 
-This advanced vibrosword is a miracle of miniaturization technology. Not only does it deliver increased functionality over a normal vibrosword, it also has capacitors which discharge upon contact with a target. Extra space within the blade can be utilized by a variety of common upgrade modules.
-48162 := Advanced Combat Implant
-48163 := The Advanced Combat Implant is an experimental technology, designed to make computer data available to the user. Naturally, one of the first uses for this technology was combat. This implant contains weapons specification, and advanced usage techniques for all known weaponry in the Republic and associated territories.
-48164 := Advanced Bio-Stabilizer Mask
-48165 := Similar to the Advanced Bio-Stabilizer Implant, this mask analyzes circulation patterns through the skin, monitors breathing through chemical sensors, and reactions through eye movements. It additionally acts as a nearly complete environmental system, preventing toxins from ever reaching the wearer.
-48166 := Heavy Exoskeleton
-48167 := Special:
-Upgradeable, Armor
+这把先进震动剑是微型化技术的奇迹。它不仅比普通震动剑具备更多功能，还装有电容器，会在接触目标时放电。剑身中的额外空间可供多种常见升级模块使用。
+48162 := 高级战斗植入体
+48163 := 高级战斗植入体是一项实验性技术，旨在让使用者能够调用计算机数据。自然，这项技术最早的用途之一就是战斗。这个植入体包含共和国及其相关领地内所有已知武器的规格和高级使用技术。
+48164 := 高级生物稳定面具
+48165 := 与高级生物稳定植入体类似，这个面具会通过皮肤分析血液循环模式，通过化学传感器监测呼吸，并通过眼部动作监测反应。它还几乎能作为完整环境系统运作，阻止毒素接触佩戴者。
+48166 := 重型外骨骼
+48167 := 特殊：
+可升级，护甲
 
-A heavy and durable suit, this mechanical exoskeleton provides much greater strength and endurance, and vastly improved armor protection to the wearer than lighter models. With additional enhancements, this capability can be expanded even further, rivaling some light armored vehicles for protection.
+这是一套沉重而耐用的机械外骨骼，比轻型型号为穿戴者提供强得多的力量与耐力，以及大幅提升的护甲防护。通过额外强化，这种能力还可以进一步扩展，防护效果甚至可媲美某些轻型装甲载具。
 
-48168 := Environmental Bastion Armor
-48169 := Special:
-Upgradeable, Armor
+48168 := 环境堡垒护甲
+48169 := 特殊：
+可升级，护甲
 
-A modified environmental suit, this armor gives the wearer complete protection from the elements as well as superior combat protection. With additional enhancements, it can be converted into a completely contained environmental system and shield the wearer from outside radiation as well.
+这是一套改装环境服，为穿戴者提供完整的环境防护和优异的战斗防护。通过额外强化，它可以被改造成完全封闭的环境系统，并保护穿戴者免受外部辐射。
 
-48170 := Baragwin Assault Gun
-48171 := Special:
-Upgradeable, Ranged
+48170 := 巴拉格温突击枪
+48171 := 特殊：
+可升级，远程
 
-This light repeating blaster is an excellent example of the Baragwin aptitude for weaponry. By taking and modifying an existing repeating blaster design, the Baragwin have managed to greatly increase the damage output and added additional functionality with a variety of upgrade options.
-48172 := Baragwin Ion-X Weapon
-48173 := Special:
-Upgradeable, Ranged
+这把轻型连发爆能枪是巴拉格温人武器天赋的绝佳例子。通过采用并改造现有连发爆能枪设计，巴拉格温人大幅提高了伤害输出，并通过多种升级选项加入了额外功能。
+48172 := 巴拉格温离子-X 武器
+48173 := 特殊：
+可升级，远程
 
-This weapon is an experimental Baragwin design that has been extensively modified by Suvam Tan. He has incorporated what he describes as a 'shaped-energy' delivery system into the weapon, which allows it to deliver concussive force on impact in addition to the weapon's normal energy discharge. Upgrades to the weapon could potentially greatly increase both its impact force and its penetration.
-48174 := Baragwin Flame Thrower
-48175 := Using an innovative technique, the Baragwin have managed to modify a normal flame thrower to operate in such a fashion as to ignite the very atmosphere around a charged guidance beam. The result is a flame thrower that doesn't need an external fuel source and can be run virtually indefinitely.
-48176 := Baragwin Stun Ray
-48177 := While not the most powerful of weapons, the Baragwin have modified a normal Stun Ray to run at such efficiency that it can tap into the power supply of the droid mounting it, giving it unlimited charges.
-48178 := Baragwin Shield Disruptor
-48179 := The Baragwin have tweaked and tuned a normal Shield Disruptor to be able to run off the mounting droid's power supply, giving it unlimited charges.
-48180 := Composite Heavy Plating
-48181 := This plating forgoes mobility in favor of sheer mass. The huge composite plates covering the droid do not allow the range of motion that other armor systems may grant their user, but in terms of physical protection, this plating is the best in the galaxy.
-48182 := Baragwin Droid Shield
-48183 := A super-efficient version of a normal droid energy shield, the Baragwin version has been modified and customized to be able to run off the power supply of the droid mounting it. While the energy drain on the droid is insignificant, the protection gained is equal, if not superior, to a normal light droid energy shield.
-48184 := Baragwin Stealth Unit
-48185 := Similar in concept to the Baragwin Shadow Armor, the Baragwin Stealth Unit is a quantum leap in advancement over standard stealth units. It provides much greater camouflage, as well as enhancing the mobility and situational awareness of the wearer to potential threats.
-48186 := Advanced Alacrity Impant
-48187 := By fine-tuning the user's nervous system, this implant allows vastly improved reaction times and coordination over unmodified individuals. The success of this implant, though not in wide distribution due to its cost, has prompted some at rival Bavakar Medical Research Labs to call for it to be banned.
-48188 := Medical Interface Visor
-48189 := Similar in functionality to the Bio-Stabilizer series of medical equipment, this visor is designed to assist in the care and treatment of injured individuals. By providing constant data and analysis on the condition of the patient, this visor greatly increases the chance of survival of even the most critically injured of patients.
-48190 := Advanced Agent Interface
-48191 := A visor with an integrated computer and electronics analysis system, the Advanced Agent Interface uses a superior artificial intelligence routine to assist the wearer in all manner of covert and computer-oriented tasks. It can also be used to connect to a secure computer via physical cables, enabling the AI to act on its own to breach that system.
-48192 := Baragwin Heavy Repeating Blaster
-48193 := Special:
-Upgradeable, Ranged
+这件武器是巴拉格温人的实验性设计，由苏瓦姆·坦进行了大幅改装。他在武器中整合了自己所称的“塑形能量”输送系统，使其除正常能量放电外，还能在命中时释放冲击力。对武器进行升级，可能会大幅提高它的冲击力和穿透力。
+48174 := 巴拉格温火焰喷射器
+48175 := 巴拉格温人采用创新技术，成功改造了普通火焰喷射器，使其能围绕带电导引光束点燃周围的大气。结果是一种不需要外部燃料源、几乎可以无限运行的火焰喷射器。
+48176 := 巴拉格温震慑射线
+48177 := 巴拉格温人改造了普通震慑射线，使其以极高效率运行，可以接入装载它的机器人电源，从而获得无限充能。虽然它并非最强大的武器，但这一点足以弥补。
+48178 := 巴拉格温护盾干扰器
+48179 := 巴拉格温人微调并校准了普通护盾干扰器，使其能够依靠装载机器人的电源运行，从而获得无限充能。
+48180 := 复合重型装甲板
+48181 := 这种装甲板牺牲机动性，换取纯粹的质量。覆盖机器人的巨大复合板不允许其他装甲系统可能赋予使用者的活动范围，但就物理防护而言，这种装甲板是银河系中最好的。
+48182 := 巴拉格温机器人护盾
+48183 := 这是普通机器人能量护盾的超高效版本。巴拉格温版本经过改造和定制，可以依靠装载它的机器人电源运行。虽然对机器人造成的能量消耗微不足道，但获得的防护效果与普通轻型机器人能量护盾相当，甚至更优。
+48184 := 巴拉格温潜行装置
+48185 := 巴拉格温潜行装置在概念上类似巴拉格温暗影护甲，但相较标准潜行装置实现了飞跃式进步。它提供强得多的伪装能力，并增强佩戴者的机动性和对潜在威胁的态势感知。
+48186 := 高级敏捷植入体
+48187 := 通过精细调校使用者的神经系统，这个植入体使其反应时间和协调能力远超未改造者。虽然由于成本高昂而未能广泛流通，但它的成功已促使竞争对手巴瓦卡医学研究实验室的一些人呼吁禁用它。
+48188 := 医疗接口护目镜
+48189 := 这副护目镜的功能类似生物稳定系列医疗设备，旨在协助护理和治疗伤者。通过持续提供病人状况的数据与分析，这副护目镜大大提高了即便最重伤病人的生存机会。
+48190 := 高级特工接口
+48191 := 高级特工接口是一副集成计算机和电子分析系统的护目镜，使用优越的人工智能程序协助佩戴者执行各种隐秘和计算机相关任务。它还可以通过实体线缆连接到安全计算机，使人工智能能够自行突破该系统。
+48192 := 巴拉格温重型连发爆能枪
+48193 := 特殊：
+可升级，远程
 
-A heavier version of the Baragwin Assault Gun, this weapon features similar improvements over its more common version. The incredible amounts of energy contained in the beam can be upgraded even further to produce a blast capable of setting even durasteel on fire for brief periods.
-48194 := Baragwin Disruptor-X Weapon
-48195 := Special:
-Upgradeable, Ranged
+这是巴拉格温突击枪的重型版本，相比更常见的版本拥有类似改进。光束中蕴含的惊人能量还可以进一步升级，产生足以让硬钢短时间起火的爆能射击。
+48194 := 巴拉格温裂解-X 武器
+48195 := 特殊：
+可升级，远程
 
-Using the same 'shaped-energy' concept as in his Ion-X Weapon, Suvam Tan has modified a Baragwin disruptor weapon as well, giving comparable levels of concussive force to the blast that the Ion-X Weapon delivers. Upgrades to this weapon could potentially greatly increase both the impact force and the penetration of its charges.
-48196 := Advanced Droid Interface
-48198 := A self-contained artificial intelligence system, this module can be equipped on droids to provide them with additional resources useful in the bypassing of computer and conventional security systems. This AI extends the current capabilities of the mounting droid to a level typically only seen on military espionage droids.
-48199 := Heart of the Guardian
-48200 := Special:
-Upgrade Item, Lightsaber
+苏瓦姆·坦使用与其离子-X 武器相同的“塑形能量”概念，也改造了一件巴拉格温裂解武器，使其爆能束具备与离子-X 武器相当的冲击力。对这件武器进行升级，可能会大幅提高其能量弹的冲击力和穿透力。
+48196 := 高级机器人接口
+48198 := 这个模块是自成一体的人工智能系统，可装备在机器人上，为其提供额外资源，帮助绕过计算机和常规安保系统。该人工智能把装载机器人的现有能力扩展到通常只有军用间谍机器人才能达到的水平。
+48199 := 守护者之心
+48200 := 特殊：
+升级物品，光剑
 
-Though its origins have been lost, the legendary artifact known as the Heart of the Guardian was rumored to have been instrumental in the founding of the guardian order of Jedi. Nothing further is mentioned in any Jedi archive, but both Sith and Jedi whisper their own legends. According to the Jedi, the Heart will appear in a time of greatest turmoil and deliver the galaxy into salvation. The Sith, however, believe it to be an object of their heritage, which will bring the galaxy under their dominion.
- 
-The Heart of the Guardian appears to be a magnificently shaped lightsaber crystal of unknown composition. Analysis by Suvam Tan has yielded inconclusive results, not being able to identify what mineral it's made of. Suvam has even begun to wonder if it is a normal crystal at all, for at times it almost seems as if it were alive.
+尽管其起源已经失落，名为守护者之心的传奇神器据传曾在绝地卫士团的创立中发挥关键作用。任何绝地档案中都没有更多记载，但西斯和绝地都低声流传着自己的传说。按照绝地的说法，守护者之心会在最动荡的时代出现，并将银河带向救赎。然而西斯认为它是自己的传承之物，将把银河置于他们的统治之下。
 
-All known lightsaber crystals seem to have a strange resonance with the Heart of the Guardian, their properties being altered or enhanced when in close proximity to it. Additionally, energy focused through the Heart results in a beam of unique clarity and color.
-48201 := Mantle of the Force
-48203 := Special:
-Upgrade Item, Lightsaber
+守护者之心似乎是一枚形状宏伟、成分未知的光剑水晶。苏瓦姆·坦的分析没有得出确定结果，无法辨认它由何种矿物构成。苏瓦姆甚至开始怀疑它究竟是不是普通水晶，因为它有时看起来几乎像是活着的。
 
-The Mantle of the Force is an item assembled by Suvam Tan from pieces found in the ruins of Exar Kun's temples on the fourth moon orbiting Yavin. It appears to be the remains of an even older artifact of unknown origin. It is not known if it was used by Exar Kun, or just uncovered when his temples were destroyed. Nor is it known what the original properties of the item were, but given the current abilities, in its original state it must have been fearsome indeed.
+所有已知光剑水晶似乎都会与守护者之心产生奇异共振；当它们靠近守护者之心时，自身属性会被改变或增强。此外，经由守护者之心聚焦的能量会形成一道清晰度与颜色都独一无二的光束。
+48201 := 原力斗篷
+48203 := 特殊：
+升级物品，光剑
 
-The Mantle is a crystalline lattice, resembling a lightsaber crystal in many ways, but having the additional property of being able to radically alter the flow of energy that passes through it. When combined with other crystals, the Mantle warps their properties, often enhancing them to incredible levels.
+原力斗篷是苏瓦姆·坦用雅文第四卫星上埃克萨·库恩神庙遗迹中发现的碎片组装出的物品。它似乎是一件更古老、起源未知的神器残骸。无人知道它是否曾被埃克萨·库恩使用，还是只是在他的神庙被毁时被发掘出来。也无人知道这件物品原本具有什么属性，但从如今的能力判断，它在原始状态下必定极其可怖。
 
-Additionally, the Mantle seems to almost act as a focusing tool for Force-sensitive individuals, leading to the idea that the original artifact may once have been a powerful tool of the Sith, or perhaps something they took with them when the dark Jedi originally split from the Order.
-48205 :=  - <CUSTOM0>H <CUSTOM1>M
-48206 := Unable to load party information.  Select "OK" to continue.
-48207 := Saving...
-Please don't shut down the game.
-48208 := COMBAT MODE engaged. Press the Disengage button to cancel.
-48209 := Unable to load saved game.  Select "OK" to continue.
-48210 := You have gained new powers. You must use "Add Power" to select your new powers before continuing.
-48212 := ENEMY SIGHTED!
-Press the Pause key (<Pause> or Pause) to continue
-48213 := ON: Using the Up movement key will rotate your view downwards.
+原力斗篷是一种晶体晶格，在许多方面类似光剑水晶，但额外拥有能彻底改变通过其中能量流动的性质。与其他水晶结合时，原力斗篷会扭曲它们的属性，往往将其增强到惊人的程度。
 
-OFF: Using the Up movement key will rotate your view upwards.
-48214 := ON: Whenever you change targets in combat, the game will autopause.
+此外，原力斗篷似乎几乎能作为原力敏感者的聚焦工具，这使人想到，原本的神器也许曾经是西斯的强大工具，或许是黑暗绝地最初脱离武士团时带走的某样东西。
+48205 :=  - <CUSTOM0>时 <CUSTOM1>分
+48206 := 无法载入队伍信息。选择“确定”继续。
+48207 := 正在保存……
+请不要关闭游戏。
+48208 := 战斗模式已启动。按脱离按钮取消。
+48209 := 无法载入存档。选择“确定”继续。
+48210 := 你获得了新的原力能力。继续前必须使用“添加原力能力”选择新的能力。
+48212 := 发现敌人！
+按 Pause 键（<Pause> 或 Pause）继续
+48213 := 开启：使用向上移动键会将视角向下旋转。
 
-OFF: The game will not autopause when you switch targets in combat.
-48215 := You have gained new feats. You must use "Add Feat" to select your new feats before continuing.
-48217 := You must spend all of your points. Click on the +/- arrows or use the arrow keys to assign points.
-48218 := Quests
-48219 := Equip
-48220 := Inventory
-48221 := Map
-48222 := Options
-48223 := Messages
-48224 := Abilities
-48225 := Character Sheet
-48226 := Press 'Enter' to Cancel Live Feed and Return to Interface.
-48228 := SWKotOR Configuration Utility
-48229 := Graphics Options
-48230 := Resolution
-48231 := Refresh Rate
-48232 := Anti-Alias
-48233 := Texture Pack
-48234 := &Force Software Sound
-48235 := Scan &Hardware
-48236 := &Modify Settings
-48237 := &Close
-48238 := &Test Settings
-48239 := &Recommend Settings
-48240 := &Apply
-48241 := &Cancel
-48242 := Scanning your hardware may cause this program to crash or stop responding. If this happens, you may need to restart your computer. Do you wish to continue?
-48243 := SWKotOR Scan Hardware
-48244 := Scanning...
-48245 := SWKotOR System Information
-48246 := Sith Base Passcard
-48247 := indicates that you do not meet the minimum requirements for the listed item.
-48248 := indicates that you do not meet the recommended specs for the listed item.
-48249 := indicates that you meet the recommended specs for the listed item.
-48250 := OS
+关闭：使用向上移动键会将视角向上旋转。
+48214 := 开启：每当你在战斗中更换目标时，游戏都会自动暂停。
+
+关闭：你切换目标时游戏不会自动暂停。
+48215 := 你获得了新的专长。继续前必须使用“添加专长”选择新的专长。
+48217 := 你必须用完所有点数。点击 +/- 箭头或使用方向键来分配点数。
+48218 := 任务
+48219 := 装备
+48220 := 物品栏
+48221 := 地图
+48222 := 选项
+48223 := 消息
+48224 := 能力
+48225 := 角色表
+48226 := 按 Enter 取消实时画面并返回界面。
+48228 := SWKotOR 配置工具
+48229 := 图像选项
+48230 := 分辨率
+48231 := 刷新率
+48232 := 抗锯齿
+48233 := 纹理包
+48234 := &强制软件声音
+48235 := 扫描&硬件
+48236 := &修改设置
+48237 := &关闭
+48238 := &测试设置
+48239 := &推荐设置
+48240 := &应用
+48241 := &取消
+48242 := 扫描硬件可能导致此程序崩溃或停止响应。如果发生这种情况，你可能需要重新启动计算机。是否继续？
+48243 := SWKotOR 扫描硬件
+48244 := 正在扫描……
+48245 := SWKotOR 系统信息
+48246 := 西斯基地通行卡
+48247 := 表示你不满足所列项目的最低需求。
+48248 := 表示你不满足所列项目的推荐规格。
+48249 := 表示你满足所列项目的推荐规格。
+48250 := 操作系统
 48251 := CPU
 48252 := RAM
-48253 := HD
-48254 := Video
-48255 := Audio
+48253 := 硬盘
+48254 := 视频
+48255 := 音频
 48256 := OpenGL
 48257 := DirectX
-48258 := There was a fatal error reading a required file.  Please re-install the game.
-48259 := Text files
-48260 := Passed
-48261 := Failed
-48262 := Warning
-48263 := Not Detected
-48264 := free
-48265 := A standard ID card for Sith troopers
-48266 := &Save Report
-48267 := An error occurred while scanning your system configuration. Some of the following information may be incomplete or incorrect.
-48268 := An error occurred while trying to save the new game settings.
-48269 := The background image could not be located.
-48270 := No images specified for button.
-48271 := The game does not seem to be properly installed.
-48272 := Please restore the installation or reinstall the game.
-48273 := Unable to run the configuration program.
-48274 := Unable to run the update program.
-48275 := The game must be configured prior to starting.
-48276 := Unable to start the game.
-48277 := Please insert the Star Wars: Knights of the Old Republic 'Disc 1 - Play Disc'.
-48278 := Please insert the Star Wars: Knights of the Old Republic 'Disc 1 - Play Disc'.
-48279 := Please check your CD for dirt or damage.
-48280 := Game
-48281 := Configure
-48282 := Update
-48283 := Exit
-48284 := Install
-48285 := Heavy Blaster Pistol
-48286 := Lightsaber
-48287 := Premium Merchant
-48288 := No Key Assigned
-48289 := ToolTips
-48290 := Display the hint text for all controls
-48291 := Activate Medical Item
-48292 := This key activates the current medical item in your personal action menu.
-48293 := Change Skill or Feat
-48294 := This key displays the menu of Skills and Feats that can be selected
-48295 := Activate Mine
-48296 := This key activates the current mine in your personal action menu.
-48297 := Change Hostile Power
-48298 := This key displays the menu to change the currently selected Hostile Force Power
-48299 := Activate Non-medical Item
-48300 := This key activates the current non-medical item in your personal action menu.
-48301 := Change Hostile Item
-48302 := This key displays the menu to change the current Hostile Item
-48303 := Activate Left Action
-48304 := This key activates the current action in the left target menu.
-48305 := Change Friendly Power
-48306 := This key displays the menu to change the Friendly Force Power
-48307 := Activate Middle Action
-48308 := This key activates the current action in the middle target menu.
-48309 := Change Friendly Item
-48310 := This key displays the menu to change the Friendly Item
-48311 := Activate Right Action
-48312 := This key activates the current action in the right target menu.
-48313 := Default Action
-48314 := This key duplicates the clicking of a object in the world. 
-48315 := Cancel combat
-48316 := This key will take the party out of combat
-48317 := Mini-Game Action
-48318 := This key will fire the turret guns or accelerate the swoop bike
-48319 := Pan Camera Left
-48320 := This key will pan the camera to the left
-48321 := Pan Camera Right
-48322 := This key will pan the camera to the right
-48324 := Left-click on the CHARACTER RECORD menu icon in the upper right corner of the screen. Then follow the instructions given on the screen.
-48325 := Whenever you attack an enemy, you will enter combat mode. This locks the camera on your target. To exit combat mode and unlock the camera, push the Disengage button.
-48326 := In the lower center of the screen you'll see a list of icons. This is your ACTION MENU. You can select items from this menu using the mouse or the keyboard (<DefaultAction>, <TargetMiddleAct>, <TargetRightAct>, <PersonalPowerAct>, <PersonalMedicalAct>, or <PersonalMinesAct>) and cycle through them using the mouse wheel. Right-clicking with the mouse or using the keyboard (<DEFAULTChg>, <FEATSSKILLChg>, <HOSTILEPOWERChg>, <HOSTILEITEMChg>, <FRIENDLYPOWERChg>, or <ItemsMenuChg>) will display a list of all available options.
-48327 := The icons in your ACTION MENU will change depending on whether your targeting circle is on a door, a container, a friendly creature or an enemy.  Left-click the mouse to interact with it.
-48328 := In combat mode, the far left icon defaults to a basic attack. The second icon shows your available SKILLS and FEATS. Left-click the mouse to use the current SKILL or FEAT.
-48329 := Use the mouse to select the action, item or FEAT you want to use, then left-click to select it.
-48330 := Use the EQUIP screen to equip the armor and weapons from your inventory. You can access this screen by selecting the EQUIP menu icon in the upper right corner of the screen.
-48331 := Use the mouse to look through your inventory slots. The menu on the right displays items you can equip in each slot.
-48332 := Select the bottom right inventory slot. This is your WEAPON slot. Left-click the mouse on an item in the right menu to equip that weapon.
-48333 := Combat uses a pause and play system. At any time you can press the Pause button to pause the game and issue commands to your characters.
-48334 := While the game is paused you can use the mouse to select a target or select icons from the ACTION MENU. You can switch characters by left-clicking on their portrait in the lower left corner of the screen.
-48335 := Any commands you issue to your party while paused will fire when you press the Pause button to unpause the game.
-48336 := In the lower center of the screen you'll see a list of icons. This is your ACTION MENU. You can select items from this menu using the mouse or the keyboard (<DefaultAction>, <TargetMiddleAct>, <TargetRightAct>, <PersonalPowerAct>, <PersonalMedicalAct>, or <PersonalMinesAct>) and cycle through them using the mouse wheel or the keyboard (<DEFAULTChg>, <FEATSSKILLChg>, <HOSTILEPOWERChg>, <HOSTILEITEMChg>, <FRIENDLYPOWERChg>, or <ItemsMenuChg>). You can also see a list of all the options by selecting an icon using the right mouse button.
-48337 := The icons in your ACTION MENU will change depending on whether your targeting circle is on a door, a container, a friendly creature or an enemy.  Press the Default Action key (<DefaultAction>) or left-click the mouse to interact with it.
-48338 := In combat mode, the far left icon defaults to a basic attack. The second icon shows your available SKILLS and FEATS. Left-click the mouse or press the Activate Skill or Feat key (<TargetMiddleAct>) to use the current SKILL or FEAT. Right-click or press the Change Skill or Feat key (<FEATSSKILLChg>) to see a list of available SKILLS and FEATS.
-48339 := Use the mouse to select the action, item or FEAT you want to use, then left-click to select it. You can also use the keyboard to use (<DefaultAction>, <TargetMiddleAct>, <TargetRightAct>, <PersonalPowerAct>, <PersonalMedicalAct>, or <PersonalMinesAct>) or change (<DEFAULTChg>, <FEATSSKILLChg>, <HOSTILEPOWERChg>, <HOSTILEITEMChg>, <FRIENDLYPOWERChg>, or <ItemsMenuChg>) actions, items and FEATS.
-48340 := Who are you? [Left-click this answer to select highlighted response.]
-48341 := Who's Bastila? [Left-click this answer to select highlighted response.]
-48342 := Forget it - I'm looking after my own skin! [Left-click this answer to select highlighted response.]
-48343 := The Endar Spire? [Left-click this answer to select highlighted response.]
-48344 := You can move the mouse to the edges of the screen to rotate the camera. Alternately, moving the mouse while holding down the right mouse button will rotate the camera as well.
-48345 := You can left-click on an object to select it. Once the footlocker is selected, left-click on it again to perform the default action and open it.
-48346 := Use the EQUIP screen to equip the armor and weapons from your inventory. You can access this screen by selecting the EQUIP menu icon (<Equip>) in the top right corner of the screen.
-48347 := Use the mouse or the arrow keys to look through your inventory slots. The menu on the right displays items you can equip in each slot.
-48348 := Left-click the mouse to select an inventory slot, then scroll through the available items on the right and left-click to equip one. 
-48349 := [TRASK has joined your party.]
-[Left-click this response to go to PARTY SELECTION screen.]
-48350 := You always control the leader of the party. You can switch who is the party leader by left-clicking on their portait in the lower left corner of the screen.
-48351 := Left-click my portrait now to switch me to the party leader, then use me to open the door.
-48352 := [SWITCHING <FullName> BACK TO PARTY LEADER]
-[Left-click this response to continue.]
-48353 := You can access your journal, map and other important menus by clicking on the menu icons in the upper right corner of the screen.
-48354 := You can use the mouse to switch between the menus listed on the tabs at the top of the screen.
-48355 := Target the door by using the mouse. When the targeting circle is focused on the door, you'll see the icons in the ACTION MENU at the bottom right of the screen have changed.
-48356 := Use the mouse to scroll through the feats until SECURITY is highlighted. Remember, the SECURITY icon only appears if you're controlling a character with the SECURITY skill.
-48357 := In the lower center of the screen you'll see a list of icons. This is your ACTION MENU. You can select items from this menu using the mouse or the keyboard (<DefaultAction>, <TargetMiddleAct>, <TargetRightAct>, <PersonalPowerAct>, <PersonalMedicalAct>, or <PersonalMinesAct>) and cycle through them using the mouse wheel or the keyboard (<DEFAULTChg>, <FEATSSKILLChg>, <HOSTILEPOWERChg>, <HOSTILEITEMChg>, <FRIENDLYPOWERChg>, or <ItemsMenuChg>). You can also see a list of all the options by selecting an icon using the right mouse button.
-48358 := The icons in your ACTION MENU will change depending on whether your targeting circle is on a door, a container, a friendly creature or an enemy.  Press the Default Action key (<DefaultAction>) to interact with it.
-48359 := You always control the leader of the party. You can switch who is the party leader by left-clicking on their portait in the lower right corner of the screen.
-48360 := In the lower right of the screen you'll see a list of icons. This is your ACTION MENU. You can select items from this menu by using the mouse.
-48361 := The icons in your ACTION MENU will change depending on whether your targeting circle is on a door, a container, a friendly creature or an enemy.  Press the Default Action key (<DefaultAction>) to interact with it.
-48362 := First, left-click on their portrait to take control of the injured character. Use the mouse to look through the items of the ACTION MENU until you see "Medpac" in the information box.
-48363 := Use the mouse wheel to scroll up or down to switch between your medpac and your advanced medpac. Left-click the mouse to use the selected item on the character you currently control.
-48364 := Left-clicking the mouse activates a selected combat feat. A character's available combat feats appear in the second icon of the ACTION MENU.
-48365 := When a grenade is highlighted in your ACTION MENU, left-clicking with the mouse will throw it at the selected target. Anyone caught in the blast area of a grenade will be affected, including allies.
-48366 := Left-clicking the mouse while a mine is selected in your ACTION MENU will place a mine. You can also disable and recover enemy mines and add them to your own inventory for later use.
-48367 := Left-click the mouse to activate a Friendly Force Power selected in the fifth icon of the ACTION MENU. Some Force Powers affect only the Jedi using them, others affect the entire party.
-48368 := Left-click the mouse to activate an Hostile Force Power selected in the third icon of the ACTION MENU. Some Force Powers affect only a single target, others affect all enemies within a specified range of the target.
-48369 := You can have multiple skills, feats or powers in each icon of the ACTION MENU. Scroll up or down using the mouse wheel to cycle through the various options.
-48370 := Pressing the Pause button will pause the game. While paused, you can issue commands to your party. Press the Pause button again when you want to unpause the game.
-48371 := The icons at the top right of the screen give you access to your character record sheet, inventory, map, journal and other menus. You can use the mouse to select different menus from the tabs at the top of the screen. Use the Exit button to exit the menus and return to normal gameplay.
-48372 := You can use the mouse to select eligible targets. While in combat, only hostiles will be targetable.
-48373 := Left-click the mouse to accelerate and shift gears. Use the Movement keys (<MGActionLeft> and <MGActionRight>) to avoid obstacles and hit accelerator pads.
-48374 := Left-clicking on a slot on the EQUIP screen brings up a list of items you can equip in the selected inventory slot.
-48375 := The game pauses when you sight an enemy, and the selection reticle will show up in red. You can use the mouse to select other hostile targets. This auto-pause option can be disabled on the Options screen.
-48376 := The red icon at the top of the screen indicates you have shifted to the dark side.
-48377 := Left-clicking the Default Action icon adds a standard attack to the stack or 'queue' of actions. You can also add other powers, feats, and abilities in this way, as well as items. You can add multiple actions and they will be performed in the order you added them to the stack.
-48378 := Clearing actions can only be used in combat. Left-clicking on the action queue will clear an action. If you have multiple actions queued up, left-clicking will clear the one that was added to the queue most recently.
-48379 := Some locked doors and containers can be opened by bashing or blasting them with a weapon until they open. Not all doors or containers can be successfully bashed. To bash an object, select it, then select Bash as the Default Action.
-48380 := Whenever you spot an enemy, left-click the Default Action icon once to enter combat mode. This will lock the camera on your selected target and cause your character to attack each round.
-48381 := Remember: Only left-click the Default Action icon ONCE to engage your enemy. You will automatically attack your target each round. You do not have to left-click the Default Action icon again until you select a new target.
-48382 := Flourish Weapon
-48383 := This key will cause your character to flourish their weapon (This has no effect on combat)
-48384 := PRESS THE PAUSE BUTTON TO CONTINUE
-48385 := ENEMY SIGHTED!
-Press the Pause button to continue
-Left-click the default action to engage
-48386 := Solo Mode
-Press the Solo Mode button to cancel
-48387 := You can use the "O" key to perform an action instead of the "Y" key. When you do this, instead of performing the action right away, you place the action in your action queue.
-48388 := You can use the "P" key to edit your action queue. When you press "P", the action farthest to the left on your action queue will be deleted.
-48389 := "Y" = ACCEPT
-48390 := "P" = Skills
-48391 := Space Bar = Feats
-48392 := Tab key = Powers
-48393 := Disengage "F"
-48394 := You must spend all your points. Left-click the mouse or use the arrow keys to assign points (left/right) or to switch attributes (up/down).
-48395 := Unable to load party information. Press the "Y" key to continue.
-48396 := Unable to load saved game. Press the "Y" key to continue.
-48397 := Press the Enter key
-48398 := Please reconnect the controller and press the Enter key to continue.
-48399 := Do you wish to open the dashboard?
+48258 := 读取所需文件时发生致命错误。请重新安装游戏。
+48259 := 文本文件
+48260 := 通过
+48261 := 未通过
+48262 := 警告
+48263 := 未检测到
+48264 := 可用
+48265 := 一张西斯士兵使用的标准 ID 卡
+48266 := &保存报告
+48267 := 扫描你的系统配置时出错。以下部分信息可能不完整或不正确。
+48268 := 尝试保存新的游戏设置时出错。
+48269 := 无法找到背景图像。
+48270 := 未指定按钮图像。
+48271 := 游戏似乎未正确安装。
+48272 := 请恢复安装或重新安装游戏。
+48273 := 无法运行配置程序。
+48274 := 无法运行更新程序。
+48275 := 启动前必须先配置游戏。
+48276 := 无法启动游戏。
+48277 := 请插入《星球大战：旧共和国武士》“光盘 1 - 游戏盘”。
+48278 := 请插入《星球大战：旧共和国武士》“光盘 1 - 游戏盘”。
+48279 := 请检查你的 CD 是否有污垢或损坏。
+48280 := 游戏
+48281 := 配置
+48282 := 更新
+48283 := 退出
+48284 := 安装
+48285 := 重型爆能手枪
+48286 := 光剑
+48287 := 高级商人
+48288 := 未分配按键
+48289 := 工具提示
+48290 := 显示所有控件的提示文本
+48291 := 激活医疗物品
+48292 := 此按键会激活你个人动作菜单中当前的医疗物品。
+48293 := 更换技能或专长
+48294 := 此按键会显示可选择的技能与专长菜单
+48295 := 激活地雷
+48296 := 此按键会激活你个人动作菜单中当前的地雷。
+48297 := 更换敌对能力
+48298 := 此按键会显示菜单，用于更换当前选中的敌对原力能力
+48299 := 激活非医疗物品
+48300 := 此按键会激活你个人动作菜单中当前的非医疗物品。
+48301 := 更换敌对物品
+48302 := 此按键会显示菜单，用于更换当前的敌对物品
+48303 := 激活左侧动作
+48304 := 此按键会激活左侧目标菜单中的当前动作。
+48305 := 更换友方能力
+48306 := 此按键会显示菜单，用于更换友方原力能力
+48307 := 激活中间动作
+48308 := 此按键会激活中间目标菜单中的当前动作。
+48309 := 更换友方物品
+48310 := 此按键会显示菜单，用于更换友方物品
+48311 := 激活右侧动作
+48312 := 此按键会激活右侧目标菜单中的当前动作。
+48313 := 默认动作
+48314 := 此按键相当于在世界中点击一个对象。
+48315 := 取消战斗
+48316 := 此按键会使队伍脱离战斗
+48317 := 小游戏动作
+48318 := 此按键会发射炮塔火炮或加速飞梭摩托
+48319 := 镜头左移
+48320 := 此按键会将镜头向左平移
+48321 := 镜头右移
+48322 := 此按键会将镜头向右平移
+48324 := 左键单击屏幕右上角的角色记录菜单图标。然后按照屏幕上的说明操作。
+48325 := 每当你攻击敌人时，都会进入战斗模式。这会把镜头锁定在你的目标上。若要退出战斗模式并解锁镜头，请按脱离按钮。
+48326 := 在屏幕下方中央，你会看到一列图标。这就是你的动作菜单。你可以用鼠标或键盘（<DefaultAction>、<TargetMiddleAct>、<TargetRightAct>、<PersonalPowerAct>、<PersonalMedicalAct> 或 <PersonalMinesAct>）从此菜单选择项目，并用鼠标滚轮循环切换。用鼠标右键单击或使用键盘（<DEFAULTChg>、<FEATSSKILLChg>、<HOSTILEPOWERChg>、<HOSTILEITEMChg>、<FRIENDLYPOWERChg> 或 <ItemsMenuChg>）会显示所有可用选项的列表。
+48327 := 动作菜单中的图标会根据你的瞄准圈对准门、容器、友方生物还是敌人而变化。左键单击鼠标与其互动。
+48328 := 在战斗模式下，最左侧图标默认为基础攻击。第二个图标显示你可用的技能和专长。左键单击鼠标使用当前技能或专长。
+48329 := 使用鼠标选择你想使用的动作、物品或专长，然后左键单击选择它。
+48330 := 使用装备界面从物品栏中装备护甲和武器。你可以选择屏幕右上角的装备菜单图标进入该界面。
+48331 := 使用鼠标浏览你的物品栏槽位。右侧菜单会显示每个槽位可装备的物品。
+48332 := 选择右下角的物品栏槽位。这是你的武器槽。左键单击右侧菜单中的物品来装备那件武器。
+48333 := 战斗采用暂停与运行系统。你可以随时按暂停按钮暂停游戏，并向角色下达命令。
+48334 := 游戏暂停时，你可以用鼠标选择目标，或从动作菜单中选择图标。你可以左键单击屏幕左下角的角色头像来切换角色。
+48335 := 暂停时你向队伍下达的任何命令，都会在你按暂停按钮取消暂停时执行。
+48336 := 在屏幕下方中央，你会看到一列图标。这就是你的动作菜单。你可以用鼠标或键盘（<DefaultAction>、<TargetMiddleAct>、<TargetRightAct>、<PersonalPowerAct>、<PersonalMedicalAct> 或 <PersonalMinesAct>）从此菜单选择项目，并用鼠标滚轮或键盘（<DEFAULTChg>、<FEATSSKILLChg>、<HOSTILEPOWERChg>、<HOSTILEITEMChg>、<FRIENDLYPOWERChg> 或 <ItemsMenuChg>）循环切换。你也可以用鼠标右键选择图标来查看所有选项列表。
+48337 := 动作菜单中的图标会根据你的瞄准圈对准门、容器、友方生物还是敌人而变化。按默认动作键（<DefaultAction>）或左键单击鼠标与其互动。
+48338 := 在战斗模式下，最左侧图标默认为基础攻击。第二个图标显示你可用的技能和专长。左键单击鼠标或按激活技能/专长键（<TargetMiddleAct>）使用当前技能或专长。右键单击或按更换技能/专长键（<FEATSSKILLChg>）可查看可用技能和专长列表。
+48339 := 使用鼠标选择你想使用的动作、物品或专长，然后左键单击选择它。你也可以用键盘使用（<DefaultAction>、<TargetMiddleAct>、<TargetRightAct>、<PersonalPowerAct>、<PersonalMedicalAct> 或 <PersonalMinesAct>）或更换（<DEFAULTChg>、<FEATSSKILLChg>、<HOSTILEPOWERChg>、<HOSTILEITEMChg>、<FRIENDLYPOWERChg> 或 <ItemsMenuChg>）动作、物品和专长。
+48340 := 你是谁？[左键单击此回答以选择高亮回应。]
+48341 := 巴丝蒂拉是谁？[左键单击此回答以选择高亮回应。]
+48342 := 算了——我只顾自己的命！[左键单击此回答以选择高亮回应。]
+48343 := 恩达尖塔号？[左键单击此回答以选择高亮回应。]
+48344 := 你可以把鼠标移到屏幕边缘来旋转镜头。或者，按住鼠标右键移动鼠标也可以旋转镜头。
+48345 := 你可以左键单击对象来选择它。选中脚柜后，再次左键单击即可执行默认动作并打开它。
+48346 := 使用装备界面从物品栏中装备护甲和武器。你可以选择屏幕右上角的装备菜单图标（<Equip>）进入该界面。
+48347 := 使用鼠标或方向键浏览你的物品栏槽位。右侧菜单会显示每个槽位可装备的物品。
+48348 := 左键单击鼠标选择一个物品栏槽位，然后滚动浏览右侧可用物品，并左键单击装备其中一件。
+48349 := [特拉斯克加入了你的队伍。]
+[左键单击此回应以前往队伍选择界面。]
+48350 := 你始终控制队伍领队。你可以左键单击屏幕左下角的角色头像来切换队伍领队。
+48351 := 现在左键单击我的头像，把我切换为队伍领队，然后用我打开门。
+48352 := [正在将 <FullName> 切回队伍领队]
+[左键单击此回应继续。]
+48353 := 你可以点击屏幕右上角的菜单图标，打开日志、地图和其他重要菜单。
+48354 := 你可以使用鼠标在屏幕顶部标签页列出的菜单之间切换。
+48355 := 使用鼠标瞄准那扇门。当瞄准圈锁定在门上时，你会看到屏幕右下角动作菜单中的图标发生变化。
+48356 := 用鼠标滚动浏览专长，直到安保被高亮。请记住，只有当你控制拥有安保技能的角色时，安保图标才会出现。
+48357 := 在屏幕下方中央，你会看到一列图标。这就是你的动作菜单。你可以用鼠标或键盘（<DefaultAction>、<TargetMiddleAct>、<TargetRightAct>、<PersonalPowerAct>、<PersonalMedicalAct> 或 <PersonalMinesAct>）从此菜单选择项目，并用鼠标滚轮或键盘（<DEFAULTChg>、<FEATSSKILLChg>、<HOSTILEPOWERChg>、<HOSTILEITEMChg>、<FRIENDLYPOWERChg> 或 <ItemsMenuChg>）循环切换。你也可以用鼠标右键选择图标来查看所有选项列表。
+48358 := 动作菜单中的图标会根据你的瞄准圈对准门、容器、友方生物还是敌人而变化。按默认动作键（<DefaultAction>）与其互动。
+48359 := 你始终控制队伍领队。你可以左键单击屏幕右下角的角色头像来切换队伍领队。
+48360 := 在屏幕右下方，你会看到一列图标。这就是你的动作菜单。你可以用鼠标从此菜单选择项目。
+48361 := 动作菜单中的图标会根据你的瞄准圈对准门、容器、友方生物还是敌人而变化。按默认动作键（<DefaultAction>）与其互动。
+48362 := 首先，左键单击受伤角色的头像以控制该角色。用鼠标浏览动作菜单中的物品，直到在信息框中看到“医疗包”。
+48363 := 使用鼠标滚轮向上或向下滚动，在医疗包和高级医疗包之间切换。左键单击鼠标，对你当前控制的角色使用所选物品。
+48364 := 左键单击鼠标会激活所选战斗专长。角色可用的战斗专长会显示在动作菜单的第二个图标中。
+48365 := 当手雷在动作菜单中高亮时，左键单击鼠标会将它投向所选目标。手雷爆炸范围内的任何人都会受到影响，包括盟友。
+48366 := 当动作菜单中选中地雷时，左键单击鼠标会放置一枚地雷。你也可以解除并回收敌方地雷，将其加入自己的物品栏供日后使用。
+48367 := 左键单击鼠标会激活动作菜单第五个图标中选中的友方原力能力。有些原力能力只影响使用它们的绝地，有些则影响整个队伍。
+48368 := 左键单击鼠标会激活动作菜单第三个图标中选中的敌对原力能力。有些原力能力只影响单个目标，有些则影响目标指定范围内的所有敌人。
+48369 := 动作菜单中的每个图标都可以包含多个技能、专长或能力。使用鼠标滚轮向上或向下滚动，即可在各种选项间循环切换。
+48370 := 按暂停按钮会暂停游戏。暂停时，你可以向队伍下达命令。想取消暂停时，再按一次暂停按钮。
+48371 := 屏幕右上角的图标让你可以进入角色记录表、物品栏、地图、日志和其他菜单。你可以用鼠标从屏幕顶部的标签页中选择不同菜单。使用退出按钮离开菜单并返回正常游戏。
+48372 := 你可以使用鼠标选择合格目标。战斗中，只有敌对目标可以被选中。
+48373 := 左键单击鼠标以加速并换挡。使用移动键（<MGActionLeft> 和 <MGActionRight>）避开障碍并撞上加速板。
+48374 := 在装备界面左键单击一个槽位，会显示可装备到所选物品栏槽位的物品列表。
+48375 := 当你看见敌人时，游戏会暂停，选择准星会显示为红色。你可以用鼠标选择其他敌对目标。此自动暂停选项可在选项界面中关闭。
+48376 := 屏幕顶部的红色图标表示你已经偏向黑暗面。
+48377 := 左键单击默认动作图标，会把一次标准攻击加入动作堆栈或“队列”。你也可以用这种方式加入其他能力、专长、技能和物品。你可以加入多个动作，它们会按加入堆栈的顺序执行。
+48378 := 清除动作只能在战斗中使用。左键单击动作队列会清除一个动作。如果队列中有多个动作，左键单击会清除最近加入队列的那个。
+48379 := 有些锁住的门和容器可以用武器砸击或射击，直到打开。并非所有门或容器都能被成功砸开。若要砸开对象，请选择它，然后选择砸击作为默认动作。
+48380 := 每当你发现敌人时，左键单击一次默认动作图标即可进入战斗模式。这会将镜头锁定在你选择的目标上，并使角色每轮攻击。
+48381 := 请记住：只需左键单击默认动作图标一次即可与敌人交战。你会每轮自动攻击目标。在选择新目标之前，不需要再次左键单击默认动作图标。
+48382 := 炫耀武器
+48383 := 此按键会使你的角色炫耀武器（这对战斗没有影响）
+48384 := 按暂停按钮继续
+48385 := 发现敌人！
+按暂停按钮继续
+左键单击默认动作以交战
+48386 := 单人模式
+按单人模式按钮取消
+48387 := 你可以使用“O”键而不是“Y”键执行动作。这样做时，你不会立即执行动作，而是将动作放入动作队列。
+48388 := 你可以使用“P”键编辑动作队列。按下“P”时，动作队列中最左侧的动作会被删除。
+48389 := “Y” = 接受
+48390 := “P” = 技能
+48391 := 空格键 = 专长
+48392 := Tab 键 = 能力
+48393 := 脱离“F”
+48394 := 你必须用完所有点数。左键单击鼠标或使用方向键分配点数（左/右）或切换属性（上/下）。
+48395 := 无法载入队伍信息。按“Y”键继续。
+48396 := 无法载入存档。按“Y”键继续。
+48397 := 按 Enter 键
+48398 := 请重新连接控制器并按 Enter 键继续。
+48399 := 是否要打开控制面板？
 
-Press the "Y" key to continue or
-press the "U" key to return to the previous screen.
-48400 := Do you wish to open the dashboard?
+按“Y”键继续，或
+按“U”键返回上一屏幕。
+48400 := 是否要打开控制面板？
 
-Any unsaved games will be lost.
+所有未保存的游戏都将丢失。
 
-Press the "Y" key to go to the dashboard or
-press the "U" key to return to the previous screen.
-48401 := "O" key pressed: action added to queue.
-48402 := Unable to load game options
-48403 := Press the "Y" key to skip.
-48404 := Combat is real time, but you can manually pause using the Pause button to give orders to party members. You can also set the game to auto-pause after each combat round using the OPTIONS menu.
-48405 := When paused, combat actions stack to occur in order. Left-clicking on the action queue clears the most recent action.
-48406 := Automapping records progress in each area. Click on the Map menu icon in the lower left corner of the screen to view the Map.
-48407 := The Journal logs quest information for you. Click on the Journal menu icon in the upper right corner of the screen to view the journal.
-48408 := Save the game in any location by clicking on the Options menu icon in the upper right corner of the screen.
-48409 := To change who is in your party, use the Party Selection button on the Map page.
-48410 := Use "Solo" mode by pressing the Solo Mode button to scout with a single character. Left-clicking on a portrait in the bottom right corner of the screen switches characters.
-48411 := To use a droid-only item, switch to the droid with the by left-clicking on their portrait and equip as normal.
-48412 := Combat is real time, but you can manually pause using the Pause button to give orders to party members.
-48413 := COMBAT MODE engaged. Press the "F" key to disengage.
-48414 := Unable to detect VRAM
-48415 := Action Menu Used
-48416 := ON: The game will pause each time you open the Action Menu in combat.
+按“Y”键前往控制面板，或
+按“U”键返回上一屏幕。
+48401 := 已按“O”键：动作已加入队列。
+48402 := 无法载入游戏选项
+48403 := 按“Y”键跳过。
+48404 := 战斗是实时进行的，但你可以用暂停按钮手动暂停，向队友下达命令。你也可以通过选项菜单，把游戏设置为每个战斗轮后自动暂停。
+48405 := 暂停时，战斗动作会堆叠并按顺序发生。左键单击动作队列会清除最近的动作。
+48406 := 自动地图会记录每个区域中的进度。点击屏幕左下角的地图菜单图标查看地图。
+48407 := 日志会为你记录任务信息。点击屏幕右上角的日志菜单图标查看日志。
+48408 := 点击屏幕右上角的选项菜单图标，可以在任何地点保存游戏。
+48409 := 若要更换队伍成员，请使用地图页面上的队伍选择按钮。
+48410 := 按单人模式按钮即可使用“单人”模式，让单个角色侦察。左键单击屏幕右下角的头像可以切换角色。
+48411 := 若要使用仅机器人可用的物品，请左键单击机器人的头像切换到该机器人，然后照常装备。
+48412 := 战斗是实时进行的，但你可以用暂停按钮手动暂停，向队友下达命令。
+48413 := 战斗模式已启动。按“F”键脱离。
+48414 := 无法检测 VRAM
+48415 := 动作菜单已使用
+48416 := 开启：每次你在战斗中打开动作菜单时，游戏都会暂停。
 
-OFF: The game will not pause when the Action Menu is opened in combat.
-48417 := Use the mouse to explore the ACTION MENU, then left-click when you have selected STEALTH.
-48418 := Error
-48419 := A fatal error has occurred.
-48420 := A required file is missing or corrupt. Please re-install.
-48421 := Star Wars: Knights of the Old Republic is not installed on this PC. This program will now exit.
-48422 := Force Software
-48423 := Action added to queue.
-48424 := Press the Pause key (<Pause> or Pause) to continue
-48425 := Scan Failed
-48426 := Game Requirements Met
-48427 := Game Requirements Not Met
-48428 := Your current hardware configuration does not meet the game's required specifications.
-48429 := Your current hardware configuration meets the game's required specifications.
-48430 := Your current hardware configuration exceeds the game's recommended specifications.
-48431 := The icon on the far left is always the default action for the target: OPEN for doors and containers, DIALOG for friends, and ATTACK for enemies. The second icon shows your feats and skills.
-48432 := For a detailed report on your system configuration, click on Details.
-48433 := &Details
-48434 := SWKotOR Scan Results
-48435 := The third icon shows Hostile Force Powers like Choke and Lightning. The fourth icon is for hostile items like grenades and mines.
-48436 := The fifth shows Friendly Force Powers like Heal and Force Armor. The sixth icon is Friendly Items like medpacs and energy shields.
-48437 := There was a error retrieving your system configuration.
-48438 := Use the Movement keys (<ActionUp>, <ActionDown>, <ActionLeft>, and <ActionRight>) to move towards your footlocker.
-48439 := Once the locker is targetted, either left-click on it with the mouse, or use the Default Action key (<DefaultAction>) to perform the default action (Open) on it.
-48440 := It does not, however, meet the recommended specifications.
-48441 := Left-click to target the door, then left-click it again with the mouse to open it.
-48442 := Left-click the icon you want to use to activate that feat, power or item. Clicking on the arrows above and below the icon will cycle to other feats, powers or items in that list.
-48443 := Using the keyboard shortcuts, you can activate any feat, power or item directly (<DefaultAction>, <TargetMiddleAct>, <TargetRightAct>, <PersonalPowerAct>, <PersonalMedicalAct>, or <PersonalMinesAct>). You can also use another shortcut to bring up a list of each of the ACTION MENU categories (<DEFAULTChg>, <FEATSSKILLChg>, <HOSTILEPOWERChg>, <HOSTILEITEMChg>, <FRIENDLYPOWERChg>, or <ItemsMenuChg>).
-48444 := Using the left and right arrow keys, you can select any of the different icons visible on the ACTION MENU. Additionally, you can use the up and down arrow keys to cycle to other feats, powers or items in that category. Pressing Enter uses that feat, power or item.
-48445 := Just remember that you have to actually be hurt for a medpac to work. You can't use it when you're uninjured.
-48446 := Once you see it, left-click the mouse to use your SECURITY skill on the door.
-48447 := Mouse Settings Options
-48448 := Reverse Mouse Buttons
-48449 := Mouse Settings
-48450 := Reverse the mouse button configuration. The default action will now be linked to the right mouse button.
-48451 := That door's locked, and I don't have the codes to open it. You'll have to use your SECURITY skill on it if we want to get past.
-48452 := Previous Menu
-48453 := Next Menu
-48454 := When viewing the in-game menus, this key will cause the next menu to the left to be displayed
-48455 := When viewing the in-game menus, this key will cause the next menu to the right to be displayed
-48456 := Clear Combat Action
-48457 := This key will remove one action from your combat queue
-48458 := Hover the mouse cursor over a control to see its hot key.
-48459 := XP Needed
-48460 := Star Wars: Knights of the Old Republic
-48462 := Action Menu Left
-48464 := Action Menu Right
-48465 := Action Menu Up
-48466 := Action Menu Down
-48467 := Action Menu Queue Action
-48468 := Action Menu Clear Action
-48469 := Action Menu Show/Hide
-48471 := This key will move the selection on the Action Menu to the left
-48472 := This key will move the selection on the Action Menu to the right
-48473 := This key will scroll up to the next item for the current selection on the Action Menu
-48474 := This key will scroll down to the next item for the current selection on the Action Menu
-48475 := This key will queue the highlighted action on the Action Menu
-48476 := This key will toggle the selection menu for the currently highlighted action
-48477 := Pause Mini-Game
-48478 := This key pauses the game while playing a mini-game
-48481 := [A destination is still stored in the Ebon Hawk's computer from the last trip Davik made with it.]
-48482 := Left
-48483 := Right
-48484 := left
-48485 := right
-48486 := Activate Friendly Power
-48487 := This key activates the current friendly power action in your personal action menu.
-48488 := Change Default Action
-48489 := This key opens the menu to change the default action
-48490 := This key will be used to cause the swoop bike or gun turret to move towards the left side of the screen.
-48491 := This key will be used to cause the swoop bike or gun turret to move towards the right side of the screen.
-48492 := This key will move the turret crosshairs upward
-48493 := This key will move the turret crosshairs downward
-48494 := You do not need to use a squad medical pack as no one in your party is injured.
-48495 := You can also use the keyboard to use (<DefaultAction>, <TargetMiddleAct>, <TargetRightAct>, <PersonalPowerAct>, <PersonalMedicalAct>, or <PersonalMinesAct>) actions, items and FEATS or see lists of them (<DEFAULTChg>, <FEATSSKILLChg>, <HOSTILEPOWERChg>, <HOSTILEITEMChg>, <FRIENDLYPOWERChg>, or <ItemsMenuChg>).
-48496 := Finally, the arrow keys can be used to select icons on the action menu (right/left), or cycle between the available options (up/down).
-48497 := Notice the up and down arrows on this icon. This means you have more than one available option for this icon. You must choose between a medpac and an advanced medpac.
-48498 := &V-Sync
-48499 := &Disable Sound
-48500 := Troubleshooting Options
-48501 := Miscellaneous Options
-48502 := &Enable Hardware Mouse
-48503 := Disable &Movies
-48504 := None
-48505 := 2x Super Sampling
-48506 := 4x Super Sampling
-48507 := Low
-48508 := Medium
-48509 := High
-48510 := SWKotOR Save Settings Error
-48511 := Failed to save your new settings.  Please shut down any other applications you have running and try again.
-48512 := Friendly Items
-48513 := Friendly Powers
-48514 := Hostile Items
-48515 := Hostile Powers
-48516 := Feats and Skills
-48517 := Default Actions
-48518 := Disengage
-48519 := Game <CUSTOM0> - <CUSTOM1>h <CUSTOM2>m
+关闭：战斗中打开动作菜单时，游戏不会暂停。
+48417 := 使用鼠标浏览动作菜单，然后在选中潜行后左键单击。
+48418 := 错误
+48419 := 发生致命错误。
+48420 := 所需文件缺失或损坏。请重新安装。
+48421 := 此 PC 上未安装《星球大战：旧共和国武士》。此程序现在将退出。
+48422 := 强制软件
+48423 := 动作已加入队列。
+48424 := 按 Pause 键（<Pause> 或 Pause）继续
+48425 := 扫描失败
+48426 := 满足游戏需求
+48427 := 不满足游戏需求
+48428 := 你当前的硬件配置不满足游戏所需规格。
+48429 := 你当前的硬件配置满足游戏所需规格。
+48430 := 你当前的硬件配置超过游戏推荐规格。
+48431 := 最左侧图标始终是目标的默认动作：门和容器为打开，友方为对话，敌人为攻击。第二个图标显示你的专长和技能。
+48432 := 若要查看系统配置的详细报告，请点击详细信息。
+48433 := &详细信息
+48434 := SWKotOR 扫描结果
+48435 := 第三个图标显示敌对原力能力，例如锁喉和闪电。第四个图标用于手雷和地雷等敌对物品。
+48436 := 第五个图标显示友方原力能力，例如治疗和原力护甲。第六个图标显示医疗包和能量护盾等友方物品。
+48437 := 获取你的系统配置时出错。
+48438 := 使用移动键（<ActionUp>、<ActionDown>、<ActionLeft> 和 <ActionRight>）向脚柜移动。
+48439 := 锁定柜子后，可以用鼠标左键单击它，或使用默认动作键（<DefaultAction>）对它执行默认动作（打开）。
+48440 := 但它不满足推荐规格。
+48441 := 左键单击以瞄准门，然后再次用鼠标左键单击它来打开。
+48442 := 左键单击你想使用的图标，以激活该专长、能力或物品。点击图标上方和下方的箭头，会在该列表中的其他专长、能力或物品之间循环。
+48443 := 使用键盘快捷键，你可以直接激活任何专长、能力或物品（<DefaultAction>、<TargetMiddleAct>、<TargetRightAct>、<PersonalPowerAct>、<PersonalMedicalAct> 或 <PersonalMinesAct>）。你也可以使用另一个快捷键调出每个动作菜单类别的列表（<DEFAULTChg>、<FEATSSKILLChg>、<HOSTILEPOWERChg>、<HOSTILEITEMChg>、<FRIENDLYPOWERChg> 或 <ItemsMenuChg>）。
+48444 := 使用左、右方向键，你可以选择动作菜单上可见的不同图标。此外，你也可以使用上、下方向键在该类别的其他专长、能力或物品之间循环。按 Enter 会使用该专长、能力或物品。
+48445 := 只要记住，医疗包必须在你确实受伤时才能生效。未受伤时无法使用。
+48446 := 看到它后，左键单击鼠标，对门使用你的安保技能。
+48447 := 鼠标设置选项
+48448 := 反转鼠标按钮
+48449 := 鼠标设置
+48450 := 反转鼠标按钮配置。默认动作现在将绑定到鼠标右键。
+48451 := 那扇门锁住了，我没有开门代码。想过去的话，你必须对它使用安保技能。
+48452 := 上一个菜单
+48453 := 下一个菜单
+48454 := 查看游戏内菜单时，此按键会显示左侧的下一个菜单
+48455 := 查看游戏内菜单时，此按键会显示右侧的下一个菜单
+48456 := 清除战斗动作
+48457 := 此按键会从你的战斗队列中移除一个动作
+48458 := 将鼠标光标悬停在控件上，可查看其热键。
+48459 := 所需经验值
+48460 := 星球大战：旧共和国武士
+48462 := 动作菜单左移
+48464 := 动作菜单右移
+48465 := 动作菜单上移
+48466 := 动作菜单下移
+48467 := 动作菜单加入动作队列
+48468 := 动作菜单清除动作
+48469 := 动作菜单显示/隐藏
+48471 := 此按键会将动作菜单上的选择向左移动
+48472 := 此按键会将动作菜单上的选择向右移动
+48473 := 此按键会向上滚动到动作菜单当前选择的下一项
+48474 := 此按键会向下滚动到动作菜单当前选择的下一项
+48475 := 此按键会将动作菜单中高亮的动作加入队列
+48476 := 此按键会切换当前高亮动作的选择菜单
+48477 := 暂停小游戏
+48478 := 此按键会在游玩小游戏时暂停游戏
+48481 := [乌木鹰号的计算机中仍保存着戴维克上次驾驶它出行时的目的地。]
+48482 := 左
+48483 := 右
+48484 := 左
+48485 := 右
+48486 := 激活友方能力
+48487 := 此按键会激活你个人动作菜单中当前的友方能力动作。
+48488 := 更换默认动作
+48489 := 此按键会打开菜单，用于更换默认动作
+48490 := 此按键用于使飞梭摩托或炮塔向屏幕左侧移动。
+48491 := 此按键用于使飞梭摩托或炮塔向屏幕右侧移动。
+48492 := 此按键会将炮塔准星向上移动
+48493 := 此按键会将炮塔准星向下移动
+48494 := 你不需要使用队伍医疗包，因为队伍中无人受伤。
+48495 := 你也可以使用键盘来使用（<DefaultAction>、<TargetMiddleAct>、<TargetRightAct>、<PersonalPowerAct>、<PersonalMedicalAct> 或 <PersonalMinesAct>）动作、物品和专长，或查看它们的列表（<DEFAULTChg>、<FEATSSKILLChg>、<HOSTILEPOWERChg>、<HOSTILEITEMChg>、<FRIENDLYPOWERChg> 或 <ItemsMenuChg>）。
+48496 := 最后，方向键可用于选择动作菜单上的图标（右/左），或在可用选项之间循环（上/下）。
+48497 := 注意此图标上的上、下箭头。这表示此图标有多个可用选项。你必须在医疗包和高级医疗包之间选择。
+48498 := &垂直同步
+48499 := &禁用声音
+48500 := 故障排除选项
+48501 := 杂项选项
+48502 := &启用硬件鼠标
+48503 := 禁用&影片
+48504 := 无
+48505 := 2x 超级采样
+48506 := 4x 超级采样
+48507 := 低
+48508 := 中
+48509 := 高
+48510 := SWKotOR 保存设置错误
+48511 := 保存你的新设置失败。请关闭正在运行的其他应用程序，然后重试。
+48512 := 友方物品
+48513 := 友方能力
+48514 := 敌对物品
+48515 := 敌对能力
+48516 := 专长和技能
+48517 := 默认动作
+48518 := 脱离
+48519 := 游戏 <CUSTOM0> - <CUSTOM1>时 <CUSTOM2>分
 <CUSTOM3>
-48521 := Squad Recovery Kit
-48522 := SWKotOR Save Report
-48523 := Failed to save the report file.  It may be in use or you may be out of disk space.
-48525 := [JOLEE has joined your party.]
-[Left-click this response to go to PARTY SELECTION screen.]
-48526 := [T3-M4 has joined your party.]
-[Left-click this response to go to PARTY SELECTION screen.]
-48527 := [CANDEROUS has joined your party.]
-[Canderous has a special cybernetic implant that regenerates minor wounds.]
-[Left-click this response to go to PARTY SELECTION screen.]
-48528 := [MISSION has joined your party.]
-[Left-click this response to go to PARTY SELECTION screen.]
-48529 := [HK-47 has joined your party.]
-[Left-click this response to go to PARTY SELECTION screen.]
-48530 := [You can switch party members using the PARTY SELECTION screen, accessible by left-clicking the Party Selection button while on the Map screen. This button is disabled in areas that are considered dangerous.]
-48531 := ACCESSING INFORMATION DATABASE...
-DATA LINK CONFIRMED...
-BEGINNING TRAINING ORIENTATION...
-[CONTINUE]
-48532 := Welcome, sentient. It is important for the peace and harmony of all beings, that the many paths of the Jedi Order be understood. Only through knowledge can all see the truth of the Force.
-[CONTINUE]
-48533 := Yavin Door 1
-48534 := SWKotOR Config Exit
-48535 := You have made changes to your configuration.
+48521 := 队伍恢复套件
+48522 := SWKotOR 保存报告
+48523 := 保存报告文件失败。它可能正在使用中，或者你的磁盘空间不足。
+48525 := [乔利加入了你的队伍。]
+[左键单击此回应以前往队伍选择界面。]
+48526 := [T3-M4 加入了你的队伍。]
+[左键单击此回应以前往队伍选择界面。]
+48527 := [坎德鲁斯加入了你的队伍。]
+[坎德鲁斯拥有一种特殊义体植入体，可以再生轻微伤势。]
+[左键单击此回应以前往队伍选择界面。]
+48528 := [米申加入了你的队伍。]
+[左键单击此回应以前往队伍选择界面。]
+48529 := [HK-47 加入了你的队伍。]
+[左键单击此回应以前往队伍选择界面。]
+48530 := [你可以使用队伍选择界面更换队友；在地图界面左键单击队伍选择按钮即可进入。此按钮在被视为危险的区域中会被禁用。]
+48531 := 正在访问信息数据库……
+数据链路已确认……
+开始训练导览……
+[继续]
+48532 := 欢迎，有知觉者。为了所有生灵的和平与和谐，理解绝地武士团的诸多道路十分重要。唯有通过知识，众生才能看见原力的真相。
+[继续]
+48533 := 雅文门 1
+48534 := SWKotOR 配置退出
+48535 := 你已更改配置。
 
-Do you want to save your changes before exiting?
+退出前是否要保存更改？
 
-48536 := Graphics Options
-48537 := Hide Unequippable Items
-Tutorial Popups
-Subtitles
-Mini-Map
-Floating Numbers
-Status Summary
-Display Action Menu Text
-Hide In-Game GUI
-Use Small Font
-Enable Tool Tips
-48538 := Sound Options
-48539 := Advanced Sound Options
-48540 := [Left-click this response to go to PARTY SELECTION screen.]
-48541 := Are you sure you want to cancel?
-48542 := You can use the TARGET MENU to use combat FEATS or items, and the ACTION MENU to use friendly or miscellaneous items.
-48543 := Tell me more about the TARGET and ACTION MENUs.
-48544 := Left-click the icon you want to use to activate that power or item. Clicking on the arrows above and below the icon will cycle to other powers or items in that list.
-48545 := The first icon of the ACTION MENU is for Friendly Force Powers. The second is for Medical Items such as Medpacs and Antidote Kits.
-48546 := The third icon is for Miscellaneous Items such as Stimulants and Energy Shields. The fourth icon is for Mines, and only appears if you have a mine in your inventory and have the DEMOLITIONS skill.
-48547 := The icons in your TARGET MENU will change depending on whether your targeting circle is on a door, a container, a friendly creature or an enemy. Left-click the mouse to select a target and bring up the TARGET MENU. Left-clicking on the target again will perform the Default Action on it.
-48548 := The first icon is for combat FEATS. The second icon is for Hostile Force Powers such as Choke and Kill. The third icon is for Grenades.
-48550 := Use the mouse to select the FEAT, power or item you want to use, then left-click to select it.
-48551 := While the game is paused you can use the mouse to select a target or select icons from the TARGET and ACTION MENUs. You can switch characters by left-clicking on their portrait in the lower left corner of the screen.
-48552 := To move towards the footlocker, hold down the right mouse button and face the camera towards it, then hold down the left mouse button as well to cause the character to run forward.
-48553 := Target the door using the mouse. When you have selected the door, the TARGET MENU will appear. The icons on the TARGET MENU are the additional options you can use on the door.
-48554 := Look at the TARGET MENU and find the SECURITY icon. Remember, the SECURITY icon only appears if you're controlling a character with the SECURITY skill.
-48555 := Once you see it, left-click it with the mouse to use your SECURITY skill on the door.
-48556 := First, left-click on their portrait to take control of the injured character. Use the mouse to look through the Medical Items in the ACTION MENU until you see "Medpac" in the information box.
-48557 := Use the mouse and click on the Stealth button to activate it.
-48558 := Automapping records progress in each area. Left-click on the Map menu icon to see the Map.
-48559 := Left-clicking the mouse activates a selected combat feat. A character's available combat feats appear in the first icon of the TARGET MENU.
-48560 := When a grenade is highlighted in your TARGET MENU, left-clicking with the mouse will throw it at the selected target. Anyone caught in the blast area of a grenade will be affected, including allies.
-48563 := Left-click the mouse to activate an Hostile Force Power selected in the second icon of the TARGET MENU. Some Force Powers affect only a single target, others affect all enemies within a specified range of the target.
-48564 := You can have multiple powers or items in each icon of the ACTION MENU. Scroll up or down using the mouse wheel to cycle through the various options.
-48565 := Some locked doors and containers can be opened by bashing or blasting them with a weapon until they open. Not all doors or containers can be successfully bashed. To bash an object, select it, then select Bash from the TARGET MENU.
-48566 := Whenever you spot an enemy, left-click the selected enemy once to enter combat mode. This will lock the camera on your selected target. Left-clicking the target again causes your character to perform the Default Action and attack each round.
-48567 := Remember: Only left-click the targetted enemy ONCE to engage. You will automatically attack your target each round. You do not have to left-click it again until you select a new target.
-48568 := While engaged in combat you can use the TARGET and ACTION MENUs to activate items, feats and Force powers each round. Otherwise your character will automatically perform their default attack each round.
-48569 := To Ebon Hawk
-48570 := Access Denied.
-48571 := To use an item like a medpac - or another self-targetting item or power - you'll need to know how to use your ACTION MENU.
-48572 := End of combat round
-Enemy sighted
-Mine sighted
-Party member killed
-Action menu used
-New target selected
-48573 := EAX Disabled
+48536 := 图像选项
+48537 := 隐藏不可装备物品
+教程弹窗
+字幕
+小地图
+浮动数字
+状态摘要
+显示动作菜单文本
+隐藏游戏内 GUI
+使用小字体
+启用工具提示
+48538 := 声音选项
+48539 := 高级声音选项
+48540 := [左键单击此回应以前往队伍选择界面。]
+48541 := 你确定要取消吗？
+48542 := 你可以使用目标菜单来使用战斗专长或物品，使用动作菜单来使用友方或杂项物品。
+48543 := 进一步了解目标菜单和动作菜单。
+48544 := 左键单击你想使用的图标，以激活该能力或物品。点击图标上方和下方的箭头，会在该列表中的其他能力或物品之间循环。
+48545 := 动作菜单的第一个图标用于友方原力能力。第二个图标用于医疗包和解毒包等医疗物品。
+48546 := 第三个图标用于兴奋剂和能量护盾等杂项物品。第四个图标用于地雷，只有当你的物品栏中有地雷且拥有爆破技能时才会出现。
+48547 := 目标菜单中的图标会根据你的瞄准圈对准门、容器、友方生物还是敌人而变化。左键单击鼠标选择目标并调出目标菜单。再次左键单击目标会对其执行默认动作。
+48548 := 第一个图标用于战斗专长。第二个图标用于锁喉和杀戮等敌对原力能力。第三个图标用于手雷。
+48550 := 使用鼠标选择你想使用的专长、能力或物品，然后左键单击选择它。
+48551 := 游戏暂停时，你可以使用鼠标选择目标，或从目标菜单和动作菜单中选择图标。你可以左键单击屏幕左下角的角色头像来切换角色。
+48552 := 若要向脚柜移动，请按住鼠标右键并让镜头朝向它，然后同时按住鼠标左键，使角色向前奔跑。
+48553 := 使用鼠标瞄准那扇门。选中门后，目标菜单会出现。目标菜单上的图标就是你可以对门使用的额外选项。
+48554 := 查看目标菜单并找到安保图标。请记住，只有当你控制拥有安保技能的角色时，安保图标才会出现。
+48555 := 看到它后，用鼠标左键单击它，对门使用你的安保技能。
+48556 := 首先，左键单击受伤角色的头像以控制该角色。用鼠标浏览动作菜单中的医疗物品，直到在信息框中看到“医疗包”。
+48557 := 使用鼠标并点击潜行按钮来激活它。
+48558 := 自动地图会记录每个区域中的进度。左键单击地图菜单图标即可查看地图。
+48559 := 左键单击鼠标会激活所选战斗专长。角色可用的战斗专长会显示在目标菜单的第一个图标中。
+48560 := 当手雷在目标菜单中高亮时，左键单击鼠标会将它投向所选目标。手雷爆炸范围内的任何人都会受到影响，包括盟友。
+48563 := 左键单击鼠标会激活目标菜单第二个图标中选中的敌对原力能力。有些原力能力只影响单个目标，有些则影响目标指定范围内的所有敌人。
+48564 := 动作菜单中的每个图标都可以包含多个能力或物品。使用鼠标滚轮向上或向下滚动，即可在各种选项间循环切换。
+48565 := 有些锁住的门和容器可以用武器砸击或射击，直到打开。并非所有门或容器都能被成功砸开。若要砸开对象，请选择它，然后从目标菜单中选择砸击。
+48566 := 每当你发现敌人时，左键单击一次所选敌人即可进入战斗模式。这会将镜头锁定在你选择的目标上。再次左键单击目标会使角色执行默认动作并每轮攻击。
+48567 := 请记住：只需左键单击一次目标敌人即可交战。你会每轮自动攻击目标。在选择新目标之前，不需要再次左键单击它。
+48568 := 交战时，你可以每轮使用目标菜单和动作菜单激活物品、专长和原力能力。否则，你的角色会每轮自动执行默认攻击。
+48569 := 前往乌木鹰号
+48570 := 访问被拒绝。
+48571 := 若要使用医疗包这类物品，或其他以自身为目标的物品或能力，你需要知道如何使用动作菜单。
+48572 := 战斗轮结束
+发现敌人
+发现地雷
+队友被杀
+动作菜单已使用
+新目标已选择
+48573 := EAX 已禁用
 48574 := EAX
 48575 := EAX 2
 48576 := EAX 3
-48577 := ON:  Do not use hardware accelerated 3D sound.  This may resolve compatibility issues on your system.
+48577 := 开启：不使用硬件加速 3D 声音。这可能解决你系统上的兼容性问题。
 
-OFF:  Use hardware accelerated 3D sound if available.  This may increase the performance or quality of the sound in the game.
-48578 := If Creative Labs EAX (TM) is available, this specifies the version of EAX used.
-48579 := Random Name
-48580 := Advanced Options
-48581 := Exit Game
-48582 := Travel
-48583 := You have been told by Ziagrom that there is a special merchant on Korriban. In the Cantina in Dreshdae, talk to the bartender Mika Dorin and he will let you see the premium goods he has for sale.
+关闭：如果可用，则使用硬件加速 3D 声音。这可能提升游戏中的声音性能或质量。
+48578 := 如果 Creative Labs EAX (TM) 可用，此项指定使用的 EAX 版本。
+48579 := 随机名称
+48580 := 高级选项
+48581 := 退出游戏
+48582 := 旅行
+48583 := 齐亚格罗姆告诉过你，卡里班有一名特殊商人。在德雷什戴的酒馆里，与酒保米卡·多林交谈，他会让你查看正在出售的高级货品。
 48584 := dan15_opendoor
-48585 := Tell me about the TARGET MENU.
-48586 := In the lower right of the screen you'll see a list of icons. This is your ACTION MENU. You can select items from this menu by using the mouse.
-48587 := Left-click the icon you want to use to activate that power or item. Clicking on the arrows above and below the icon will cycle to other powers or items in that list.
-48588 := The first icon of the ACTION MENU is for Friendly Force Powers. The second is for Medical Items such as Medpacs and Antidote Kits.
-48589 := The third icon is for Miscellaneous Items such as Stims and Energy Shields. The fourth icon is for Mines, and only appears if you have a mine in your inventory.
-48590 := The icons in your TARGET MENU will change depending on whether your targeting circle is on a door, a container, a friendly creature or an enemy. Left-click the mouse to select a target and bring up the TARGET MENU. Left-clicking on the target again will perform the Default Action on it.
-48591 := The first icon is for combat FEATS. The second icon is for Hostile Force Powers such as Choke and Kill. The third icon is for Grenades.
-48592 := Use the mouse to select the FEAT, power or item you want to use, then left-click to select it.
-48593 := Can you repeat that?
-48594 := Tell me about the TARGET MENU.
-48595 := Can you repeat that?
-48596 := How do I select icons again?
-48597 := In the lower right of the screen you'll see a list of icons. This is your ACTION MENU. You can select items from this menu by using the mouse.
-48598 := Left-click the icon you want to use to activate that power or item. Clicking on the arrows above and below the icon will cycle to other powers or items in that list.
-48599 := The first icon of the ACTION MENU is for Friendly Force Powers. The second is for Medical Items such as Medpacs and Antidote Kits.
-48600 := The third icon is for Miscellaneous Items such as Stims and Energy Shields. The fourth icon is for Mines, and only appears if you have a mine in your inventory.
-48601 := In the lower right of the screen you'll see a list of icons. This is your ACTION MENU. You can select items from this menu by using the mouse.
-48602 := Left-click the icon you want to use to activate that power or item. Clicking on the arrows above and below the icon will cycle to other powers or items in that list.
-48603 := The first icon of the ACTION MENU is for Friendly Force Powers. The second is for Medical Items such as Medpacs and Antidote Kits.
-48604 := The third icon is for Miscellaneous Items such as Stims and Energy Shields. The fourth icon is for Mines, and only appears if you have a mine in your inventory.
-48605 := The icons in your TARGET MENU will change depending on whether your targeting circle is on a door, a container, a friendly creature or an enemy. Left-click the mouse to select a target and bring up the TARGET MENU. Left-clicking on the target again will perform the Default Action on it.
-48606 := The first icon is for combat FEATS. The second icon is for Hostile Force Powers such as Choke and Kill. The third icon is for Grenades.
-48607 := Use the mouse to select the FEAT, power or item you want to use, then left-click to select it.
-48608 := Can you repeat that?
-48609 := Can you repeat that?
-48610 := Tell me about the TARGET MENU.
-48611 := Can you repeat that?
-48612 := How do I select icons again?
-48613 := Okay, let's move on.
-48641 := Leave it alone.
-48642 := [Force Lightning]
-48643 := [Force Shock]
-48644 := [Force Drain Life]
-48645 := [Force Wound]
-48646 := [Force Kill]
-48647 := [Force Choke]
-48648 := Kill the gizka.
-48649 := Pet the gizka.
-48650 := Damn gizka...
-48651 := What do you want?
-48652 := I know those Trandoshan lizards are waiting to strike again. Just a matter of time.
-48653 := What can I do for you?
-48654 := Well, you're back. I was just taking a look at a few new things I thought you might like and I...
-48655 := You?? How did you get in here?!
-48656 := We have our ways, rodian. Just because you didn't hear us dock, doesn't mean we can't. And your own stealth units have proven most... effective.
-48657 := [Failure] I think not, human. Not this time.
-48658 := I think not, human.
-48659 := We're here to teach you a lesson, Suvam. And you as well, human. Unfortunately, you won't live to correct your mistakes.
-48660 := Those Trandoshan scum! They couldn't get more out of me, so they tried to kill me instead!
-48661 := Hopefully, I'll have time before they send someone else to investigate... maybe rig their ship to take off somewhere else...
-48662 := Thank you for your help, at least. I know I couldn't have taken them on my own.
-48663 := I'll let you look at my special stash. It's the stuff I wasn't showing them. It won't be cheap, but if you want it, you can buy it.
-48664 := Eh? Oh, you're back again. Well, I don't know how much longer I'm going to be here. I keep thinking the Trandoshans will be coming back in force... and I don't want to be around when they do.
-48665 := I appreciate your help and all, but there's no way I can fight an army of those lizards, not even with your help.
-48666 := [Failure] Yes, I... No, no... What am I thinking of, I can't do something like that!
-48667 := [Failure] Ha! No, no. I think I can handle them by myself.
-48668 := I was thinking of maybe looking up some of my old Baragwin friends... if any of them are still alive.
-48669 := No, no, I'll be fine on my own. There's nothing that can be done sometimes, and I think I should move on anyway. This place is getting too old.
-48670 := Eh? That's the kind of gratitude I get? Well, I should have expected it from you...
-48671 := I don't know how much longer I'll be here, so if you come around again and I'm gone, don't come looking.
-48672 := Hah! And don't expect me to leave all the good stuff lying around the place either. It's coming with me.
-48673 := If there's anything you want, now's the time to buy it 'cause there's no guarantee it'll be here next time.
-48674 := [Failure] I... What? No I don't! I don't know what you're trying to pull, but don't do it again!
-48675 := Now do you want to buy something or not?
-48676 := [Success] Well, yeah, sure, I guess I can. You have a good face I think.
-48677 := A little odd, perhaps... but good.
-48678 := Suit yourself, suit yourself.
-48679 := Hm... I don't rightly know, yet. I was thinking of maybe looking up some of my old Baragwin friends... if any of them are still alive.
-48680 := I managed to scavenge enough pieces to fit my ship out with a hyperspace drive, so I'll spend some time trying to find them on my own I think.
-48681 := Now... what can I do for you?
-48682 := It's a lot better seeing you than those Trandoshans again. There anything I can do for you now, though?
-48683 := They want me to give them more of my inventions... stuff that I haven't even finished working on yet!
-48684 := Ever since Davik went down, the Exchange has been a non-factor in these parts. The Trandoshans are trying to muscle in on all the old Exchange businesses now.
-48685 := Maybe I can still work something out with them... Thank you for being here, though. It might have gone less... pleasantly if you hadn't shown up.
-48686 := Is there something else you want?
-48687 := That's not good enough, Suvam. We know you have more... and we want it now!
-48688 := What? You can't just rewrite our agreement whenever you feel like it! The Exchange won't stand for it!
-48689 := The Exchange is in no position to dictate orders anymore, Suvam...
-48690 := Who's that?
-48691 := A stranger... You haven't been telling us everything, now have you, Suvam?
-48692 := Tell you everything? What are you talking about? I don't have to clear everything through you!
-48693 := The Exchange has no power over us, human! Our business is with Suvam alone.
-48694 := A friend, Suvam? You try to hire others to reneg on our deal?
-48695 := Our deal? You're the ones trying to break our deal!
-48696 := You know what we want, Suvam. Give it to us or next time we'll take it by force.
-48697 := Think on this before inviting any more of your 'friends'.
-48698 := The Trandoshans, they can be... impulsive sometimes. They mean well, though, really they do. The new ones have just been getting greedy is all...
-48699 := Still, at least I ended up in one piece, right?
-48700 := Here, I'll let you look at some of the stuff I was saving for them. I'm definitely not going to give this to them now!
-48701 := I don't think so, human.
-48702 := Or what? You'll force us?
-48703 := No! No! Don't fight in here! You'll destroy everything!
-48704 := Your threats don't scare us, human!
-48705 := We'll be back, Suvam!
-48706 := Thank you for helping, but... I really don't think you should have provoked them like that. They can be... impulsive, sometimes.
-48707 := Still, at least I ended up all in one piece, right?
-48708 := You seek to mock us, human?
-48709 := No! No! Don't fight in here! You'll destroy everything!
-48710 := We'll be back for you, human... and you as well Suvam.
-48711 := Thank you for trying to help, but I don't think this ended very well at all. They can be... impulsive sometimes. They may be back in force...
-48712 := [Success] We... leave... now.
-48713 := But we have not forgotten you, Suvam!
-48714 := They're trying to extort me, that's what! They think that just cause the Exchange is gone, they can take whatever they want from me!
-48715 := We are... renegotiating our contract, Suvam.
-48716 := I was wondering when you'd want to talk again. What brings you here this time?
-48717 := Eh? Hm.. Well, suit yourself. I'll probably be here if you get back... Ha!
-48718 := Yeah I know... Some damn smugglers must have brought them and one escaped. Good luck trying to get them all, though. Those things breed like... like gizka!
-48719 := If you see any around, just squish the damn thing!
-48720 := Sure, it'll be 100 credits.
-48721 := [Success] Damn, I don't really need the money anyway. Here, take it.
-48722 := Now I'll show you how to play.
-48723 := Pazaak? The card game? Actually I do.
-48724 := One of the aqualish smugglers who comes by here regularly likes to play a bunch, and I kind of picked up the habit from him.
-48725 := I've actually gotten pretty good at it myself. I'll play you a couple rounds if you want. Be warned, though, I don't play for small amounts.
-48726 := Eh? Well, suit yourself. Anything else you want?
-48727 := Hm... well I have a couple extras. I could sell you one for 100 credits. You want it?
-48728 := Thanks. Here's your deck. Now I'll show you how to play.
-48729 := Right. This is going to be fun.
-48730 := Sure, if you want. I don't play for small amounts, though, so if you want to play, it's for keeps.
-48731 := Sure, if you want. You've already proven that I'm no match for you, but if you want a few free games just to play...
-48732 := Eh? Sure, then. Some other time.
-48733 := Is there anything else you'd like right now?
-48734 := Here, have a look.
-48735 := Yeah, I have a few things kicking around the place. Stuff the Trandoshans and smugglers have brought for me to look at, and a few things I've been making from parts.
-48736 := They aren't cheap, though. They pay a lot for what I can make, and anything I sell to you I can't exactly sell to them, now can I?
-48737 := But if you're willing to pay, I've got a few of my more advanced things you can look at. I'm always working on more, so you can check back some other time if I don't have what you want right now.
-48738 := Eh? Well, what do you want to know?
-48739 := Eh? Sure, sure.
-48740 := He used to come here every once in a while to trade. He worked for the Exchange... big-time smugglers. The Trandoshans didn't really want to get on his bad side, so they let it go.
-48741 := But now that he's gone, things are a bit more... uncertain.
-48742 := Eh? Never heard of them, or it. There were plenty of artifacts on Yavin IV, but no Forges or whatever.
-48743 := If that's all you're interested in, you'll probably want to try another system.
-48744 := Me? I'm nobody... doing nothing...
-48745 := I've been in this system for over 50 years, before this station was even built.
-48746 := I just sit around all day and tinker with this and that, trying out a few of my ideas.
-48747 := Maybe a little. I just tinker with stuff I've found lying around the ruins on Yavin IV, or that the Trandoshans and smugglers bring me. Of course, with them it's usually weapons and things...
-48748 := But I just have so many ideas that people haven't seemed to come up with yet. It's really quite astonishing.
-48749 := Oh, all kinds. Weapons, armor, implants, computers. My interests are as varied as the fields they apply to... which is just about everything, heh.
-48750 := I've scavenged what I could from the ruins on Yavin IV and I've been tinkering with it for a while.
-48751 := Eh? Well, there's the old ruins from Exar Kun's war on that moon. But I've been here over 50 years and I can tell you it's been picked pretty clean by now. If I haven't found it, it's not there. All that's left is rubble.
-48752 := Some. Some things I'm still tinkering with, trying to get them working. Mostly I modify some of the things the Trandoshans and smugglers bring me and make them work better.
-48753 := Well this gas giant here is Yavin, and it's got a whole bunch of moons around it. The only really interesting one is Yavin IV, though, and it's been pretty much picked clean.
-48754 := When Exar Kun started the Great Sith War 50 years ago, he used Yavin IV as a base, building a lot of his Sith temples there.
-48755 := When he lost, the Republic came and bombed the surface of the planet, destroying pretty much everything.
-48756 := Not much to tell. The Sith Lord Exar Kun tried to take on the galaxy. He lost, of course. They always seem to.
-48757 := Exar Kun was a Jedi... to start at least. He came here to Yavin and landed on the fourth moon... the one you can see through the window.
-48758 := There were some ancient Sith temples there, and in them Exar Kun gained terrible powers. He raised the Sith and waged a war against the Republic... much like what seems to be happening today.
-48759 := But Exar Kun was far more powerful than any Sith Lord who has come since. The very ground trembled beneath his feet and when he looked at you, you just... just...
-48760 := But that's all in the past now. I've got my life of staying here and tinkering with the stuff I've found in the ruins and the things the Trandoshans bring me.
-48761 := Well... you could still find a few things here and there on the surface. Some buried from the bombardment, some that look much, much older.
-48762 := I've been there a bunch of times and found pretty much all there was to find. I took them back here and tinkered with them a bit, getting them up and working, or improving them.
-48763 := I have a bunch you can look at if you're interested. Maybe... purchase?
-48764 := [Failure] Sure, I can just... What? No, no, I can't do that. You trying to trick me or something?
-48765 := Don't try stuff like that around here, kid. It won't work.
-48766 := Eh? Suit yourself. Anything else you want then?
-48767 := Hm... you don't look like I thought you would. Too... human.
-48768 := Don't see many of your kind out here at all anymore... not since the war at any rate. What brings you here?
-48769 := Eh? No need to be rude. I was just trying to be friendly is all... You don't have to bite my head off.
-48770 := If you don't want to talk, then I don't really know what you're doing here. There's nothing really here in this end of space anymore.
-48771 := Eh? What? Don't tell me you youngsters don't know anything about Exar Kun and that war...
-48772 := But then again, there've been a lot of... mm... troubles recently I've heard.
-48773 := Only what the smugglers and Trandoshans have told me. A new Sith Lord has risen up to replace the dead one, and he's beatng the Republic up pretty bad.
-48774 := They didn't seem too displeased with that prospect.
-48775 := Exar Kun was a Jedi... to start at least. He came here to Yavin and landed on the fourth moon... the one you can see through the window.
-48776 := There were some ancient Sith temples there, and in them Exar Kun gained terrible powers. He raised the Sith and waged a war against the Republic... much like what seems to be happening today.
-48777 := But Exar Kun was far more powerful than any Sith Lord who has come since. The very ground trembled beneath his feet and when he looked at you, you just... just...
-48778 := But that's all in the past now. I've got my life of staying here and tinkering with the stuff I've found in the ruins and the things the Trandoshans and smugglers bring me.
-48779 := Mm... 'Star Forge'? Never heard of it. There's nothing in this system except ruins of Exar Kun's war...
-48780 := Yavin's fourth moon used to hold a great number of temples dedicated to the ancient Sith. When Exar Kun came here 50 years ago, he used the temples in his effort to crush the Republic.
-48781 := He failed, obviously, and the Republic bombarded the surface almost into oblivion during their counterattack. Now all that's left are a lot of craters and a little bit of jungle.
-48782 := You could find stuff there for years afterwards, but I've got pretty much everything there was to find there.
-48783 := Mostly all I've been doing for the last couple years has been tinkering with what I've found there, getting some of it to work, and modifying the stuff the smugglers and Trandoshans bring me to look at.
-48784 := Darth Malak? Never heard of him... Or is he that new Sith Lord who's giving the Republic such a hard time now? I haven't been keeping up on recent news.
-48785 := Well, you see, I'm kind of out of touch with the rest of the galaxy. I haven't left this system in almost 50 years, and this station in the last five, so...
-48786 := Hey! It's not a bad way to live! I have all the gadgets I need to tinker with and the smugglers and Trandoshans bring me food and interesting pieces of equipment!
-48787 := This station is an old Republic supply depot from when they were fighting Exar Kun. Once they destroyed Yavin IV's surface, though, they didn't need it anymore.
-48788 := Once they'd gone, I decided to move in and use the place myself. It's not very roomy, but I think it's turned out all right. And it's close to Yavin IV, where I got most of my parts.
-48789 := Nobody comes here except the smugglers and Trandoshans anyway, so I get left alone the way I like it.
-48790 := Well... not exactly. See, I'm not as young as I look. Actually, I'm pretty old by most standards. I've been here since the war, really.
-48791 := The Sith were building a whole lot of temples on Yavin IV by Exar Kun's order, and they needed people to build it for them... so they got slaves.
-48792 := Most of the slaves were put to work on the buildings directly, but there are a lot of other things you need to make a planet a working base. Weapons, for instance.
-48793 := So they forced some Baragwin to work for them making weapons. You know Baragwin, right?
-48794 := And I was one of the ones working under the Baragwin. I guess you could say I had the talent for it. The Baragwin I worked for, he took me under his wing and made me his apprentice, even...
-48795 := But almost all of them died when the Republic destroyed the place, so I guess it's useless to think about it.
-48796 := Well, yeah, kind of. More like forced labor, really. We worked, or we died. Life gets really simple when someone puts it to you like that.
-48797 := We didn't have it near as bad as the ones who were actually building the temples themselves, though. I wouldn't be surprised if not a single one saw the temples completed.
-48798 := You don't know who the Baragwin are? They're the best damn weapons merchants in the galaxy, that's who they are!
-48799 := They were in space selling arms to the highest bidder before my species even got off our homeworld.
-48800 := Their weapons are the highest quality you can find, too. Better than either the Republic OR the Sith.
-48801 := I might have a couple. You want to take a look?
-48802 := Eh? Suit yourself, then.
-48803 := Eh? Yes, of course! You don't see anyone else around, do you?
-48804 := Well, not entirely alone at any rate... Trandoshans or smugglers come by every so often and drop things off and pick some of my inventions up.
-48805 := Maybe a little. I just tinker with stuff I've found lying around the ruins on Yavin IV, or that the Trandoshans and smugglers bring me. Of course, with them it's usually weapons and things...
-48806 := But I just have so many ideas that people haven't seemed to come up with yet. It's really quite astonishing.
-48807 := Rodians, aqualish, Twi'leks, whatever... They all work an organization called the Exchange. You might have heard of them.
-48808 := They run smuggling operations all over the galaxy. Weapons, slaves, whatever someone's willing to pay the price for.
-48809 := They found my talents very useful.
-48810 := Like the Trandoshans, they get me to patch up and upgrade what they bring, and pay me well for it. They also bring news and supplies.
-48811 := The Trandoshans? Mercenaries and bounty hunters... Scum, mostly. They look like big two-legged lizards.
-48812 := They found me here a couple years after the war ended. Usually they don't bargain with people they find alone in abandoned space stations, but we worked out a deal.
-48813 := I'd give them a few of my more... applicable inventions at reasonable prices, and they'd keep me supplied with food and new materials.
-48814 := Now all bets are off. I have a few supplies tucked away, but I can't stay here forever. I know they'll be back as well. But that's something to think about another time.
-48815 := Now it seems they might be trying for a power grab now that the Exchange is down... I don't know what's going to happen next, but it doesn't look good.
-48816 := It's worked out well so far, for years really. With Davik gone, they've been getting ideas, though.
-48817 := Anything else you want to know?
-48818 := No! Nothing like Rodians! Trandoshans are ugly, disgusting creatures... but you'd never want to say that to their faces. Rip your head clean off, probably.
-48819 := Eh? Oh that... That always seems to happen to the Republic. They always seem right on the verge of defeat and then manage to spring back. I shouldn't worry so much.
-48820 := And even if they do lose... so what? It's not like it's going to affect me way out here. The ruins on Yavin IV are gone and nothing's left of Exar Kun, so the Sith have nothing to bring them here.
-48821 := Ah... of course you are. Far be it for me to doubt you. But why here? It's the middle of nowhere... Unless you're here for the ruins on Yavin IV?
-48822 := Of course, of course, and I can see that you're starting to get all worked up about the whole thing, so I'll just leave it well enough alone.
-48823 := But why are you way out here? It's the middle of nowhere. Nothing to interest you here... unless you're looking for the ruins on Yavin IV.
-48824 := Former... student? Ah-hah, yes, of course.
-48825 := Your business with him is none of my business, of course, and I don't want to pry, but why are you way out here? Running?
-48826 := Acquired, eh? Well figures Davik would be lazy enough to leave it in the nav computer...
-48827 := Didn't leave anything about this system, did he? Ancient ruins or anything?
-48828 := Eh? No, no, of course not. A big woman like you? No, no. But why are you here in the middle of nowhere? The ruins?
-48829 := Eh? No, no, of course not. A big man like you? No, no. But why are you here in the middle of nowhere? The ruins?
-48830 := A new Dark Lord, is he? It always seems a new one pops up, no matter how many you kill...
-48831 := The Jedi Council? Don't tell me you're a Jedi... you sure don't look it!
-48832 := Only hope, eh? That's a lot of pressure to put on someone. I hope for their sake it's not misplaced.
-48833 := So if you don't mind saying, what exactly is the Council sending you out to do?
-48834 := Now far be it for me to say that you aren't, but I'm going to be a skeptic and say that the one with the armada and the troops is more likely to be the true Dark Lord.
-48835 := Not that I doubt you, you understand, I'm just trying to keep an open mind.
-48836 := And whether you are or not, my past is behind me, so I've nothing against you either way.
-48837 := Now, now, I never said I doubted you, it's just... well, there aren't exactly a lot of Jedi wandering around these parts, not after what happened last time.
-48838 := Eh? Eh?! Who is that? What do you want? I recognize your ship... Davik's, isn't it?
-48839 := But who are you? You new or something?
-48840 := [Success] Yes... I'll open the door for you, friend.
-48841 := You don't sound like a Trandoshan, and you're not one of Davik's... Who are you? What do you want?
-48842 := [Failure] Yes, now I do recog... no... wait. What the... ?
-48843 := I thought you might be, but no. Davik's gone now, destroyed on Taris. His people are all gone, too. So who are you?
-48844 := [Failure] Ha! Davik went down with Taris when the Sith destroyed it. That much I've learned from the local Exchange. So who are you?
-48845 := My first legitimate visitor in 20 years and she turns out to be a Sith-wannabe joker... just my luck.
-48846 := My first legitimate visitor in 20 years and he turns out to be a Sith-wannabe joker... just my luck.
-48847 := Well, I suppose even that's better than some more Trandoshans... They aren't exactly known for their stunning conversation.
-48848 := Yeah, yeah, don't get antsy, I'll get there. Just have to fiddle with this damn door lock... thing keeps jamming...
-48849 := There we go.
-48850 := All my business with the Sith is old news and I intend to leave it there. I don't need some young upstart bringing that stuff up again, so just drop it.
-48851 := Eh, I can't leave leave you standing out there talking, though... you seem to do a lot of that. I guess you can come in if you'll be civil.
-48852 := Just have to fiddle with this damn door lock... thing keeps jamming...
-48853 := They come by here every once in a while, it's how I keep in the loop, you know. But Trandoshan lizard-speak is kind of hard to follow and they have pretty limited imaginations...
-48854 := Smugglers aren't much better either...
-48855 := Look, this is getting kind of awkward through this door, if you'll just hold on a minute, I'll open this damn thing up and we can talk more face to face.
-48856 := Eh? Sith? They haven't been here in 50 years... not since the last war. Don't see why they'd start making a habit of it now...
-48857 := Still, all my business with the Sith is old news. Politics ain't my affair, so as long as you don't get all worked up, I guess I can let you in.
-48858 := Republic, eh? The Republic hasn't been here in 50 years... don't see why they'd start now.
-48859 := Still, I have nothing against the Republic, so as long as you don't get all worked up, I guess I can let you in.
-48860 := It would be nice to have someone to talk to for a change... Trandoshans and smugglers aren't exactly stunning conversationalists.
-48861 := Hah! I still got it!
-48862 := But don't feel bad, kid, it happens all the time. Heh.
-48863 := Interested in another game?
-48864 := Hm... you're good, I have to admit that.
-48865 := But I still think I can beat you a couple more times. You interested?
-48866 := I can't keep up with a player like you. You're just too good.
-48867 := But I respect that. Tell you what, I'll give you a discount on anything in my store 'cause of that. Special deal just for you.
-48868 := That was a good practice game. Interested in another?
-48869 := [Force Persuade] Leave. Now.
-48870 := I'll... uh... just be going now.
-48871 := Haven't I told you guys to get lost already?
-48872 := Get away from Suvam!
-48873 := What do you want?
-48874 := [Force Persuade] I'll take your inventions off your hands.
-48875 := [Persuade] I'll look after your inventions for you.
-48876 := Is there anything I can do to help?
-48877 := Good riddance!
-48878 := [Force Persuade] You want to give me all your inventions.
-48879 := [Force Persuade] You can cut me a deal.
-48880 := I'm not interested in that right now.
-48881 := Let's see what you have.
-48882 := What are you going to do?
-48883 := Where will you go?
-48884 := What did those Trandoshans want?
-48885 := I represent the Exchange.
-48886 := Leave. I'm not going to tell you a second time.
-48887 := I'm just going to be leaving now.
-48888 := If you're going to blast him, at least cut me in on something.
-48889 := I think you guys better leave.
-48890 := That's it. Now you die!
-48891 := Dead or alive, you're leaving.
-48892 := Or I will ask you again. Very politely.
-48893 := [Force Persuade] Leave. Now.
-48894 := What's going on here, Suvam?
-48895 := I'll be leaving now.
-48896 := I think you have gizka loose...
-48897 := Can I buy a Pazaak deck off you?
-48898 := [Force Persuade] Give me the deck.
-48899 := You don't happen to play Pazaak do you?
-48900 := Not right now.
-48901 := I don't have a deck.
-48902 := Here you go.
-48903 := Sure, let's play.
-48904 := Interested in a hand of Pazaak?
-48905 := Some other time.
-48906 := Let's play.
-48907 := Do you have anything you'd be willing to sell me?
-48908 := I'd like to ask you a few questions.
-48909 := I'm not really interested in more questions right now.
-48910 := How did you know Davik?
-48911 := Do you know anything about ancient Star Maps or the 'Star Forge'?
-48912 := Who are the Trandoshans?
-48913 := Tell me about yourself.
-48914 := Do you have any gadgets you'd be willing to sell me?
-48915 := You're an inventor?
-48916 := What kinds of things do you work on?
-48917 := There's stuff on Yavin IV?
-48918 := Have you found anything useful?
-48919 := Why did you come here?
-48920 := Tell me about this system.
-48921 := Why are you here?
-48922 := What about this station?
-48923 := What was on Yavin IV?
-48924 := Tell me about the Great Sith War.
-48925 := Tell me about Exar Kun.
-48926 := So what's with you and Yavin IV?
-48927 := 'Pretty much' everything?
-48928 := [Force Persuade] Give them to me.
-48929 := Not right now.
-48930 := Sure, what do you have?
-48931 := None of your business, bug-eyes!
-48932 := Anymore?
-48933 := What have you heard about the current war?
-48934 := Enlighten me about Exar Kun.
-48935 := I seek the pieces of a map to a 'Star Forge'.
-48936 := What are you doing here, then?
-48937 := What ruins?
-48938 := Exar Kun?
-48939 := I'm trying to defeat Darth Malak.
-48940 := Why don't you know these things?
-48941 := Why did you come here to the station?
-48942 := So you're from this system?
-48943 := Did you get brought here?
-48944 := Were you in the war?
-48945 := You were a slave?
-48946 := Who are the Baragwin?
-48947 := Do you have any Baragwin equipment?
-48948 := Not right now.
-48949 := Sure.
-48950 := You spend all your time here in this station? Alone?
-48951 := You're an inventor?
-48952 := Who are the smugglers?
-48953 := Who are the Trandoshans?
-48954 := I'd like to ask you something else.
-48955 := What do they want with you?
-48956 := Why are they here?
-48957 := Oh. Sort of like Rodians.
-48958 := He is beating the Republic pretty badly.
-48959 := I'M the one who will defeat the Republic!
-48960 := Exar Kun?
-48961 := What ruins?
-48962 := It matters to me!
-48963 := He is my former student.
-48964 := When I... acquired the Ebon Hawk, it had the coordinates for your station.
-48965 := I am NOT running!
-48966 := He is the Dark Lord of the Sith.
-48967 := I'm on a quest for the Jedi Council.
-48968 := I am their only hope.
-48969 := They have sent me to stop Darth Malak.
-48970 := I am the true Dark Lord of the Sith!
-48971 := I AM a Jedi!
-48972 := What happened before?
-48973 := Open this door or I'll blow my way in!
-48974 := [Force Persuade] Open this door. I am your friend.
-48975 := I don't know what you're talking about.
-48976 := Yeah, I'm new. Very new.
-48977 := [Force Persuade] I do work for Davik.
-48978 := [Lie] I do work for Davik.
-48979 := I am the Dark Lord and I am very displeased with you.
-48980 := I don't have time to stick around in this airlock... Let me in!
-48981 := What are you doing here?
-48982 := You have a problem with the Sith?
-48983 := Trandoshans and smugglers? What are you talking about?
-48984 := I'm trying to save the galaxy from the Sith.
-48985 := I work for the Republic.
-48986 := I'm a Republic soldier.
-48987 := Suvam Tan
-48988 := Trandoshan
-48989 := Yavin Door 1
-48990 := Yavin Door 5
-48991 := Yavin Door 2
-48992 := Yavin Door 3
-48993 := Yavin Door 4
-48995 := Access Panel
-48996 := Airlock Control
+48585 := 告诉我目标菜单的事。
+48586 := 在屏幕右下方，你会看到一列图标。这就是你的动作菜单。你可以用鼠标从此菜单选择项目。
+48587 := 左键单击你想使用的图标，以激活该能力或物品。点击图标上方和下方的箭头，会在该列表中的其他能力或物品之间循环。
+48588 := 动作菜单的第一个图标用于友方原力能力。第二个图标用于医疗包和解毒包等医疗物品。
+48589 := 第三个图标用于兴奋剂和能量护盾等杂项物品。第四个图标用于地雷，只有当你的物品栏中有地雷时才会出现。
+48590 := 目标菜单中的图标会根据你的瞄准圈对准门、容器、友方生物还是敌人而变化。左键单击鼠标选择目标并调出目标菜单。再次左键单击目标会对其执行默认动作。
+48591 := 第一个图标用于战斗专长。第二个图标用于锁喉和杀戮等敌对原力能力。第三个图标用于手雷。
+48592 := 使用鼠标选择你想使用的专长、能力或物品，然后左键单击选择它。
+48593 := 你能重复一遍吗？
+48594 := 告诉我目标菜单的事。
+48595 := 你能重复一遍吗？
+48596 := 我该怎样再次选择图标？
+48597 := 在屏幕右下方，你会看到一列图标。这就是你的动作菜单。你可以用鼠标从此菜单选择项目。
+48598 := 左键单击你想使用的图标，以激活该能力或物品。点击图标上方和下方的箭头，会在该列表中的其他能力或物品之间循环。
+48599 := 动作菜单的第一个图标用于友方原力能力。第二个图标用于医疗包和解毒包等医疗物品。
+48600 := 第三个图标用于兴奋剂和能量护盾等杂项物品。第四个图标用于地雷，只有当你的物品栏中有地雷时才会出现。
+48601 := 在屏幕右下方，你会看到一列图标。这就是你的动作菜单。你可以用鼠标从此菜单选择项目。
+48602 := 左键单击你想使用的图标，以激活该能力或物品。点击图标上方和下方的箭头，会在该列表中的其他能力或物品之间循环。
+48603 := 动作菜单的第一个图标用于友方原力能力。第二个图标用于医疗包和解毒包等医疗物品。
+48604 := 第三个图标用于兴奋剂和能量护盾等杂项物品。第四个图标用于地雷，只有当你的物品栏中有地雷时才会出现。
+48605 := 目标菜单中的图标会根据你的瞄准圈对准门、容器、友方生物还是敌人而变化。左键单击鼠标选择目标并调出目标菜单。再次左键单击目标会对其执行默认动作。
+48606 := 第一个图标用于战斗专长。第二个图标用于锁喉和杀戮等敌对原力能力。第三个图标用于手雷。
+48607 := 使用鼠标选择你想使用的专长、能力或物品，然后左键单击选择它。
+48608 := 你能重复一遍吗？
+48609 := 你能重复一遍吗？
+48610 := 告诉我目标菜单的事。
+48611 := 你能重复一遍吗？
+48612 := 我该怎样再次选择图标？
+48613 := 好，我们继续。
+48641 := 别管它。
+48642 := [原力闪电]
+48643 := [原力震击]
+48644 := [吸取生命]
+48645 := [原力创伤]
+48646 := [原力杀戮]
+48647 := [原力锁喉]
+48648 := 杀掉吉兹卡。
+48649 := 抚摸吉兹卡。
+48650 := 该死的吉兹卡……
+48651 := 你想要什么？
+48652 := 我知道那些特兰多沙蜥蜴人正等着再下手。只是时间问题。
+48653 := 我能为你做什么？
+48654 := 哦，你回来了。我刚在看几件新东西，觉得你也许会喜欢，然后我……
+48655 := 你？！你怎么进来的？！
+48656 := 我们自有办法，罗迪亚人。你没听见我们靠港，不等于我们进不来。而你自己的潜行装置已经证明相当……好用。
+48657 := [失败] 我看未必，人类。这次不行。
+48658 := 我看未必，人类。
+48659 := 我们是来给你点教训的，苏瓦姆。还有你，人类。可惜，你们活不到纠正错误的时候了。
+48660 := 那些特兰多沙人渣！他们没法从我这里榨出更多东西，就改成想杀我了！
+48661 := 希望在他们再派人来查之前，我还有点时间……也许能动点手脚，让他们的船飞去别的地方……
+48662 := 至少，谢谢你帮忙。我知道我自己对付不了他们。
+48663 := 我让你看看我的特别私藏。那是我没给他们看的东西。不便宜，但你想要就可以买。
+48664 := 咦？哦，你又回来了。嗯，我不知道我还能在这里待多久。我总觉得特兰多沙人会带着大队回来……他们回来时我可不想待在附近。
+48665 := 我很感谢你的帮助，不过我没办法对抗一整支蜥蜴人大军，就算有你帮忙也不行。
+48666 := [失败] 是，我……不，不……我在想什么，我不能做那种事！
+48667 := [失败] 哈！不，不。我想我自己能应付他们。
+48668 := 我在想，也许可以去找找我的几个巴拉格温老朋友……如果他们还有谁活着的话。
+48669 := 不，不，我自己会没事的。有时候就是没办法，我想我反正也该离开了。这个地方太老旧了。
+48670 := 咦？这就是我得到的感谢？好吧，我早该料到你会这样……
+48671 := 我不知道还能在这里待多久，所以如果你下次过来发现我走了，就别来找我。
+48672 := 哈！也别指望我把好东西都留在这儿。那些东西要跟我一起走。
+48673 := 你有什么想要的，现在就是买的时候，因为下次不保证还在。
+48674 := [失败] 我……什么？不，我才没有！我不知道你想玩什么花样，但别再来了！
+48675 := 那么你到底要不要买东西？
+48676 := [成功] 呃，是啊，当然，我想可以。你这张脸我觉得不错。
+48677 := 也许有点怪……但不错。
+48678 := 随你，随你。
+48679 := 嗯……我还真不知道。我在想，也许去找找我的几个巴拉格温老朋友……如果他们还有谁活着的话。
+48680 := 我捡到了足够的零件，给我的船装上超空间驱动器，所以我想会花点时间自己去找他们。
+48681 := 现在……我能为你做什么？
+48682 := 比起再见到那些特兰多沙人，见到你可好多了。不过现在有什么我能为你做的吗？
+48683 := 他们想让我交出更多发明……有些东西我甚至还没做完！
+48684 := 自从戴维克垮台，交易所在这一带就没什么影响力了。特兰多沙人现在想强占所有旧交易所的生意。
+48685 := 也许我还能跟他们谈出点办法……不过谢谢你在这里。要不是你出现，事情可能就没那么……愉快了。
+48686 := 你还想要别的吗？
+48687 := 这还不够，苏瓦姆。我们知道你还有更多……而且我们现在就要！
+48688 := 什么？你们不能想改协议就改！交易所不会坐视不管的！
+48689 := 交易所已经没资格发号施令了，苏瓦姆……
+48690 := 那是谁？
+48691 := 一个陌生人……你一直没把一切都告诉我们，对吧，苏瓦姆？
+48692 := 全都告诉你们？你在说什么？我又不是每件事都得经过你们批准！
+48693 := 交易所管不了我们，人类！我们的生意只和苏瓦姆有关。
+48694 := 朋友，苏瓦姆？你想雇别人来帮你毁约？
+48695 := 我们的交易？想破坏交易的是你们！
+48696 := 你知道我们想要什么，苏瓦姆。交出来，不然下次我们就动手拿。
+48697 := 在再邀请更多你的“朋友”之前，好好想想这件事。
+48698 := 特兰多沙人嘛，他们有时候会……冲动。他们其实是好意，真的。只是新来的那批越来越贪心……
+48699 := 不过，至少我最后还全须全尾，对吧？
+48700 := 来，我让你看看一些原本留给他们的东西。我现在绝对不会把这些给他们了！
+48701 := 我看不行，人类。
+48702 := 不然怎样？你要逼我们？
+48703 := 不！不！别在这里打！你们会把一切都毁了！
+48704 := 你的威胁吓不到我们，人类！
+48705 := 我们会回来的，苏瓦姆！
+48706 := 谢谢你帮忙，不过……我真的觉得你不该那样激怒他们。他们有时候会……冲动。
+48707 := 不过，至少我最后全须全尾，对吧？
+48708 := 你想嘲弄我们，人类？
+48709 := 不！不！别在这里打！你们会把一切都毁了！
+48710 := 我们会回来找你的，人类……也会找你，苏瓦姆。
+48711 := 谢谢你想帮忙，但我觉得这结果一点也不好。他们有时候会……冲动。也许会带着大队回来……
+48712 := [成功] 我们……现在……走。
+48713 := 但我们没有忘记你，苏瓦姆！
+48714 := 他们想勒索我，就是这样！他们以为交易所没了，就能从我这里想拿什么拿什么！
+48715 := 我们正在……重新谈判我们的合同，苏瓦姆。
+48716 := 我还在想你什么时候会想再聊呢。这次来有什么事？
+48717 := 咦？嗯……好吧，随你。我大概会在这里等你回来……哈！
+48718 := 是，我知道……肯定是一些该死的走私者带来的，有一只跑了。不过祝你把它们全抓住吧。那东西繁殖起来就像……就像吉兹卡！
+48719 := 如果看见附近有，就把那该死的东西踩扁！
+48720 := 当然，100 信用点。
+48721 := [成功] 该死，我反正也不太需要钱。拿去吧。
+48722 := 现在我教你怎么玩。
+48723 := 帕扎克牌？那个纸牌游戏？实际上，我会。
+48724 := 一个经常来这里的阿夸利什走私者很喜欢玩，我算是从他那里染上了这个习惯。
+48725 := 我自己其实也玩得很不错。如果你想，我可以跟你打几局。不过先说好，我不玩小注。
+48726 := 咦？好吧，随你。还想要别的吗？
+48727 := 嗯……我倒是有几副多余的。可以 100 信用点卖你一副。要吗？
+48728 := 谢了。这是你的牌组。现在我教你怎么玩。
+48729 := 好。这会很有意思。
+48730 := 当然，如果你想。我可不玩小注，所以要玩就得来真的。
+48731 := 当然，如果你想。你已经证明我不是你的对手了，但如果你只是想免费玩几局……
+48732 := 咦？好吧。那么改天。
+48733 := 你现在还想要什么别的吗？
+48734 := 来，看看吧。
+48735 := 是，我这里有些零碎东西。特兰多沙人和走私者带来让我看的，还有一些我用零件做出来的东西。
+48736 := 它们可不便宜。他们愿意为我做出来的东西付很多钱，我卖给你，就没法再卖给他们了，对吧？
+48737 := 但如果你愿意付钱，我有几件更高级的东西可以给你看。我总是在做新东西，所以如果现在没有你想要的，可以改天再来看看。
+48738 := 咦？嗯，你想知道什么？
+48739 := 咦？当然，当然。
+48740 := 他过去隔三差五会来这里交易。他替交易所工作……那可是大走私团伙。特兰多沙人不太想惹他不高兴，所以就算了。
+48741 := 但现在他没了，事情就有点……不确定。
+48742 := 咦？没听说过那些，也没听过那个。雅文四号上有很多神器，但没有什么锻炉之类的东西。
+48743 := 如果你只对这个感兴趣，你大概该去另一个星系碰碰运气。
+48744 := 我？我谁也不是……什么也没做……
+48745 := 这个空间站还没建起来之前，我就在这个星系待了 50 多年。
+48746 := 我整天坐着，修修这个摆弄那个，试试我的一些想法。
+48747 := 有一点吧。我只是摆弄雅文四号遗迹里找到的东西，或者特兰多沙人和走私者带给我的东西。当然，他们带来的通常是武器之类……
+48748 := 但我就是有很多点子，别人似乎还没想出来。这真的挺惊人的。
+48749 := 哦，各种各样。武器、护甲、植入体、计算机。我的兴趣和它们适用的领域一样广……差不多什么都有，呵。
+48750 := 我从雅文四号遗迹里能搜的都搜了，摆弄这些东西已经有一阵子了。
+48751 := 咦？嗯，那颗卫星上有埃克萨·库恩战争留下的旧遗迹。但我在这里 50 多年了，可以告诉你那里已经被搜得差不多干净了。连我都没找到的，就不存在了。剩下的只有瓦砾。
+48752 := 有些。有些东西我还在摆弄，想让它们运作起来。大多时候，我会改造特兰多沙人和走私者带来的东西，让它们更好用。
+48753 := 嗯，这里的这颗气态巨行星就是雅文，周围有一大堆卫星。不过唯一真正有意思的是雅文四号，而且那里也几乎被搜空了。
+48754 := 50 年前埃克萨·库恩发动西斯大战时，他把雅文四号当作基地，在那里建造了许多西斯神殿。
+48755 := 他失败后，共和国来了，轰炸了地表，几乎摧毁了一切。
+48756 := 没什么可说的。西斯尊主埃克萨·库恩试图挑战整个银河系。当然，他输了。他们似乎总是这样。
+48757 := 埃克萨·库恩曾经是绝地……至少一开始是。他来到雅文，降落在第四颗卫星上……就是你透过窗户能看到的那颗。
+48758 := 那里有一些古老的西斯神殿，埃克萨·库恩在其中获得了可怕的力量。他重振西斯，向共和国发动战争……很像今天似乎正在发生的事。
+48759 := 但埃克萨·库恩比后来任何西斯尊主都强大得多。大地会在他脚下震颤，当他看着你时，你就……就……
+48760 := 不过那都过去了。现在我的生活就是待在这里，摆弄我在遗迹里找到的东西，还有特兰多沙人带来的东西。
+48761 := 嗯……地表上你还是能零星找到些东西。有些埋在轰炸留下的废墟里，有些看起来要古老得多。
+48762 := 我去过很多次，差不多把能找到的都找到了。我把它们带回这里，稍微摆弄一下，让它们能运作，或者改进一下。
+48763 := 如果你有兴趣，我这里有不少可以看看。也许……购买？
+48764 := [失败] 当然，我可以就……什么？不，不，我不能那么做。你是想骗我什么吗？
+48765 := 别在这里玩那套，小子。没用。
+48766 := 咦？随你吧。那你还想要别的吗？
+48767 := 嗯……你和我想象中的不一样。太……像人类了。
+48768 := 现在已经很少在这儿见到你这种人了……至少那场战争之后就没有了。你来这里做什么？
+48769 := 咦？没必要这么粗鲁。我只是想友好一点而已……你不用把我的头咬下来。
+48770 := 如果你不想说话，那我真不知道你来这里做什么。这片太空的尽头已经没什么了。
+48771 := 咦？什么？别告诉我你们这些年轻人对埃克萨·库恩和那场战争一无所知……
+48772 := 不过话说回来，我听说最近有很多……嗯……麻烦事。
+48773 := 我只知道走私者和特兰多沙人告诉我的。一个新的西斯尊主崛起，取代了死掉的那个，而且把共和国打得很惨。
+48774 := 他们看起来倒是不太讨厌这个前景。
+48775 := 埃克萨·库恩曾经是绝地……至少一开始是。他来到雅文，降落在第四颗卫星上……就是你透过窗户能看到的那颗。
+48776 := 那里有一些古老的西斯神殿，埃克萨·库恩在其中获得了可怕的力量。他重振西斯，向共和国发动战争……很像今天似乎正在发生的事。
+48777 := 但埃克萨·库恩比后来任何西斯尊主都强大得多。大地会在他脚下震颤，当他看着你时，你就……就……
+48778 := 不过那都过去了。现在我的生活就是待在这里，摆弄我在遗迹里找到的东西，还有特兰多沙人和走私者带来的东西。
+48779 := 嗯……“星际锻炉”？没听说过。这个星系里除了埃克萨·库恩战争留下的遗迹，什么都没有……
+48780 := 雅文的第四颗卫星曾经有许多献给古代西斯的神殿。50 年前埃克萨·库恩来到这里时，他利用那些神殿企图摧毁共和国。
+48781 := 他显然失败了，共和国在反击时几乎把地表轰成废墟。现在剩下的只有一堆弹坑和一点丛林。
+48782 := 后来很多年里你还可以在那里找到东西，但我已经差不多把能找到的都拿来了。
+48783 := 过去几年里，我大多都在摆弄我在那里找到的东西，让其中一些能运作，并改造走私者和特兰多沙人带给我看的东西。
+48784 := 达斯·马拉克？没听说过……或者他就是那个现在让共和国吃尽苦头的新西斯尊主？我最近不怎么关注新闻。
+48785 := 嗯，你看，我和银河系其他地方有点脱节。我将近 50 年没离开这个星系，过去五年甚至没离开这个空间站，所以……
+48786 := 嘿！这也不算坏日子！我有需要摆弄的所有小玩意，走私者和特兰多沙人还会给我带食物和有意思的装备零件！
+48787 := 这个空间站是共和国当年对抗埃克萨·库恩时的一座旧补给站。不过他们摧毁雅文四号地表后，就不再需要它了。
+48788 := 他们走后，我决定搬进来自己用。这里不算宽敞，但我觉得结果还不错。而且离雅文四号很近，我的大部分零件都在那里弄到的。
+48789 := 反正除了走私者和特兰多沙人，没人会来这里，所以我就能按自己喜欢的方式清静待着。
+48790 := 嗯……不完全是。你看，我没看起来那么年轻。其实按大多数标准，我已经很老了。我确实从那场战争开始就在这里。
+48791 := 西斯按照埃克萨·库恩的命令，在雅文四号上建造大量神殿。他们需要人替他们建造……所以就抓了奴隶。
+48792 := 大多数奴隶被直接派去修建建筑，但要让一颗星球成为能运作的基地，还需要很多其他东西。比如武器。
+48793 := 所以他们强迫一些巴拉格温人为他们制造武器。你知道巴拉格温人吧？
+48794 := 我就是在巴拉格温人手下干活的人之一。我想你可以说我有点天赋。那个巴拉格温人把我收在身边，甚至让我当了他的学徒……
+48795 := 但共和国摧毁那里时，他们几乎全死了，所以我想再想也没用。
+48796 := 嗯，是的，算是吧。其实更像强迫劳动。我们要么干活，要么死。有人这样逼你时，人生就会变得很简单。
+48797 := 不过我们没有那些真正修建神殿的人那么惨。我怀疑他们中没有一个能活着看到神殿完工。
+48798 := 你不知道巴拉格温人是谁？他们是银河系里最棒的该死武器商人，就是这样！
+48799 := 在我的种族还没离开母星之前，他们就在太空里把武器卖给出价最高的人了。
+48800 := 他们的武器也是你能找到的最高品质。比共和国或者西斯的都好。
+48801 := 我也许有几件。你想看看吗？
+48802 := 咦？那随你吧。
+48803 := 咦？是，当然！你看到周围还有别人吗？
+48804 := 嗯，无论如何也不算完全独自一人……特兰多沙人或走私者偶尔会过来，放下一些东西，也取走我的一些发明。
+48805 := 有一点吧。我只是摆弄雅文四号遗迹里找到的东西，或者特兰多沙人和走私者带给我的东西。当然，他们带来的通常是武器之类……
+48806 := 但我就是有很多点子，别人似乎还没想出来。这真的挺惊人的。
+48807 := 罗迪亚人、阿夸利什人、提列克人，随便什么……他们都为一个叫交易所的组织工作。你可能听说过他们。
+48808 := 他们在全银河做走私买卖。武器、奴隶，只要有人愿意出钱，什么都行。
+48809 := 他们觉得我的才能很有用。
+48810 := 就像特兰多沙人一样，他们让我修补、升级他们带来的东西，并付我不错的钱。他们还带来新闻和补给。
+48811 := 特兰多沙人？雇佣兵和赏金猎人……大多是人渣。他们看起来像两条腿的大蜥蜴。
+48812 := 他们是在战争结束几年后发现我的。通常他们不会和在废弃空间站里独自一人的家伙谈条件，但我们达成了一笔交易。
+48813 := 我会以合理价格给他们一些更……实用的发明，他们则不断给我提供食物和新材料。
+48814 := 现在一切都不算数了。我藏了些补给，但我不能永远待在这里。我也知道他们会回来。不过那是以后再考虑的事。
+48815 := 现在看来，交易所垮了之后，他们也许想趁机夺权……接下来会怎样我不知道，但看起来不妙。
+48816 := 到目前为止一直还不错，真的好多年了。不过戴维克一没了，他们就开始有想法。
+48817 := 还想知道别的吗？
+48818 := 不！一点也不像罗迪亚人！特兰多沙人丑陋、恶心……但你绝不想当着他们的面这么说。也许会把你的头直接扯下来。
+48819 := 咦？哦，那个……共和国好像总是这样。他们似乎总是眼看要失败，然后又能突然翻身。我不会太担心。
+48820 := 而且就算他们输了……那又怎样？我在这么偏远的地方，它又影响不到我。雅文四号的遗迹已经没了，埃克萨·库恩也什么都不剩了，所以西斯没什么理由来这里。
+48821 := 啊……当然是。恕我不该怀疑你。但为什么来这里？这里是荒僻之地……除非你是为雅文四号的遗迹来的？
+48822 := 当然，当然，而且我看得出来你开始为整件事激动起来了，所以我还是不多嘴了。
+48823 := 但你为什么会跑到这么偏远的地方？这里是荒僻之地。没什么值得你感兴趣……除非你在找雅文四号的遗迹。
+48824 := 曾经的……学生？啊哈，是，当然。
+48825 := 你和他的事当然不关我的事，我也不想刺探，不过你为什么会跑到这么偏远的地方？在逃？
+48826 := 取得，是吗？嗯，戴维克倒确实懒到会把它留在导航计算机里……
+48827 := 他没有留下关于这个星系的东西吧？古代遗迹之类？
+48828 := 咦？不，不，当然不是。像你这么高大的女人？不，不。但你为什么会来这片荒僻之地？为了遗迹？
+48829 := 咦？不，不，当然不是。像你这么高大的男人？不，不。但你为什么会来这片荒僻之地？为了遗迹？
+48830 := 他是新的黑暗尊主？不管你杀掉多少，似乎总会冒出新的一个……
+48831 := 绝地委员会？别告诉我你是绝地……你看起来可不像！
+48832 := 唯一希望，是吗？这压力可真够大的。我希望为了他们好，这希望没放错地方。
+48833 := 所以如果你不介意说说，委员会到底派你出来做什么？
+48834 := 我当然不敢说你不是，但我会保持怀疑，认为那个有舰队和军队的人更可能是真正的黑暗尊主。
+48835 := 不是说我怀疑你，你明白，我只是想保持开放心态。
+48836 := 不管你是不是，我的过去都已经过去了，所以无论如何我都不反对你。
+48837 := 好了好了，我从没说我怀疑你，只是……嗯，这一带可没有很多绝地到处走动，尤其是上次之后。
+48838 := 咦？咦？！那是谁？你想干什么？我认得你的船……戴维克的，对吧？
+48839 := 但你是谁？新来的还是什么？
+48840 := [成功] 是……我会为你开门，朋友。
+48841 := 你听起来不像特兰多沙人，也不是戴维克的人……你是谁？想要什么？
+48842 := [失败] 是，现在我确实认……不……等等。搞什么……？
+48843 := 我本来以为你可能是，但不是。戴维克已经没了，和塔里斯星一起毁掉了。他的人也都没了。所以你是谁？
+48844 := [失败] 哈！西斯摧毁塔里斯星时，戴维克跟着一起完了。这一点我已经从本地交易所那里知道了。所以你是谁？
+48845 := 我 20 年来第一个正经访客，结果她是个装西斯的小丑……我可真走运。
+48846 := 我 20 年来第一个正经访客，结果他是个装西斯的小丑……我可真走运。
+48847 := 嗯，我想就算那样也比更多特兰多沙人强……他们可不是以精彩谈吐出名。
+48848 := 好了好了，别急，我这就来。只是得摆弄一下这该死的门锁……这玩意儿老卡住……
+48849 := 好了。
+48850 := 我跟西斯的事都是陈年旧事了，我也打算把它留在过去。我不需要什么年轻暴发户又把那一套翻出来，所以别提了。
+48851 := 呃，我不能让你一直站在外面说话……虽然你好像很爱说。我想只要你讲点礼貌，我可以让你进来。
+48852 := 只是得摆弄一下这该死的门锁……这玩意儿老卡住……
+48853 := 他们偶尔会来这里一趟，我就是靠这个知道外面的事，你懂吧。不过特兰多沙人的蜥蜴话挺难懂，而且他们想象力相当有限……
+48854 := 走私者也好不到哪里去……
+48855 := 听着，隔着门这么说话越来越尴尬了。如果你稍等一下，我就把这该死的东西打开，我们可以面对面多聊聊。
+48856 := 咦？西斯？他们 50 年没来过这里了……自从上次战争之后就没有。不知道他们为什么现在会开始养成这个习惯……
+48857 := 不过，我跟西斯的事都是陈年旧事了。政治不是我的事，所以只要你别太激动，我想我可以让你进来。
+48858 := 共和国，是吗？共和国 50 年没来过这里了……不知道他们为什么现在会开始来。
+48859 := 不过，我对共和国没什么意见，所以只要你别太激动，我想我可以让你进来。
+48860 := 换个人说说话倒是不错……特兰多沙人和走私者可不是多精彩的谈话对象。
+48861 := 哈！我宝刀未老！
+48862 := 但别难过，小子，这种事经常发生。呵。
+48863 := 有兴趣再来一局吗？
+48864 := 嗯……我得承认，你很厉害。
+48865 := 但我还是觉得我还能再赢你几局。有兴趣吗？
+48866 := 我跟不上你这样的牌手。你实在太厉害了。
+48867 := 不过我尊重这一点。这样吧，我给你店里所有东西打个折。只给你的特别优惠。
+48868 := 那场练习赛不错。有兴趣再来一局吗？
+48869 := [原力说服] 走。现在。
+48870 := 我……呃……我这就走。
+48871 := 我不是已经叫你们滚了吗？
+48872 := 离苏瓦姆远点！
+48873 := 你想要什么？
+48874 := [原力说服] 你的发明我就替你收下了。
+48875 := [说服] 我会替你照看这些发明。
+48876 := 有什么我能帮忙的吗？
+48877 := 滚得好！
+48878 := [原力说服] 你想把你所有的发明都给我。
+48879 := [原力说服] 你可以给我优惠。
+48880 := 我现在对此不感兴趣。
+48881 := 让我看看你有什么。
+48882 := 你打算做什么？
+48883 := 你要去哪里？
+48884 := 那些特兰多沙人想要什么？
+48885 := 我代表交易所。
+48886 := 离开。我不会说第二遍。
+48887 := 我这就走。
+48888 := 如果你们要轰掉他，至少也分我点东西。
+48889 := 我觉得你们最好离开。
+48890 := 到此为止。现在你死定了！
+48891 := 不管死活，你都得离开。
+48892 := 不然我会再问你一次。非常礼貌地。
+48893 := [原力说服] 走。现在。
+48894 := 这里怎么回事，苏瓦姆？
+48895 := 我这就走。
+48896 := 我觉得你这里有吉兹卡跑出来了……
+48897 := 我能从你这里买一副帕扎克牌组吗？
+48898 := [原力说服] 把牌组给我。
+48899 := 你该不会也玩帕扎克牌吧？
+48900 := 现在不。
+48901 := 我没有牌组。
+48902 := 给你。
+48903 := 当然，我们玩吧。
+48904 := 有兴趣来一局帕扎克牌吗？
+48905 := 改天吧。
+48906 := 我们玩吧。
+48907 := 你有什么愿意卖给我的东西吗？
+48908 := 我想问你几个问题。
+48909 := 我现在不太想再问问题。
+48910 := 你怎么认识戴维克的？
+48911 := 你知道古代星图或“星际锻炉”的事吗？
+48912 := 特兰多沙人是谁？
+48913 := 说说你自己。
+48914 := 你有什么小玩意愿意卖给我吗？
+48915 := 你是发明家？
+48916 := 你都研究些什么东西？
+48917 := 雅文四号上有东西？
+48918 := 你找到过什么有用的东西吗？
+48919 := 你为什么来这里？
+48920 := 给我讲讲这个星系。
+48921 := 你为什么在这里？
+48922 := 这个空间站是怎么回事？
+48923 := 雅文四号上过去有什么？
+48924 := 给我讲讲西斯大战。
+48925 := 给我讲讲埃克萨·库恩。
+48926 := 那你和雅文四号是怎么回事？
+48927 := “差不多”全部？
+48928 := [原力说服] 把它们给我。
+48929 := 现在不。
+48930 := 当然，你有什么？
+48931 := 不关你的事，凸眼怪！
+48932 := 还有吗？
+48933 := 你听说过当前这场战争的什么消息？
+48934 := 给我讲讲埃克萨·库恩。
+48935 := 我在寻找通往“星际锻炉”的地图碎片。
+48936 := 那你在这里做什么？
+48937 := 什么遗迹？
+48938 := 埃克萨·库恩？
+48939 := 我正试图击败达斯·马拉克。
+48940 := 你为什么不知道这些事？
+48941 := 你为什么来这个空间站？
+48942 := 所以你来自这个星系？
+48943 := 你是被带到这里来的？
+48944 := 你参加过那场战争？
+48945 := 你曾是奴隶？
+48946 := 巴拉格温人是谁？
+48947 := 你有巴拉格温装备吗？
+48948 := 现在不。
+48949 := 当然。
+48950 := 你把所有时间都耗在这个空间站里？一个人？
+48951 := 你是发明家？
+48952 := 走私者是谁？
+48953 := 特兰多沙人是谁？
+48954 := 我想问你点别的。
+48955 := 他们想从你这里得到什么？
+48956 := 他们为什么在这里？
+48957 := 哦。有点像罗迪亚人。
+48958 := 他把共和国打得很惨。
+48959 := 击败共和国的人是我！
+48960 := 埃克萨·库恩？
+48961 := 什么遗迹？
+48962 := 这对我很重要！
+48963 := 他是我以前的学生。
+48964 := 当我……取得乌木鹰号时，里面有你这个空间站的坐标。
+48965 := 我不是在逃！
+48966 := 他是西斯黑暗尊主。
+48967 := 我正在执行绝地委员会交给我的任务。
+48968 := 我是他们唯一的希望。
+48969 := 他们派我来阻止达斯·马拉克。
+48970 := 我才是真正的西斯黑暗尊主！
+48971 := 我就是绝地！
+48972 := 以前发生过什么？
+48973 := 打开这扇门，不然我就炸进去！
+48974 := [原力说服] 打开这扇门。我是你的朋友。
+48975 := 我不知道你在说什么。
+48976 := 对，我是新来的。非常新。
+48977 := [原力说服] 我为戴维克工作。
+48978 := [撒谎] 我为戴维克工作。
+48979 := 我是黑暗尊主，而且我对你非常不满。
+48980 := 我没时间一直待在这个气闸里……让我进去！
+48981 := 你在这里做什么？
+48982 := 你和西斯有过节？
+48983 := 特兰多沙人和走私者？你在说什么？
+48984 := 我正在努力从西斯手中拯救银河系。
+48985 := 我为共和国工作。
+48986 := 我是共和国士兵。
+48987 := 苏瓦姆·坦
+48988 := 特兰多沙人
+48989 := 雅文门 1
+48990 := 雅文门 5
+48991 := 雅文门 2
+48992 := 雅文门 3
+48993 := 雅文门 4
+48995 := 接入面板
+48996 := 气闸控制
 48997 := gizsound1
 48998 := gizsound2
 48999 := suvam01a
@@ -53538,221 +53538,221 @@ OFF:  Use hardware accelerated 3D sound if available.  This may increase the per
 49028 := wp206
 49029 := yav50_trandflee
 49030 := steam loop 02
-49031 := Random Ships
-49032 := Random Ships 2
-49033 := Ships
-49034 := Ships 2
-49035 := ocean waves
+49031 := 随机飞船
+49032 := 随机飞船 2
+49033 := 飞船
+49034 := 飞船 2
+49035 := 海浪
 49036 := man28ad_screamf
 49037 := man28ad_screamm
 49038 := man28ad_shark01
 49039 := Custom 1 002
-49040 := drained captive
-49041 := Ships Launching
-49042 := Take Off Alert
-49043 := Transit Help Trigger
+49040 := 被抽干的俘虏
+49041 := 飞船起飞
+49042 := 起飞警报
+49043 := 传送帮助触发器
 49044 := bastila_kick
-49045 := Transit System Help
-49046 := Force Cage
-49047 := Industrial Arm 2
-49048 := Fight Controller
-49049 := kill
-49050 := Attack Cry - not actual text to be translated
+49045 := 传送系统帮助
+49046 := 原力囚笼
+49047 := 工业机械臂 2
+49048 := 战斗控制器
+49049 := 杀死
+49050 := 攻击喊声 - 非实际需翻译文本
 
-49051 := Attack Cry - not actual text to be translated
+49051 := 攻击喊声 - 非实际需翻译文本
 
-49052 := Attack Cry - not actual text to be translated
+49052 := 攻击喊声 - 非实际需翻译文本
 
-49053 := Attack Grunt - not actual text to be translated
+49053 := 攻击闷哼 - 非实际需翻译文本
 
-49054 := Attack Grunt - not actual text to be translated
+49054 := 攻击闷哼 - 非实际需翻译文本
 
-49055 := Attack Grunt - not actual text to be translated
+49055 := 攻击闷哼 - 非实际需翻译文本
 
-49056 := Pain Grunt - not actual text to be translated
+49056 := 受伤闷哼 - 非实际需翻译文本
 
-49057 := Pain Grunt - not actual text to be translated
+49057 := 受伤闷哼 - 非实际需翻译文本
 
-49059 := Death Cry - not actual text to be translated
+49059 := 死亡喊声 - 非实际需翻译文本
 
-49060 := Display Action Menu text
-49061 := Hide Quick Menu Buttons
-49062 := Use Small Font
-49063 := Hide Action Menu
-49064 := ON: Action Menu displays icons and text
+49060 := 显示动作菜单文本
+49061 := 隐藏快捷菜单按钮
+49062 := 使用小字体
+49063 := 隐藏动作菜单
+49064 := 开：动作菜单显示图标和文字
 
-OFF: Action Menu displays icons only
-49065 := ON: Quick Menu buttons are hidden.   These are the 8 buttons in the top-right corner of the screen.
+关：动作菜单只显示图标
+49065 := 开：隐藏快捷菜单按钮。这是屏幕右上角的 8 个按钮。
 
-OFF: Quick Menu buttons are shown.
-49066 := ON: Small fonts are used
+关：显示快捷菜单按钮。
+49066 := 开：使用小字体
 
-OFF: Large fonts are used
-49067 := ON: Action Menu is hidden
+关：使用大字体
+49067 := 开：隐藏动作菜单
 
-OFF: Action Menu is visible
+关：显示动作菜单
 49068 := StarWars.com Hyperspace
-49069 := Security Spikes, while not directly useful in breaching security systems, are highly prized by various criminal elements and can fetch a good price on the black market.
-49070 := Texture Quality
-Anti-Aliasing
-Frame Buffer Effects
-Anisotropy
-Soft Shadows
-V-Sync
-49071 := Mouse Sensitivity
-Reverse Mouse Buttons
-49072 := Change key mappings
-49073 := Force Software Sound
+49069 := 安保破解器本身不能直接用于突破安保系统，但受到各类犯罪分子高度珍视，在黑市上能卖出好价钱。
+49070 := 纹理质量
+抗锯齿
+帧缓冲效果
+各向异性过滤
+柔和阴影
+垂直同步
+49071 := 鼠标灵敏度
+反转鼠标按钮
+49072 := 更改按键映射
+49073 := 强制软件音效
 EAX
-49074 := Movement
-49075 := Game
-49076 := Mini Games
-49078 := Enter name for saved game:
-49079 := Anisotropy - Off
-49080 := Anisotropy - 2X
-49081 := Anisotropy - 4X
-49082 := Anisotropy - 8X
-49083 := Anisotropy - 16X
-49084 := Yavin Station
-49085 := Assistant Lead Designer
+49074 := 移动
+49075 := 游戏
+49076 := 小游戏
+49078 := 输入存档名称：
+49079 := 各向异性过滤 - 关闭
+49080 := 各向异性过滤 - 2X
+49081 := 各向异性过滤 - 4X
+49082 := 各向异性过滤 - 8X
+49083 := 各向异性过滤 - 16X
+49084 := 雅文空间站
+49085 := 助理首席设计师
 PRESTON WATAMANIUK
-49086 := Quick Load
-49087 := This key will load the last quick save game.
-49088 := Toggle Stealth
-49089 := If a stealth unit is equipped then this key will toggle it on or off.
-49090 := OS Required: Windows 98, ME, 2000, or XP
-49091 := OS Recommended: Windows 98, ME, 2000, or XP
-49092 := CPU Required: 1000 MHz
-49093 := CPU Recommended: 1.6 GHz
-49094 := RAM Required: 128 MB
-49095 := RAM Recommended: 512 MB
-49096 := RAM Required: 256 MB
-49097 := RAM Recommended: 512 MB
-49098 := HD Required: 4 GB
-49099 := HD Recommended: 4 GB
-49100 := HD Required: 200 MB for swap space
-49101 := HD Recommended: 200 MB for swap space
-49102 := Graphics Required:  32 MB OpenGL 1.4 compatible PCI or AGP 3D Hardware
-Accelerator with Hardware Transform and Lighting (T&L) Capability required
-49103 := Graphics Recommended:  ATI Radeon 9200 or better, 
-NVidia GeForce4 Ti or better (128 MB VRAM)
-49104 := Required: Non-Windows Generic OpenGL 1.4.0 drivers
-49105 := Recommened: Non-Windows Generic OpenGL 1.4.0 drivers
-49106 := Required: Non-Windows Generic OpenGL 1.3.0 drivers
-49107 := Recommened: Non-Windows Generic OpenGL 1.3.0 drivers
-49108 := Required: DirectX 9.0b
-49109 := Recommended: DirectX 9.0b
-49110 := Recommended
-49111 := Required
-49112 := An SB compatible sound card is recommended.
-49114 := ON: Tool Tips are enabled
+49086 := 快速读档
+49087 := 此按键会载入上一个快速存档。
+49088 := 切换潜行
+49089 := 如果装备了潜行装置，此按键会将其开启或关闭。
+49090 := 操作系统要求：Windows 98、ME、2000 或 XP
+49091 := 操作系统推荐：Windows 98、ME、2000 或 XP
+49092 := CPU 要求：1000 MHz
+49093 := CPU 推荐：1.6 GHz
+49094 := RAM 要求：128 MB
+49095 := RAM 推荐：512 MB
+49096 := RAM 要求：256 MB
+49097 := RAM 推荐：512 MB
+49098 := 硬盘要求：4 GB
+49099 := 硬盘推荐：4 GB
+49100 := 硬盘要求：200 MB 交换空间
+49101 := 硬盘推荐：200 MB 交换空间
+49102 := 显卡要求：32 MB OpenGL 1.4 兼容 PCI 或 AGP 3D 硬件
+加速器，并要求具备硬件变换与光照（T&L）能力
+49103 := 显卡推荐：ATI Radeon 9200 或更好，
+NVidia GeForce4 Ti 或更好（128 MB VRAM）
+49104 := 要求：非 Windows 通用 OpenGL 1.4.0 驱动程序
+49105 := 推荐：非 Windows 通用 OpenGL 1.4.0 驱动程序
+49106 := 要求：非 Windows 通用 OpenGL 1.3.0 驱动程序
+49107 := 推荐：非 Windows 通用 OpenGL 1.3.0 驱动程序
+49108 := 要求：DirectX 9.0b
+49109 := 推荐：DirectX 9.0b
+49110 := 推荐
+49111 := 要求
+49112 := 建议使用 SB 兼容声卡。
+49114 := 开：启用工具提示
 
-OFF: Tool Tips are disabled
-49115 := Enable Tool Tips
-49116 := Mine Sighted
-49117 := ON: Game will pause when a mine is sighted.
+关：禁用工具提示
+49115 := 启用工具提示
+49116 := 发现地雷
+49117 := 开：发现地雷时游戏会暂停。
 
-OFF: Game will not pause when a mine is sighted.
-49118 := MINE SIGHTED!
-Press the Pause button to continue
-49119 := Republic Commando Teaser
-49120 := Please insert the Star Wars: Knights of the Old Republic disc 1.
-49121 := You can also use the Movement Keys (<ActionUp>, <ActionDown>, <ActionLeft> and <ActionRight>) to move around the area.
-49124 := 6 sample AA
-49125 := 8 sample AA
+关：发现地雷时游戏不会暂停。
+49118 := 发现地雷！
+按暂停键继续
+49119 := 《共和国突击队》预告片
+49120 := 请插入《星球大战：旧共和国武士》光盘 1。
+49121 := 你也可以使用移动按键（<ActionUp>、<ActionDown>、<ActionLeft> 和 <ActionRight>）在区域中移动。
+49124 := 6 倍采样抗锯齿
+49125 := 8 倍采样抗锯齿
 49135 := DC
-49137 := Commander Hasek:
-  In regards to the system in place to cycle water from the ocean to the thermal heaters:
-  What were you thinking?!? What made you put that airlock mechanism on the only other path to the north side of the base?? Now everyone has to know how to cycle the water out of one room and into the adjoining one for each of the three rooms in sequence without accidentally flooding the room they're in. We lost seven troopers just this week!
-  Next time I'm there you better show me how to do it properly! I can't afford to lose any more of my aides while trying to get to the Selkath!
+49137 := 哈塞克指挥官：
+  关于用来把海水循环到热能加热器的系统：
+  你当时到底在想什么？！为什么把气闸机制装在通往基地北侧唯一另一条路上？？现在每个人都必须学会如何按顺序把水从一个房间排到相邻房间，一共三个房间，还不能意外淹了自己所在的房间。光这周我们就损失了七名士兵！
+  我下次到那里时，你最好给我演示怎么正确操作！我不能在试图去找塞尔卡斯人时再损失更多副官了！
 
-Adjutant:
-  Sorry, sir, but we had to change the pump mechanism since one of those fish people swam into one of the intakes outside.
-  The external flow controls push the water into the chambers north and south only now. The flow controls on the inside wall switches the water between sides east and west.
-  The trick now is to push the water to the north and south extremes, then switch the water east-west and walk through. The meters by the flow control panels show if there is water in the adjacent room. We've also installed lifeform detection sensors, so there shouldn't be anymore aide problems...
-  We're trying to get the system passed as quickly as possible, sir, but the Selkath authorities monitoring our base have made this much more difficult.
-49138 := Related Attribute: Wisdom
+副官：
+  抱歉，长官，但我们必须更改泵浦机制，因为有一个鱼人游进了外面的一个进水口。
+  外部流量控制现在只会把水推入南北两侧的舱室。内墙上的流量控制开关会在东西两侧之间切换水流。
+  现在的诀窍是把水推到南北最远端，然后切换东西向水流并走过去。流量控制面板旁的仪表会显示相邻房间是否有水。我们还安装了生命体探测传感器，所以不应该再有副官问题了……
+  我们正尽快让系统通过验收，长官，但监视我们基地的塞尔卡斯当局让这件事困难得多。
+49138 := 相关属性：感知
 
-Awareness governs the ability of a character to spot objects or enemies hidden by Stealth. If a successful check of this skill is made against the Stealth skill of an enemy or the DC of a mine, the enemy or object is noticed and becomes visible.  Awareness is always active.
-49139 := Your current video card drivers are out of date
-49140 := NVidia cards require Detonator 45.23 drivers or better
-49141 := ATI cards require CATALYST 3.8 drivers or better
-49142 := Run / Walk
-49143 := When pressed this key will cause the player controlled character to walk instead of run.
-49144 := The video drivers installed on this computer do not meet the requirements to run Star Wars: Knights of the Old Republic. Do you wish to go to the Internet to download new drivers for your video card now? (This requires an active Internet connection).
-49245 := This is not a useable or equipable item.
-49246 := A long time ago in a galaxy far, far away...
+察觉决定角色发现被潜行隐藏的物体或敌人的能力。如果此技能检定对抗敌人的潜行技能或地雷的 DC 成功，敌人或物体就会被发现并变为可见。察觉始终处于生效状态。
+49139 := 你当前的视频卡驱动程序已过期
+49140 := NVidia 显卡需要 Detonator 45.23 或更高版本驱动
+49141 := ATI 显卡需要 CATALYST 3.8 或更高版本驱动
+49142 := 跑 / 走
+49143 := 按下此键会让玩家控制的角色步行而不是奔跑。
+49144 := 此计算机安装的视频驱动程序不符合运行《星球大战：旧共和国武士》的要求。是否现在前往互联网下载你的视频卡新驱动？（需要可用的互联网连接）。
+49245 := 这不是可使用或可装备的物品。
+49246 := 很久以前，在一个遥远的银河系中……
 
-The Republic verges on collapse.  Darth Malak, last surviving apprentice of the Dark Lord Darth Revan has unleashed an invincible Sith armada on an unsuspecting galaxy.
+共和国濒临崩溃。黑暗尊主达斯·瑞文最后幸存的学徒达斯·马拉克，向毫无防备的银河系释放了一支无敌的西斯舰队。
 
-Easily crushing all resistance, Darth Malak's war of ruthless conquest has left the Jedi Order scattered and vulnerable as countless Knights fall in battle, and many more swear allegiance to the new Sith Master.
+达斯·马拉克无情征服的战争轻易粉碎一切抵抗，使绝地武士团分崩离析、脆弱不堪：无数武士战死沙场，更多人宣誓效忠新的西斯之主。
 
-In the skies above the Outer Rim world of Taris a Jedi battle fleet engages the forces of Darth Malak in a last, desperate attempt to halt the advance of the Sith invaders...
-49249 := Special:
-Upgrade Item, Lightsaber
+在外环世界塔里斯上空，一支绝地战斗舰队正与达斯·马拉克的部队交战，进行最后一次绝望尝试，阻止西斯入侵者继续推进……
+49249 := 特殊：
+升级物品，光剑
 
-Used in lightsaber construction, rubat crystal is mined on Phemis. It produces a clearly defined blade that a Jedi can easily focus on. 
-49250 := Special:
-Upgrade Item, Lightsaber
+鲁巴特水晶用于光剑制造，开采自菲米斯。它会产生一道轮廓清晰的剑刃，绝地可以很容易地专注其上。
+49250 := 特殊：
+升级物品，光剑
 
-Found on the desert world of Daminia, this crystal can be used in lightsaber construction to produce a clearly defined beam of subtly wider width and length. 
-49251 := Special:
-Upgrade Item, Lightsaber
+这种水晶发现于沙漠世界达米尼亚，可用于光剑制造，产生一道轮廓清晰、宽度和长度略有增加的剑束。
+49251 := 特殊：
+升级物品，光剑
 
-Once mined on the third moon of Erai, ancient Sith bombardment shattered much that remained. If they can be found, these crystals produce a clear, superior lightsaber beam. 
-49252 := Special:
-Upgrade Item, Lightsaber
+这种水晶曾开采自埃赖的第三颗卫星，古代西斯的轰炸粉碎了残存矿藏的大部分。如果能找到，它们会产生清晰而优良的光剑剑束。
+49252 := 特殊：
+升级物品，光剑
 
-This crystallized material was excreted once every 11 years by the ancient Volice worm of Lwhekk, now extinct. It produces a more intense lightsaber beam, granting better control. 
-49253 := Special:
-Upgrade Item, Lightsaber
+这种结晶物质由如今已灭绝的卢韦克古代沃利斯蠕虫每 11 年排出一次。它会产生更强烈的光剑剑束，提供更好的控制力。
+49253 := 特殊：
+升级物品，光剑
 
-This crystal is mined in the mountains of planet M'haeli, and when used in lightsaber construction it produces a volatile blade that can cause surprising amounts of damage. 
-49254 := Special:
-Upgrade Item, Lightsaber
+这种水晶开采自姆海利星球的山脉，用于光剑制造时会产生不稳定的剑刃，能造成惊人的伤害。
+49254 := 特殊：
+升级物品，光剑
 
-Found in the asteroid fields of the Fyrth system, this crystal can be used in lightsaber construction to produce an intense beam that seems extraordinarily quick to the cut. 
-49255 := Special:
-Upgrade Item, Lightsaber
+这种水晶发现于菲尔斯星系的小行星带，可用于光剑制造，产生一道强烈的剑束，出剑似乎异常迅捷。
+49255 := 特殊：
+升级物品，光剑
 
-The refined form of Opila, this crystal has been cleansed of all impurities. When used in lightsaber construction it produces a blade of unerring quickness. 
-49256 := Special:
-Upgrade Item, Lightsaber
- 
-The strange byproduct of rare impurities bonding during the making of certain alloys and some random external condition, this crystal produces a fiercely burning lightsaber beam. 
-49257 := Special:
-Upgrade Item, Lightsaber
+欧皮拉的精炼形态，已被清除所有杂质。用于光剑制造时，它会产生一道快得无可挑剔的剑刃。
+49256 := 特殊：
+升级物品，光剑
 
-Ambria was a world in the grip of the dark side. Through years of mental battle, strange Jedi Master Thon contained the evil to Lake Natth. Long meditation can form this powerful crystal from the tainted water. 
-49258 := Special:
-Upgrade Item, Lightsaber
+这种水晶是某些合金制造过程中罕见杂质结合并受到某种随机外部条件影响后产生的奇特副产物，会产生一道炽烈燃烧的光剑剑束。
+49257 := 特殊：
+升级物品，光剑
 
-This heavy crystal is collected by the natives of Rafa V. If used in lightsaber construction it produces an electrically charged beam that is much easier to manipulate than standard beams. 
-49259 := Special:
-Upgrade Item, Lightsaber
+安布里亚曾是被黑暗面笼罩的世界。经过多年精神搏斗，奇特的绝地大师索恩将邪恶封入纳斯湖。长久冥想可以从被污染的湖水中形成这种强大水晶。
+49258 := 特殊：
+升级物品，光剑
 
-This crystal was mined on a far-orbit asteroid circling the Alderaan system. It produces a volatile lightsaber beam that pulses on impact, discharging part of its energy into an opponent. 
-49260 := Special:
-Upgrade Item, Lightsaber
+这种沉重的水晶由拉法五号的原住民采集。若用于光剑制造，它会产生一道带电剑束，比标准剑束更容易操纵。
+49259 := 特殊：
+升级物品，光剑
 
-Mined in the Sigil System, this crystal is a costly but valued addition to a lightsaber. It produces a fiercely bright beam that sears on contact, inflicting great damage. 
-49261 := Special:
-Upgrade Item, Lightsaber
+这种水晶开采自一颗远轨小行星，该小行星环绕奥德朗星系运行。它会产生不稳定的光剑剑束，命中时会脉动，将部分能量释放进对手体内。
+49260 := 特殊：
+升级物品，光剑
 
-Strangely, this crystal is usually encountered scattered in the orbit of primarily forest worlds. It is brittle but versatile, and a Master Jedi can get it to produce many effects. 
-49262 := Special:
-Upgrade Item, Lightsaber
+这种水晶开采自西吉尔星系，是光剑中昂贵但珍贵的附加件。它会产生一道凶猛明亮的剑束，接触时灼烧目标，造成巨大伤害。
+49261 := 特殊：
+升级物品，光剑
 
-Taken from the gullet of a krayt dragon, this crystalline "pearl" appears to have refractory qualities that might allow it to function as a lightsaber crystal once properly adapted. 
-49263 := Special:
-Upgrade Item, Lightsaber
+奇怪的是，这种水晶通常散布在以森林为主的世界轨道上。它易碎但用途广泛，绝地大师可以让它产生多种效果。
+49262 := 特殊：
+升级物品，光剑
 
-There are many famous lightsaber crystals spoken of in the history of the Jedi Order, though few are as powerful as the legendary Solari Crystal. An artifact of true light side power, only those Jedi who are pure in spirit can wield a lightsaber equipped with this gleaming white gem.
-When the great Jedi Master Ood Bnar initiated his life-cycle change after a thousand years of serving the Order, he bequeathed the Solari Crystal to his most promising student, a young female Jedi named Shaela Nuur. When Shaela disappeared shortly after the time of the Great Hunt, the Solari Crystal vanished with her. 
-49264 := Special:
-Upgrade Item, Lightsaber
+这颗结晶“珍珠”取自克雷特龙的砂囊，似乎具有折射特性，经过适当改造后，也许能作为光剑水晶使用。
+49263 := 特殊：
+升级物品，光剑
 
-Although as jewelry it is merely decorative, the crystal in this Wookiee hunting clan amulet looks similar to those used in lightsaber construction and may have interesting properties. 
-#// 
+绝地武士团历史中有许多著名的光剑水晶流传于世，但很少有哪一颗像传说中的索拉里水晶那样强大。作为真正光明面力量的神器，只有心灵纯净的绝地才能挥舞装有这颗闪亮白色宝石的光剑。
+伟大的绝地大师奥德·布纳尔在为武士团服务一千年后开始生命周期转变时，将索拉里水晶遗赠给他最有前途的学生，一名年轻女绝地谢拉·努尔。谢拉在大狩猎时期后不久失踪，索拉里水晶也随她消失。
+49264 := 特殊：
+升级物品，光剑
+
+虽然作为首饰它只是装饰品，但这枚伍基人狩猎氏族护符中的水晶看起来与光剑制造中使用的水晶相似，可能具有有趣的性质。
+#//
 #// [48560] String(s) Exported...
 #// ___END___
